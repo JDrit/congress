@@ -1,0 +1,90 @@
+<bill session="114" type="h" number="5056" updated="2017-06-02T21:55:40Z">
+  <state datetime="2016-07-11T15:41:25-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2016-07-11T15:41:25-04:00"/>
+  </status>
+  <introduced datetime="2016-04-26"/>
+  <titles>
+    <title type="short" as="introduced">Airport Perimeter and Access Control Security Act of 2016</title>
+    <title type="short" as="reported to house">Airport Perimeter and Access Control Security Act of 2016</title>
+    <title type="short" as="passed house">Airport Perimeter and Access Control Security Act of 2016</title>
+    <title type="official" as="introduced">To modernize and enhance airport perimeter and access control security by requiring updated risk assessments and the development of security strategies, and for other purposes.</title>
+    <title type="display">Airport Perimeter and Access Control Security Act of 2016</title>
+  </titles>
+  <sponsor id="412435"/>
+  <cosponsors>
+    <cosponsor id="412649" joined="2016-04-26"/>
+    <cosponsor id="400219" joined="2016-04-26"/>
+    <cosponsor id="412647" joined="2016-04-27"/>
+    <cosponsor id="412432" joined="2016-04-26"/>
+    <cosponsor id="412514" joined="2016-04-26"/>
+    <cosponsor id="400402" joined="2016-04-26"/>
+    <cosponsor id="412617" joined="2016-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2016-04-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2016-04-26" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2016-04-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2016-04-28" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2016-07-01">
+      <text>Reported by the Committee on Homeland Security. H. Rept. 114-653.</text>
+    </action>
+    <calendar datetime="2016-07-01" calendar="Union" number="505">
+      <text>Placed on the Union Calendar, Calendar No. 505.</text>
+    </calendar>
+    <action datetime="2016-07-11T15:29:51-04:00">
+      <text>Mr. Perry moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2016-07-11T15:30:10-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4595-4597" label="consideration"/>
+    </action>
+    <action datetime="2016-07-11T15:30:11-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5056.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2016-07-11T15:41:25-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4596" label="text"/>
+    </vote>
+    <action datetime="2016-07-11T15:41:27-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2016-07-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="6381"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Performance measurement"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary date="2016-07-11T14:23:56Z" status="Passed House without amendment">(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)
+
+Airport Perimeter and Access Control Security Act of 2016
+
+(Sec. 2) This bill directs the Transportation Security Administration to update:
+
+ the Transportation Sector Security Rick Assessment for the aviation sector, the Comprehensive Risk Assessment of Perimeter and Access Control Security for airports (as well as conduct a system-wide assessment of airport access control points and airport perimeter security), and the 2012 National Strategy for Airport Perimeter and Access Control Security.</summary>
+  <committee-reports>
+    <report>H. Rept. 114-653</report>
+  </committee-reports>
+</bill>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <originalBillReported>1</originalBillReported>
+        <reportedToSenate>1</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-01-21</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S352-353</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S352-353</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S352-353)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-01-21</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Original measure reported to Senate by Senator Isakson. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-01-21</actionDate>
+        <actionCode>14000</actionCode>
+        <text>Committee on Veterans' Affairs. Original measure reported to Senate by Senator Isakson. Without written report.</text>
+        <links />
+        <type>Committee</type>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-01-21</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills />
+    <laws />
+    <billNumber>32</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Rules and Administration Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2015-01-21T19:02:24Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>ssva00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Veterans' Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2015-01-21T19:02:07Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-01-21</introducedDate>
+    <updateDate>2017-06-02T22:37:39Z</updateDate>
+    <title>An original resolution authorizing expenditures by the Committee on Veterans' Affairs.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>An original resolution authorizing expenditures by the Committee on Veterans' Affairs.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>An original resolution authorizing expenditures by the Committee on Veterans' Affairs.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-01-21</actionDate>
+          <updateDate>2015-01-21T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-01-23T20:53:45Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Veterans' Affairs for the 114th Congress. </p>]]></text>
+        </item>
+        <item>
+          <versionCode>80</versionCode>
+          <actionDate>2015-01-21</actionDate>
+          <updateDate>2015-01-21T16:31:11Z</updateDate>
+          <lastSummaryUpdateDate>2015-01-23T20:52:48Z</lastSummaryUpdateDate>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <name>Reported to Senate without amendment</name>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Authorizes expenditures by the Senate Committee on Veterans' Affairs for the 114th Congress.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+        <firstName>Johnny</firstName>
+        <party>R</party>
+        <bioguideId>I000055</bioguideId>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <state>GA</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Isakson</lastName>
+      </item>
+    </sponsors>
+    <billType>SRES</billType>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S352-353)</text>
+      <actionDate>2015-01-21</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Veterans' Affairs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-01-22T10:02:11Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,70 @@
+<bill session="115" type="s" number="765" updated="2017-08-05T07:45:00Z">
+  <state datetime="2017-08-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2017-08-03"/>
+  </status>
+  <introduced datetime="2017-03-29"/>
+  <titles>
+    <title type="short" as="introduced">Private Corrado Piccoli Purple Heart Preservation Act</title>
+    <title type="short" as="introduced">Private Corrado Piccoli Purple Heart Preservation Act</title>
+    <title type="short" as="passed senate">Private Corrado Piccoli Purple Heart Preservation Act</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to provide for penalties for the sale of any Purple Heart awarded to a member of the Armed Forces.</title>
+    <title type="display">Private Corrado Piccoli Purple Heart Preservation Act</title>
+  </titles>
+  <sponsor id="412666"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2017-05-09"/>
+    <cosponsor id="300025" joined="2017-05-17"/>
+    <cosponsor id="300065" joined="2017-06-26"/>
+    <cosponsor id="412734" joined="2017-05-24"/>
+    <cosponsor id="400413" joined="2017-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-29">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-03-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-08-03">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2017-08-03">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S4806" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2017-08-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2017-08-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2017-08-04T13:06:22-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2017-08-04">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="115" type="h" number="544"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Marketing and advertising"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments>
+    <amendment number="s767"/>
+  </amendments>
+  <summary date="2017-03-29T04:00:00Z" status="Introduced in Senate">Private Corrado Piccoli Purple Heart Preservation Act
+
+This bill provides that regulations restricting the purchase, production, sale, or exchange of military medals or decorations may not authorize the sale of a Purple Heart awarded to a member of the Armed Forces, unless the sale is conducted by the member to whom the Purple Heart was awarded.</summary>
+  <committee-reports/>
+</bill>

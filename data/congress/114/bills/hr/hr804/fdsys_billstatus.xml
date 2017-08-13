@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-02-27</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-02-06</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to House Ways and Means</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2015-02-05</actionDate>
+      </item>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to House Energy and Commerce</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2015-02-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-02-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-02-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-02-05</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-03-31</actionDate>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        </latestAction>
+        <latestTitle>SGR Repeal and Medicare Provider Payment Modernization Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1470</number>
+        <type>HR</type>
+      </item>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-03-19</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>SGR Repeal and Medicare Provider Payment Modernization Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>810</number>
+        <type>S</type>
+      </item>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-04-16</actionDate>
+          <text>Became Public Law No: 114-10.</text>
+        </latestAction>
+        <latestTitle>Medicare Access and CHIP Reauthorization Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2</number>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>804</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-02-27T21:52:54Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-02-05T14:06:45Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-02-06T18:55:30Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-02-05T14:06:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-02-05</introducedDate>
+    <updateDate>2017-06-02T20:05:17Z</updateDate>
+    <title>Expanding the Availability of Medicare Data Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Expanding the Availability of Medicare Data Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend title XVIII of the Social Security Act to increase access to Medicare data.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Expanding the Availability of Medicare Data Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-02-05T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Expanding the Availability of Medicare Data Act </b></p> <p>Expands the kinds of uses of Medicare data available to qualified entities for quality and patient care improvement activities.</p> <p>(A "qualified entity" is a public or private entity that: [1] is qualified to use claims data to evaluate the performance of service providers and suppliers on measures of quality, efficiency, effectiveness, and resource use; and [2] agrees to meet specified requirements, such as ensuring data security.) <p>Authorizes a qualified entity to use claims data combined with non-claims data the entity has received, as well as information derived from evaluation of service provider and supplier performance, to conduct additional non-public analyses and provide or sell them to authorized users for non-public use (including to assist service providers and suppliers to develop and participate in quality and patient care improvement activities, including new models of care).</p> <p>Defines "authorized users" as service providers, suppliers, employers, health insurance issuers, medical societies or hospital associations, or any other entities approved by the Secretary of Health and Human Services.</p> <p>Prohibits a qualified entity from charging a fee to provide Medicare claims data.</p> <p>Requires a qualified entity and an authorized user to enter into a data use agreement, and prohibits the use of data or analyses for marketing purposes or, except in certain circumstances, its redisclosure.</p> <p>Directs the Secretary to provide Medicare data to qualified clinical data registries for purposes of linking it with clinical outcomes data and performing risk-adjusted, scientifically valid analyses and research to support quality improvement or patient safety. Requires charging a fee to a registry for such data.</p> <p>Amends title XVIII (Medicare) of the Social Security Act (SSAct) to include among standardized extracts of Medicare claims data that may be made available to qualified entities, if the Secretary determines appropriate, also claims data under SSAct titles XIX (Medicaid) and XXI (State Children's Health Insurance) (CHIP).</p> <p>Requires any fees charged for making standardized extracts available to qualified entities to be deposited into the Centers for Medicare &amp; Medicaid Services Program Management Account (currently, into the Federal Supplementary Medical Insurance Trust Fund).</p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-02-23T19:40:12Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-02-05</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1560</lisID>
+          <bioguideId>R000570</bioguideId>
+          <gpoId>8214</gpoId>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <bioguideId>R000570</bioguideId>
+        <fullName>Rep. Ryan, Paul [R-WI-1]</fullName>
+        <firstName>Paul</firstName>
+        <state>WI</state>
+        <middleName>D.</middleName>
+        <byRequestType />
+        <lastName>Ryan</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes>
+      <item>
+        <links>
+          <link>
+            <name>H.R.2</name>
+            <url>https://www.congress.gov/bill/114th-congress/house-bill/2</url>
+          </link>
+        </links>
+        <text><![CDATA[For further action, see H.R.2, which became Public Law 114-10 on 4/16/2015.]]></text>
+      </item>
+    </notes>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2015-02-27</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RYAN of Wisconsin:H.R. 804.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, of the United States Constitution[Page H858]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <district>3</district>
+        <party>D</party>
+        <lastName>KIND</lastName>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <state>WI</state>
+        <firstName>RON</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000188</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2073</lisID>
+          <gpoId>8221</gpoId>
+          <bioguideId>R000587</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <lastName>Ribble</lastName>
+        <fullName>Rep. Ribble, Reid J. [R-WI-8]</fullName>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <state>WI</state>
+        <firstName>Reid</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000587</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1041</lisID>
+          <gpoId>8218</gpoId>
+          <bioguideId>S000244</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <party>R</party>
+        <lastName>SENSENBRENNER</lastName>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <state>WI</state>
+        <firstName>F.</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>JAMES</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000244</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8220</gpoId>
+          <bioguideId>D000614</bioguideId>
+          <lisID>2072</lisID>
+        </identifiers>
+        <district>7</district>
+        <party>R</party>
+        <lastName>Duffy</lastName>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <state>WI</state>
+        <firstName>Sean</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000614</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <lastName>Grothman</lastName>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <state>WI</state>
+        <firstName>Glenn</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000576</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+        </identifiers>
+        <district>2</district>
+        <party>D</party>
+        <lastName>Pocan</lastName>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <state>WI</state>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000607</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <district>4</district>
+        <party>D</party>
+        <lastName>Moore</lastName>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <state>WI</state>
+        <firstName>Gwen</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001160</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <party>D</party>
+        <lastName>MCCOLLUM</lastName>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <sponsorshipDate>2015-03-18</sponsorshipDate>
+        <state>MN</state>
+        <firstName>BETTY</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001143</bioguideId>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-02-06T04:59:53Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

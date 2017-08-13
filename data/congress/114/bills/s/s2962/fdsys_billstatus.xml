@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-05-19</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-05-19</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>Affordable Housing Credit Improvement Act of 2016</latestTitle>
+        <number>3237</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2016-07-14</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>2962</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-05-19T20:54:07Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-05-19</introducedDate>
+    <updateDate>2017-06-03T00:02:25Z</updateDate>
+    <title>Affordable Housing Credit Improvement Act of 2016</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Affordable Housing Credit Improvement Act of 2016</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend the Internal Revenue Code of 1986 to reform the low-income housing credit, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Affordable Housing Credit Improvement Act of 2016</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2016-05-19</actionDate>
+          <updateDate>2016-05-19T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2016-10-13T14:20:23Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>Affordable Housing Credit Improvement Act of 2016 </b></p> <p>This bill amends the Internal Revenue Code, with respect to the low-income housing tax credit, to: (1) expand the credit by increasing the state housing credit ceiling, (2) modify the cost-of-living adjustment required for the state housing credit ceiling, (3) establish a new average income test which may be used to determine if a low-income housing project qualifies for the credit, and (4) establish a minimum credit rate of 4% for certain new or existing buildings. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>172</lisID>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <firstName>MARIA</firstName>
+        <party>D</party>
+        <bioguideId>C000127</bioguideId>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <state>WA</state>
+        <middleName />
+        <byRequestType />
+        <lastName>CANTWELL</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2016-05-19</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-05-19</sponsorshipDate>
+        <bioguideId>H000338</bioguideId>
+        <state>UT</state>
+        <lastName>HATCH</lastName>
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+        </identifiers>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>GRANT</middleName>
+        <firstName>ORRIN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2016-05-19</sponsorshipDate>
+        <bioguideId>S000148</bioguideId>
+        <state>NY</state>
+        <lastName>SCHUMER</lastName>
+        <identifiers>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <firstName>CHARLES</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2016-05-19</sponsorshipDate>
+        <bioguideId>W000779</bioguideId>
+        <state>OR</state>
+        <lastName>WYDEN</lastName>
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>RON</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-06-29</sponsorshipDate>
+        <bioguideId>A000368</bioguideId>
+        <state>NH</state>
+        <lastName>Ayotte</lastName>
+        <identifiers>
+          <bioguideId>A000368</bioguideId>
+          <gpoId>8315</gpoId>
+          <lisID>2075</lisID>
+        </identifiers>
+        <fullName>Sen. Ayotte, Kelly [R-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Kelly</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2016-06-29</sponsorshipDate>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Amy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-07-11</sponsorshipDate>
+        <bioguideId>M001153</bioguideId>
+        <state>AK</state>
+        <lastName>Murkowski</lastName>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Lisa</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2016-07-11</sponsorshipDate>
+        <bioguideId>M001176</bioguideId>
+        <state>OR</state>
+        <lastName>Merkley</lastName>
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <bioguideId>C001035</bioguideId>
+        <state>ME</state>
+        <lastName>COLLINS</lastName>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+        </identifiers>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>MARGARET</middleName>
+        <firstName>SUSAN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <bioguideId>B000711</bioguideId>
+        <state>CA</state>
+        <lastName>BOXER</lastName>
+        <identifiers>
+          <bioguideId>B000711</bioguideId>
+          <gpoId>8306</gpoId>
+          <lisID>116</lisID>
+        </identifiers>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-09-14</sponsorshipDate>
+        <bioguideId>C001075</bioguideId>
+        <state>LA</state>
+        <lastName>Cassidy</lastName>
+        <identifiers>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Bill</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>I</party>
+        <sponsorshipDate>2016-09-14</sponsorshipDate>
+        <bioguideId>S000033</bioguideId>
+        <state>VT</state>
+        <lastName>SANDERS</lastName>
+        <identifiers>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>BERNARD</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <bioguideId>P000449</bioguideId>
+        <state>OH</state>
+        <lastName>PORTMAN</lastName>
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>ROB</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <bioguideId>L000174</bioguideId>
+        <state>VT</state>
+        <lastName>LEAHY</lastName>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+        </identifiers>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>JOSEPH</middleName>
+        <firstName>PATRICK</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2016-12-08</sponsorshipDate>
+        <bioguideId>S001194</bioguideId>
+        <state>HI</state>
+        <lastName>Schatz</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+        </identifiers>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Low- and moderate-income housing</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2016-05-20T01:31:51Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

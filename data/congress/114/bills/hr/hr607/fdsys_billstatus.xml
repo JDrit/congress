@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>3</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-02-13</actionDate>
+        <committee>
+          <name>Economic Opportunity Subcommittee</name>
+          <systemCode>hsvr10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-01-30</actionDate>
+        <committee>
+          <name>Environment and the Economy Subcommittee</name>
+          <systemCode>hsif18</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment and the Economy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-01-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-01-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-01-28</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Veterans' Affairs</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-01-28</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Ways and Means, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-01-28</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-01-28</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills />
+    <laws />
+    <billNumber>607</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Economic Opportunity Subcommittee</name>
+              <systemCode>hsvr10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-02-13T16:42:30Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-28T14:07:00Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Environment and the Economy Subcommittee</name>
+              <systemCode>hsif18</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-01-30T18:34:43Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-28T14:07:10Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-28T14:07:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-01-28</introducedDate>
+    <updateDate>2017-06-02T19:55:50Z</updateDate>
+    <title>Help Hire Our Heroes Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Help Hire Our Heroes Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the VOW to Hire Heroes Act of 2011 to extend the Veterans Retraining Assistance Program, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Help Hire Our Heroes Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-01-28T05:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Help Hire our Heroes Act</strong></p> <p>Amends the VOW to Hire Heroes Act of 2011 to extend, from March 31, 2014, to 180 days after this Act's enactment, the veterans retraining assistance program.</p> <p>Amends the Internal Revenue Code to transfer funds for such program from the Leaking Underground Storage Tank Trust Fund.</p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-02-18T16:23:06Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-01-28</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2106</lisID>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>26</district>
+        <party>D</party>
+        <bioguideId>B001285</bioguideId>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <firstName>Julia</firstName>
+        <state>CA</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Brownley</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <actionDate>2015-02-13</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. BROWNLEY of California:H.R. 607.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution.[Page H663]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>T000472</bioguideId>
+          <gpoId />
+          <lisID>2110</lisID>
+        </identifiers>
+        <district>41</district>
+        <party>D</party>
+        <lastName>Takano</lastName>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <sponsorshipDate>2015-02-24</sponsorshipDate>
+        <state>CA</state>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000472</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2114</lisID>
+          <gpoId />
+          <bioguideId>E000293</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <party>D</party>
+        <lastName>Esty</lastName>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <sponsorshipDate>2015-05-21</sponsorshipDate>
+        <state>CT</state>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>H.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000293</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000474</bioguideId>
+          <lisID>2231</lisID>
+        </identifiers>
+        <district>35</district>
+        <party>D</party>
+        <lastName>Torres</lastName>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <sponsorshipDate>2015-06-01</sponsorshipDate>
+        <state>CA</state>
+        <firstName>Norma</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000474</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+          <gpoId>8105</gpoId>
+        </identifiers>
+        <district>15</district>
+        <party>R</party>
+        <lastName>Stivers</lastName>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <sponsorshipDate>2015-06-01</sponsorshipDate>
+        <state>OH</state>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001187</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>29</district>
+        <party>D</party>
+        <lastName>Cardenas</lastName>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <sponsorshipDate>2015-07-07</sponsorshipDate>
+        <state>CA</state>
+        <firstName>Tony</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001097</bioguideId>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Pollution liability</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-01-29T04:56:27Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

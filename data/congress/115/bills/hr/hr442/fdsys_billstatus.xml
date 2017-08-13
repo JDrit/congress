@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-12T04:45:49Z</createDate>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>472</number>
+        <latestTitle>Cuba Trade Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-02-28</actionDate>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>4</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-26</actionDate>
+        <committee>
+          <name>Trade Subcommittee</name>
+          <systemCode>hswm04</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <actionDate>2017-01-11</actionDate>
+        <text>Referred to House Agriculture</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionDate>2017-01-11</actionDate>
+        <text>Referred to House Financial Services</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2017-01-11</actionDate>
+        <text>Referred to House Ways and Means</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2017-01-11</actionDate>
+        <text>Referred to House Foreign Affairs</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-01-11</actionDate>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, Financial Services, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-01-11</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-01-11</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <identifiers>
+          <bioguideId>C001066</bioguideId>
+          <lisID>1839</lisID>
+          <gpoId>7883</gpoId>
+        </identifiers>
+        <lastName>Castor</lastName>
+        <firstName>Kathy</firstName>
+        <state>FL</state>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>C001066</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2272</lisID>
+          <bioguideId>B001292</bioguideId>
+        </identifiers>
+        <lastName>Beyer</lastName>
+        <firstName>Donald</firstName>
+        <state>VA</state>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <bioguideId>B001292</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Sanford, Mark [R-SC-1]</fullName>
+        <identifiers>
+          <bioguideId>S000051</bioguideId>
+          <lisID>1012</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Sanford</lastName>
+        <firstName>Mark</firstName>
+        <state>SC</state>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>S000051</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <lastName>LEE</lastName>
+        <firstName>BARBARA</firstName>
+        <state>CA</state>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>L000551</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Pocan</lastName>
+        <firstName>Mark</firstName>
+        <state>WI</state>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>P000607</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Amash, Justin [R-MI-3]</fullName>
+        <identifiers>
+          <bioguideId>A000367</bioguideId>
+          <lisID>2029</lisID>
+          <gpoId>7988</gpoId>
+        </identifiers>
+        <lastName>Amash</lastName>
+        <firstName>Justin</firstName>
+        <state>MI</state>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>A000367</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <identifiers>
+          <bioguideId>C001087</bioguideId>
+          <lisID>1989</lisID>
+          <gpoId>7793</gpoId>
+        </identifiers>
+        <lastName>Crawford</lastName>
+        <firstName>Eric</firstName>
+        <state>AR</state>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <middleName>A. "Rick"</middleName>
+        <bioguideId>C001087</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <lastName>MCGOVERN</lastName>
+        <firstName>JAMES</firstName>
+        <state>MA</state>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <identifiers>
+          <gpoId>8158</gpoId>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+        </identifiers>
+        <lastName>Poe</lastName>
+        <firstName>Ted</firstName>
+        <state>TX</state>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>P000592</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Comer, James [R-KY-1]</fullName>
+        <identifiers>
+          <bioguideId>C001108</bioguideId>
+          <lisID>2297</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Comer</lastName>
+        <firstName>James</firstName>
+        <state>KY</state>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>C001108</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+        <identifiers>
+          <bioguideId>D000482</bioguideId>
+          <lisID>316</lisID>
+          <gpoId>8132</gpoId>
+        </identifiers>
+        <lastName>DOYLE</lastName>
+        <firstName>MIKE</firstName>
+        <state>PA</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>D000482</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <identifiers>
+          <gpoId>8003</gpoId>
+          <lisID>1930</lisID>
+          <bioguideId>P000594</bioguideId>
+        </identifiers>
+        <lastName>Paulsen</lastName>
+        <firstName>Erik</firstName>
+        <state>MN</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>P000594</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <lastName>VELAZQUEZ</lastName>
+        <firstName>NYDIA</firstName>
+        <state>NY</state>
+        <sponsorshipDate>2017-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <bioguideId>V000081</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <identifiers>
+          <bioguideId>M001196</bioguideId>
+          <lisID>2246</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Moulton</lastName>
+        <firstName>Seth</firstName>
+        <state>MA</state>
+        <sponsorshipDate>2017-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>M001196</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Weber</lastName>
+        <firstName>Randy</firstName>
+        <state>TX</state>
+        <sponsorshipDate>2017-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <party>R</party>
+        <middleName>K.</middleName>
+        <bioguideId>W000814</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lewis, Jason [R-MN-2]</fullName>
+        <identifiers>
+          <lisID>2335</lisID>
+          <gpoId />
+          <bioguideId>L000587</bioguideId>
+        </identifiers>
+        <lastName>Lewis</lastName>
+        <firstName>Jason</firstName>
+        <state>MN</state>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>L000587</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001198</bioguideId>
+          <lisID>2328</lisID>
+        </identifiers>
+        <lastName>Marshall</lastName>
+        <firstName>Roger</firstName>
+        <state>KS</state>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <middleName>W.</middleName>
+        <bioguideId>M001198</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000580</bioguideId>
+          <lisID>2353</lisID>
+        </identifiers>
+        <lastName>Garrett</lastName>
+        <firstName>Thomas</firstName>
+        <state>VA</state>
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>R</party>
+        <middleName>A.</middleName>
+        <bioguideId>G000580</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <identifiers>
+          <bioguideId>B001301</bioguideId>
+          <lisID>2333</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Bergman</lastName>
+        <firstName>Jack</firstName>
+        <state>MI</state>
+        <sponsorshipDate>2017-03-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>B001301</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <identifiers>
+          <lisID>2326</lisID>
+          <gpoId />
+          <bioguideId>B001299</bioguideId>
+        </identifiers>
+        <lastName>Banks</lastName>
+        <firstName>Jim</firstName>
+        <state>IN</state>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>B001299</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <identifiers>
+          <bioguideId>A000374</bioguideId>
+          <lisID>2244</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Abraham</lastName>
+        <firstName>Ralph</firstName>
+        <state>LA</state>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>R</party>
+        <middleName>Lee</middleName>
+        <bioguideId>A000374</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <lastName>JONES</lastName>
+        <firstName>WALTER</firstName>
+        <state>NC</state>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <bioguideId>J000255</bioguideId>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-01-11</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>E000294</bioguideId>
+        <lastName>Emmer</lastName>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>E000294</bioguideId>
+          <lisID>2253</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <state>MN</state>
+        <district>6</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Cuba Trade Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Cuba Trade Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To lift the trade embargo on Cuba, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Cuba Trade Act of 2017</title>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>442</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Trade Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-01-26T21:56:02Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hswm04</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-11T15:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-11T15:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Agriculture Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsag00</systemCode>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-11T15:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-11T15:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. EMMER:H.R. 442.Congress has the power to enact this legislation pursuantto the following:Articlel, Section 8 to regulate Commerce with ForeignNations[Page H391]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural trade</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Competitiveness, trade promotion, trade deficits</name>
+          </item>
+          <item>
+            <name>Cuba</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-01-11</actionDate>
+          <text><![CDATA[<p><b>Cuba Trade Act of 2017</b></p> <p>This bill repeals or amends current laws restricting trade with Cuba. </p> <p>The prohibition on assistance to Cuba, and the President's authority for the embargo on Cuba, under the Foreign Assistance Act of 1961 are eliminated. </p> <p>The Cuban Democracy Act of 1992 is amended to eliminate: </p> <ul> <li>presidential authority to impose sanctions against Cuban trading partners, </li> <li>restrictions on transactions between U.S.-owned or controlled firms and Cuba, </li> <li>limitations on direct shipping between Cuban and U.S. ports, and </li> <li>restrictions on remittances. </li> </ul> <p> The Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 is amended to eliminate: </p> <ul> <li>the enforcement of an economic embargo of Cuban provisions, and </li> <li>the prohibition on indirect financing of Cuba.</li> </ul> <p> The Trade Sanctions Reform and Export Enhancement Act of 2000 is amended to:</p> <ul> <li>remove Cuba from the list of state sponsors of terrorism subject to agricultural and medical export restrictions; </li> <li>eliminate the prohibition on U.S. assistance, including foreign assistance, export assistance, and any credit or guarantees being made available for exports to Cuba; </li> <li>eliminate the prohibition against a U.S. person's providing payment or financing terms for sales of agricultural commodities or products to Cuba; </li> <li>prohibit the United States from providing any foreign assistance to Cuba or any financial assistance, loans, loan guarantees, extension of credit, or other financing for exports to Cuba; and </li> <li>eliminate the prohibition on the U.S. entry of merchandise that is of Cuban origin, is or has been located in or transported from or through Cuba, or is made or derived in whole or in part of any article which is the growth, produce, or manufacture of Cuba.</li> </ul> <p>The federal government may not obligate or expend any funds to promote trade with or develop markets in Cuba, except through certain commodity promotion programs.</p><strong> </strong>]]></text>
+          <lastSummaryUpdateDate>2017-02-07T16:26:00Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-01-11T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Cuba Trade Act of 2017</title>
+    <updateDate>2017-06-23T20:45:10Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Trade.</text>
+      <actionDate>2017-01-26</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

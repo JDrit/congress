@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-04-27T03:11:49Z</createDate>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2017-05-03</actionDate>
+        <committee>
+          <name>Immigration and Border Security Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>B00100</actionCode>
+        <links>
+          <link>
+            <name>H3074-3075</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H3074-3075</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-05-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Sponsor introductory remarks on measure. (CR H3074-3075)</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2017-04-26</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-04-26</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-04-26</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <state>FL</state>
+        <firstName>Darren</firstName>
+        <identifiers>
+          <bioguideId>S001200</bioguideId>
+          <lisID>2319</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Soto</lastName>
+        <bioguideId>S001200</bioguideId>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+      </item>
+      <item>
+        <state>FL</state>
+        <firstName>ILEANA</firstName>
+        <identifiers>
+          <bioguideId>R000435</bioguideId>
+          <lisID>985</lisID>
+          <gpoId>7890</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>ROS-LEHTINEN</lastName>
+        <bioguideId>R000435</bioguideId>
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>27</district>
+      </item>
+      <item>
+        <state>FL</state>
+        <firstName>Debbie</firstName>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Wasserman Schultz</lastName>
+        <bioguideId>W000797</bioguideId>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>23</district>
+      </item>
+      <item>
+        <state>PR</state>
+        <firstName>Jenniffer</firstName>
+        <identifiers>
+          <bioguideId>G000582</bioguideId>
+          <lisID>2347</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Gonzalez-Colon</lastName>
+        <bioguideId>G000582</bioguideId>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+      </item>
+      <item>
+        <state>FL</state>
+        <firstName>Stephanie</firstName>
+        <identifiers>
+          <bioguideId>M001202</bioguideId>
+          <lisID>2318</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <middleName>N.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Murphy</lastName>
+        <bioguideId>M001202</bioguideId>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-04-26</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>C001107</bioguideId>
+        <lastName>Curbelo</lastName>
+        <firstName>Carlos</firstName>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001107</bioguideId>
+          <lisID>2235</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <state>FL</state>
+        <district>26</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Venezuelan Refugee Assistance Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Venezuelan Refugee Assistance Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To adjust the immigration status of certain Venezuelan nationals who are in the United States.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Venezuelan Refugee Assistance Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>2161</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-26T14:01:35Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-03T13:38:34Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CURBELO of Florida:H.R. 2161.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 4: The Congress shall havePower To establish an uniform Rule of Naturalization, anduniform Laws on the subject of Bankruptcies throughout theUnited States.[Page H2897]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-04-26T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-05-02T18:46:21Z</lastSummaryUpdateDate>
+          <actionDate>2017-04-26</actionDate>
+          <text><![CDATA[<p><strong>Venezuelan Refugee Assistance Act</strong></p> <p>This bill provides for the status adjustment to permanent resident of a qualifying Venezuelan national who: (1) was physically present in the United States on January 1, 2013, (2) has been physically present in the United States for at least one year and is physically present in the United States on the date the status adjustment application is filed, (3) has not been convicted of specified crimes and was never involved in the persecution of others, and (4) applies for adjustment before January 1, 2021.</p> <p>Derivative adjustment of status is provided for the spouse, child, or certain unmarried sons or daughters of such alien.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Venezuelan Refugee Assistance Act</title>
+    <updateDate>2017-06-19T22:00:21Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <actionDate>2017-05-03</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

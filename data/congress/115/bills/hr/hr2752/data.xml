@@ -1,0 +1,51 @@
+<bill session="115" type="h" number="2752" updated="2017-07-13T13:18:23Z">
+  <state datetime="2017-05-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-26"/>
+  </status>
+  <introduced datetime="2017-05-26"/>
+  <titles>
+    <title type="short" as="introduced">United States Citizenship and Immigration Services Authorization Act</title>
+    <title type="short" as="introduced">United States Citizenship and Immigration Services Authorization Act</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to establish United States Citizenship and Immigration Services, and for other purposes.</title>
+    <title type="display">United States Citizenship and Immigration Services Authorization Act</title>
+  </titles>
+  <sponsor id="412705"/>
+  <cosponsors>
+    <cosponsor id="412729" joined="2017-05-26"/>
+    <cosponsor id="400654" joined="2017-05-26"/>
+    <cosponsor id="412692" joined="2017-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-26" state="REFERRED">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-05-26">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2017-05-26">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+    <action datetime="2017-07-12">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

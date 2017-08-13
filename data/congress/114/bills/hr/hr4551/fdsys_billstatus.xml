@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-03-23</actionDate>
+        <committee>
+          <name>Health, Employment, Labor, and Pensions Subcommittee</name>
+          <systemCode>hsed02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-02-17</actionDate>
+        <committee>
+          <name>Social Security Subcommittee</name>
+          <systemCode>hswm01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Social Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-02-12</actionDate>
+        <text>Referred to House Education and the Workforce</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-02-12</actionDate>
+        <text>Referred to House Ways and Means</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-02-12</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-02-12</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-02-12</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+          <actionDate>2016-03-23</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>3961</number>
+        <latestTitle>Consumer Price Index for Elderly Consumers Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>4551</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health, Employment, Labor, and Pensions Subcommittee</name>
+              <systemCode>hsed02</systemCode>
+              <activities>
+                <item>
+                  <date>2016-03-23T21:28:18Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Education and the Workforce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2016-02-12T14:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Social Security Subcommittee</name>
+              <systemCode>hswm01</systemCode>
+              <activities>
+                <item>
+                  <date>2016-02-17T21:14:59Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2016-02-12T14:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-02-12</introducedDate>
+    <updateDate>2017-06-02T21:46:24Z</updateDate>
+    <title>Keeping our Promise to Seniors Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Keeping our Promise to Seniors Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To require the establishment of a Consumer Price Index for Older Americans to compute cost-of-living increases for monthly insurance benefits under title II of the Social Security Act, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Keeping our Promise to Seniors Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2016-02-12</actionDate>
+          <updateDate>2016-02-12T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2016-06-06T20:14:20Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Keeping Our Promise to Seniors Act</b></p> <p>This bill directs the Bureau of Labor Statistics (BLS) of the Department of Labor to prepare and publish a monthly Consumer Price Index for Older Americans (CPI-OA) that:</p> <ul> <li>measures changes over time in the cost of living for a population that consists solely of individuals living in the United States who are age 62 or older;</li> <li>is specifically designed to reflect the geographic areas in which such individuals reside, the goods and services they purchase, and the typical prices for those goods and services; and</li> <li>is not based on any other consumer price index published by the BLS. </li> </ul> <p>The bill amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to use this new CPI-OA in the computation of cost-of-living increases for OASDI benefits.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000296</bioguideId>
+          <lisID>2199</lisID>
+        </identifiers>
+        <district>13</district>
+        <party>R</party>
+        <bioguideId>J000296</bioguideId>
+        <fullName>Rep. Jolly, David [R-FL-13]</fullName>
+        <firstName>David</firstName>
+        <state>FL</state>
+        <middleName>W.</middleName>
+        <byRequestType />
+        <lastName>Jolly</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+      <actionDate>2016-03-23</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JOLLY:H.R. 4551.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H817]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aging</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2016-02-13T04:46:34Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="1703" updated="2017-06-22T18:19:02Z">
+  <state datetime="2017-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-23"/>
+  </status>
+  <introduced datetime="2017-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Medical Product Communications Act of 2017</title>
+    <title type="short" as="introduced">Medical Product Communications Act of 2017</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act with respect to determining the intended use of drugs and devices.</title>
+    <title type="display">Medical Product Communications Act of 2017</title>
+  </titles>
+  <sponsor id="412485"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2017-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-23">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-23" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-03-24">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Scientific communication"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

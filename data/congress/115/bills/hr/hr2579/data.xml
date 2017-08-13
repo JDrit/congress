@@ -1,0 +1,87 @@
+<bill session="115" type="h" number="2579" updated="2017-06-19T22:37:09Z">
+  <state datetime="2017-06-15T13:41:40-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-06-15T13:41:40-04:00"/>
+  </status>
+  <introduced datetime="2017-05-19"/>
+  <titles>
+    <title type="short" as="reported to house">Broader Options for Americans Act</title>
+    <title type="short" as="reported to house">Broader Options for Americans Act</title>
+    <title type="short" as="passed house">Broader Options for Americans Act</title>
+    <title type="short" as="passed house">Broader Options for Americans Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow the premium tax credit with respect to unsubsidized COBRA continuation coverage.</title>
+    <title type="display">Broader Options for Americans Act</title>
+  </titles>
+  <sponsor id="400406"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-05-19">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2017-06-02">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-160.</text>
+    </action>
+    <calendar datetime="2017-06-02" state="REPORTED" calendar="Union" number="107">
+      <text>Placed on the Union Calendar, Calendar No. 107.</text>
+    </calendar>
+    <action datetime="2017-06-12T19:16:35-04:00">
+      <text>Rules Committee Resolution H. Res. 379 Reported to House. Rule provides for consideration of H.R. 2372 and H.R. 2579. Rule provides for consideration of H.R. 2372 and H.R. 2579, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and are closed to amendments.</text>
+    </action>
+    <action datetime="2017-06-15T12:26:27-04:00">
+      <text>Rule H. Res. 379 passed House.</text>
+    </action>
+    <action datetime="2017-06-15T12:59:53-04:00">
+      <text>Considered under the provisions of rule H. Res. 379.</text>
+      <reference ref="CR H4929-4931" label="consideration"/>
+    </action>
+    <action datetime="2017-06-15T12:59:58-04:00">
+      <text>Rule provides for consideration of H.R. 2372 and H.R. 2579, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and are closed to amendments.</text>
+    </action>
+    <action datetime="2017-06-15T13:00:38-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2579.</text>
+    </action>
+    <vote how="roll" type="vote" roll="308" datetime="2017-06-15T13:41:40-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 267 - 144 (Roll no. 308).</text>
+      <reference ref="CR H4929" label="text"/>
+    </vote>
+    <action datetime="2017-06-15T13:41:43-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Reporting, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="procedurally-related" session="115" type="hr" number="379"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments>
+    <amendment number="h136"/>
+  </amendments>
+  <summary date="2017-06-15T12:16:43Z" status="Passed House amended">(This measure has not been amended since it was reported to the House on June 2, 2017. The summary of that version is repeated here.)
+
+Broader Options for Americans Act
+
+(Sec. 2) This bill amends the Internal Revenue Code to allow the premium assistance tax credit to be used for unsubsidized COBRA continuation health coverage.
+
+(Under the Consolidated Omnibus Budget Reconciliation Act of 1985 [COBRA], an individual may continue to receive coverage under an employer-sponsored health plan after an event that would otherwise end coverage, such as a termination of employment. This bill applies to COBRA continuation coverage if the premiums are solely the obligation of the taxpayer.)
+
+"COBRA continuation coverage" includes continuation coverage provided under:
+
+ the Internal Revenue Code, the Employment Retirement Income Security Act of 1974 (ERISA), the Public Health Service Act, or the Federal Employees Health Benefits Program; a state law or program that provides comparable coverage; or a church plan that provides comparable coverage. It does not include coverage under a health flexible spending arrangement.
+
+For the coverage to qualify for the tax credit, the plan administrator of the group health plan must certify that the COBRA continuation coverage meets the requirements for qualified health plans.
+
+The bill is contingent on the enactment of the American Health Care Act of 2017 and applies (if at all) after December 31, 2019.</summary>
+  <committee-reports>
+    <report>H. Rept. 115-160</report>
+  </committee-reports>
+</bill>

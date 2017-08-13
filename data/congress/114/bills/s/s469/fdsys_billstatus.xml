@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-06-24</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-02-11</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S944-945</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S944-945</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs. (Sponsor introductory remarks on measure: CR S944-945)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-02-11</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-04-07</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <latestTitle>To amend title 38, United States Code, to improve the access to child care for certain veterans receiving health care at a facility of the Department of Veterans Affairs.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1496</number>
+        <type>HR</type>
+      </item>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-05-11</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <latestTitle>Veterans' Access to Child Care Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1948</number>
+        <type>HR</type>
+      </item>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-11-23</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <latestTitle>Women Veterans and Families Health Services Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>3365</number>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>469</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2015-06-24T21:15:42Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2015-02-11T22:24:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-02-11</introducedDate>
+    <updateDate>2017-06-02T22:52:53Z</updateDate>
+    <title>Women Veterans and Families Health Services Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Women Veterans and Families Health Services Act of 2015</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to improve the reproductive assistance provided by the Department of Defense and the Department of Veterans Affairs to severely wounded, ill, or injured members of the Armed Forces, veterans, and their spouses or partners, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Women Veterans and Families Health Services Act of 2015</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-09-04T19:19:17Z</lastSummaryUpdateDate>
+          <updateDate>2015-02-11T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2015-02-11</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><strong>Women Veterans and Families Health Services Act of 2015</strong></p> <p> Directs the Department of Defense (DOD) to furnish fertility treatment and counseling, including through the use of assisted reproductive technology, to a spouse, partner, or gestational surrogate of a severely wounded, ill, or injured member of the Armed Forces who has an infertility condition incurred or aggravated while serving on active duty in the Armed Forces.</p> <p> Requires provision of fertility treatment and counseling to a spouse, partner, or gestational surrogate of a member of the Armed Forces without regard to the member's sex or marital status. </p> <p> States that, if a member of the Armed Forces is unable to provide gametes for fertility treatment purposes, the Secretary shall, at the member's election, allow the member to be treated with donated gametes and pay or reimburse the reasonable costs of procuring donor gametes.</p> <p> Directs DOD to: </p> <ul> <li>establish procedures for gamete retrieval from a member of the Armed Forces in cases in which the fertility of such member is potentially jeopardized as a result of an injury or illness incurred or aggravated while serving on active duty in the Armed Forces; and </li> <li>give members of the Armed Forces on active duty the opportunity to cryopreserve and store their gametes prior to deployment to a combat zone at no cost to the member.</li> </ul> <p> Directs DOD and the Department of Veterans Affairs (VA) to share best practices and facilitate fertility treatment and counseling referrals to eligible individuals. </p> <p>Includes fertility counseling and treatment within authorized VA medical services. </p> <p>Authorizes the VA to pay the adoption expenses (for up to three adoptions) for a severely wounded, ill, or injured veteran who has an infertility condition incurred or aggravated in the line of duty and who is enrolled in the VA health care system.</p> <p>Directs the VA to report annually to Congress on the counseling and treatment provided under this Act; and (2) prescribe regulations on the furnishing of such counseling, treatment, and adoption assistance. </p> <p>Directs the VA to facilitate research conducted collaboratively by DOD and the Department of Health and Human Services in order to improve the VA's ability to meet the long-term reproductive health care needs of veterans who have a service-connected genitourinary disability or a condition that was incurred or aggravated in the line of duty that affects the veterans' reproductive ability. </p> <p>Requires the VA to enhance the capabilities of the VA women veterans contact center to: (1) respond to requests for assistance with accessing VA health care and benefits, and (2) refer such veterans to federal or community resources to obtain assistance not furnished by the VA.</p> <p>Amends the Caregivers and Veterans Omnibus Health Services Act of 2010 regarding a pilot program of group retreat reintegration and readjustment counseling for women veterans recently separated from service to: (1) increase the number of counseling locations, and (2) extend the program.</p> <p> Establishes VA programs to provide assistance to qualified veterans to obtain child care so that such veterans can receive: (1) regular mental health care services, intensive mental health care services, or other intensive health care services; and (2) readjustment counseling and related mental health services.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <firstName>PATTY</firstName>
+        <party>D</party>
+        <bioguideId>M001111</bioguideId>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <state>WA</state>
+        <middleName />
+        <byRequestType />
+        <lastName>MURRAY</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <actionDate>2015-06-24</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+        <lastName>Gillibrand</lastName>
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <firstName>Kirsten</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <bioguideId>T000464</bioguideId>
+        <state>MT</state>
+        <lastName>Tester</lastName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Jon</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <bioguideId>B001230</bioguideId>
+        <state>WI</state>
+        <lastName>BALDWIN</lastName>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>TAMMY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>I</party>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <bioguideId>S000033</bioguideId>
+        <state>VT</state>
+        <lastName>SANDERS</lastName>
+        <identifiers>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+        </identifiers>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>BERNARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <bioguideId>B001267</bioguideId>
+        <state>CO</state>
+        <lastName>Bennet</lastName>
+        <identifiers>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>F.</middleName>
+        <firstName>Michael</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <lastName>BROWN</lastName>
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>SHERROD</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-04-30</sponsorshipDate>
+        <bioguideId>B000711</bioguideId>
+        <state>CA</state>
+        <lastName>BOXER</lastName>
+        <identifiers>
+          <lisID>116</lisID>
+          <gpoId>8306</gpoId>
+          <bioguideId>B000711</bioguideId>
+        </identifiers>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-03</sponsorshipDate>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+        <lastName>DURBIN</lastName>
+        <identifiers>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+        </identifiers>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <firstName>RICHARD</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-09-09</sponsorshipDate>
+        <bioguideId>S000148</bioguideId>
+        <state>NY</state>
+        <lastName>SCHUMER</lastName>
+        <identifiers>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+          <lisID>1036</lisID>
+        </identifiers>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <firstName>CHARLES</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2015-12-10</sponsorshipDate>
+        <bioguideId>K000360</bioguideId>
+        <state>IL</state>
+        <lastName>KIRK</lastName>
+        <identifiers>
+          <lisID>1647</lisID>
+          <gpoId>8285</gpoId>
+          <bioguideId>K000360</bioguideId>
+        </identifiers>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>STEVEN</middleName>
+        <firstName>MARK</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2016-03-07</sponsorshipDate>
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+        <lastName>Coons</lastName>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2016-07-06</sponsorshipDate>
+        <bioguideId>M001176</bioguideId>
+        <state>OR</state>
+        <lastName>Merkley</lastName>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Adoption and foster care</name>
+          </item>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Sex and reproductive health</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-02-12T05:30:27Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-01-22T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on the Judiciary from March 1, 2015, through February 28, 2017.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2015-01-26T18:00:14Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2015-01-22</actionDate>
+        </item>
+        <item>
+          <versionCode>80</versionCode>
+          <updateDate>2015-01-22T15:12:51Z</updateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Authorizes expenditures by the Senate Committee on the Judiciary from March 1, 2015, through February 28, 2017.</p>]]></text>
+          <name>Reported to Senate without amendment</name>
+          <lastSummaryUpdateDate>2015-01-26T17:42:05Z</lastSummaryUpdateDate>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <actionDate>2015-01-22</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>An original resolution authorizing expenditures by the Committee on the Judiciary.</title>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <cosponsors />
+    <createDate>2015-01-23T07:01:23Z</createDate>
+    <relatedBills />
+    <congress>114</congress>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <firstName>CHARLES</firstName>
+        <party>R</party>
+        <lastName>GRASSLEY</lastName>
+        <bioguideId>G000386</bioguideId>
+        <byRequestType />
+        <middleName>ERNEST</middleName>
+        <state>IA</state>
+        <identifiers>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <billType>SRES</billType>
+    <actions>
+      <item>
+        <actionDate>2015-01-22</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S426</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S426</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S426)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-01-22</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Original measure reported to Senate by Senator Grassley. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <text>Committee on the Judiciary. Original measure reported to Senate by Senator Grassley. Without written report.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <links />
+        <actionDate>2015-01-22</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2015-01-22</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <originalBillReported>1</originalBillReported>
+        <introducedInSenate>1</introducedInSenate>
+        <reportedToSenate>1</reportedToSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on the Judiciary</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2015-01-22</introducedDate>
+    <laws />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-22T19:31:15Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2015-01-22T19:30:59Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2015-01-22</actionDate>
+      <links />
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S426)</text>
+    </latestAction>
+    <billNumber>36</billNumber>
+    <calendarNumbers />
+    <updateDate>2017-06-02T22:37:40Z</updateDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>An original resolution authorizing expenditures by the Committee on the Judiciary.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>An original resolution authorizing expenditures by the Committee on the Judiciary.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <actionDate>2016-05-17</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-05-17</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-05-17</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-06-05</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <latestTitle>VETS Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2516</number>
+        <type>HR</type>
+      </item>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-11-18</actionDate>
+          <text>Committee on Veterans' Affairs. Hearings held.</text>
+        </latestAction>
+        <latestTitle>VETS Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2170</number>
+        <type>S</type>
+      </item>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2016-05-24</actionDate>
+          <text>Committee on Veterans' Affairs. Hearings held.</text>
+        </latestAction>
+        <latestTitle>Care Veterans Deserve Act of 2016</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2896</number>
+        <type>S</type>
+      </item>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2016-12-08</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 717.</text>
+        </latestAction>
+        <latestTitle>VA Best-Practices Peer Review Act of 2016</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>3516</number>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>5262</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-05-17T14:01:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-05-17</introducedDate>
+    <updateDate>2017-06-02T21:58:23Z</updateDate>
+    <title>Care Veterans Deserve Act of 2016</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Care Veterans Deserve Act of 2016</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To eliminate the sunset date for the Veterans Choice Program of the Department of Veterans Affairs, to expand eligibility for such program, and to extend certain operating hours for pharmacies and medical facilities of the Department, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Care Veterans Deserve Act of 2016</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2016-07-21T21:48:35Z</lastSummaryUpdateDate>
+          <updateDate>2016-05-17T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2016-05-17</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>Care Veterans Deserve Act of 2016</strong></p> <p>This bill amends the Veterans Access, Choice, and Accountability Act of 2014 to make the Veterans Choice Program permanent. </p> <p>Program eligibility is expanded to include veterans with a 50% service-connected disability. </p> <p>The VA shall contract with a national chain of walk-in clinics to provide hospital care and medical services in such clinics to veterans who are in the annual patient enrollment system. </p> <p>A veteran shall not be required to: (1) obtain pre-authorization for such care, or (2) pay a copayment to the clinic or to the VA. </p> <p>Such national chain shall establish an automated system to provide the VA with weekly information on veterans receiving hospital care or medical services. </p> <p>A covered health care professional may practice his or her health care profession at any location in any state, regardless of where such health care professional or the patient is located, if the health care professional is using telemedicine to treat an individual. </p> <p>Such treatment is permitted regardless of whether the professional or patient is located in a federally-owned facility. </p> <p>&quot;Covered health care professional&quot; means a health care professional who is: (1) authorized by the VA to provide health care, including a private health care professional who provides such care under a VA contract or agreement; and (2) licensed, registered, or certified in a state to practice his or her health care profession. </p> <p>The VA shall: </p> <ul> <li>extend the operating hours for each VA pharmacy to include weekday evenings until until 8:00 p.m., weekends, and federal holidays; and </li> <li>contract with qualifying physicians and nurses to work at VA medical facilities during nights and weekends. </li> </ul> <p>The VA may: (1) hire support staff in connection with such extended operating hours, and (2) provide for a a nongovernmental hospital organization best-practices peer review of each VA medical center. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2140</lisID>
+          <bioguideId>H001067</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <bioguideId>H001067</bioguideId>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <firstName>Richard</firstName>
+        <state>NC</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Hudson</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <actionDate>2016-05-17</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HUDSON:H.R. 5262.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18The Congress shall have Power * * * To make all Laws whichshall be necessary and proper for carrying into executive theforegoing Powers, and all other Powers vested by theConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H2700]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ruppersberger</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>1728</lisID>
+          <gpoId>7977</gpoId>
+          <bioguideId>R000576</bioguideId>
+        </identifiers>
+        <state>MD</state>
+        <firstName>C. A.</firstName>
+        <bioguideId>R000576</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Dutch</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-05-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Black</lastName>
+        <district>6</district>
+        <identifiers>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+          <bioguideId>B001273</bioguideId>
+        </identifiers>
+        <state>TN</state>
+        <firstName>Diane</firstName>
+        <bioguideId>B001273</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-05-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>CHABOT</lastName>
+        <district>1</district>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <gpoId>8091</gpoId>
+          <lisID>186</lisID>
+        </identifiers>
+        <state>OH</state>
+        <firstName>STEVE</firstName>
+        <bioguideId>C000266</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Chaffetz, Jason [R-UT-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-05-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Chaffetz</lastName>
+        <district>3</district>
+        <identifiers>
+          <lisID>1956</lisID>
+          <gpoId>8191</gpoId>
+          <bioguideId>C001076</bioguideId>
+        </identifiers>
+        <state>UT</state>
+        <firstName>Jason</firstName>
+        <bioguideId>C001076</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-05-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rouzer</lastName>
+        <district>7</district>
+        <identifiers>
+          <bioguideId>R000603</bioguideId>
+          <gpoId />
+          <lisID>2256</lisID>
+        </identifiers>
+        <state>NC</state>
+        <firstName>David</firstName>
+        <bioguideId>R000603</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-05-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Olson</lastName>
+        <district>22</district>
+        <identifiers>
+          <lisID>1955</lisID>
+          <gpoId>8178</gpoId>
+          <bioguideId>O000168</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <firstName>Pete</firstName>
+        <bioguideId>O000168</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Sanford, Mark [R-SC-1]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-05-31</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Sanford</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1012</lisID>
+          <gpoId />
+          <bioguideId>S000051</bioguideId>
+        </identifiers>
+        <state>SC</state>
+        <firstName>Mark</firstName>
+        <bioguideId>S000051</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-09-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Franks</lastName>
+        <district>8</district>
+        <identifiers>
+          <bioguideId>F000448</bioguideId>
+          <gpoId>7799</gpoId>
+          <lisID>1707</lisID>
+        </identifiers>
+        <state>AZ</state>
+        <firstName>Trent</firstName>
+        <bioguideId>F000448</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-11-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>McSally</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>2225</lisID>
+          <gpoId />
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <state>AZ</state>
+        <firstName>Martha</firstName>
+        <bioguideId>M001197</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-11-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schweikert</lastName>
+        <district>6</district>
+        <identifiers>
+          <lisID>1994</lisID>
+          <gpoId>7802</gpoId>
+          <bioguideId>S001183</bioguideId>
+        </identifiers>
+        <state>AZ</state>
+        <firstName>David</firstName>
+        <bioguideId>S001183</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-11-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gosar</lastName>
+        <district>4</district>
+        <identifiers>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <state>AZ</state>
+        <firstName>Paul</firstName>
+        <bioguideId>G000565</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2016-05-18T05:10:35Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <updateDate>2017-05-03T23:53:32Z</updateDate>
+    <latestAction>
+      <actionDate>2017-01-05</actionDate>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <links />
+    </latestAction>
+    <billNumber>323</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Coal</name>
+          </item>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Mining</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <laws />
+    <createDate>2017-01-06T04:57:26Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-05</actionDate>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-05</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-05</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <amendments />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+        </identifiers>
+        <state>OH</state>
+        <party>R</party>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <lastName>Johnson</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <middleName />
+        <district>6</district>
+        <bioguideId>J000292</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+        </identifiers>
+        <state>TN</state>
+        <party>R</party>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <lastName>Roe</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <middleName>P.</middleName>
+        <district>1</district>
+        <bioguideId>R000582</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000297</bioguideId>
+          <lisID>2278</lisID>
+        </identifiers>
+        <state>WV</state>
+        <party>R</party>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <lastName>Jenkins</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Evan</firstName>
+        <fullName>Rep. Jenkins, Evan H. [R-WV-3]</fullName>
+        <middleName>H.</middleName>
+        <district>3</district>
+        <bioguideId>J000297</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+        <state>WV</state>
+        <party>R</party>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <lastName>McKinley</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <middleName>B.</middleName>
+        <district>1</district>
+        <bioguideId>M001180</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1744</lisID>
+          <gpoId>8723</gpoId>
+          <bioguideId>M001151</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <party>R</party>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <lastName>Murphy</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Tim</firstName>
+        <fullName>Rep. Murphy, Tim [R-PA-18]</fullName>
+        <middleName />
+        <district>18</district>
+        <bioguideId>M001151</bioguideId>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GRIFFITH:H.R. 323.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8 of the United StatesConstitution.[Page H183]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8200</gpoId>
+          <bioguideId>G000568</bioguideId>
+          <lisID>2070</lisID>
+        </identifiers>
+        <lastName>Griffith</lastName>
+        <state>VA</state>
+        <firstName>H.</firstName>
+        <party>R</party>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <middleName>Morgan</middleName>
+        <district>9</district>
+        <bioguideId>G000568</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To amend the Black Lung Benefits Act to provide equity for certain eligible survivors, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To amend the Black Lung Benefits Act to provide equity for certain eligible survivors, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <title>To amend the Black Lung Benefits Act to provide equity for certain eligible survivors, and for other purposes.</title>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <notes />
+    <committeeReports />
+    <introducedDate>2017-01-05</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-05T15:03:15Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

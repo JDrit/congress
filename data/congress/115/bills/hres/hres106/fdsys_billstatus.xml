@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Permanent Select Committee on Intelligence</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <constitutionalAuthorityStatementText />
+    <committeeReports />
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on House Administration.</text>
+        <actionDate>2017-02-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2017-02-07</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2017-02-07</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-02-07</introducedDate>
+    <createDate>2017-02-08T04:45:55Z</createDate>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-02-07T15:07:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <subcommittees />
+          <name>House Administration Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the House Committee on House Administration.</text>
+          <actionDate>2017-01-31</actionDate>
+        </latestAction>
+        <latestTitle>Providing amounts for the expenses of the Permanent Select Committee on Intelligence in the One Hundred Fifteenth Congress.</latestTitle>
+        <type>HRES</type>
+        <number>76</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billNumber>106</billNumber>
+    <calendarNumbers />
+    <title>Providing amounts for the expenses of the Permanent Select Committee on Intelligence in the One Hundred Fifteenth Congress.</title>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Providing amounts for the expenses of the Permanent Select Committee on Intelligence in the One Hundred Fifteenth Congress.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Providing amounts for the expenses of the Permanent Select Committee on Intelligence in the One Hundred Fifteenth Congress.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-03-11T16:59:37Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-07</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Provides amounts for expenses of the House Permanent Select Committee on Intelligence for the 115th Congress.</p>]]></text>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <actionDate>2017-02-07</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ADAM</firstName>
+        <district>28</district>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHIFF</lastName>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <identifiers>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+          <lisID>1635</lisID>
+        </identifiers>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>S001150</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <bioguideId>N000181</bioguideId>
+        <identifiers>
+          <lisID>1710</lisID>
+          <gpoId>7826</gpoId>
+          <bioguideId>N000181</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>Devin</firstName>
+        <fullName>Rep. Nunes, Devin [R-CA-22]</fullName>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Nunes</lastName>
+        <state>CA</state>
+        <district>22</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <updateDate>2017-05-04T00:16:58Z</updateDate>
+    <congress>115</congress>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

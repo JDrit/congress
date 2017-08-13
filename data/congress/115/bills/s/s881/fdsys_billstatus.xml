@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-05-18T14:00:02Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-06T20:35:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2017-05-18</actionDate>
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>2585</number>
+        <latestAction>
+          <actionDate>2017-05-22</actionDate>
+          <text>Referred to House Judiciary</text>
+        </latestAction>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestTitle>21st Century Glass-Steagall Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <congress>115</congress>
+    <actions>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-04-06</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-04-07T00:41:50Z</createDate>
+    <title>21st Century Glass-Steagall Act of 2017</title>
+    <cboCostEstimates />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>21st Century Glass-Steagall Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>21st Century Glass-Steagall Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>A bill to reduce risks to the financial system by limiting banks' ability to engage in certain risky activities and limiting conflicts of interest, to reinstate certain Glass-Steagall Act protections that were repealed by the Gramm-Leach-Bliley Act, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>21st Century Glass-Steagall Act of 2017</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <introducedDate>2017-04-06</introducedDate>
+    <billNumber>881</billNumber>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>M000303</bioguideId>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <lastName>MCCAIN</lastName>
+        <middleName>SIDNEY</middleName>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <bioguideId>M000303</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+        <state>AZ</state>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <lastName>CANTWELL</lastName>
+        <middleName />
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <bioguideId>C000127</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>MARIA</firstName>
+        <state>WA</state>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>King</lastName>
+        <middleName />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <bioguideId>K000383</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>I</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Angus</firstName>
+        <state>ME</state>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <lastName>Gillibrand</lastName>
+        <middleName>E.</middleName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kirsten</firstName>
+        <state>NY</state>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+        </identifiers>
+        <lastName>SANDERS</lastName>
+        <middleName />
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <bioguideId>S000033</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>I</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>BERNARD</firstName>
+        <state>VT</state>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <lastName>BALDWIN</lastName>
+        <middleName />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <bioguideId>B001230</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>TAMMY</firstName>
+        <state>WI</state>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <lastName>Merkley</lastName>
+        <middleName />
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jeff</firstName>
+        <state>OR</state>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+        </identifiers>
+        <lastName>MARKEY</lastName>
+        <middleName>J.</middleName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <bioguideId>M000133</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>EDWARD</firstName>
+        <state>MA</state>
+        <sponsorshipDate>2017-05-08</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <sponsors>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <bioguideId>W000817</bioguideId>
+        <lastName>Warren</lastName>
+        <middleName>A.</middleName>
+        <byRequestType />
+        <firstName>Elizabeth</firstName>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <committeeReports />
+    <updateDate>2017-06-19T22:00:27Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

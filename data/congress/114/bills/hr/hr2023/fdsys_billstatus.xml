@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Oversight and Government Reform</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-04-23</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Administration</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-04-23</actionDate>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <links />
+        <actionDate>2015-04-23</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2015-04-23</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2015-04-23</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-09-24</actionDate>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <latestTitle>No Government No Pay Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2074</number>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>2023</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-04-23T13:03:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-04-23T13:02:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-04-23</introducedDate>
+    <updateDate>2017-06-02T20:48:58Z</updateDate>
+    <title>Hold Congress Accountable Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Hold Congress Accountable Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To reduce the annual rate of pay of Members of Congress if a Government shutdown occurs during a year, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Hold Congress Accountable Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-04-23</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Hold Congress Accountable Act</b></p> <p> Requires a reduction in the annual rate of pay of a Member of Congress during a government shutdown equal to the product of 1 day's worth of pay under such annual rate and the number of 24-hour periods during which the government shutdown is in effect. Makes such reduction applicable to days occurring after the date of the general election for federal office held in November 2016. </p> <p>Requires any amount of pay of a Member of Congress in the 114th Congress that is reduced due to a government shutdown to be held in escrow until the last day of the 114th Congress and released for payment to Members at that time.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-05-18T19:41:43Z</lastSummaryUpdateDate>
+          <updateDate>2015-04-23T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>S001180</bioguideId>
+          <gpoId>8118</gpoId>
+          <lisID>1950</lisID>
+        </identifiers>
+        <district>5</district>
+        <party>D</party>
+        <bioguideId>S001180</bioguideId>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <firstName>Kurt</firstName>
+        <state>OR</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Schrader</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to House Oversight and Government Reform</text>
+      <actionDate>2015-04-23</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SCHRADER:H.R. 2023.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under:U.S. Const. art. 1, Sec. 1; andU.S. Const. art. 1, Sec. 6[Page H2466]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>COOPER</lastName>
+        <district>5</district>
+        <identifiers>
+          <gpoId>8152</gpoId>
+          <bioguideId>C000754</bioguideId>
+          <lisID>231</lisID>
+        </identifiers>
+        <state>TN</state>
+        <firstName>JAMES</firstName>
+        <bioguideId>C000754</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>H.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>DelBene</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>2096</lisID>
+          <bioguideId>D000617</bioguideId>
+          <gpoId>8374</gpoId>
+        </identifiers>
+        <state>WA</state>
+        <firstName>Suzan</firstName>
+        <bioguideId>D000617</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Costa</lastName>
+        <district>16</district>
+        <identifiers>
+          <lisID>1774</lisID>
+          <bioguideId>C001059</bioguideId>
+          <gpoId>7825</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Jim</firstName>
+        <bioguideId>C001059</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Peters</lastName>
+        <district>52</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000608</bioguideId>
+          <lisID>2113</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Scott</firstName>
+        <bioguideId>P000608</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>H.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bera</lastName>
+        <district>7</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001287</bioguideId>
+          <lisID>2102</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Ami</firstName>
+        <bioguideId>B001287</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-09-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Loebsack</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+          <bioguideId>L000565</bioguideId>
+        </identifiers>
+        <state>IA</state>
+        <firstName>David</firstName>
+        <bioguideId>L000565</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Ashford, Brad [D-NE-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-09-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ashford</lastName>
+        <district>2</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000373</bioguideId>
+          <lisID>2257</lisID>
+        </identifiers>
+        <state>NE</state>
+        <firstName>Brad</firstName>
+        <bioguideId>A000373</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-09-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Moulton</lastName>
+        <district>6</district>
+        <identifiers>
+          <lisID>2246</lisID>
+          <gpoId />
+          <bioguideId>M001196</bioguideId>
+        </identifiers>
+        <state>MA</state>
+        <firstName>Seth</firstName>
+        <bioguideId>M001196</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-09-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lujan Grisham</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>2146</lisID>
+          <bioguideId>L000580</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>NM</state>
+        <firstName>Michelle</firstName>
+        <bioguideId>L000580</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Graham, Gwen [D-FL-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-09-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Graham</lastName>
+        <district>2</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000575</bioguideId>
+          <lisID>2234</lisID>
+        </identifiers>
+        <state>FL</state>
+        <firstName>Gwen</firstName>
+        <bioguideId>G000575</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Kirkpatrick, Ann [D-AZ-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-09-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kirkpatrick</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1907</lisID>
+          <bioguideId>K000368</bioguideId>
+          <gpoId>7220</gpoId>
+        </identifiers>
+        <state>AZ</state>
+        <firstName>Ann</firstName>
+        <bioguideId>K000368</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-09-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bordallo</lastName>
+        <district>0</district>
+        <identifiers>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+          <bioguideId>B001245</bioguideId>
+        </identifiers>
+        <state>GU</state>
+        <firstName>Madeleine</firstName>
+        <bioguideId>B001245</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Z.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-09-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Speier</lastName>
+        <district>14</district>
+        <identifiers>
+          <lisID>1890</lisID>
+          <gpoId>7817</gpoId>
+          <bioguideId>S001175</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Jackie</firstName>
+        <bioguideId>S001175</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Duckworth, Tammy [D-IL-8]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-09-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Duckworth</lastName>
+        <district>8</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+        </identifiers>
+        <state>IL</state>
+        <firstName>Tammy</firstName>
+        <bioguideId>D000622</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-09-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Foster</lastName>
+        <district>11</district>
+        <identifiers>
+          <lisID>1888</lisID>
+          <gpoId>7355</gpoId>
+          <bioguideId>F000454</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <firstName>Bill</firstName>
+        <bioguideId>F000454</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-09-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gabbard</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>2122</lisID>
+          <gpoId />
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <state>HI</state>
+        <firstName>Tulsi</firstName>
+        <bioguideId>G000571</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Takai, Mark [D-HI-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Takai</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>2240</lisID>
+          <bioguideId>T000473</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>HI</state>
+        <firstName>Mark</firstName>
+        <bioguideId>T000473</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-04-24T09:19:22Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

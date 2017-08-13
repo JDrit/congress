@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on House Administration.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-14</actionDate>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-14</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-14</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <congress>115</congress>
+    <createDate>2017-06-15T03:11:34Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-06-14T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2017-06-14</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Expresses the sense of Congress that: (1) the United States Capitol Police is an invaluable asset to Congress and the community; (2) its officers deserve the utmost appreciation and respect; and (3) the congressional community is expressly grateful for the innumerable contributions and sacrifices of its officers to secure the U.S. Capitol complex and protect Members of Congress, their staff, and the general public.</p>]]></text>
+          <lastSummaryUpdateDate>2017-07-05T18:27:47Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2017-06-14</actionDate>
+    </latestAction>
+    <title>Expressing the sense of Congress regarding the United States Capitol Police and their role in securing the United States Capitol complex and protecting Members of Congress, their staff, and the general public.</title>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <lastName>Reichert</lastName>
+        <identifiers>
+          <gpoId>8212</gpoId>
+          <bioguideId>R000578</bioguideId>
+          <lisID>1810</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <state>WA</state>
+        <district>8</district>
+        <bioguideId>R000578</bioguideId>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <middleName>G.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <lastName>Carson</lastName>
+        <identifiers>
+          <lisID>1889</lisID>
+          <bioguideId>C001072</bioguideId>
+          <gpoId>7946</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <state>IN</state>
+        <district>7</district>
+        <bioguideId>C001072</bioguideId>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Andre</firstName>
+      </item>
+      <item>
+        <lastName>PASCRELL</lastName>
+        <identifiers>
+          <lisID>1510</lisID>
+          <gpoId>8050</gpoId>
+          <bioguideId>P000096</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <state>NJ</state>
+        <district>9</district>
+        <bioguideId>P000096</bioguideId>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>WILLIAM</firstName>
+      </item>
+      <item>
+        <lastName>NORTON</lastName>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <state>DC</state>
+        <district>0</district>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <middleName>HOLMES</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>ELEANOR</firstName>
+      </item>
+      <item>
+        <lastName>VELAZQUEZ</lastName>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <state>NY</state>
+        <district>7</district>
+        <bioguideId>V000081</bioguideId>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>NYDIA</firstName>
+      </item>
+      <item>
+        <lastName>Loebsack</lastName>
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <state>IA</state>
+        <district>2</district>
+        <bioguideId>L000565</bioguideId>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <lastName>Comstock</lastName>
+        <identifiers>
+          <bioguideId>C001105</bioguideId>
+          <lisID>2273</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <state>VA</state>
+        <district>10</district>
+        <bioguideId>C001105</bioguideId>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>Barbara</firstName>
+      </item>
+      <item>
+        <lastName>Kelly</lastName>
+        <identifiers>
+          <bioguideId>K000385</bioguideId>
+          <lisID>2190</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <state>IL</state>
+        <district>2</district>
+        <bioguideId>K000385</bioguideId>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Robin</firstName>
+      </item>
+      <item>
+        <lastName>Donovan</lastName>
+        <identifiers>
+          <bioguideId>D000625</bioguideId>
+          <lisID>2293</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <state>NY</state>
+        <district>11</district>
+        <bioguideId>D000625</bioguideId>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>Daniel</firstName>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <introducedDate>2017-06-14</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Expressing the sense of Congress regarding the United States Capitol Police and their role in securing the United States Capitol complex and protecting Members of Congress, their staff, and the general public.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Expressing the sense of Congress regarding the United States Capitol Police and their role in securing the United States Capitol complex and protecting Members of Congress, their staff, and the general public.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <bioguideId>J000126</bioguideId>
+        <lastName>JOHNSON</lastName>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <middleName>BERNICE</middleName>
+        <identifiers>
+          <lisID>599</lisID>
+          <bioguideId>J000126</bioguideId>
+          <gpoId>8186</gpoId>
+        </identifiers>
+        <party>D</party>
+        <state>TX</state>
+        <firstName>EDDIE</firstName>
+        <district>30</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HCONRES</billType>
+    <notes />
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional agencies</name>
+          </item>
+          <item>
+            <name>Congressional officers and employees</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Protection of officials</name>
+          </item>
+          <item>
+            <name>U.S. Capitol</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <billNumber>64</billNumber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-14T14:00:09Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <recordedVotes />
+    <updateDate>2017-07-05T18:30:09Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

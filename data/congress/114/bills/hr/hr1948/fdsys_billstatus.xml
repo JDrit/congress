@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-05-11</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-04-22</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-04-22</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-04-22</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>To amend title 38, United States Code, to improve the access to child care for certain veterans receiving health care at a facility of the Department of Veterans Affairs.</latestTitle>
+        <number>1496</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2015-04-07</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>Women Veterans and Families Health Services Act of 2015</latestTitle>
+        <number>469</number>
+        <latestAction>
+          <text>Committee on Veterans' Affairs. Hearings held.</text>
+          <actionDate>2015-06-24</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>Women Veterans and Families Health Services Act of 2015</latestTitle>
+        <number>3365</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+          <actionDate>2015-11-23</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>SERVICE Act</latestTitle>
+        <number>6062</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+          <actionDate>2016-10-19</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>1948</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-04-22T14:05:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-05-11T20:57:50Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-04-22</introducedDate>
+    <updateDate>2017-06-02T20:47:56Z</updateDate>
+    <title>Veterans' Access to Child Care Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Veterans' Access to Child Care Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide child care assistance to veterans receiving certain medical services provided by the Department of Veterans Affairs.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Veterans' Access to Child Care Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-04-22T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Veterans' Access to Child Care Act</strong></p> <p>Directs the Department of Veterans Affairs (VA) to provide child care assistance to an eligible veteran for any period that the veteran: (1) receives covered health care services at a VA facility, and (2) is required to travel to and return from such facility for the receipt of such services.</p> <p>Defines: (1) &quot;covered health care services&quot; to mean regular mental health care services, intensive mental health care services, or such other intensive health care services to which the VA determines that provision of child care assistance would improve the veteran's access; and (2) &quot;eligible veteran&quot; as a veteran who is the primary caretaker of a child and who is receiving covered health care services from the VA or who is in need of, and who would receive, such services from the VA but for lack of child care.</p> <p>Includes among child care assistance to be provided under this Act:</p> <ul> <li>a stipend for the payment of the full cost of child care offered by a licensed child care center, which shall be modeled after the VA's Child Care Subsidy Program;</li> <li>direct provision of child care at an on-site VA facility;</li> <li>a payment made directly to a private child care agency; and </li> <li>collaboration with a facility or program of another federal department or agency. </li> </ul>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-07-09T21:48:29Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-04-22</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2106</lisID>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+        </identifiers>
+        <district>26</district>
+        <party>D</party>
+        <bioguideId>B001285</bioguideId>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <firstName>Julia</firstName>
+        <state>CA</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Brownley</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2015-05-11</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. BROWNLEY of California:H.R. 1948.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 14To make Rules for the Government and Regulation of the landand naval Forces.[Page H2418]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <gpoId />
+          <lisID>2109</lisID>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <middleName />
+        <state>CA</state>
+        <district>36</district>
+        <lastName>Ruiz</lastName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000599</bioguideId>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000472</bioguideId>
+          <gpoId />
+          <lisID>2110</lisID>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <middleName />
+        <state>CA</state>
+        <district>41</district>
+        <lastName>Takano</lastName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000472</bioguideId>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7875</gpoId>
+          <bioguideId>B000911</bioguideId>
+          <lisID>132</lisID>
+        </identifiers>
+        <firstName>CORRINE</firstName>
+        <middleName />
+        <state>FL</state>
+        <district>5</district>
+        <lastName>BROWN</lastName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000911</bioguideId>
+        <fullName>Rep. Brown, Corrine [D-FL-5]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1940</lisID>
+          <gpoId>7493</gpoId>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <firstName>Dina</firstName>
+        <middleName />
+        <state>NV</state>
+        <district>1</district>
+        <lastName>Titus</lastName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000468</bioguideId>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1856</lisID>
+          <bioguideId>W000799</bioguideId>
+          <gpoId>8001</gpoId>
+        </identifiers>
+        <firstName>Timothy</firstName>
+        <middleName>J.</middleName>
+        <state>MN</state>
+        <district>1</district>
+        <lastName>Walz</lastName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000799</bioguideId>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1832</lisID>
+          <gpoId>7816</gpoId>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <firstName>Jerry</firstName>
+        <middleName />
+        <state>CA</state>
+        <district>9</district>
+        <lastName>McNerney</lastName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001166</bioguideId>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2145</lisID>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <firstName>Ann</firstName>
+        <middleName>M.</middleName>
+        <state>NH</state>
+        <district>2</district>
+        <lastName>Kuster</lastName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000382</bioguideId>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <gpoId />
+          <lisID>2262</lisID>
+        </identifiers>
+        <firstName>Kathleen</firstName>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <district>4</district>
+        <lastName>Rice</lastName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000602</bioguideId>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>O000170</bioguideId>
+          <lisID>2162</lisID>
+        </identifiers>
+        <firstName>Beto</firstName>
+        <middleName />
+        <state>TX</state>
+        <district>16</district>
+        <lastName>O'Rourke</lastName>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>O000170</bioguideId>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+          <bioguideId>B001245</bioguideId>
+        </identifiers>
+        <firstName>Madeleine</firstName>
+        <middleName>Z.</middleName>
+        <state>GU</state>
+        <district>0</district>
+        <lastName>Bordallo</lastName>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001245</bioguideId>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8076</gpoId>
+          <bioguideId>R000053</bioguideId>
+          <lisID>944</lisID>
+        </identifiers>
+        <firstName>CHARLES</firstName>
+        <middleName>B.</middleName>
+        <state>NY</state>
+        <district>13</district>
+        <lastName>RANGEL</lastName>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000053</bioguideId>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2252</lisID>
+          <gpoId />
+          <bioguideId>L000581</bioguideId>
+        </identifiers>
+        <firstName>Brenda</firstName>
+        <middleName>L.</middleName>
+        <state>MI</state>
+        <district>14</district>
+        <lastName>Lawrence</lastName>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000581</bioguideId>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1794</lisID>
+          <gpoId>8088</gpoId>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <firstName>Brian</firstName>
+        <middleName />
+        <state>NY</state>
+        <district>26</district>
+        <lastName>Higgins</lastName>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001038</bioguideId>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001034</bioguideId>
+          <gpoId>7820</gpoId>
+          <lisID>1634</lisID>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+        <middleName>M.</middleName>
+        <state>CA</state>
+        <district>17</district>
+        <lastName>HONDA</lastName>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001034</bioguideId>
+        <fullName>Rep. Honda, Michael M. [D-CA-17]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Tulsi</firstName>
+        <middleName />
+        <state>HI</state>
+        <district>2</district>
+        <lastName>Gabbard</lastName>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000571</bioguideId>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>I000057</bioguideId>
+          <gpoId>8063</gpoId>
+          <lisID>1663</lisID>
+        </identifiers>
+        <firstName>STEVE</firstName>
+        <middleName />
+        <state>NY</state>
+        <district>3</district>
+        <lastName>ISRAEL</lastName>
+        <sponsorshipDate>2015-05-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>I000057</bioguideId>
+        <fullName>Rep. Israel, Steve [D-NY-3]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+        </identifiers>
+        <firstName>ZOE</firstName>
+        <middleName />
+        <state>CA</state>
+        <district>19</district>
+        <lastName>LOFGREN</lastName>
+        <sponsorshipDate>2015-05-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000397</bioguideId>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>709</lisID>
+          <gpoId>8079</gpoId>
+          <bioguideId>L000480</bioguideId>
+        </identifiers>
+        <firstName>NITA</firstName>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <district>17</district>
+        <lastName>LOWEY</lastName>
+        <sponsorshipDate>2015-06-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000480</bioguideId>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2113</lisID>
+          <gpoId />
+          <bioguideId>P000608</bioguideId>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <middleName>H.</middleName>
+        <state>CA</state>
+        <district>52</district>
+        <lastName>Peters</lastName>
+        <sponsorshipDate>2015-06-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000608</bioguideId>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+          <bioguideId>L000559</bioguideId>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <middleName>R.</middleName>
+        <state>RI</state>
+        <district>2</district>
+        <lastName>LANGEVIN</lastName>
+        <sponsorshipDate>2015-06-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000559</bioguideId>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+        </identifiers>
+        <firstName>Peter</firstName>
+        <middleName />
+        <state>VT</state>
+        <district>0</district>
+        <lastName>Welch</lastName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000800</bioguideId>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <middleName />
+        <state>TN</state>
+        <district>9</district>
+        <lastName>Cohen</lastName>
+        <sponsorshipDate>2015-06-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001068</bioguideId>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2196</lisID>
+          <gpoId />
+          <bioguideId>C001101</bioguideId>
+        </identifiers>
+        <firstName>Katherine</firstName>
+        <middleName>M.</middleName>
+        <state>MA</state>
+        <district>5</district>
+        <lastName>Clark</lastName>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001101</bioguideId>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+        </identifiers>
+        <firstName>PETER</firstName>
+        <middleName>A.</middleName>
+        <state>OR</state>
+        <district>4</district>
+        <lastName>DEFAZIO</lastName>
+        <sponsorshipDate>2015-09-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000191</bioguideId>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <firstName>GRACE</firstName>
+        <middleName>F.</middleName>
+        <state>CA</state>
+        <district>32</district>
+        <lastName>NAPOLITANO</lastName>
+        <sponsorshipDate>2015-09-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000179</bioguideId>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>683</lisID>
+          <gpoId>7997</gpoId>
+          <bioguideId>L000263</bioguideId>
+        </identifiers>
+        <firstName>SANDER</firstName>
+        <middleName>M.</middleName>
+        <state>MI</state>
+        <district>9</district>
+        <lastName>LEVIN</lastName>
+        <sponsorshipDate>2015-09-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000263</bioguideId>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <firstName>Judy</firstName>
+        <middleName />
+        <state>CA</state>
+        <district>27</district>
+        <lastName>Chu</lastName>
+        <sponsorshipDate>2015-09-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001080</bioguideId>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7852</gpoId>
+          <bioguideId>S000030</bioguideId>
+          <lisID>1522</lisID>
+        </identifiers>
+        <firstName>LORETTA</firstName>
+        <middleName />
+        <state>CA</state>
+        <district>46</district>
+        <lastName>SANCHEZ</lastName>
+        <sponsorshipDate>2016-02-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000030</bioguideId>
+        <fullName>Rep. Sanchez, Loretta [D-CA-46]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2227</lisID>
+          <bioguideId>D000623</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Mark</firstName>
+        <middleName />
+        <state>CA</state>
+        <district>11</district>
+        <lastName>DeSaulnier</lastName>
+        <sponsorshipDate>2016-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000623</bioguideId>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8058</gpoId>
+          <bioguideId>L000570</bioguideId>
+          <lisID>1939</lisID>
+        </identifiers>
+        <firstName>Ben</firstName>
+        <middleName>Ray</middleName>
+        <state>NM</state>
+        <district>3</district>
+        <lastName>Lujan</lastName>
+        <sponsorshipDate>2016-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000570</bioguideId>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-04-23T09:12:28Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

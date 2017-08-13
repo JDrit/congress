@@ -1,0 +1,79 @@
+<bill session="115" type="h" number="2281" updated="2017-06-19T22:15:21Z">
+  <state datetime="2017-05-17T15:58:58-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-05-17T15:58:58-04:00"/>
+  </status>
+  <introduced datetime="2017-05-02"/>
+  <titles>
+    <title type="short" as="introduced">Border Enforcement Security Task Force Reauthorization Act of 2017</title>
+    <title type="short" as="introduced">Border Enforcement Security Task Force Reauthorization Act of 2017</title>
+    <title type="short" as="passed house">Border Enforcement Security Task Force Reauthorization Act of 2017</title>
+    <title type="short" as="passed house">Border Enforcement Security Task Force Reauthorization Act of 2017</title>
+    <title type="short" as="reported to house">Border Enforcement Security Task Force Reauthorization Act of 2017</title>
+    <title type="short" as="reported to house">Border Enforcement Security Task Force Reauthorization Act of 2017</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to reauthorize the Border Enforcement Security Task Force program within the Department of Homeland Security, and for other purposes.</title>
+    <title type="display">Border Enforcement Security Task Force Reauthorization Act of 2017</title>
+  </titles>
+  <sponsor id="412580"/>
+  <cosponsors>
+    <cosponsor id="412687" joined="2017-05-02"/>
+    <cosponsor id="412688" joined="2017-05-02"/>
+    <cosponsor id="412611" joined="2017-05-02"/>
+    <cosponsor id="412432" joined="2017-05-02"/>
+    <cosponsor id="400402" joined="2017-05-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-02">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-02" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-05-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-05-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-05-16">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-122.</text>
+    </action>
+    <calendar datetime="2017-05-16" calendar="Union" number="75">
+      <text>Placed on the Union Calendar, Calendar No. 75.</text>
+    </calendar>
+    <action datetime="2017-05-17T15:47:28-04:00">
+      <text>Mr. Katko moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-05-17T15:47:40-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4271-4273" label="consideration"/>
+    </action>
+    <action datetime="2017-05-17T15:47:42-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2281.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-05-17T15:58:58-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4271" label="text"/>
+    </vote>
+    <action datetime="2017-05-17T15:59:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-05-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="115" type="s" number="1199"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 115-122</report>
+  </committee-reports>
+</bill>

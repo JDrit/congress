@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-06-12</actionDate>
+        <committee>
+          <name>Energy and Power Subcommittee</name>
+          <systemCode>hsif03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2015-06-10</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-06-10</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-06-10</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Committee on Energy and Natural Resources. Hearings held.</text>
+          <actionDate>2015-05-19</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>1270</number>
+        <latestTitle>RIVER Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>2724</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Energy and Power Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-06-12T14:58:34Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif03</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2015-06-10T14:00:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-06-10</introducedDate>
+    <updateDate>2017-06-02T21:19:13Z</updateDate>
+    <title>RIVER Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>RIVER Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Reliable Investment in Vital Energy Reauthorization Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Energy Policy Act of 2005 to reauthorize hydroelectric production incentives and hydroelectric efficiency improvement incentives, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>RIVER Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-08-24T14:27:21Z</lastSummaryUpdateDate>
+          <updateDate>2015-06-10T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2015-06-10</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p> <b>Reliable Investment in Vital Energy Reauthorization Act or the RIVER Act</b></p> <p>This bill amends the Energy Policy Act of 2005 to reauthorize through FY2025 the program of hydroelectric production incentives and incentive payments to the owners or operators of hydroelectric facilities at existing dams to make capital improvements directly related to improving efficiency. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <bioguideId>M001180</bioguideId>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <firstName>David</firstName>
+        <state>WV</state>
+        <middleName>B.</middleName>
+        <byRequestType />
+        <lastName>McKinley</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <actionDate>2015-06-12</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McKINLEY:H.R. 2724.Congress has the power to enact this legislation pursuantto the following:According to Article I, Section 8, Clause 3 of theConstitution: The Congress shall have power to enact thislegislation to regulate commerce with foreign nations, andamong the several states, and with the Indian tribes.[Page H4137]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>J000292</bioguideId>
+        <lastName>Johnson</lastName>
+        <state>OH</state>
+        <firstName>Bill</firstName>
+        <sponsorshipDate>2015-06-10</sponsorshipDate>
+        <identifiers>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>B001282</bioguideId>
+        <lastName>Barr</lastName>
+        <state>KY</state>
+        <firstName>Andy</firstName>
+        <sponsorshipDate>2015-06-10</sponsorshipDate>
+        <identifiers>
+          <lisID>2131</lisID>
+          <gpoId />
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>D000197</bioguideId>
+        <lastName>DEGETTE</lastName>
+        <state>CO</state>
+        <firstName>DIANA</firstName>
+        <sponsorshipDate>2015-06-10</sponsorshipDate>
+        <identifiers>
+          <gpoId>7859</gpoId>
+          <bioguideId>D000197</bioguideId>
+          <lisID>1479</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>L000565</bioguideId>
+        <lastName>Loebsack</lastName>
+        <state>IA</state>
+        <firstName>David</firstName>
+        <sponsorshipDate>2015-06-10</sponsorshipDate>
+        <identifiers>
+          <gpoId>7915</gpoId>
+          <bioguideId>L000565</bioguideId>
+          <lisID>1846</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Dams and canals</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-06-11T14:06:31Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

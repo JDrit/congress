@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-02-06</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2015-02-05</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2015-02-05</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2015-02-05</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-07-13</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <latestTitle>21st Century Cures Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>6</number>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>789</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-02-06T18:54:29Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-02-05T14:05:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-02-05</introducedDate>
+    <updateDate>2017-06-02T20:05:07Z</updateDate>
+    <title>Tick-Borne Disease Research Accountability and Transparency Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Tick-Borne Disease Research Accountability and Transparency Act of 2015</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for research with respect to Lyme disease and other tick-borne diseases, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Tick-Borne Disease Research Accountability and Transparency Act of 2015</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-02-05</actionDate>
+          <updateDate>2015-02-05T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-05-20T16:27:21Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Tick-Borne Disease Research Accountability and Transparency Act of 2015</b></p> <p>Amends the Public Health Service Act to require the Department of Health and Human Services (HHS) to conduct or support epidemiological, basic, translational, and clinical research regarding Lyme disease and other tick-borne diseases.</p> <p>Directs HHS to establish the Interagency Lyme and Tick-Borne Disease Working Group to review all HHS efforts concerning tick-borne diseases to ensure interagency coordination and examine research priorities. Requires the Working Group to: (1) provide a summary of tick-borne disease research, advances, and scientific viewpoints every two years; (2) make recommendations to HHS regarding tick-borne disease activities; and (3) hold annual public meetings.</p>Requires HHS to submit a strategic plan for tick-borne disease research within three years of enactment and every five years thereafter that includes: (1) budgetary requirements; (2) benchmarks for improving tick-borne disease diagnosis, treatment, outcomes, and prevention; and (3) a plan to disseminate Working Group summaries and other relevant information on tick-borne disease to health professionals and the public.]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8081</gpoId>
+          <bioguideId>G000564</bioguideId>
+          <lisID>2043</lisID>
+        </identifiers>
+        <district>19</district>
+        <party>R</party>
+        <bioguideId>G000564</bioguideId>
+        <fullName>Rep. Gibson, Christopher P. [R-NY-19]</fullName>
+        <firstName>Christopher</firstName>
+        <state>NY</state>
+        <middleName>P.</middleName>
+        <byRequestType />
+        <lastName>Gibson</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2015-02-06</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GIBSON:H.R. 789.Congress has the power to enact this legislation pursuantto the following:Clause I, of section 8, of article I.[Page H857]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2150</lisID>
+          <gpoId />
+          <bioguideId>M001185</bioguideId>
+        </identifiers>
+        <firstName>Sean</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <district>18</district>
+        <middleName>Patrick</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Maloney</lastName>
+        <bioguideId>M001185</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>VA</state>
+        <identifiers>
+          <gpoId>8192</gpoId>
+          <bioguideId>W000804</bioguideId>
+          <lisID>1886</lisID>
+        </identifiers>
+        <firstName>Robert</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <district>1</district>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wittman</lastName>
+        <bioguideId>W000804</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>S000522</bioguideId>
+          <gpoId>8046</gpoId>
+          <lisID>1071</lisID>
+        </identifiers>
+        <firstName>CHRISTOPHER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <district>4</district>
+        <middleName>H.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>SMITH</lastName>
+        <bioguideId>S000522</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>Z000017</bioguideId>
+          <lisID>2261</lisID>
+        </identifiers>
+        <firstName>Lee</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <district>1</district>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Zeldin</lastName>
+        <bioguideId>Z000017</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+          <lisID>2264</lisID>
+        </identifiers>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <district>24</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Katko</lastName>
+        <bioguideId>K000386</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>CT</state>
+        <identifiers>
+          <lisID>1836</lisID>
+          <gpoId>7867</gpoId>
+          <bioguideId>C001069</bioguideId>
+        </identifiers>
+        <firstName>Joe</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <district>2</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Courtney</lastName>
+        <bioguideId>C001069</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>VT</state>
+        <identifiers>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+        </identifiers>
+        <firstName>Peter</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <district>0</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Welch</lastName>
+        <bioguideId>W000800</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>PA</state>
+        <identifiers>
+          <gpoId>8129</gpoId>
+          <bioguideId>B001269</bioguideId>
+          <lisID>2054</lisID>
+        </identifiers>
+        <firstName>Lou</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <district>11</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Barletta</lastName>
+        <bioguideId>B001269</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2263</lisID>
+          <gpoId />
+          <bioguideId>S001196</bioguideId>
+        </identifiers>
+        <firstName>Elise</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <district>21</district>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Stefanik</lastName>
+        <bioguideId>S001196</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <firstName>William</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>9</district>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Keating</lastName>
+        <bioguideId>K000375</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>PA</state>
+        <identifiers>
+          <lisID>1799</lisID>
+          <gpoId>8133</gpoId>
+          <bioguideId>D000604</bioguideId>
+        </identifiers>
+        <firstName>Charles</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Dent, Charles W. [R-PA-15]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>15</district>
+        <middleName>W.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Dent</lastName>
+        <bioguideId>D000604</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>VA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001105</bioguideId>
+          <lisID>2273</lisID>
+        </identifiers>
+        <firstName>Barbara</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <sponsorshipDate>2015-04-17</sponsorshipDate>
+        <district>10</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Comstock</lastName>
+        <bioguideId>C001105</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>CT</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000293</bioguideId>
+          <lisID>2114</lisID>
+        </identifiers>
+        <firstName>Elizabeth</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <sponsorshipDate>2015-04-30</sponsorshipDate>
+        <district>5</district>
+        <middleName>H.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Esty</lastName>
+        <bioguideId>E000293</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>IA</state>
+        <identifiers>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+          <bioguideId>L000565</bioguideId>
+        </identifiers>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <sponsorshipDate>2015-05-13</sponsorshipDate>
+        <district>2</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Loebsack</lastName>
+        <bioguideId>L000565</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001106</bioguideId>
+          <gpoId />
+          <lisID>2266</lisID>
+        </identifiers>
+        <firstName>Ryan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <sponsorshipDate>2015-06-01</sponsorshipDate>
+        <district>6</district>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Costello</lastName>
+        <bioguideId>C001106</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>355</lisID>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+        </identifiers>
+        <firstName>ANNA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <sponsorshipDate>2015-06-09</sponsorshipDate>
+        <district>18</district>
+        <middleName>G.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>ESHOO</lastName>
+        <bioguideId>E000215</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <lisID>910</lisID>
+          <bioguideId>P000258</bioguideId>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <firstName>COLLIN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <district>7</district>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>PETERSON</lastName>
+        <bioguideId>P000258</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>FL</state>
+        <identifiers>
+          <gpoId>7887</gpoId>
+          <bioguideId>P000599</bioguideId>
+          <lisID>1915</lisID>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <district>8</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Posey</lastName>
+        <bioguideId>P000599</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>H001051</bioguideId>
+          <gpoId>8085</gpoId>
+          <lisID>2044</lisID>
+        </identifiers>
+        <firstName>Richard</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Hanna, Richard L. [R-NY-22]</fullName>
+        <sponsorshipDate>2015-07-27</sponsorshipDate>
+        <district>22</district>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hanna</lastName>
+        <bioguideId>H001051</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000379</bioguideId>
+          <lisID>2172</lisID>
+        </identifiers>
+        <firstName>Joseph</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <district>4</district>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kennedy</lastName>
+        <bioguideId>K000379</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>DE</state>
+        <identifiers>
+          <bioguideId>C001083</bioguideId>
+          <gpoId>7872</gpoId>
+          <lisID>1999</lisID>
+        </identifiers>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Carney, John C., Jr. [D-DE-At Large]</fullName>
+        <sponsorshipDate>2016-04-15</sponsorshipDate>
+        <district>0</district>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Carney</lastName>
+        <bioguideId>C001083</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>F000372</bioguideId>
+          <gpoId>8053</gpoId>
+          <lisID>414</lisID>
+        </identifiers>
+        <firstName>RODNEY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Frelinghuysen, Rodney P. [R-NJ-11]</fullName>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <district>11</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>FRELINGHUYSEN</lastName>
+        <bioguideId>F000372</bioguideId>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Insects</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-02-06T04:59:53Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

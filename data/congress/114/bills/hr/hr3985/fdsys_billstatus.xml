@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-03-23</actionDate>
+        <committee>
+          <name>Higher Education and Workforce Training Subcommittee</name>
+          <systemCode>hsed13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-11-05</actionDate>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-11-05</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-11-05</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-07-30</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S6189)</text>
+        </latestAction>
+        <latestTitle>JOBS Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1900</number>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>3985</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Higher Education and Workforce Training Subcommittee</name>
+              <systemCode>hsed13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-03-23T21:10:28Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-11-05T14:03:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-11-05</introducedDate>
+    <updateDate>2017-06-02T21:38:51Z</updateDate>
+    <title>JOBS Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>JOBS Act of 2015</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Jumpstart Our Businesses by Supporting Students Act of 2015</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Higher Education Act of 1965 to allow the Secretary of Education to award job training Federal Pell Grants.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>JOBS Act of 2015</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-11-05T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Jumpstart Our Businesses by Supporting Students Act of 2015 or the</b><b> JOBS Act of 2015</b> <p>This bill amends title IV (Student Assistance) of the Higher Education Act of 1965 to establish the Job Training Federal Pell Grant Program. The Department of Education must award job training Federal Pell Grants to eligible students. <p>An eligible student is one who does not have a degree, attends an institution of higher education (IHE), is enrolled in a job training program at such IHE, and meets all other eligibility requirements for a Federal Pell Grant. <p>The maximum job training Federal Pell Grant award is 50% of the discretionary base maximum award specified in annual appropriations law. <p>Any period during which a student receives a job training Federal Pell Grant counts toward that student's Federal Pell Grant eligibility period.<br />]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2016-07-22T18:54:11Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-11-05</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>7960</gpoId>
+          <bioguideId>R000588</bioguideId>
+          <lisID>2023</lisID>
+        </identifiers>
+        <district>2</district>
+        <party>D</party>
+        <bioguideId>R000588</bioguideId>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <firstName>Cedric</firstName>
+        <state>LA</state>
+        <middleName>L.</middleName>
+        <byRequestType />
+        <lastName>Richmond</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+      <actionDate>2016-03-23</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RICHMOND:H.R. 3985.Congress has the power to enact this legislation pursuantto the following:This bill is introduced pursuant to the powers granted toCongress under the General Welfare Clause (Art. 1 Sec. 8 Cl.1), the Commerce Clause (Art. 1 Sec. 8 Cl. 3), and theNecessary and Proper Clause (Art. 1 Sec. 8 Cl. 18).Further, this statement of constitutional authority is madefor the sole purpose of compliance with clause 7 of Rule XIIof the Rules of the House of Representatives and shall haveno bearing on judicial review of the accompanying bill.[Page H8154]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-11-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lawrence</lastName>
+        <district>14</district>
+        <identifiers>
+          <bioguideId>L000581</bioguideId>
+          <gpoId />
+          <lisID>2252</lisID>
+        </identifiers>
+        <state>MI</state>
+        <firstName>Brenda</firstName>
+        <bioguideId>L000581</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-02-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Loebsack</lastName>
+        <district>2</district>
+        <identifiers>
+          <gpoId>7915</gpoId>
+          <bioguideId>L000565</bioguideId>
+          <lisID>1846</lisID>
+        </identifiers>
+        <state>IA</state>
+        <firstName>David</firstName>
+        <bioguideId>L000565</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-02-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wilson</lastName>
+        <district>24</district>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <gpoId>7889</gpoId>
+          <lisID>2004</lisID>
+        </identifiers>
+        <state>FL</state>
+        <firstName>Frederica</firstName>
+        <bioguideId>W000808</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>S.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-02-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>KIND</lastName>
+        <district>3</district>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <state>WI</state>
+        <firstName>RON</firstName>
+        <bioguideId>K000188</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-03-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ross</lastName>
+        <district>15</district>
+        <identifiers>
+          <bioguideId>R000593</bioguideId>
+          <gpoId>7884</gpoId>
+          <lisID>2003</lisID>
+        </identifiers>
+        <state>FL</state>
+        <firstName>Dennis</firstName>
+        <bioguideId>R000593</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Swalwell</lastName>
+        <district>15</district>
+        <identifiers>
+          <bioguideId>S001193</bioguideId>
+          <gpoId />
+          <lisID>2104</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Eric</firstName>
+        <bioguideId>S001193</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Vocational and technical education</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-11-06T10:19:27Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

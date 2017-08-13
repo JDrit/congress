@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors />
+    <updateDate>2017-08-07T13:18:21Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <state>IN</state>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <bioguideId>D000607</bioguideId>
+        <middleName />
+        <byRequestType />
+        <lastName>Donnelly</lastName>
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <lisID>1850</lisID>
+          <gpoId>7941</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <laws />
+    <relatedBills />
+    <createDate>2017-08-02T00:26:44Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssra00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-08-01T15:17:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Rules and Administration Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+      <links />
+      <actionDate>2017-08-01</actionDate>
+    </latestAction>
+    <recordedVotes />
+    <introducedDate>2017-08-01</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <actionDate>2017-08-01</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <title>A bill to amend the Federal Election Campaign Act of 1971 to reduce the number of members of the Federal Election Commission from 6 to 5, to revise the method of selection and terms of service of members of the Commission, to distribute the powers of the Commission between the Chair and the remaining members, and for other purposes.</title>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Federal Election Campaign Act of 1971 to reduce the number of members of the Federal Election Commission from 6 to 5, to revise the method of selection and terms of service of members of the Commission, to distribute the powers of the Commission between the Chair and the remaining members, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Federal Election Campaign Act of 1971 to reduce the number of members of the Federal Election Commission from 6 to 5, to revise the method of selection and terms of service of members of the Commission, to distribute the powers of the Commission between the Chair and the remaining members, and for other purposes.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>1683</billNumber>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

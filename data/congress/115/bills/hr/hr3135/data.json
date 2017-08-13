@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-06-29", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3135-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "W000187", 
+      "district": "43", 
+      "name": "Waters, Maxine", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-06-29", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-06-29", 
+  "number": "3135", 
+  "official_title": "To authorize the Administrator of the Federal Emergency Management Agency to make grants to consortia of States and communities to hire individuals to coordinate the Community Rating System program under the National Flood Insurance Program for the States and communities who are members of the consortia, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Community Flood Insurance Savings Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "K000375", 
+    "district": "9", 
+    "name": "Keating, William R.", 
+    "state": "MA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-06-29", 
+  "subjects": [
+    "Finance and financial sector"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Community Flood Insurance Savings Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Community Flood Insurance Savings Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Administrator of the Federal Emergency Management Agency to make grants to consortia of States and communities to hire individuals to coordinate the Community Rating System program under the National Flood Insurance Program for the States and communities who are members of the consortia, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Community Flood Insurance Savings Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-14T20:00:12Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3135.xml"
+}

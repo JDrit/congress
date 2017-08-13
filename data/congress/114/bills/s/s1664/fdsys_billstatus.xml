@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-06-24</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-06-24</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+          <actionDate>2016-03-23</actionDate>
+        </latestAction>
+        <latestTitle>Military and Veterans Education Protection Act</latestTitle>
+        <number>3988</number>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+          <actionDate>2016-03-23</actionDate>
+        </latestAction>
+        <latestTitle>Ensuring Quality Education for Veterans Act</latestTitle>
+        <number>4054</number>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+          <actionDate>2016-10-19</actionDate>
+        </latestAction>
+        <latestTitle>SERVICE Act</latestTitle>
+        <number>6062</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>1664</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2015-06-24T19:59:43Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-06-24</introducedDate>
+    <updateDate>2017-06-02T23:14:10Z</updateDate>
+    <title>Military and Veterans Education Protection Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Military and Veterans Education Protection Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to count revenues from military and veteran education programs toward the limit on Federal revenues that certain proprietary institutions of higher education are allowed to receive for purposes of section 487 of the Higher Education Act of 1965, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Military and Veterans Education Protection Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-08-27T22:05:33Z</lastSummaryUpdateDate>
+          <updateDate>2015-06-24T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2015-06-24</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Military and Veterans Education Protection Act</b></p> <p>This bill amends title IV (Student Assistance) of the Higher Education Act of 1965 to require proprietary institutions of higher education to derive at least 10% of their revenue from sources other than federal educational assistance, or risk becoming ineligible for title IV funding. Federal educational assistance includes title IV federal student aid and federal educational assistance for military personnel and veterans. Currently, this so-called 90/10 rule requires proprietary institutions to derive at least 10% of their revenue from sources other than title IV federal student aid, but it allows federal educational assistance for military personnel and veterans to count toward the 10%. <br /></p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>179</lisID>
+          <gpoId>8283</gpoId>
+          <bioguideId>C000174</bioguideId>
+        </identifiers>
+        <firstName>THOMAS</firstName>
+        <party>D</party>
+        <bioguideId>C000174</bioguideId>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <state>DE</state>
+        <middleName>R.</middleName>
+        <byRequestType />
+        <lastName>CARPER</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2015-06-24</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+        <lastName>DURBIN</lastName>
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <firstName>RICHARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+        <lastName>Blumenthal</lastName>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Richard</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>M001111</bioguideId>
+        <state>WA</state>
+        <lastName>MURRAY</lastName>
+        <identifiers>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+          <lisID>1409</lisID>
+        </identifiers>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>PATTY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <lastName>BROWN</lastName>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>SHERROD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>S000148</bioguideId>
+        <state>NY</state>
+        <lastName>SCHUMER</lastName>
+        <identifiers>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <firstName>CHARLES</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>M001170</bioguideId>
+        <state>MO</state>
+        <lastName>McCaskill</lastName>
+        <identifiers>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+          <lisID>1820</lisID>
+        </identifiers>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Claire</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>F000457</bioguideId>
+        <state>MN</state>
+        <lastName>Franken</lastName>
+        <identifiers>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Al</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>S000770</bioguideId>
+        <state>MI</state>
+        <lastName>STABENOW</lastName>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+        </identifiers>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>ANN</middleName>
+        <firstName>DEBORAH</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>F000062</bioguideId>
+        <state>CA</state>
+        <lastName>FEINSTEIN</lastName>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+          <lisID>1332</lisID>
+        </identifiers>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>DIANNE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>B000711</bioguideId>
+        <state>CA</state>
+        <lastName>BOXER</lastName>
+        <identifiers>
+          <lisID>116</lisID>
+          <gpoId>8306</gpoId>
+          <bioguideId>B000711</bioguideId>
+        </identifiers>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>B001230</bioguideId>
+        <state>WI</state>
+        <lastName>BALDWIN</lastName>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>TAMMY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>S001194</bioguideId>
+        <state>HI</state>
+        <lastName>Schatz</lastName>
+        <identifiers>
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>M001169</bioguideId>
+        <state>CT</state>
+        <lastName>Murphy</lastName>
+        <identifiers>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+        <lastName>MENENDEZ</lastName>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+        </identifiers>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>ROBERT</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>R000122</bioguideId>
+        <state>RI</state>
+        <lastName>REED</lastName>
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>F.</middleName>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>M001176</bioguideId>
+        <state>OR</state>
+        <lastName>Merkley</lastName>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+        </identifiers>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+        <lastName>MARKEY</lastName>
+        <identifiers>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <firstName>EDWARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+        <lastName>Coons</lastName>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>P000595</bioguideId>
+        <state>MI</state>
+        <lastName>Peters</lastName>
+        <identifiers>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>C.</middleName>
+        <firstName>Gary</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>W000817</bioguideId>
+        <state>MA</state>
+        <lastName>Warren</lastName>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+          <lisID>2182</lisID>
+        </identifiers>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <firstName>Elizabeth</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+        <lastName>Hirono</lastName>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <firstName>Mazie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>S001181</bioguideId>
+        <state>NH</state>
+        <lastName>Shaheen</lastName>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Jeanne</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>C000141</bioguideId>
+        <state>MD</state>
+        <lastName>CARDIN</lastName>
+        <identifiers>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <firstName>BENJAMIN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+        <lastName>Gillibrand</lastName>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <firstName>Kirsten</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <bioguideId>W000802</bioguideId>
+        <state>RI</state>
+        <lastName>Whitehouse</lastName>
+        <identifiers>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Sheldon</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-07-16</sponsorshipDate>
+        <bioguideId>M000702</bioguideId>
+        <state>MD</state>
+        <lastName>MIKULSKI</lastName>
+        <identifiers>
+          <lisID>802</lisID>
+          <bioguideId>M000702</bioguideId>
+          <gpoId>8240</gpoId>
+        </identifiers>
+        <fullName>Sen. Mikulski, Barbara A. [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>ANN</middleName>
+        <firstName>BARBARA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>I</party>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>S000033</bioguideId>
+        <state>VT</state>
+        <lastName>SANDERS</lastName>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+          <gpoId>8270</gpoId>
+          <lisID>1010</lisID>
+        </identifiers>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>BERNARD</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-06-25T09:28:04Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-10-07</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-10-07</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>3696</number>
+        <latestTitle>Medicare Premium Fairness Act of 2015</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2015-10-09</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>2148</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-10-07T15:59:01Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-10-07</introducedDate>
+    <updateDate>2017-06-02T23:31:10Z</updateDate>
+    <title>Protecting Medicare Beneficiaries Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Protecting Medicare Beneficiaries Act of 2015</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title XVIII of the Social Security Act to prevent an increase in the Medicare part B premium and deductible in 2016.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Protecting Medicare Beneficiaries Act of 2015</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-10-07</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Protecting Medicare Beneficiaries Act of 2015</b></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to: (1) prevent 2016 increases to Medicare Part B premiums and deductibles for enrollees, and (2) authorize federal funding to offset the corresponding reduction in aggregate monthly premiums.</p> <p>Under current law, the Centers for Medicare &amp; Medicaid Services must annually determine the monthly actuarial rate upon which Part B premiums and deductibles are based. The bill temporarily freezes that rate at the 2015 level for enrollees, effectively preventing increases to premiums and deductibles for those enrollees in 2016. (Current law already protects Part B enrollees whose benefits are deducted from their Social Security benefits from premium increases that would result in a smaller Social Security check.)</p>]]></text>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-10-20T14:45:22Z</lastSummaryUpdateDate>
+          <updateDate>2015-10-07T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <firstName>RON</firstName>
+        <party>D</party>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <state>OR</state>
+        <middleName />
+        <byRequestType />
+        <lastName>WYDEN</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2015-10-07</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>B001267</bioguideId>
+        <state>CO</state>
+        <lastName>Bennet</lastName>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+          <lisID>1965</lisID>
+        </identifiers>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>F.</middleName>
+        <firstName>Michael</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <lastName>BROWN</lastName>
+        <identifiers>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+        </identifiers>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>SHERROD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>C000141</bioguideId>
+        <state>MD</state>
+        <lastName>CARDIN</lastName>
+        <identifiers>
+          <gpoId>8287</gpoId>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+        </identifiers>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <firstName>BENJAMIN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>C001070</bioguideId>
+        <state>PA</state>
+        <lastName>Casey</lastName>
+        <identifiers>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Bob</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+        <lastName>MENENDEZ</lastName>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+        </identifiers>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>ROBERT</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>M001111</bioguideId>
+        <state>WA</state>
+        <lastName>MURRAY</lastName>
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>PATTY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>N000032</bioguideId>
+        <state>FL</state>
+        <lastName>NELSON</lastName>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+          <lisID>859</lisID>
+        </identifiers>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>WILLIAM</middleName>
+        <firstName>CLARENCE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>S000770</bioguideId>
+        <state>MI</state>
+        <lastName>STABENOW</lastName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>ANN</middleName>
+        <firstName>DEBORAH</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>S000148</bioguideId>
+        <state>NY</state>
+        <lastName>SCHUMER</lastName>
+        <identifiers>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+          <lisID>1036</lisID>
+        </identifiers>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <firstName>CHARLES</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>I</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>S000033</bioguideId>
+        <state>VT</state>
+        <lastName>SANDERS</lastName>
+        <identifiers>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+        </identifiers>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>BERNARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>B001230</bioguideId>
+        <state>WI</state>
+        <lastName>BALDWIN</lastName>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>TAMMY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>L000174</bioguideId>
+        <state>VT</state>
+        <lastName>LEAHY</lastName>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+        </identifiers>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>JOSEPH</middleName>
+        <firstName>PATRICK</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>C000174</bioguideId>
+        <state>DE</state>
+        <lastName>CARPER</lastName>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+          <lisID>179</lisID>
+        </identifiers>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <firstName>THOMAS</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>U000039</bioguideId>
+        <state>NM</state>
+        <lastName>UDALL</lastName>
+        <identifiers>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+        </identifiers>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>TOM</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+        <lastName>Hirono</lastName>
+        <identifiers>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+        </identifiers>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <firstName>Mazie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>I</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <lastName>King</lastName>
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Angus</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>M000702</bioguideId>
+        <state>MD</state>
+        <lastName>MIKULSKI</lastName>
+        <identifiers>
+          <lisID>802</lisID>
+          <gpoId>8240</gpoId>
+          <bioguideId>M000702</bioguideId>
+        </identifiers>
+        <fullName>Sen. Mikulski, Barbara A. [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>ANN</middleName>
+        <firstName>BARBARA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+        <lastName>Coons</lastName>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>F000457</bioguideId>
+        <state>MN</state>
+        <lastName>Franken</lastName>
+        <identifiers>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Al</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>M001176</bioguideId>
+        <state>OR</state>
+        <lastName>Merkley</lastName>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-08</sponsorshipDate>
+        <bioguideId>W000802</bioguideId>
+        <state>RI</state>
+        <lastName>Whitehouse</lastName>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+        </identifiers>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Sheldon</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-08</sponsorshipDate>
+        <bioguideId>R000122</bioguideId>
+        <state>RI</state>
+        <lastName>REED</lastName>
+        <identifiers>
+          <lisID>949</lisID>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+        </identifiers>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>F.</middleName>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-19</sponsorshipDate>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Amy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-20</sponsorshipDate>
+        <bioguideId>W000817</bioguideId>
+        <state>MA</state>
+        <lastName>Warren</lastName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <firstName>Elizabeth</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-20</sponsorshipDate>
+        <bioguideId>B000711</bioguideId>
+        <state>CA</state>
+        <lastName>BOXER</lastName>
+        <identifiers>
+          <lisID>116</lisID>
+          <bioguideId>B000711</bioguideId>
+          <gpoId>8306</gpoId>
+        </identifiers>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-20</sponsorshipDate>
+        <bioguideId>M001169</bioguideId>
+        <state>CT</state>
+        <lastName>Murphy</lastName>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+          <lisID>1837</lisID>
+        </identifiers>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-21</sponsorshipDate>
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+        <lastName>Blumenthal</lastName>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Richard</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-21</sponsorshipDate>
+        <bioguideId>S001181</bioguideId>
+        <state>NH</state>
+        <lastName>Shaheen</lastName>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Jeanne</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-26</sponsorshipDate>
+        <bioguideId>T000464</bioguideId>
+        <state>MT</state>
+        <lastName>Tester</lastName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Jon</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-26</sponsorshipDate>
+        <bioguideId>B001288</bioguideId>
+        <state>NJ</state>
+        <lastName>Booker</lastName>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <firstName>Cory</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-27</sponsorshipDate>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+        <lastName>MARKEY</lastName>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <firstName>EDWARD</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-10-29</sponsorshipDate>
+        <bioguideId>P000595</bioguideId>
+        <state>MI</state>
+        <lastName>Peters</lastName>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+        </identifiers>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>C.</middleName>
+        <firstName>Gary</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <bioguideId>H001046</bioguideId>
+        <state>NM</state>
+        <lastName>Heinrich</lastName>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+          <lisID>1937</lisID>
+        </identifiers>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Martin</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-10-08T09:13:03Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

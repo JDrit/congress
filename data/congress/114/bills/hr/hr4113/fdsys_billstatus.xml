@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <item>
+        <actionDate>2016-03-23</actionDate>
+        <committee>
+          <name>Workforce Protections Subcommittee</name>
+          <systemCode>hsed10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Workforce Protections.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-11-19</actionDate>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2015-11-19</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2015-11-19</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-11-19</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <latestTitle>Supporting Working Moms Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2321</number>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>4113</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Workforce Protections Subcommittee</name>
+              <systemCode>hsed10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-03-23T21:22:04Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-11-19T14:34:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-11-19</introducedDate>
+    <updateDate>2017-06-02T21:40:28Z</updateDate>
+    <title>Supporting Working Moms Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Supporting Working Moms Act of 2015</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Fair Labor Standards Act of 1938 regarding reasonable break time for nursing mothers.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Supporting Working Moms Act of 2015</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-11-19T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Supporting Working Moms Act of 2015</b></p> <p>This bill amends the Fair Labor Standards Act of 1938 to extend the requirement that certain employers provide reasonable break time for an employee to express breast milk for her nursing child to bona fide executive, administrative, or professional capacity employees or outside salesmen who are exempt from federal labor laws that limit the number of hours in a workweek.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-12-11T21:07:28Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-11-19</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>729</lisID>
+          <gpoId>8075</gpoId>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <party>D</party>
+        <bioguideId>M000087</bioguideId>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <firstName>CAROLYN</firstName>
+        <state>NY</state>
+        <middleName>B.</middleName>
+        <byRequestType />
+        <lastName>MALONEY</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+      <actionDate>2016-03-23</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. CAROLYN B. MALONEY of New York:H.R. 4113.Congress has the power to enact this legislation pursuantto the following:Fourteenth Amendment, Section 5, which reads: The Congressshall have power to enforce, by appropriate legislation, theprovisions of this article; and Article I, Section 8, Clause3, which reads: The Congress shall have Power to regulateCommerce with foreign Nations, and among the several States,and with the Indian Tribes.[Page H8413]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-11-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEE</lastName>
+        <district>13</district>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>BARBARA</firstName>
+        <bioguideId>L000551</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-11-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Moore</lastName>
+        <district>4</district>
+        <identifiers>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <state>WI</state>
+        <firstName>Gwen</firstName>
+        <bioguideId>M001160</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-11-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cardenas</lastName>
+        <district>29</district>
+        <identifiers>
+          <lisID>2107</lisID>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Tony</firstName>
+        <bioguideId>C001097</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-11-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lujan Grisham</lastName>
+        <district>1</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000580</bioguideId>
+          <lisID>2146</lisID>
+        </identifiers>
+        <state>NM</state>
+        <firstName>Michelle</firstName>
+        <bioguideId>L000580</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-11-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lowenthal</lastName>
+        <district>47</district>
+        <identifiers>
+          <lisID>2111</lisID>
+          <bioguideId>L000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <firstName>Alan</firstName>
+        <bioguideId>L000579</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>S.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Capps, Lois [D-CA-24]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-11-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>CAPPS</lastName>
+        <district>24</district>
+        <identifiers>
+          <lisID>1471</lisID>
+          <gpoId>7828</gpoId>
+          <bioguideId>C001036</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>LOIS</firstName>
+        <bioguideId>C001036</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-11-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>RANGEL</lastName>
+        <district>13</district>
+        <identifiers>
+          <lisID>944</lisID>
+          <bioguideId>R000053</bioguideId>
+          <gpoId>8076</gpoId>
+        </identifiers>
+        <state>NY</state>
+        <firstName>CHARLES</firstName>
+        <bioguideId>R000053</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-12-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Swalwell</lastName>
+        <district>15</district>
+        <identifiers>
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <firstName>Eric</firstName>
+        <bioguideId>S001193</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-12-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>NAPOLITANO</lastName>
+        <district>32</district>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>GRACE</firstName>
+        <bioguideId>N000179</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-12-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>LOFGREN</lastName>
+        <district>19</district>
+        <identifiers>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>ZOE</firstName>
+        <bioguideId>L000397</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-12-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cartwright</lastName>
+        <district>17</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Matt</firstName>
+        <bioguideId>C001090</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-12-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>SANCHEZ</lastName>
+        <district>38</district>
+        <identifiers>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>LINDA</firstName>
+        <bioguideId>S001156</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>T.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-01-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Meng</lastName>
+        <district>6</district>
+        <identifiers>
+          <lisID>2148</lisID>
+          <gpoId />
+          <bioguideId>M001188</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <firstName>Grace</firstName>
+        <bioguideId>M001188</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-01-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Chu</lastName>
+        <district>27</district>
+        <identifiers>
+          <lisID>1970</lisID>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Judy</firstName>
+        <bioguideId>C001080</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-01-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCGOVERN</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <firstName>JAMES</firstName>
+        <bioguideId>M000312</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-01-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>DELAURO</lastName>
+        <district>3</district>
+        <identifiers>
+          <gpoId>7868</gpoId>
+          <bioguideId>D000216</bioguideId>
+          <lisID>281</lisID>
+        </identifiers>
+        <state>CT</state>
+        <firstName>ROSA</firstName>
+        <bioguideId>D000216</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-01-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lipinski</lastName>
+        <district>3</district>
+        <identifiers>
+          <gpoId>7923</gpoId>
+          <bioguideId>L000563</bioguideId>
+          <lisID>1781</lisID>
+        </identifiers>
+        <state>IL</state>
+        <firstName>Daniel</firstName>
+        <bioguideId>L000563</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>William</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-02-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHAKOWSKY</lastName>
+        <district>9</district>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <firstName>JANICE</firstName>
+        <bioguideId>S001145</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>D.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <district>0</district>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>HOLMES</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>COOPER</lastName>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>C000754</bioguideId>
+          <gpoId>8152</gpoId>
+          <lisID>231</lisID>
+        </identifiers>
+        <state>TN</state>
+        <firstName>JAMES</firstName>
+        <bioguideId>C000754</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>H.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-09-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEVIN</lastName>
+        <district>9</district>
+        <identifiers>
+          <bioguideId>L000263</bioguideId>
+          <gpoId>7997</gpoId>
+          <lisID>683</lisID>
+        </identifiers>
+        <state>MI</state>
+        <firstName>SANDER</firstName>
+        <bioguideId>L000263</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Labor standards</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+          <item>
+            <name>Women's employment</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-11-20T10:16:06Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

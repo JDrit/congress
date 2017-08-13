@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HRES</billType>
+    <updateDate>2017-06-02T19:27:51Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Energy and Commerce</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <number>933</number>
+        <latestTitle>Providing amounts for further expenses of the Committee on Energy and Commerce in the One Hundred Fourteenth Congress.</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionDate>2016-12-01</actionDate>
+          <actionTime>17:44:09</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HRES</type>
+      </item>
+    </relatedBills>
+    <introducedDate>2015-02-02</introducedDate>
+    <notes />
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2015-02-02</actionDate>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>UPTON</lastName>
+        <identifiers>
+          <lisID>1177</lisID>
+          <bioguideId>U000031</bioguideId>
+          <gpoId>7991</gpoId>
+        </identifiers>
+        <firstName>FRED</firstName>
+        <bioguideId>U000031</bioguideId>
+        <middleName />
+        <byRequestType />
+        <state>MI</state>
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <billNumber>76</billNumber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Providing amounts for the expenses of the Committee on Energy and Commerce in the One Hundred Fourteenth Congress.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Providing amounts for the expenses of the Committee on Energy and Commerce in the One Hundred Fourteenth Congress.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-02-04T16:28:33Z</lastSummaryUpdateDate>
+          <updateDate>2015-02-02T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2015-02-02</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Provides amounts for the expenses of the House Committee on Energy and Commerce for the 114th Congress.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <committeeReports />
+    <title>Providing amounts for the expenses of the Committee on Energy and Commerce in the One Hundred Fourteenth Congress.</title>
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-02-02</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on House Administration.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-02-02</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-02-02</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <createDate>2015-02-03T07:01:19Z</createDate>
+    <cosponsors />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2015-02-02T17:02:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

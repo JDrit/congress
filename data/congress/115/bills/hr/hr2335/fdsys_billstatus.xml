@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>House Administration Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-03T14:03:20Z</date>
+            </item>
+          </activities>
+          <systemCode>hsha00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <createDate>2017-05-04T03:11:54Z</createDate>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-05-03</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <congress>115</congress>
+    <billNumber>2335</billNumber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <updateDate>2017-06-19T22:15:27Z</updateDate>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <lastName>Quigley</lastName>
+        <firstName>Mike</firstName>
+        <state>IL</state>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>Q000023</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <lisID>2067</lisID>
+          <gpoId>8183</gpoId>
+        </identifiers>
+        <lastName>Farenthold</lastName>
+        <firstName>Blake</firstName>
+        <state>TX</state>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>27</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>F000460</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <lastName>NORTON</lastName>
+        <firstName>ELEANOR</firstName>
+        <state>DC</state>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <bioguideId>N000147</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <lastName>MCGOVERN</lastName>
+        <firstName>JAMES</firstName>
+        <state>MA</state>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+      </item>
+    </cosponsors>
+    <laws />
+    <introducedDate>2017-05-03</introducedDate>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on House Administration.</text>
+        <actionDate>2017-05-03</actionDate>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-05-03</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-05-03</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Equal Access to Congressional Research Service Reports Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Equal Access to Congressional Research Service Reports Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To direct the Director of the Government Publishing Office to provide members of the public with Internet access to Congressional Research Service reports, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Equal Access to Congressional Research Service Reports Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <title>Equal Access to Congressional Research Service Reports Act of 2017</title>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LANCE:H.R. 2335.Congress has the power to enact this legislation pursuantto the following:Article 1 Sec. 8 Clause 18: Congress shall have power . . .to make all laws which shall be necessary and proper forcarrying in execution the foregoing powers, and all otherpowers vested by this Constitution in the government of theUnited States, or in any other department or officer thereof[Page H3325]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <recordedVotes />
+    <committeeReports />
+    <cboCostEstimates />
+    <amendments />
+    <sponsors>
+      <item>
+        <bioguideId>L000567</bioguideId>
+        <firstName>Leonard</firstName>
+        <state>NJ</state>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <district>7</district>
+        <party>R</party>
+        <byRequestType />
+        <lastName>Lance</lastName>
+        <identifiers>
+          <lisID>1936</lisID>
+          <gpoId>8049</gpoId>
+          <bioguideId>L000567</bioguideId>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

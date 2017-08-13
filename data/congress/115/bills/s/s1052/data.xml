@@ -1,0 +1,56 @@
+<bill session="115" type="s" number="1052" updated="2017-08-05T07:45:01Z">
+  <state datetime="2017-08-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2017-08-03"/>
+  </status>
+  <introduced datetime="2017-05-04"/>
+  <titles>
+    <title type="short" as="introduced">BENEFIT Act of 2017</title>
+    <title type="short" as="introduced">BENEFIT Act of 2017</title>
+    <title type="short" as="introduced">Better Empowerment Now to Enhance Framework and Improve Treatments Act of 2017</title>
+    <title type="short" as="introduced">Better Empowerment Now to Enhance Framework and Improve Treatments Act of 2017</title>
+    <title type="short" as="passed senate">BENEFIT Act of 2017</title>
+    <title type="short" as="passed senate">Better Empowerment Now to Enhance Framework and Improve Treatments Act of 2017</title>
+    <title type="official" as="introduced">A bill to strengthen the use of patient-experience data within the benefit-risk framework for approval of new drugs.</title>
+    <title type="display">BENEFIT Act of 2017</title>
+  </titles>
+  <sponsor id="400432"/>
+  <cosponsors>
+    <cosponsor id="412242" joined="2017-05-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-04">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-05-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2017-08-03">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+      <reference ref="CR S4787-4788" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2017-08-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4788" label="text"/>
+    </vote>
+    <action datetime="2017-08-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2017-08-04T13:05:18-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2017-08-04">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

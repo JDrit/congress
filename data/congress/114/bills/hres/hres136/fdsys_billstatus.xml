@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-03-06</actionDate>
+        <committee>
+          <name>Energy and Power Subcommittee</name>
+          <systemCode>hsif03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2015-03-02</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-03-02</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-03-02</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>127</number>
+        <latestTitle>Recognizing linemen, the profession of linemen, the contributions of these brave men and women who protect public safety, and expressing support for the designation of March 31, 2015, as National Lineman Appreciation Day.</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Energy and Power.</text>
+          <actionDate>2015-02-27</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HRES</type>
+      </item>
+      <item>
+        <number>117</number>
+        <latestTitle>A resolution recognizing linemen, the profession of linemen, the contributions of these brave men and women who protect public safety, and expressing support for the designation of March 31, 2015, as National Lineman Appreciation Day.</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S2052)</text>
+          <actionDate>2015-03-26</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>SRES</type>
+      </item>
+      <item>
+        <number>685</number>
+        <latestTitle>Recognizing Linemen, the profession of Linemen, and the contributions of these brave men and women to protect public safety, and expressing support of designation of April 18, 2016, as National Lineman Appreciation Day.</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Energy and Power.</text>
+          <actionDate>2016-04-22</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HRES</type>
+      </item>
+      <item>
+        <number>433</number>
+        <latestTitle>A resolution recognizing linemen, the profession of linemen, and the contributions of these brave men and women who protect public safety, and expressing support for the designation of April 18, 2016, as "National Lineman Appreciation Day".</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2350)</text>
+          <actionDate>2016-04-20</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>SRES</type>
+      </item>
+      <item>
+        <number>674</number>
+        <latestTitle>Recognizing linemen, the profession of linemen, the contributions of these brave men and women who protect public safety, and expressing support for the designation of April 18, 2016, as National Lineman Appreciation Day.</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Energy and Power.</text>
+          <actionDate>2016-04-15</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HRES</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>136</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Energy and Power Subcommittee</name>
+              <systemCode>hsif03</systemCode>
+              <activities>
+                <item>
+                  <date>2015-03-06T15:07:02Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2015-03-02T17:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-03-02</introducedDate>
+    <updateDate>2017-06-02T19:28:22Z</updateDate>
+    <title>Recognizing Linemen, the profession of Linemen, and the contributions of these brave men and women to protect public safety, and expressing support of designation of April 18, 2015, as National Lineman Appreciation Day.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Recognizing Linemen, the profession of Linemen, and the contributions of these brave men and women to protect public safety, and expressing support of designation of April 18, 2015, as National Lineman Appreciation Day.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Recognizing Linemen, the profession of Linemen, and the contributions of these brave men and women to protect public safety, and expressing support of designation of April 18, 2015, as National Lineman Appreciation Day.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-03-02</actionDate>
+          <updateDate>2015-03-02T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-04-27T20:15:22Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Recognizes the efforts of linemen in keeping the electrical power on and protecting public safety.</p> <p> Expresses support for the designation of National Lineman Appreciation Day.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1778</lisID>
+          <bioguideId>P000591</bioguideId>
+          <gpoId>7903</gpoId>
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <bioguideId>P000591</bioguideId>
+        <fullName>Rep. Price, Tom [R-GA-6]</fullName>
+        <firstName>Tom</firstName>
+        <state>GA</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Price</lastName>
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <actionDate>2015-03-06</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-03-03T05:47:05Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

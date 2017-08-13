@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-02-02</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-02-02</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Workforce Protections.</text>
+          <actionDate>2015-04-29</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>994</number>
+        <latestTitle>Radiation Exposure Compensation Act Amendments of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>331</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-02-02T22:05:36Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-02-02</introducedDate>
+    <updateDate>2017-06-02T22:51:07Z</updateDate>
+    <title>Radiation Exposure Compensation Act Amendments of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Radiation Exposure Compensation Act Amendments of 2015</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Radiation Exposure Compensation Act to improve compensation for workers involved in uranium mining, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Radiation Exposure Compensation Act Amendments of 2015</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-02-02T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Radiation Exposure Compensation Act Amendments of 2015</b></p> <p> Amends the Radiation Exposure Compensation Act to extend the Radiation Exposure Compensation Trust Fund until 19 years after enactment of this Act.</p> <p>Prescribes additional periods of required presence in an affected area during atmospheric nuclear testing for individuals filing leukemia or specified disease claims. Increases the amount of compensation an individual filing a claim may receive to $150,000.</p> <p>Expands &quot;affected area&quot; to include Colorado, Idaho, Montana, and New Mexico, as well as any county in Arizona, Nevada, or Utah.</p> <p>Extends to December 31, 1990, the period during which an individual employed at any time in a uranium mine or uranium mill is made eligible to receive compensation for a disease claim due to radiation exposure. Makes a core driller eligible to receive compensation upon filing of a disease claim.</p> <p>Makes miners, core drillers, and ore transporters who suffer renal cancer or any other chronic renal disease, including nephritis and kidney tubal tissue injury, eligible for compensation due to exposure to radiation while on the job.</p> <p>Requires the Attorney General to accept written affidavits meeting specified requirements regarding employment history, physical presence in an affected area, or participation at a nuclear testing site in determining the eligibility of claimants.</p> <p>Extends until 19 years after enactment of this Act the statute of limitations for the filing of such claims.</p> <p>Increases from 2% to 10% of the payment received by a claimant the maximum amount of attorneys fees that can be charged for the filing of an initial claim.</p> <p>Directs the Secretary of Health and Human Services, through the National Institute of Environmental Health Sciences, to establish a program of grants to institutions of higher education to study the epidemiological impacts of uranium mining and milling among non-occupationally exposed individuals, including family members of uranium miners and millers.</p> <p>Amends the Energy Employees Occupational Illness Compensation Program Act of 2000 to include as a member of the Special Exposure Cohort entitled to compensation with respect to chronic beryllium disease under the Energy Employees Occupational Illness Compensation Program any Department of Energy employee or contractor who contracted cancer after beginning employment between January 1, 1942, and December 31, 1990, in a uranium mine or mill located in Colorado, New Mexico, Arizona, Wyoming, South Dakota, Washington, Utah, Idaho, North Dakota, Oregon, Texas, or any other state the Attorney General includes.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-02-11T17:02:56Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-02-02</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+        <party>R</party>
+        <bioguideId>C000880</bioguideId>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <state>ID</state>
+        <middleName>D.</middleName>
+        <byRequestType />
+        <lastName>CRAPO</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2015-02-02</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2015-02-02</sponsorshipDate>
+        <state>NM</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>TOM</firstName>
+        <lastName>UDALL</lastName>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <bioguideId>U000039</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-02-02</sponsorshipDate>
+        <state>CO</state>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+        <lastName>Bennet</lastName>
+        <identifiers>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <bioguideId>B001267</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-02-02</sponsorshipDate>
+        <state>NM</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Martin</firstName>
+        <lastName>Heinrich</lastName>
+        <identifiers>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <bioguideId>H001046</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-02-02</sponsorshipDate>
+        <state>ID</state>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>James</firstName>
+        <lastName>Risch</lastName>
+        <identifiers>
+          <lisID>1896</lisID>
+          <gpoId>8274</gpoId>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+        <bioguideId>R000584</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Arizona</name>
+          </item>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Colorado</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Environmental health</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Guam</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Idaho</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Military history</name>
+          </item>
+          <item>
+            <name>Mining</name>
+          </item>
+          <item>
+            <name>Montana</name>
+          </item>
+          <item>
+            <name>Nevada</name>
+          </item>
+          <item>
+            <name>New Mexico</name>
+          </item>
+          <item>
+            <name>North Dakota</name>
+          </item>
+          <item>
+            <name>Nuclear weapons</name>
+          </item>
+          <item>
+            <name>Oregon</name>
+          </item>
+          <item>
+            <name>Personnel records</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Radiation</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>South Dakota</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+          <item>
+            <name>Utah</name>
+          </item>
+          <item>
+            <name>Washington State</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+          <item>
+            <name>Wyoming</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-02-03T07:01:20Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

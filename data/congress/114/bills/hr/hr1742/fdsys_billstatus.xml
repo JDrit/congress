@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-05-15</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-04-13</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-04-13</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-04-13</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>Child and Elderly Missing Alert Program Act of 2016</latestTitle>
+        <number>3343</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2016-09-15</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>1742</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-04-13T18:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-05-15T17:32:21Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-04-13</introducedDate>
+    <updateDate>2017-06-02T20:45:06Z</updateDate>
+    <title>Child and Elderly Missing Alert Program Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Child and Elderly Missing Alert Program Act of 2015</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To authorize the Attorney General to provide a grant to assist Federal, State, tribal, and local law enforcement agencies in the rapid recovery of missing individuals.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Child and Elderly Missing Alert Program Act of 2015</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-04-13</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>Child and Elderly Missing Alert Program of 2015</strong></p> <p>Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Attorney General to award public safety and community policing grants to eligible nonprofit organizations to assist federal, state, tribal, and local law enforcement agencies in the rapid recovery of missing children and elderly and disabled individuals through the use of a rapid telephone and cellular alert call system. Defines an "elderly individual" as an individual 60 years of age or older.</p> <p>Permits the use of grant funds to: (1) maintain and expand technologies and techniques to ensure the highest level of performance of services; (2) provide both centralized and on-site training and distribute information to law enforcement agency officials about missing individuals and use of a rapid telephone and cellular alert call system; (3) provide services to Child Abduction Response Teams; (4) assist law enforcement agencies to combat human trafficking through the use of rapid telephone and cellular alert calls; (5) share appropriate information on cases with the National Center for Missing and Exploited Children, the AMBER Alert, Silver Alert, and Blue Alert programs, and law enforcement; and (6) assist appropriate organizations with education and prevention programs related to missing individuals.</p> <p>Directs the Attorney General to annually: (1) require each grantee to submit the results of monitoring and evaluations of grant recipients, and (2) publish a report regarding such results and the effectiveness of activities carried out under each grant.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-01-04T19:27:34Z</lastSummaryUpdateDate>
+          <updateDate>2015-04-13T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <bioguideId>C000266</bioguideId>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <firstName>STEVE</firstName>
+        <state>OH</state>
+        <middleName />
+        <byRequestType />
+        <lastName>CHABOT</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <actionDate>2015-05-15</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CHABOT:H.R. 1742.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1The Congress shall have Power to lay and collect Taxes,Duties, Imposts and Excises, to pay the Debts and provide forthe common Defence and general Welfare of the United States;but all Duties, Imposts and Excises shall be uniformthroughout the United States.[Page H2153]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7891</gpoId>
+          <bioguideId>D000610</bioguideId>
+          <lisID>1976</lisID>
+        </identifiers>
+        <firstName>Theodore</firstName>
+        <middleName>E.</middleName>
+        <state>FL</state>
+        <district>21</district>
+        <lastName>Deutch</lastName>
+        <sponsorshipDate>2015-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000610</bioguideId>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-21]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2119</lisID>
+          <bioguideId>F000462</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Lois</firstName>
+        <middleName />
+        <state>FL</state>
+        <district>22</district>
+        <lastName>Frankel</lastName>
+        <sponsorshipDate>2015-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000462</bioguideId>
+        <fullName>Rep. Frankel, Lois [D-FL-22]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2018</lisID>
+          <bioguideId>B001275</bioguideId>
+          <gpoId>7947</gpoId>
+        </identifiers>
+        <firstName>Larry</firstName>
+        <middleName />
+        <state>IN</state>
+        <district>8</district>
+        <lastName>Bucshon</lastName>
+        <sponsorshipDate>2015-04-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001275</bioguideId>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <firstName>Debbie</firstName>
+        <middleName />
+        <state>FL</state>
+        <district>23</district>
+        <lastName>Wasserman Schultz</lastName>
+        <sponsorshipDate>2015-04-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000797</bioguideId>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <firstName>ELEANOR</firstName>
+        <middleName>HOLMES</middleName>
+        <state>DC</state>
+        <district>0</district>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000147</bioguideId>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2252</lisID>
+          <gpoId />
+          <bioguideId>L000581</bioguideId>
+        </identifiers>
+        <firstName>Brenda</firstName>
+        <middleName>L.</middleName>
+        <state>MI</state>
+        <district>14</district>
+        <lastName>Lawrence</lastName>
+        <sponsorshipDate>2015-05-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000581</bioguideId>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <firstName>DANNY</firstName>
+        <middleName>K.</middleName>
+        <state>IL</state>
+        <district>7</district>
+        <lastName>DAVIS</lastName>
+        <sponsorshipDate>2015-06-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000096</bioguideId>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000370</bioguideId>
+          <lisID>2201</lisID>
+        </identifiers>
+        <firstName>Alma</firstName>
+        <middleName>S.</middleName>
+        <state>NC</state>
+        <district>12</district>
+        <lastName>Adams</lastName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000370</bioguideId>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <middleName />
+        <state>OK</state>
+        <district>4</district>
+        <lastName>Cole</lastName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7946</gpoId>
+          <bioguideId>C001072</bioguideId>
+          <lisID>1889</lisID>
+        </identifiers>
+        <firstName>Andre</firstName>
+        <middleName />
+        <state>IN</state>
+        <district>7</district>
+        <lastName>Carson</lastName>
+        <sponsorshipDate>2015-06-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001072</bioguideId>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000292</bioguideId>
+          <gpoId>8096</gpoId>
+          <lisID>2046</lisID>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <middleName />
+        <state>OH</state>
+        <district>6</district>
+        <lastName>Johnson</lastName>
+        <sponsorshipDate>2015-06-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000292</bioguideId>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7950</gpoId>
+          <bioguideId>J000290</bioguideId>
+          <lisID>1921</lisID>
+        </identifiers>
+        <firstName>Lynn</firstName>
+        <middleName />
+        <state>KS</state>
+        <district>2</district>
+        <lastName>Jenkins</lastName>
+        <sponsorshipDate>2015-06-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000290</bioguideId>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2090</lisID>
+          <bioguideId>A000369</bioguideId>
+          <gpoId>8366</gpoId>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <middleName>E.</middleName>
+        <state>NV</state>
+        <district>2</district>
+        <lastName>Amodei</lastName>
+        <sponsorshipDate>2015-06-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000369</bioguideId>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+        </identifiers>
+        <firstName>Grace</firstName>
+        <middleName />
+        <state>NY</state>
+        <district>6</district>
+        <lastName>Meng</lastName>
+        <sponsorshipDate>2016-02-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001188</bioguideId>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aging</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Emergency communications systems</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-04-14T09:15:04Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

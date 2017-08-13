@@ -1,0 +1,38 @@
+<bill session="115" type="hr" number="443" updated="2017-08-04T19:30:23Z">
+  <state datetime="2017-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-13"/>
+  </status>
+  <introduced datetime="2017-07-13"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the importance and effectiveness of trauma-informed care.</title>
+    <title type="display">Recognizing the importance and effectiveness of trauma-informed care.</title>
+  </titles>
+  <sponsor id="412731"/>
+  <cosponsors>
+    <cosponsor id="400093" joined="2017-07-13"/>
+    <cosponsor id="412488" joined="2017-07-24"/>
+    <cosponsor id="400290" joined="2017-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-13">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-07-14">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

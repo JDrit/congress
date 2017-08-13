@@ -1,0 +1,50 @@
+<bill session="115" type="h" number="1736" updated="2017-06-22T07:16:05Z">
+  <state datetime="2017-03-27">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-27"/>
+  </status>
+  <introduced datetime="2017-03-27"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to improve the process for inspections of device establishments and for granting export certifications.</title>
+    <title type="display">To amend the Federal Food, Drug, and Cosmetic Act to improve the process for inspections of device establishments and for granting export certifications.</title>
+  </titles>
+  <sponsor id="412427"/>
+  <cosponsors>
+    <cosponsor id="412702" joined="2017-04-25"/>
+    <cosponsor id="400032" joined="2017-04-14"/>
+    <cosponsor id="412539" joined="2017-03-27"/>
+    <cosponsor id="400616" joined="2017-03-27"/>
+    <cosponsor id="412714" joined="2017-06-21"/>
+    <cosponsor id="412550" joined="2017-04-27"/>
+    <cosponsor id="412523" joined="2017-03-27"/>
+    <cosponsor id="412426" joined="2017-06-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-27" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-03-31">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="115" type="s" number="404"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Manufacturing"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

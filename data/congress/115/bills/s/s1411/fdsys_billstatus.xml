@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssas00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-22T16:41:57Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <title>A bill to amend title 10, United States Code, to provide for a five-year extension of the payment of the special survivor indemnity allowance under the Survivor Benefit Plan.</title>
+    <sponsors>
+      <item>
+        <middleName>WILLIAM</middleName>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <firstName>CLARENCE</firstName>
+        <byRequestType />
+        <party>D</party>
+        <identifiers>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+        </identifiers>
+        <bioguideId>N000032</bioguideId>
+        <lastName>NELSON</lastName>
+        <state>FL</state>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <billType>S</billType>
+    <createDate>2017-06-23T06:41:44Z</createDate>
+    <introducedDate>2017-06-22</introducedDate>
+    <relatedBills />
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-06-22</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>A bill to amend title 10, United States Code, to provide for a five-year extension of the payment of the special survivor indemnity allowance under the Survivor Benefit Plan.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to amend title 10, United States Code, to provide for a five-year extension of the payment of the special survivor indemnity allowance under the Survivor Benefit Plan.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <cosponsors />
+    <calendarNumbers />
+    <recordedVotes />
+    <committeeReports />
+    <updateDate>2017-07-15T04:28:24Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <links />
+      <actionDate>2017-06-22</actionDate>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </latestAction>
+    <amendments />
+    <billNumber>1411</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

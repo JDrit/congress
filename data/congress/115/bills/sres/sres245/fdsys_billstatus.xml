@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Ted</firstName>
+        <bioguideId>C001098</bioguideId>
+        <party>R</party>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <byRequestType />
+        <state>TX</state>
+        <lastName>Cruz</lastName>
+        <identifiers>
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S4881</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4881</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4881)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2017-08-03</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <amendments />
+    <committeeReports />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-08-03T14:54:37Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <title>A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</title>
+    <policyArea />
+    <congress>115</congress>
+    <billType>SRES</billType>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <middleName>JOSEPH</middleName>
+        <firstName>PATRICK</firstName>
+        <bioguideId>L000174</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <identifiers>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+          <lisID>1383</lisID>
+        </identifiers>
+        <state>VT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LEAHY</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <cboCostEstimates />
+    <latestAction>
+      <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4881)</text>
+      <links />
+      <actionDate>2017-08-03</actionDate>
+    </latestAction>
+    <updateDate>2017-08-04T19:42:17Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>245</billNumber>
+    <createDate>2017-08-04T00:42:11Z</createDate>
+    <version>1.0.0</version>
+    <introducedDate>2017-08-03</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

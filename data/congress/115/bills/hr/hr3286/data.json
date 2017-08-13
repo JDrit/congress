@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3286-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-18", 
+  "number": "3286", 
+  "official_title": "To direct the Secretary of Energy to issue regulations regarding disclosure of oil data, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Know Your Oil Act", 
+  "sponsor": {
+    "bioguide_id": "H001068", 
+    "district": "2", 
+    "name": "Huffman, Jared", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business records", 
+    "Climate change and greenhouse gases", 
+    "Department of Energy", 
+    "Energy", 
+    "Energy storage, supplies, demand", 
+    "Government information and archives", 
+    "Oil and gas"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Know Your Oil Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Know Your Oil Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Energy to issue regulations regarding disclosure of oil data, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Know Your Oil Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-26T12:30:14Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3286.xml"
+}

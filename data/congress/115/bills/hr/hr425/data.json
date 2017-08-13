@@ -1,0 +1,165 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-02-16", 
+      "action_code": "", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-07-19", 
+      "action_code": "", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-19", 
+      "action_code": "", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr425-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Terrorism,  Nonproliferation, and Trade", 
+      "subcommittee_id": "18"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000375", 
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-10", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000795", 
+      "district": "2", 
+      "name": "Wilson, Joe", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-18", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-07-19", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-01-10", 
+  "number": "425", 
+  "official_title": "To authorize the revocation or denial of passports to individuals affiliated with foreign terrorist organizations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "FTO Passport Revocation Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "P000592", 
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-01-10", 
+  "subjects": [
+    "Congressional oversight", 
+    "Immigration status and procedures", 
+    "International affairs", 
+    "Terrorism", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-01-10T05:00:00Z", 
+    "text": "FTO Passport Revocation Act of 2017\n\nThis bill amends the Passport Act of 1926 to direct the Department of State to refuse to issue a passport to an individual who is a member of or affiliated with, or who has aided or provided material support to, a foreign terrorist organization.\n\n The State Department: (1) shall revoke a passport previously issued to any such individual; and (2) may, prior to revocation, issue a limited passport or limit a previously issued passport, but only for return travel to the United States.\n\n The State Department may issue or decline to revoke a passport for emergency, humanitarian, or law enforcement purposes.\n\n A person whose passport is denied, revoked, or limited may seek State Department review within 60 days of receiving notice of such action.\n\n The State Department shall report to Congress within 30 days regarding any such refusal or revocation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FTO Passport Revocation Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FTO Passport Revocation Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the revocation or denial of passports to individuals affiliated with foreign terrorist organizations, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "FTO Passport Revocation Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-20T07:13:09Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr425.xml"
+}

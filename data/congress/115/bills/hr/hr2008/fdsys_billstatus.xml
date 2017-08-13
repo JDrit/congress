@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-07T14:46:53Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-06T13:14:05Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>House Administration Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-06T13:14:10Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-06T13:14:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-04-18T18:46:18Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-04-06</actionDate>
+          <updateDate>2017-04-06T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Kids First Research Act 2.0</b></p> <p>This bill amends the Internal Revenue Code to terminate: (1) the taxpayer election to designate $3 of income tax liability for financing of presidential election campaigns for taxable years beginning after December 31, 2016, (2) the Presidential Election Campaign Fund, and (3) the Presidential Primary Matching Payment Account.</p> <p>The Department of the Treasury must transfer amounts in the fund as of the date of the enactment of this bill to the 10-Year Pediatric Research Initiative Fund.</p> <p>The bill expresses the sense of Congress that the Director of the National Institutes of Health (NIH) should oversee and coordinate research that is conducted or supported by the NIH for research on pediatric cancer and other pediatric diseases and conditions, including through the 10-Year Pediatric Research Initiative Fund.</p> <p>The bill also amends the Public Health Service Act to require the NIH to prioritize pediatric research that does not replicate existing NIH research activities. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <createDate>2017-04-07T03:11:58Z</createDate>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-04-07</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <congress>115</congress>
+    <billNumber>2008</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <updateDate>2017-06-19T21:45:15Z</updateDate>
+    <cosponsors>
+      <item>
+        <firstName>Gregg</firstName>
+        <state>MS</state>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+        </identifiers>
+        <bioguideId>H001045</bioguideId>
+        <lastName>Harper</lastName>
+      </item>
+      <item>
+        <firstName>Rodney</firstName>
+        <state>IL</state>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>13</district>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>D000619</bioguideId>
+        <lastName>Davis</lastName>
+      </item>
+    </cosponsors>
+    <laws />
+    <introducedDate>2017-04-06</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-07</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <text>Referred to House Administration</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to House Energy and Commerce</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Referred to House Ways and Means</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+        <committee />
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Kids First Research Act 2.0</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Kids First Research Act 2.0</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To increase funding for the 10-Year Pediatric Research Initiative Fund by eliminating taxpayer financing of presidential election campaigns.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Kids First Research Act 2.0</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <title>Kids First Research Act 2.0</title>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H2790-H2791]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. COMSTOCK:H.R. 2008.Congress has the power to enact this legislation pursuantto the following:[[Page H2791]]Article I, Section 8, Clause 8 of the United StatesConstitution; Article I, Section 9, Clause 7 of the UnitedStates Constitution; and Amendment XVI to the United StatesConstitution. Additionally, since the Constitution does notprovide Congress with the power to provide financial supportto U.S. political parties, the general repeal of thePresidential Election Campaign Fund for this purpose isconsistent with the powers that are reserved to the Statesand to the people as expressed in Amendments IX and X to theUnited States Constitution. Further, Article I Section 8defines the scope and powers of Congress and does not includethis concept of taxation in furtherance of funding U.S.political parties within the expressed powers.</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <recordedVotes />
+    <committeeReports />
+    <cboCostEstimates />
+    <amendments />
+    <sponsors>
+      <item>
+        <bioguideId>C001105</bioguideId>
+        <firstName>Barbara</firstName>
+        <state>VA</state>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <district>10</district>
+        <party>R</party>
+        <byRequestType />
+        <lastName>Comstock</lastName>
+        <identifiers>
+          <bioguideId>C001105</bioguideId>
+          <lisID>2273</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

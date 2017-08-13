@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-10-07</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-10-07</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+          <actionDate>2016-03-23</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>4029</number>
+        <latestTitle>Pension Accountability Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>2147</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2015-10-07T14:15:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-10-07</introducedDate>
+    <updateDate>2017-06-02T23:31:09Z</updateDate>
+    <title>Pension Accountability Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Pension Accountability Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986 with respect to participant votes on the suspension of benefits under multiemployer plans in critical and declining status.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Pension Accountability Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-10-07</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><strong>Pension Accountability Act</strong> </p> <p>This bill amends the Employee Retirement Income Security Act of 1974 (ERISA) and the Internal Revenue Code to revise rules for voting on the suspension of pension benefits under multiemployer plans in endangered or critical status. The bill changes the voting procedure for suspending plan benefits to provide that a suspension shall go into effect unless a majority of plan participants and beneficiaries who cast a vote (currently, a majority of all plan participants and beneficiaries) reject the suspension. The bill also eliminates the authority of the Department of the Treasury, in the case of systemically important plans, to override a vote of plan participants to reject a suspension. A plan is systemically important if projected financial assistance to the plan will exceed $1 billion if suspensions are not implemented. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-11-16T20:36:59Z</lastSummaryUpdateDate>
+          <updateDate>2015-10-07T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <firstName>ROB</firstName>
+        <party>R</party>
+        <bioguideId>P000449</bioguideId>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <state>OH</state>
+        <middleName />
+        <byRequestType />
+        <lastName>PORTMAN</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2015-10-07</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <bioguideId>B001135</bioguideId>
+        <state>NC</state>
+        <lastName>BURR</lastName>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+        </identifiers>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>RICHARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2015-11-10</sponsorshipDate>
+        <bioguideId>F000463</bioguideId>
+        <state>NE</state>
+        <lastName>Fischer</lastName>
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Deb</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-03-09</sponsorshipDate>
+        <bioguideId>H001061</bioguideId>
+        <state>ND</state>
+        <lastName>Hoeven</lastName>
+        <identifiers>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-04-18</sponsorshipDate>
+        <bioguideId>K000360</bioguideId>
+        <state>IL</state>
+        <lastName>KIRK</lastName>
+        <identifiers>
+          <lisID>1647</lisID>
+          <bioguideId>K000360</bioguideId>
+          <gpoId>8285</gpoId>
+        </identifiers>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>STEVEN</middleName>
+        <firstName>MARK</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-10-08T09:13:03Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

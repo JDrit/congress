@@ -1,0 +1,362 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-04-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-04-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-04-21", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres257-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001287", 
+      "district": "7", 
+      "name": "Bera, Ami", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-11", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001292", 
+      "district": "8", 
+      "name": "Beyer, Donald S., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-11", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001080", 
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-08-04", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001107", 
+      "district": "26", 
+      "name": "Curbelo, Carlos", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000191", 
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-21", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000604", 
+      "district": "15", 
+      "name": "Dent, Charles W.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-25", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000624", 
+      "district": "12", 
+      "name": "Dingell, Debbie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000288", 
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-27", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000296", 
+      "district": "2", 
+      "name": "Evans, Dwight", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-27", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000571", 
+      "district": "2", 
+      "name": "Gabbard, Tulsi", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-02", 
+      "state": "HI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000535", 
+      "district": "4", 
+      "name": "Gutierrez, Luis V.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-02", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000298", 
+      "district": "7", 
+      "name": "Jayapal, Pramila", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-08-04", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000375", 
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-26", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000389", 
+      "district": "17", 
+      "name": "Khanna, Ro", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-21", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000391", 
+      "district": "8", 
+      "name": "Krishnamoorthi, Raja", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-21", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001137", 
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-13", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001160", 
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-20", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001202", 
+      "district": "7", 
+      "name": "Murphy, Stephanie N.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-25", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000168", 
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-29", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Q000023", 
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-02", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-26", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000609", 
+      "district": "4", 
+      "name": "Rutherford, John H.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-11", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000477", 
+      "district": "2", 
+      "name": "Taylor, Scott", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "VA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000822", 
+      "district": "12", 
+      "name": "Watson Coleman, Bonnie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-21", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-04-06", 
+  "number": "257", 
+  "official_title": "Condemning hate crime and any other form of racism, religious or ethnic bias, discrimination, incitement to violence, or animus targeting a minority in the United States.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sres118-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "C001105", 
+    "district": "10", 
+    "name": "Comstock, Barbara", 
+    "state": "VA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-04-06", 
+  "subjects": [
+    "Civil rights and liberties, minority issues", 
+    "Crime prevention", 
+    "Crime victims", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Hate crimes", 
+    "Law enforcement administration and funding", 
+    "Racial and ethnic relations", 
+    "Religion", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Civil rights and liberties, minority issues", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-04-06T04:00:00Z", 
+    "text": "Condemns hate crime and any other form of racism, religious or ethnic bias, discrimination, incitement to violence, or animus targeting a minority in the United States. Affirms that the United States stands united in condemning hate and evil in all forms. Rejects hate-motivated crime as an attack on the fabric of society and the ideals of pluralism and respect.\n\nCalls on federal law enforcement officials, working with state and local officials, to: (1) expeditiously investigate all credible reports of hate crimes and incidents and threats against minorities in the United States, and (2) bring the perpetrators to justice.\n\nEncourages: (1) the Department of Justice (DOJ) and other federal agencies to work to improve the reporting of hate crimes and to emphasize the importance of the agencies' collection and reporting of data pursuant to federal law, and (2) the development of an interagency task force to collaborate on the development of effective strategies and efforts to detect and deter hate crime in order to protect minority communities.\n\nCalls on the executive branch to: (1) offer federal assistance that may be available for victims of hate crimes; and (2) enhance security measures and improve preparedness for religious institutions, places of worship, and other institutions that have been targeted because of their affiliation with any particular religious, racial, or ethnic minority in the United States."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Condemning hate crime and any other form of racism, religious or ethnic bias, discrimination, incitement to violence, or animus targeting a minority in the United States.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Condemning hate crime and any other form of racism, religious or ethnic bias, discrimination, incitement to violence, or animus targeting a minority in the United States.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-08-05T13:32:04Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres257.xml"
+}

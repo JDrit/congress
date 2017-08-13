@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-06", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-06", 
+      "action_code": "91000", 
+      "references": [], 
+      "text": "Senate amendment submitted", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2723-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2714-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "description": null, 
+    "number": 2714, 
+    "purpose": "Of a perfecting nature."
+  }, 
+  "amends_bill": {
+    "bill_id": "s1845-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1845
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-02-06", 
+  "number": 2723, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "bioguide_id": "C000542", 
+    "district": null, 
+    "name": "Coats, Daniel", 
+    "state": "IN", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-02-06", 
+  "updated_at": "2016-10-25T13:05:23Z"
+}

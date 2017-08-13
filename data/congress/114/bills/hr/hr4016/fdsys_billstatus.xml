@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-11-16</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2015-11-16</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2015-11-16</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <laws />
+    <billNumber>4016</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2015-11-16T19:02:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-11-16</introducedDate>
+    <updateDate>2017-06-02T21:39:11Z</updateDate>
+    <title>To amend the Internal Revenue Code of 1986 to extend the limitation on the carryover of excess corporate charitable contributions.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to extend the limitation on the carryover of excess corporate charitable contributions.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to extend the limitation on the carryover of excess corporate charitable contributions.</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-11-16T05:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill amends the Internal Revenue Code to extend the period in which a corporation may carryover excess&nbsp;contributions for purposes of the tax deduction for charitable contributions from 5 to 20 succeeding taxable years.</p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-12-31T20:15:17Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-11-16</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8003</gpoId>
+          <bioguideId>P000594</bioguideId>
+          <lisID>1930</lisID>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <bioguideId>P000594</bioguideId>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <firstName>Erik</firstName>
+        <state>MN</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Paulsen</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2015-11-16</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PAULSEN:H.R. 4016.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1 of the United StatesConstitution.[Page H8241]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>THOMPSON</lastName>
+        <district>5</district>
+        <identifiers>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+          <bioguideId>T000460</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>MIKE</firstName>
+        <bioguideId>T000460</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Nunes, Devin [R-CA-22]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Nunes</lastName>
+        <district>22</district>
+        <identifiers>
+          <lisID>1710</lisID>
+          <gpoId>7826</gpoId>
+          <bioguideId>N000181</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Devin</firstName>
+        <bioguideId>N000181</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-11-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Smith</lastName>
+        <district>8</district>
+        <identifiers>
+          <lisID>2191</lisID>
+          <gpoId />
+          <bioguideId>S001195</bioguideId>
+        </identifiers>
+        <state>MO</state>
+        <firstName>Jason</firstName>
+        <bioguideId>S001195</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>KIND</lastName>
+        <district>3</district>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <state>WI</state>
+        <firstName>RON</firstName>
+        <bioguideId>K000188</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>TIBERI</lastName>
+        <district>12</district>
+        <identifiers>
+          <gpoId>8102</gpoId>
+          <bioguideId>T000462</bioguideId>
+          <lisID>1664</lisID>
+        </identifiers>
+        <state>OH</state>
+        <firstName>PATRICK</firstName>
+        <bioguideId>T000462</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Noem</lastName>
+        <district>0</district>
+        <identifiers>
+          <gpoId>8147</gpoId>
+          <bioguideId>N000184</bioguideId>
+          <lisID>2060</lisID>
+        </identifiers>
+        <state>SD</state>
+        <firstName>Kristi</firstName>
+        <bioguideId>N000184</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Renacci</lastName>
+        <district>16</district>
+        <identifiers>
+          <lisID>2048</lisID>
+          <bioguideId>R000586</bioguideId>
+          <gpoId>8106</gpoId>
+        </identifiers>
+        <state>OH</state>
+        <firstName>James</firstName>
+        <bioguideId>R000586</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. McHenry, Patrick T. [R-NC-10]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>McHenry</lastName>
+        <district>10</district>
+        <identifiers>
+          <lisID>1792</lisID>
+          <gpoId>8033</gpoId>
+          <bioguideId>M001156</bioguideId>
+        </identifiers>
+        <state>NC</state>
+        <firstName>Patrick</firstName>
+        <bioguideId>M001156</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-12-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>RANGEL</lastName>
+        <district>13</district>
+        <identifiers>
+          <lisID>944</lisID>
+          <bioguideId>R000053</bioguideId>
+          <gpoId>8076</gpoId>
+        </identifiers>
+        <state>NY</state>
+        <firstName>CHARLES</firstName>
+        <bioguideId>R000053</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Boustany, Charles W., Jr. [R-LA-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Boustany</lastName>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>B001255</bioguideId>
+          <gpoId>7965</gpoId>
+          <lisID>1787</lisID>
+        </identifiers>
+        <state>LA</state>
+        <firstName>Charles</firstName>
+        <bioguideId>B001255</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>W.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Kline, John [R-MN-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-01-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kline</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>1733</lisID>
+          <gpoId>8002</gpoId>
+          <bioguideId>K000363</bioguideId>
+        </identifiers>
+        <state>MN</state>
+        <firstName>John</firstName>
+        <bioguideId>K000363</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-02-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Long</lastName>
+        <district>7</district>
+        <identifiers>
+          <lisID>2033</lisID>
+          <gpoId>8015</gpoId>
+          <bioguideId>L000576</bioguideId>
+        </identifiers>
+        <state>MO</state>
+        <firstName>Billy</firstName>
+        <bioguideId>L000576</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Luetkemeyer</lastName>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+          <lisID>1931</lisID>
+        </identifiers>
+        <state>MO</state>
+        <firstName>Blaine</firstName>
+        <bioguideId>L000569</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wagner</lastName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+          <gpoId />
+          <lisID>2137</lisID>
+        </identifiers>
+        <state>MO</state>
+        <firstName>Ann</firstName>
+        <bioguideId>W000812</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-04-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Marchant</lastName>
+        <district>24</district>
+        <identifiers>
+          <gpoId>8766</gpoId>
+          <bioguideId>M001158</bioguideId>
+          <lisID>1806</lisID>
+        </identifiers>
+        <state>TX</state>
+        <firstName>Kenny</firstName>
+        <bioguideId>M001158</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-04-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Walz</lastName>
+        <district>1</district>
+        <identifiers>
+          <bioguideId>W000799</bioguideId>
+          <gpoId>8001</gpoId>
+          <lisID>1856</lisID>
+        </identifiers>
+        <state>MN</state>
+        <firstName>Timothy</firstName>
+        <bioguideId>W000799</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-05-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>GRAVES</lastName>
+        <district>6</district>
+        <identifiers>
+          <bioguideId>G000546</bioguideId>
+          <gpoId>8014</gpoId>
+          <lisID>1656</lisID>
+        </identifiers>
+        <state>MO</state>
+        <firstName>SAM</firstName>
+        <bioguideId>G000546</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-05-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Roskam</lastName>
+        <district>6</district>
+        <identifiers>
+          <lisID>1848</lisID>
+          <gpoId>7926</gpoId>
+          <bioguideId>R000580</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <firstName>Peter</firstName>
+        <bioguideId>R000580</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-06-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Black</lastName>
+        <district>6</district>
+        <identifiers>
+          <gpoId>8153</gpoId>
+          <bioguideId>B001273</bioguideId>
+          <lisID>2063</lisID>
+        </identifiers>
+        <state>TN</state>
+        <firstName>Diane</firstName>
+        <bioguideId>B001273</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-07-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>NEAL</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>854</lisID>
+          <gpoId>7967</gpoId>
+          <bioguideId>N000015</bioguideId>
+        </identifiers>
+        <state>MA</state>
+        <firstName>RICHARD</firstName>
+        <bioguideId>N000015</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+        </identifiers>
+        <state>IA</state>
+        <firstName>Steve</firstName>
+        <bioguideId>K000362</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-09-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Emmer</lastName>
+        <district>6</district>
+        <identifiers>
+          <lisID>2253</lisID>
+          <gpoId />
+          <bioguideId>E000294</bioguideId>
+        </identifiers>
+        <state>MN</state>
+        <firstName>Tom</firstName>
+        <bioguideId>E000294</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>KING</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <firstName>PETER</firstName>
+        <bioguideId>K000210</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>T.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Thornberry, Mac [R-TX-13]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-11-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>THORNBERRY</lastName>
+        <district>13</district>
+        <identifiers>
+          <lisID>1155</lisID>
+          <gpoId>8755</gpoId>
+          <bioguideId>T000238</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <firstName>WILLIAM</firstName>
+        <bioguideId>T000238</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Charitable contributions</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-11-17T10:19:52Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

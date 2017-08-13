@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <updateDate>2017-06-02T21:25:42Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <calendarNumbers />
+    <relatedBills />
+    <introducedDate>2015-07-10</introducedDate>
+    <notes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2015-07-21</actionDate>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Blackburn</lastName>
+        <identifiers>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+        </identifiers>
+        <firstName>Marsha</firstName>
+        <bioguideId>B001243</bioguideId>
+        <middleName />
+        <byRequestType />
+        <state>TN</state>
+        <district>7</district>
+        <party>R</party>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <billNumber>3018</billNumber>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Code-FLEX Act of 2015</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Coding Flexibility in Healthcare Act of 2015</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To provide for a safe harbor period for the transition from the ICD-9 to the ICD-10 standard for health care claims.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Code-FLEX Act of 2015</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-07-10T04:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill requires that health care claims submitted with ICD-9 codes (the code set currently used in health care transactions to identify diagnoses and procedures) continue to be paid during the transition from the ICD-9 code set to the ICD-10 code set.</p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-07-23T16:42:52Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-07-10</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <committeeReports />
+    <title>Code-FLEX Act of 2015</title>
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <actionDate>2015-07-21</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-07-17</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Ways and Means</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-07-10</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Energy and Commerce</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-07-10</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <links />
+        <actionDate>2015-07-10</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2015-07-10</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2015-07-10</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2015-07-11T08:49:20Z</createDate>
+    <cosponsors>
+      <item>
+        <state>GA</state>
+        <identifiers>
+          <lisID>1778</lisID>
+          <gpoId>7903</gpoId>
+          <bioguideId>P000591</bioguideId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Price, Tom [R-GA-6]</fullName>
+        <sponsorshipDate>2015-07-10</sponsorshipDate>
+        <district>6</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Price</lastName>
+        <bioguideId>P000591</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>TN</state>
+        <identifiers>
+          <lisID>1954</lisID>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <sponsorshipDate>2015-07-27</sponsorshipDate>
+        <district>1</district>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Roe</lastName>
+        <bioguideId>R000582</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>D000533</bioguideId>
+          <gpoId>8149</gpoId>
+          <lisID>322</lisID>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <sponsorshipDate>2015-09-18</sponsorshipDate>
+        <district>2</district>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>DUNCAN</lastName>
+        <bioguideId>D000533</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>F000456</bioguideId>
+          <gpoId>7962</gpoId>
+          <lisID>1924</lisID>
+        </identifiers>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Fleming, John [R-LA-4]</fullName>
+        <sponsorshipDate>2015-10-06</sponsorshipDate>
+        <district>4</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Fleming</lastName>
+        <bioguideId>F000456</bioguideId>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-07-10T13:00:13Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-07-21T18:41:24Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-07-10T13:00:08Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-07-17T15:24:15Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BLACKBURN:H.R. 3018.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3[Page H5088]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,131 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-03-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-10", 
+      "action_code": "", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-10", 
+      "action_code": "", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 17.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1364-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001053", 
+      "district": "4", 
+      "name": "Hartzler, Vicky", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-04-06", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-03-10", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-03-06", 
+  "number": "1364", 
+  "official_title": "To amend title 5, United States Code, to limit the use of official time for political activity and to exclude certain official time from eligibility as creditable service under CSRS and FERS, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Official Time Reform Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "H001071", 
+    "district": "10", 
+    "name": "Hice, Jody B.", 
+    "state": "GA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-03-10", 
+  "subjects": [
+    "Employee leave", 
+    "Government employee pay, benefits, personnel management", 
+    "Government operations and politics", 
+    "Public participation and lobbying"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Official Time Reform Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Official Time Reform Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 5, United States Code, to limit the use of official time for political activity and to exclude certain official time from eligibility as creditable service under CSRS and FERS, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Official Time Reform Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-19T21:15:16Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr1364.xml"
+}

@@ -1,0 +1,73 @@
+<bill session="115" type="s" number="581" updated="2017-08-05T07:45:01Z">
+  <state datetime="2017-08-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2017-08-03"/>
+  </status>
+  <introduced datetime="2017-03-08"/>
+  <titles>
+    <title type="short" as="introduced">Jessie's Law</title>
+    <title type="short" as="introduced">Jessie's Law</title>
+    <title type="short" as="passed senate">Jessie's Law</title>
+    <title type="official" as="introduced">A bill to include information concerning a patient's opioid addiction in certain medical records.</title>
+    <title type="display">Jessie's Law</title>
+  </titles>
+  <sponsor id="412391"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2017-03-08"/>
+    <cosponsor id="300043" joined="2017-03-08"/>
+    <cosponsor id="412545" joined="2017-08-02"/>
+    <cosponsor id="412242" joined="2017-03-08"/>
+    <cosponsor id="300075" joined="2017-08-03"/>
+    <cosponsor id="412323" joined="2017-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-08">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2017-03-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S1691-1692" label="Sponsor introductory remarks on measure"/>
+    </action>
+    <action datetime="2017-08-03">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2017-08-03">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S4787" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2017-08-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2017-08-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2017-08-04T13:05:17-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2017-08-04">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="115" type="h" number="1554"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug therapy"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+  </subjects>
+  <amendments>
+    <amendment number="s752"/>
+  </amendments>
+  <summary date="2017-03-08T05:00:00Z" status="Introduced in Senate">Jessie's Law
+
+This bill requires the Department of Health and Human Services to develop and disseminate standards for hospitals and physicians regarding displaying the history of opioid addiction in the medical records of patients who have provided information about their addiction to a health care provider.</summary>
+  <committee-reports/>
+</bill>

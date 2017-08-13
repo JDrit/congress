@@ -1,0 +1,182 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-04-05", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-04-05", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-04-07", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Environment.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1917-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Environment and the Economy", 
+      "subcommittee_id": "18"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000490", 
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-05", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001151", 
+      "district": "18", 
+      "name": "Murphy, Tim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-05", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000591", 
+      "district": "2", 
+      "name": "Roby, Martha", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-05", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000250", 
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-05", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001185", 
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-05", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-04-05", 
+  "number": "1917", 
+  "official_title": "To allow for judicial review of any final rule addressing national emission standards for hazardous air pollutants for brick and structural clay products or for clay ceramics manufacturing before requiring compliance with such rule.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s839-115", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Blocking Regulatory Interference from Closing Kilns Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "J000292", 
+    "district": "6", 
+    "name": "Johnson, Bill", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-04-05", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Air quality", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Hazardous wastes and toxic substances", 
+    "Judicial review and appeals", 
+    "Manufacturing"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-04-05T04:00:00Z", 
+    "text": "Blocking Regulatory Interference from Closing Kilns Act of 2017\n\nThis bill prohibits the Environmental Protection Agency from requiring compliance with Clean Air Act rules concerning national emission standards for hazardous air pollutants with respect to brick and structural clay products manufacturing or clay ceramics manufacturing until judicial reviews of the rules are complete."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Blocking Regulatory Interference from Closing Kilns Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Blocking Regulatory Interference from Closing Kilns Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To allow for judicial review of any final rule addressing national emission standards for hazardous air pollutants for brick and structural clay products or for clay ceramics manufacturing before requiring compliance with such rule.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Blocking Regulatory Interference from Closing Kilns Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-19T21:45:20Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr1917.xml"
+}

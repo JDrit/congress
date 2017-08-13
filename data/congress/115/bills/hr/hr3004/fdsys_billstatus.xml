@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <notes />
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>344</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2017/roll344.xml</url>
+        <date>2017-06-29T21:26:57Z</date>
+        <congress>115</congress>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>343</rollNumber>
+        <fullActionName>Motion to Commit/Recommit With Instructions Results</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2017/roll343.xml</url>
+        <date>2017-06-29T21:21:12Z</date>
+        <congress>115</congress>
+      </recordedVote>
+    </recordedVotes>
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInSenate>1</introducedInSenate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <generalDebate>4</generalDebate>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <motionToCommitRecommitWithInstructionsResults>1</motionToCommitRecommitWithInstructionsResults>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>2</considerationByHouse>
+        <placeholderTextForHA>1</placeholderTextForHA>
+        <motionToCommitRecommitWithInstructionsOffered>1</motionToCommitRecommitWithInstructionsOffered>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-10</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionTime>17:26:59</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H37100</actionCode>
+        <committee />
+        <text>On passage Passed by recorded vote: 257 - 167 (Roll no. 344). (text: CR H5333)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5333</url>
+            <name>H5333</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll344.xml</url>
+            <name>Roll no. 344</name>
+          </link>
+        </links>
+        <actionTime>17:26:57</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>8000</actionCode>
+        <committee />
+        <text>Passed/agreed to in House: On passage Passed by recorded vote: 257 - 167 (Roll no. 344).</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll344.xml</url>
+            <name>Roll no. 344</name>
+          </link>
+        </links>
+        <actionTime>17:26:57</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H36110</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>On motion to recommit with instructions Failed by the Yeas and Nays: 193 - 232 (Roll no. 343).</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll343.xml</url>
+            <name>Roll no. 343</name>
+          </link>
+        </links>
+        <actionTime>17:21:12</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <text>Considered as unfinished business. (consideration: CR H5355-5356)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5355-5356</url>
+            <name>H5355-5356</name>
+          </link>
+        </links>
+        <actionTime>17:15:30</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Lofgren motion to recommit with instructions, Chair put the question on adoption of the motion to recommit and by voice vote announced that the noes had prevailed. Ms. Lofgren demanded the yeas and nays, and the Chair postponed further proceedings until later in the later legislative day.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionTime>16:47:40</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H8A000</actionCode>
+        <committee />
+        <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionTime>16:47:32</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <text>DEBATE - The House proceeded with 10 minutes of debate on the Lofgren motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment adding a new section at the end of the bill pertaining to Protecting Victims of Trafficking.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionTime>16:39:29</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H36100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Ms. Lofgren moved to recommit with instructions to the Committee on the Judiciary. (text: CR H5352)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5352</url>
+            <name>H5352</name>
+          </link>
+        </links>
+        <actionTime>16:39:12</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H35000</actionCode>
+        <committee />
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionTime>16:38:59</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <text>DEBATE - The House proceeded with one hour of debate on H.R. 3004.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3004</url>
+            <name>H.R. 3004</name>
+          </link>
+        </links>
+        <actionTime>15:33:19</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <text>Rule provides for consideration of H.R. 3004 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. Providing for adjournment for the period of July 3, 2017 through July 10, 2017.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3004</url>
+            <name>H.R. 3004</name>
+          </link>
+        </links>
+        <actionTime>15:33:06</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <text>Considered under the provisions of rule H. Res. 415. (consideration: CR H5333-5353)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/415</url>
+            <name>H. Res. 415</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5333-5353</url>
+            <name>H5333-5353</name>
+          </link>
+        </links>
+        <actionTime>15:33:01</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <actionCode>H1L220</actionCode>
+        <committee />
+        <text>Rule H. Res. 415 passed House.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/415</url>
+            <name>H. Res. 415</name>
+          </link>
+        </links>
+        <actionTime>14:05:38</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-27</actionDate>
+        <actionCode>H1L210</actionCode>
+        <committee />
+        <text>Rules Committee Resolution H. Res. 415 Reported to House. Rule provides for consideration of H.R. 3004 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. Providing for adjournment for the period of July 3, 2017 through July 10, 2017.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/415</url>
+            <name>H. Res. 415</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3004</url>
+            <name>H.R. 3004</name>
+          </link>
+        </links>
+        <actionTime>17:23:48</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>19</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2017-07-25T16:15:14Z</updateDate>
+    <createDate>2017-06-23T03:11:37Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-06-22</actionDate>
+          <lastSummaryUpdateDate>2017-07-06T19:35:11Z</lastSummaryUpdateDate>
+          <updateDate>2017-06-22T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Kate's Law</strong></p> <p> This bill amends the Immigration and Nationality Act to revise provisions relating to the reentry of removed aliens. </p> <p>The bill provides that an alien who has been excluded, deported, removed, or denied admission, or who has departed the United States while under an outstanding order of exclusion, deportation, or removal, and who subsequently crosses or attempts to cross the border into the United States, shall be fined, imprisoned not more than two years, or both. </p> <p>The bill revises reentry of criminal offender provisions to provide that an alien who was convicted before such removal or departure of: </p> <ul> <li> three or more misdemeanors or for a felony shall be fined, imprisoned up to 10 years, or both; </li> <li>a felony for which the alien was sentenced to not less than 30 months in prison shall be fined, imprisoned up to 15 years, or both; </li> <li>a felony for which the alien was sentenced to not less than 60 months shall be fined, imprisoned up to 20 years, or both; or </li> <li>murder, rape, kidnapping, or a felony offense relating to peonage and slavery or terrorism, or of three or more felonies of any kind, shall be fined, imprisoned up to 25 years, or both.</li> </ul> <p>An alien who has been excluded, deported, removed, or denied admission three or more times and thereafter enters, attempts to enter, or crosses or attempts to cross the border to, or is at any time found in, the United States shall be fined, imprisoned not more than 10 years, or both.</p> </p>]]></text>
+        </item>
+        <item>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <actionDate>2017-06-29</actionDate>
+          <lastSummaryUpdateDate>2017-07-06T19:40:33Z</lastSummaryUpdateDate>
+          <updateDate>2017-06-29T14:45:20Z</updateDate>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><strong>Kate's Law</strong></p> <p>(Sec. 2) This bill amends the Immigration and Nationality Act to revise provisions relating to the reentry of removed aliens. </p> <p>The bill provides that an alien who has been excluded, deported, removed, or denied admission, or who has departed the United States while under an outstanding order of exclusion, deportation, or removal, and who subsequently crosses or attempts to cross the border into the United States, shall be fined, imprisoned not more than two years, or both. (&quot;Crosses the border&quot; refers to the physical act of crossing the border, regardless of whether the alien is free from official restraint.) </p> <p>The bill revises reentry of criminal offender provisions to provide that an alien who was convicted before such removal or departure of: </p> <ul> <li> three or more misdemeanors or for a felony shall be fined, imprisoned up to 10 years, or both; </li> <li>a felony for which the alien was sentenced to not less than 30 months in prison shall be fined, imprisoned up to 15 years, or both; </li> <li>a felony for which the alien was sentenced to not less than 60 months shall be fined, imprisoned up to 20 years, or both; or </li> <li>murder, rape, kidnapping, or a felony offense relating to peonage and slavery or terrorism, or of three or more felonies of any kind, shall be fined, imprisoned up to 25 years, or both.</li> </ul> <p>An alien who has been excluded, deported, removed, or denied admission three or more times and thereafter enters, attempts to enter, or crosses or attempts to cross the border to, or is at any time found in, the United States shall be fined, imprisoned not more than 10 years, or both.</p> <p>The bill states that it shall be an affirmative defense to a reentry violation (thus placing the burden of proof on the defendant) that: (1) prior to the alleged violation, the alien had received Department of Homeland Security (DHS) consent to reapply for U.S. admission; or (2) with respect to an alien previously denied admission and removed, the alien was not required to obtain such advance consent and had complied with all other applicable admissions laws and regulations. </p> <p>In a criminal proceeding under this section, an alien may not challenge the validity of any prior removal order. (Currently, the validity of a prior deportation order may be challenged under certain grounds.)</p> <p>A removed alien who enters, attempts to enter, or crosses or attempts to cross the border to, or is at any time found in, the United States shall be incarcerated for the remainder of the sentence that was pending at the time of deportation without any reduction for parole or supervised release unless the alien affirmatively demonstrates that DHS has consented to the alien's reentry. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <number>415</number>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HRES</type>
+        <latestTitle>Providing for consideration of the bill (H.R. 3004) to amend section 276 of the Immigration and Nationality Act relating to reentry of removed aliens, and providing for proceedings during the period from July 3, 2017, through July 10, 2017.</latestTitle>
+        <latestAction>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionDate>2017-06-29</actionDate>
+          <actionTime>14:05:39</actionTime>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOODLATTE:H.R. 3004.Congress has the power to enact this legislation pursuantto the following:Clause 4 of Section 8 of Article I--The Congress shallhave the Power to establish a uniform Rule of Naturalization,and uniform Laws on the subject of Bankruptcies throughoutthe United States.[Page H5110]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <district>4</district>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <middleName />
+        <party>R</party>
+        <state>IA</state>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+        </identifiers>
+        <bioguideId>K000362</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+      </item>
+      <item>
+        <district>32</district>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <firstName>PETE</firstName>
+        <middleName />
+        <party>R</party>
+        <state>TX</state>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <bioguideId>S000250</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>SESSIONS</lastName>
+      </item>
+      <item>
+        <district>8</district>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <firstName>Brian</firstName>
+        <middleName>K.</middleName>
+        <party>R</party>
+        <state>PA</state>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <bioguideId>F000466</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Fitzpatrick</lastName>
+      </item>
+      <item>
+        <district>3</district>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <firstName>Evan</firstName>
+        <middleName>H.</middleName>
+        <party>R</party>
+        <state>WV</state>
+        <fullName>Rep. Jenkins, Evan H. [R-WV-3]</fullName>
+        <identifiers>
+          <bioguideId>J000297</bioguideId>
+          <gpoId />
+          <lisID>2278</lisID>
+        </identifiers>
+        <bioguideId>J000297</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Jenkins</lastName>
+      </item>
+      <item>
+        <district>1</district>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <firstName>Matt</firstName>
+        <middleName />
+        <party>R</party>
+        <state>FL</state>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <bioguideId>G000578</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gaetz</lastName>
+      </item>
+      <item>
+        <district>21</district>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <firstName>LAMAR</firstName>
+        <middleName />
+        <party>R</party>
+        <state>TX</state>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <identifiers>
+          <bioguideId>S000583</bioguideId>
+          <lisID>1075</lisID>
+          <gpoId>8177</gpoId>
+        </identifiers>
+        <bioguideId>S000583</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>SMITH</lastName>
+      </item>
+      <item>
+        <district>2</district>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <firstName>Don</firstName>
+        <middleName />
+        <party>R</party>
+        <state>NE</state>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+        </identifiers>
+        <bioguideId>B001298</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bacon</lastName>
+      </item>
+      <item>
+        <district>8</district>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <firstName>Jason</firstName>
+        <middleName />
+        <party>R</party>
+        <state>MO</state>
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2191</lisID>
+          <bioguideId>S001195</bioguideId>
+        </identifiers>
+        <bioguideId>S001195</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Smith</lastName>
+      </item>
+      <item>
+        <district>1</district>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <firstName>Lee</firstName>
+        <middleName>M.</middleName>
+        <party>R</party>
+        <state>NY</state>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <lisID>2261</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>Z000017</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Zeldin</lastName>
+      </item>
+      <item>
+        <district>5</district>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <firstName>Doug</firstName>
+        <middleName />
+        <party>R</party>
+        <state>CO</state>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <identifiers>
+          <gpoId>7863</gpoId>
+          <bioguideId>L000564</bioguideId>
+          <lisID>1834</lisID>
+        </identifiers>
+        <bioguideId>L000564</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lamborn</lastName>
+      </item>
+      <item>
+        <district>11</district>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <firstName>Lou</firstName>
+        <middleName />
+        <party>R</party>
+        <state>PA</state>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <identifiers>
+          <bioguideId>B001269</bioguideId>
+          <lisID>2054</lisID>
+          <gpoId>8129</gpoId>
+        </identifiers>
+        <bioguideId>B001269</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Barletta</lastName>
+      </item>
+      <item>
+        <district>16</district>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <firstName>James</firstName>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <state>OH</state>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <identifiers>
+          <gpoId>8106</gpoId>
+          <lisID>2048</lisID>
+          <bioguideId>R000586</bioguideId>
+        </identifiers>
+        <bioguideId>R000586</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Renacci</lastName>
+      </item>
+      <item>
+        <district>4</district>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <firstName>John</firstName>
+        <middleName />
+        <party>R</party>
+        <state>TX</state>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000601</bioguideId>
+          <lisID>2268</lisID>
+        </identifiers>
+        <bioguideId>R000601</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ratcliffe</lastName>
+      </item>
+      <item>
+        <district>2</district>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <firstName>JOHN</firstName>
+        <middleName>J.</middleName>
+        <party>R</party>
+        <state>TN</state>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <identifiers>
+          <gpoId>8149</gpoId>
+          <bioguideId>D000533</bioguideId>
+          <lisID>322</lisID>
+        </identifiers>
+        <bioguideId>D000533</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>DUNCAN</lastName>
+      </item>
+      <item>
+        <district>42</district>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <firstName>KEN</firstName>
+        <middleName />
+        <party>R</party>
+        <state>CA</state>
+        <fullName>Rep. Calvert, Ken [R-CA-42]</fullName>
+        <identifiers>
+          <bioguideId>C000059</bioguideId>
+          <gpoId>7849</gpoId>
+          <lisID>165</lisID>
+        </identifiers>
+        <bioguideId>C000059</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>CALVERT</lastName>
+      </item>
+      <item>
+        <district>16</district>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <firstName>Vern</firstName>
+        <middleName />
+        <party>R</party>
+        <state>FL</state>
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <identifiers>
+          <lisID>1840</lisID>
+          <gpoId>7885</gpoId>
+          <bioguideId>B001260</bioguideId>
+        </identifiers>
+        <bioguideId>B001260</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Buchanan</lastName>
+      </item>
+      <item>
+        <district>5</district>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <middleName>A.</middleName>
+        <party>R</party>
+        <state>VA</state>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2353</lisID>
+          <bioguideId>G000580</bioguideId>
+        </identifiers>
+        <bioguideId>G000580</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Garrett</lastName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>Kate’s Law</title>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Kate's Law</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Kate's Law</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend section 276 of the Immigration and Nationality Act relating to reentry of removed aliens.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Kate's Law</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Kate’s Law</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <latestAction>
+      <text>Received in the Senate.</text>
+      <actionDate>2017-07-10</actionDate>
+      <links />
+    </latestAction>
+    <billType>HR</billType>
+    <introducedDate>2017-06-22</introducedDate>
+    <title>Kate's Law</title>
+    <sponsors>
+      <item>
+        <lastName>GOODLATTE</lastName>
+        <party>R</party>
+        <fullName>Rep. Goodlatte, Bob [R-VA-6]</fullName>
+        <bioguideId>G000289</bioguideId>
+        <firstName>ROBERT</firstName>
+        <identifiers>
+          <gpoId>8197</gpoId>
+          <bioguideId>G000289</bioguideId>
+          <lisID>446</lisID>
+        </identifiers>
+        <middleName>W.</middleName>
+        <state>VA</state>
+        <district>6</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>3004</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-06-22T14:04:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Immigration and Border Security Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <date>2017-06-22T15:36:08Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

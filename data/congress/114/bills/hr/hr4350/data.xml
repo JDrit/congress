@@ -1,0 +1,97 @@
+<bill session="114" type="h" number="4350" updated="2017-06-02T21:43:34Z">
+  <state datetime="2016-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="2016-01-08"/>
+  </status>
+  <introduced datetime="2016-01-08"/>
+  <titles>
+    <title type="official" as="introduced">To repeal the Cybersecurity Act of 2015.</title>
+    <title type="display">To repeal the Cybersecurity Act of 2015.</title>
+  </titles>
+  <sponsor id="412438"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2016-01-08"/>
+    <cosponsor id="412639" joined="2016-02-01"/>
+    <cosponsor id="400245" joined="2016-01-08"/>
+    <cosponsor id="412503" joined="2016-01-08"/>
+    <cosponsor id="400652" joined="2016-01-08"/>
+    <cosponsor id="412308" joined="2016-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2016-01-08">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2016-01-08" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Homeland Security, Intelligence (Permanent Select), Armed Services, the Judiciary, Foreign Affairs, Science, Space, and Technology, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2016-01-08">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2016-01-08">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2016-01-08">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent"/>
+    </action>
+    <action datetime="2016-01-08">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2016-01-08">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2016-01-08">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2016-01-08">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2016-01-08">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2016-01-13">
+      <text>Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.</text>
+    </action>
+    <action datetime="2016-01-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2016-02-03">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2016-02-03">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2016-09-30">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee activity="Referral" code="HSSY15" subcommittee="Research and Technology" name="House Science, Space, and Technology"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM08" subcommittee="Cybersecurity, Infrastructure Protection, and Security Technologies" name="House Homeland Security"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee code="HLIG" name="House Intelligence (Permanent)" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="2029"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Competition and antitrust"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Crime prevention"/>
+    <term name="Government information and archives"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary date="2016-01-08T05:00:00Z" status="Introduced in House">This bill repeals the Cybersecurity Act of 2015 and restores provisions amended by such Act as if it had not been enacted.</summary>
+  <committee-reports/>
+</bill>

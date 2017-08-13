@@ -1,0 +1,62 @@
+<bill session="115" type="h" number="2131" updated="2017-06-29T04:35:56Z">
+  <state datetime="2017-06-21T14:51:40-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-06-21T14:51:40-04:00"/>
+  </status>
+  <introduced datetime="2017-04-25"/>
+  <titles>
+    <title type="short" as="introduced">DHS FIRM Act</title>
+    <title type="short" as="introduced">Fixing Internal Response to Misconduct Act</title>
+    <title type="short" as="introduced">Fixing Internal Response to Misconduct Act</title>
+    <title type="short" as="passed house">DHS FIRM Act</title>
+    <title type="short" as="passed house">Fixing Internal Response to Misconduct Act</title>
+    <title type="short" as="passed house">Fixing Internal Response to Misconduct Act</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to direct the Chief Human Capital Officer of the Department of Homeland Security to improve consistency regarding discipline and adverse actions in the Department's workforce, and for other purposes.</title>
+    <title type="display">Fixing Internal Response to Misconduct Act</title>
+  </titles>
+  <sponsor id="412705"/>
+  <cosponsors>
+    <cosponsor id="400654" joined="2017-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-25" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-05-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2017-06-21T14:44:03-04:00">
+      <text>Mr. Higgins (LA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-06-21T14:44:17-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5018-5020" label="consideration"/>
+    </action>
+    <action datetime="2017-06-21T14:44:19-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2131.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-06-21T14:51:40-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5018" label="text"/>
+    </vote>
+    <action datetime="2017-06-21T14:51:42-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-06-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

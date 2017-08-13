@@ -1,0 +1,44 @@
+<bill session="115" type="hj" number="106" updated="2017-07-27T16:00:19Z">
+  <state datetime="2017-06-22">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-22"/>
+  </status>
+  <introduced datetime="2017-06-22"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to provide that Representatives shall be apportioned among the several States according to their respective numbers, counting the number of persons in each State who are citizens of the United States.</title>
+    <title type="display">Proposing an amendment to the Constitution of the United States to provide that Representatives shall be apportioned among the several States according to their respective numbers, counting the number of persons in each State who are citizens of the United States.</title>
+  </titles>
+  <sponsor id="412675"/>
+  <cosponsors>
+    <cosponsor id="412395" joined="2017-06-22"/>
+    <cosponsor id="400220" joined="2017-06-28"/>
+    <cosponsor id="412191" joined="2017-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-22">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-22" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-07-19">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="115" type="hj" number="30"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional districts and representation"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

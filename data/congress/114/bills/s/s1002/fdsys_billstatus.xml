@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-04-16</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-04-16</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>Collegiate Housing and Infrastructure Act of 2015</latestTitle>
+        <number>1718</number>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2015-03-26</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>1002</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-04-16T21:40:43Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-04-16</introducedDate>
+    <updateDate>2017-06-02T23:02:40Z</updateDate>
+    <title>Collegiate Housing and Infrastructure Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Collegiate Housing and Infrastructure Act of 2015</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to provide for collegiate housing and infrastructure grants.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Collegiate Housing and Infrastructure Act of 2015</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-04-16</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><strong>Collegiate Housing and Infrastructure Act of 2015</strong></p> <p>Amends the Internal Revenue Code to allow tax-exempt charitable or educational organizations to make collegiate housing and infrastructure improvement grants to certain tax-exempt social clubs (e.g., college fraternities and sororities) which apply such grants to their collegiate housing property.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-05-06T21:31:19Z</lastSummaryUpdateDate>
+          <updateDate>2015-04-16T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <firstName>BENJAMIN</firstName>
+        <party>D</party>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <state>MD</state>
+        <middleName>L.</middleName>
+        <byRequestType />
+        <lastName>CARDIN</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2015-04-16</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+          <lisID>1542</lisID>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+        <party>R</party>
+        <bioguideId>E000285</bioguideId>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WY</state>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <lastName>ENZI</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+          <lisID>179</lisID>
+        </identifiers>
+        <firstName>THOMAS</firstName>
+        <party>D</party>
+        <bioguideId>C000174</bioguideId>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>DE</state>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <lastName>CARPER</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8274</gpoId>
+          <bioguideId>R000584</bioguideId>
+          <lisID>1896</lisID>
+        </identifiers>
+        <firstName>James</firstName>
+        <party>R</party>
+        <bioguideId>R000584</bioguideId>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>ID</state>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-05-04</sponsorshipDate>
+        <lastName>Risch</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <firstName>Roy</firstName>
+        <party>R</party>
+        <bioguideId>B000575</bioguideId>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-05-04</sponsorshipDate>
+        <lastName>Blunt</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>968</lisID>
+          <gpoId>8275</gpoId>
+          <bioguideId>R000307</bioguideId>
+        </identifiers>
+        <firstName>PAT</firstName>
+        <party>R</party>
+        <bioguideId>R000307</bioguideId>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>KS</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-05-11</sponsorshipDate>
+        <lastName>ROBERTS</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <firstName>ROGER</firstName>
+        <party>R</party>
+        <bioguideId>W000437</bioguideId>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MS</state>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-05-11</sponsorshipDate>
+        <lastName>WICKER</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+        </identifiers>
+        <firstName>JERRY</firstName>
+        <party>R</party>
+        <bioguideId>M000934</bioguideId>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>KS</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-05-19</sponsorshipDate>
+        <lastName>MORAN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+        <party>R</party>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WV</state>
+        <middleName>MOORE</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-06-15</sponsorshipDate>
+        <lastName>CAPITO</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+        <firstName>Johnny</firstName>
+        <party>R</party>
+        <bioguideId>I000055</bioguideId>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>GA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-07-13</sponsorshipDate>
+        <lastName>Isakson</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>V000127</bioguideId>
+          <gpoId>8267</gpoId>
+          <lisID>1609</lisID>
+        </identifiers>
+        <firstName>David</firstName>
+        <party>R</party>
+        <bioguideId>V000127</bioguideId>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>LA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-04-19</sponsorshipDate>
+        <lastName>Vitter</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+        </identifiers>
+        <firstName>John</firstName>
+        <party>R</party>
+        <bioguideId>B001236</bioguideId>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AR</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-04-21</sponsorshipDate>
+        <lastName>Boozman</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Tax-exempt organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-04-17T09:02:01Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

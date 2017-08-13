@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-05-25</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2016-05-25</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>Presidential Tax Transparency Act</latestTitle>
+        <number>5386</number>
+        <latestAction>
+          <text>Referred to House Administration</text>
+          <actionDate>2016-06-07</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>Presidential Tax Transparency Act</latestTitle>
+        <number>3348</number>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 633.</text>
+          <actionDate>2016-09-19</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>2979</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-05-25T15:02:39Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssra00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-05-25</introducedDate>
+    <updateDate>2017-06-03T00:02:44Z</updateDate>
+    <title>Presidential Tax Transparency Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Presidential Tax Transparency Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Federal Election Campaign Act of 1971 to require candidates of major parties for the office of President to disclose recent tax return information.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Presidential Tax Transparency Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2016-05-25</actionDate>
+          <updateDate>2016-05-25T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2016-08-29T15:54:15Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>Presidential Tax Transparency Act</b></p> <p>This bill amends the Federal Election Campaign Act of 1971 to require any candidate of a major party for the office of President to file with the Federal Election Commission (FEC) a copy of the candidate's income tax returns for the three most recent taxable years for which such a return has been filed with the Internal Revenue Service as of the date of the nomination.</p> <p>In any case in which such a candidate has not filed with the FEC such income tax returns within 30 days after the nomination date, the FEC shall request the Department of the Treasury to furnish the returns.</p> <p>A tax return furnished to the FEC by a candidate or by Treasury shall be treated in the same manner as a report filed by the candidate and, except for the appropriate redaction of certain information, shall be made publicly available at the same time and in the same manner as other reports and statements.</p> <p>The bill amends the Internal Revenue Code to authorize the FEC to disclose to the public the applicable tax returns of any person who has been nominated as a candidate of a major party. Treasury shall furnish the FEC with copies of any requested returns.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <firstName>RON</firstName>
+        <party>D</party>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <state>OR</state>
+        <middleName />
+        <byRequestType />
+        <lastName>WYDEN</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+      <actionDate>2016-05-25</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2016-05-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bennet</lastName>
+        <identifiers>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <bioguideId>B001267</bioguideId>
+        <middleName>F.</middleName>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-05-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Warren</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+        </identifiers>
+        <firstName>Elizabeth</firstName>
+        <bioguideId>W000817</bioguideId>
+        <middleName>A.</middleName>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BOXER</lastName>
+        <identifiers>
+          <bioguideId>B000711</bioguideId>
+          <gpoId>8306</gpoId>
+          <lisID>116</lisID>
+        </identifiers>
+        <firstName>BARBARA</firstName>
+        <bioguideId>B000711</bioguideId>
+        <middleName />
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-06-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Kaine</lastName>
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+          <lisID>2176</lisID>
+        </identifiers>
+        <firstName>Timothy</firstName>
+        <bioguideId>K000384</bioguideId>
+        <middleName />
+        <state>VA</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-06-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BALDWIN</lastName>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <firstName>TAMMY</firstName>
+        <bioguideId>B001230</bioguideId>
+        <middleName />
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-09-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CARDIN</lastName>
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <firstName>BENJAMIN</firstName>
+        <bioguideId>C000141</bioguideId>
+        <middleName>L.</middleName>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Murphy</lastName>
+        <identifiers>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <firstName>Christopher</firstName>
+        <bioguideId>M001169</bioguideId>
+        <middleName />
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>UDALL</lastName>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <firstName>TOM</firstName>
+        <bioguideId>U000039</bioguideId>
+        <middleName />
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-09-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>STABENOW</lastName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <firstName>DEBORAH</firstName>
+        <bioguideId>S000770</bioguideId>
+        <middleName>ANN</middleName>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2016-05-26T05:28:46Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

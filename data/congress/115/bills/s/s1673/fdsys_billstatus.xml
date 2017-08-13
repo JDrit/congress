@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea />
+    <congress>115</congress>
+    <relatedBills />
+    <version>1.0.0</version>
+    <notes />
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2017-07-31</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>BROWN</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <firstName>SHERROD</firstName>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <byRequestType />
+        <middleName />
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-07-31T20:28:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-08-01T00:26:48Z</createDate>
+    <updateDate>2017-08-01T04:46:46Z</updateDate>
+    <introducedDate>2017-07-31</introducedDate>
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-31</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-07-31</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1673</billNumber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-31</sponsorshipDate>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <bioguideId>D000563</bioguideId>
+        <middleName>J.</middleName>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+          <lisID>326</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>RICHARD</firstName>
+        <lastName>DURBIN</lastName>
+        <state>IL</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-31</sponsorshipDate>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <bioguideId>V000128</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Chris</firstName>
+        <lastName>Van Hollen</lastName>
+        <state>MD</state>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code to include in income the unrepatriated earnings of groups that include an inverted corporation.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Internal Revenue Code to include in income the unrepatriated earnings of groups that include an inverted corporation.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <title>A bill to amend the Internal Revenue Code to include in income the unrepatriated earnings of groups that include an inverted corporation.</title>
+    <calendarNumbers />
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

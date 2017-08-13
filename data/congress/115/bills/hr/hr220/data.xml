@@ -1,0 +1,98 @@
+<bill session="115" type="h" number="220" updated="2017-07-11T04:32:01Z">
+  <state datetime="2017-06-27T16:30:56-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-06-27T16:30:56-04:00"/>
+  </status>
+  <introduced datetime="2017-01-03"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the expansion of an existing hydroelectric project, and for other purposes.</title>
+    <title type="display">To authorize the expansion of an existing hydroelectric project, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-01-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-01-03" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-02-10">
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </action>
+    <action datetime="2017-02-10">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
+    <action datetime="2017-04-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2017-04-27">
+      <text>Subcommittee on Federal Lands Discharged.</text>
+    </action>
+    <action datetime="2017-04-27">
+      <text>Subcommittee on Water, Power and Oceans Discharged.</text>
+    </action>
+    <calendar datetime="2017-04-27" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2017-04-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2017-06-02">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-154.</text>
+    </action>
+    <calendar datetime="2017-06-02" calendar="Union" number="101">
+      <text>Placed on the Union Calendar, Calendar No. 101.</text>
+    </calendar>
+    <action datetime="2017-06-27T14:09:01-04:00">
+      <text>Mr. Cook moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-06-27T14:09:05-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5204-5205" label="consideration"/>
+    </action>
+    <action datetime="2017-06-27T14:09:07-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 220.</text>
+    </action>
+    <action datetime="2017-06-27T14:13:57-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2017-06-27T16:21:42-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5218-5219" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="330" datetime="2017-06-27T16:30:56-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 330).</text>
+      <reference ref="CR H5204" label="text"/>
+    </vote>
+    <action datetime="2017-06-27T16:30:57-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2017-06-28" calendar="Senate Legislative" under="General Orders" number="159">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 159.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Reporting, Markup, Referral"/>
+    <committee activity="Discharged, Hearings, Referral" code="HSII13" subcommittee="Water, Power and Oceans" name="House Natural Resources"/>
+    <committee activity="Discharged, Referral" code="HSII10" subcommittee="Federal Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="115" type="s" number="214"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alaska"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Dams and canals"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Lakes and rivers"/>
+    <term name="Licensing and registrations"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-06-02T13:03:50Z" status="Reported to House with amendment(s)">(Sec.1)This bill authorizes the licensee for the Terror Lake Hydroelectric Project in Kodiak Island, Alaska, to occupy not more than 20 acres of federal land to construct, operate, and maintain the Upper Hidden Basin Diversion Expansion without further authorization under the Alaska National Interest Lands Conservation Act or from the Department of the Interior.</summary>
+  <committee-reports>
+    <report>H. Rept. 115-154</report>
+  </committee-reports>
+</bill>

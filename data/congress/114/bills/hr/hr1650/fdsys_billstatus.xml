@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-04-07</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-03-27</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-03-26</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-03-26</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-03-26</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-03-26</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-03-26</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>2300</number>
+        <latestTitle>Empowering Patients First Act of 2015</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+          <actionDate>2015-11-16</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>1849</number>
+        <latestTitle>Medicare Patient Empowerment Act of 2015</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2015-07-23</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+      <item>
+        <number>2519</number>
+        <latestTitle>Empowering Patients First Act of 2015</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S740-741)</text>
+          <actionDate>2016-02-09</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>1650</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-03-26T13:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hswm02</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-04-07T21:37:56Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-03-26T13:03:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-03-27T20:35:03Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-03-26</introducedDate>
+    <updateDate>2017-06-02T20:21:34Z</updateDate>
+    <title>Medicare Patient Empowerment Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Medicare Patient Empowerment Act of 2015</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to establish a Medicare payment option for patients and eligible professionals to freely contract, without penalty, for Medicare fee-for-service items and services, while allowing Medicare beneficiaries to use their Medicare benefits.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Medicare Patient Empowerment Act of 2015</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-04-27T20:03:31Z</lastSummaryUpdateDate>
+          <updateDate>2015-03-26T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2015-03-26</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Medicare Patient Empowerment Act of 2015</b></p> <p> Amends title XVIII (Medicare) of the Social Security Act to allow any Medicare beneficiary to enter into a contract with an eligible professional (regardless of whether a participating or non-participating physician or practitioner) for any item or service covered by Medicare. Allows such beneficiaries to submit a claim for Medicare payment in the amount that would otherwise apply, except that where the professional is considered to be non-participating, payment shall be paid as if the professional were participating.</p> <p>Defines eligible professional as a physician, a physician assistant, nurse practitioner, clinical nurse specialist, a certified registered nurse anesthetist, a certified nurse-midwife, a clinical social worker, a clinical psychologist, a clinical psychologist, a physical or or occupational therapist or a qualified speech-language pathologist, or a qualified audiologist.</p> <p>Requires a Medicare beneficiary to agree in writing in such a contract to: (1) pay the eligible professional for a Medicare-covered item or service; and (2) submit (in lieu of the eligible professional) a claim for Medicare payment. Allows a beneficiary, however, to negotiate, as a term of the contract, for the eligible professional to file such claims on the beneficiary's behalf.</p> <p>Preempts state laws from limiting the amount of charges for physician and practitioner services for which Medicare payment is made.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>P000591</bioguideId>
+          <gpoId>7903</gpoId>
+          <lisID>1778</lisID>
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <bioguideId>P000591</bioguideId>
+        <fullName>Rep. Price, Tom [R-GA-6]</fullName>
+        <firstName>Tom</firstName>
+        <state>GA</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Price</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2015-04-07</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TOM PRICE of Georgia:H.R. 1650.Congress has the power to enact this legislation pursuantto the following:Medicare is a health care program under current law that isoperated by the federal government. This bill would improvethe efficiency, accessibility and fairness of the operationsof this federal program, especially the purchase of servicesand freedom to contract between doctors and Medicarerecipients. This bill directly affects interstate commerce,which Congress has the power to regulate under Article I,Section 8, Clause 3.[Page H2112]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+          <gpoId>8182</gpoId>
+        </identifiers>
+        <district>26</district>
+        <party>R</party>
+        <lastName>Burgess</lastName>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <sponsorshipDate>2015-03-26</sponsorshipDate>
+        <state>TX</state>
+        <firstName>Michael</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>C.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001248</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1664</lisID>
+          <gpoId>8102</gpoId>
+          <bioguideId>T000462</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <party>R</party>
+        <lastName>TIBERI</lastName>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <sponsorshipDate>2015-03-26</sponsorshipDate>
+        <state>OH</state>
+        <firstName>PATRICK</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000462</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2026</lisID>
+          <bioguideId>H001052</bioguideId>
+          <gpoId>7976</gpoId>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <lastName>Harris</lastName>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <sponsorshipDate>2015-03-26</sponsorshipDate>
+        <state>MD</state>
+        <firstName>Andy</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001052</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <district>32</district>
+        <party>R</party>
+        <lastName>SESSIONS</lastName>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <sponsorshipDate>2015-03-26</sponsorshipDate>
+        <state>TX</state>
+        <firstName>PETE</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000250</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1954</lisID>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <lastName>Roe</lastName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <sponsorshipDate>2015-03-26</sponsorshipDate>
+        <state>TN</state>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000582</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001275</bioguideId>
+          <gpoId>7947</gpoId>
+          <lisID>2018</lisID>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <lastName>Bucshon</lastName>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <sponsorshipDate>2015-03-26</sponsorshipDate>
+        <state>IN</state>
+        <firstName>Larry</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001275</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8708</gpoId>
+          <bioguideId>K000376</bioguideId>
+          <lisID>2051</lisID>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <lastName>Kelly</lastName>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <sponsorshipDate>2015-04-13</sponsorshipDate>
+        <state>PA</state>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000376</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1834</lisID>
+          <bioguideId>L000564</bioguideId>
+          <gpoId>7863</gpoId>
+        </identifiers>
+        <district>5</district>
+        <party>R</party>
+        <lastName>Lamborn</lastName>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <sponsorshipDate>2015-04-13</sponsorshipDate>
+        <state>CO</state>
+        <firstName>Doug</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000564</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1806</lisID>
+          <gpoId>8766</gpoId>
+          <bioguideId>M001158</bioguideId>
+        </identifiers>
+        <district>24</district>
+        <party>R</party>
+        <lastName>Marchant</lastName>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <sponsorshipDate>2015-04-15</sponsorshipDate>
+        <state>TX</state>
+        <firstName>Kenny</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001158</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2059</lisID>
+          <bioguideId>M001182</bioguideId>
+          <gpoId>8145</gpoId>
+        </identifiers>
+        <district>5</district>
+        <party>R</party>
+        <lastName>Mulvaney</lastName>
+        <fullName>Rep. Mulvaney, Mick [R-SC-5]</fullName>
+        <sponsorshipDate>2015-04-15</sponsorshipDate>
+        <state>SC</state>
+        <firstName>Mick</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001182</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001036</bioguideId>
+          <gpoId>8161</gpoId>
+          <lisID>1749</lisID>
+        </identifiers>
+        <district>5</district>
+        <party>R</party>
+        <lastName>Hensarling</lastName>
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+        <sponsorshipDate>2015-04-21</sponsorshipDate>
+        <state>TX</state>
+        <firstName>Jeb</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001036</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2044</lisID>
+          <bioguideId>H001051</bioguideId>
+          <gpoId>8085</gpoId>
+        </identifiers>
+        <district>22</district>
+        <party>R</party>
+        <lastName>Hanna</lastName>
+        <fullName>Rep. Hanna, Richard L. [R-NY-22]</fullName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <state>NY</state>
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001051</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2270</lisID>
+          <bioguideId>B001291</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>36</district>
+        <party>R</party>
+        <lastName>Babin</lastName>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <state>TX</state>
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001291</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2057</lisID>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <lastName>Duncan</lastName>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <state>SC</state>
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000615</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2065</lisID>
+          <bioguideId>F000461</bioguideId>
+          <gpoId>8173</gpoId>
+        </identifiers>
+        <district>17</district>
+        <party>R</party>
+        <lastName>Flores</lastName>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <state>TX</state>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000461</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1688</lisID>
+          <bioguideId>W000795</bioguideId>
+          <gpoId>8142</gpoId>
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <lastName>Wilson</lastName>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <state>SC</state>
+        <firstName>Joe</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000795</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+          <bioguideId>H001045</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <lastName>Harper</lastName>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <state>MS</state>
+        <firstName>Gregg</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001045</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2236</lisID>
+          <gpoId />
+          <bioguideId>C001103</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <lastName>Carter</lastName>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <state>GA</state>
+        <firstName>Earl</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L. "Buddy"</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001103</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <lastName>JONES</lastName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <state>NC</state>
+        <firstName>WALTER</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000255</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8178</gpoId>
+          <bioguideId>O000168</bioguideId>
+          <lisID>1955</lisID>
+        </identifiers>
+        <district>22</district>
+        <party>R</party>
+        <lastName>Olson</lastName>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <state>TX</state>
+        <firstName>Pete</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>O000168</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>A000372</bioguideId>
+          <gpoId />
+          <lisID>2239</lisID>
+        </identifiers>
+        <district>12</district>
+        <party>R</party>
+        <lastName>Allen</lastName>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <state>GA</state>
+        <firstName>Rick</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>A000372</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2249</lisID>
+          <gpoId />
+          <bioguideId>B001293</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <lastName>Bishop</lastName>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <state>MI</state>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001293</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8151</gpoId>
+          <bioguideId>D000616</bioguideId>
+          <lisID>2062</lisID>
+        </identifiers>
+        <district>4</district>
+        <party>R</party>
+        <lastName>DesJarlais</lastName>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <state>TN</state>
+        <firstName>Scott</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000616</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000804</bioguideId>
+          <gpoId>8192</gpoId>
+          <lisID>1886</lisID>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <lastName>Wittman</lastName>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <sponsorshipDate>2015-05-15</sponsorshipDate>
+        <state>VA</state>
+        <firstName>Robert</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000804</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <lastName>Johnson</lastName>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <state>OH</state>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000292</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1936</lisID>
+          <bioguideId>L000567</bioguideId>
+          <gpoId>8049</gpoId>
+        </identifiers>
+        <district>7</district>
+        <party>R</party>
+        <lastName>Lance</lastName>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <sponsorshipDate>2015-05-26</sponsorshipDate>
+        <state>NJ</state>
+        <firstName>Leonard</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000567</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1997</lisID>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <lastName>Tipton</lastName>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <sponsorshipDate>2015-05-29</sponsorshipDate>
+        <state>CO</state>
+        <firstName>Scott</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000470</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2008</lisID>
+          <gpoId>7904</gpoId>
+          <bioguideId>W000810</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <party>R</party>
+        <lastName>Woodall</lastName>
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+        <sponsorshipDate>2015-06-11</sponsorshipDate>
+        <state>GA</state>
+        <firstName>Rob</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000810</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000594</bioguideId>
+          <gpoId>8003</gpoId>
+          <lisID>1930</lisID>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <lastName>Paulsen</lastName>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <sponsorshipDate>2015-10-09</sponsorshipDate>
+        <state>MN</state>
+        <firstName>Erik</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000594</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <party>R</party>
+        <lastName>Cramer</lastName>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <sponsorshipDate>2016-03-14</sponsorshipDate>
+        <state>ND</state>
+        <firstName>Kevin</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001096</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>T000475</bioguideId>
+          <gpoId />
+          <lisID>2250</lisID>
+        </identifiers>
+        <district>11</district>
+        <party>R</party>
+        <lastName>Trott</lastName>
+        <fullName>Rep. Trott, David A. [R-MI-11]</fullName>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <state>MI</state>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000475</bioguideId>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Contracts and agency</name>
+          </item>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-03-27T08:45:58Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

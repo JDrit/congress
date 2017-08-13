@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-05-20T03:11:40Z</createDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-26</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-05-19</actionDate>
+        <text>Referred to House Energy and Commerce</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2017-05-19</actionDate>
+        <text>Referred to House Ways and Means</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-05-19</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-05-19</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-05-19</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <firstName>Patrick</firstName>
+        <bioguideId>M001181</bioguideId>
+        <lastName>Meehan</lastName>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <bioguideId>K000376</bioguideId>
+        <lastName>Kelly</lastName>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+          <lisID>2051</lisID>
+          <gpoId>8708</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <firstName>WILLIAM</firstName>
+        <bioguideId>P000096</bioguideId>
+        <lastName>PASCRELL</lastName>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+          <lisID>1510</lisID>
+          <gpoId>8050</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <firstName>Suzan</firstName>
+        <bioguideId>D000617</bioguideId>
+        <lastName>DelBene</lastName>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2096</lisID>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-05-19</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>R000599</bioguideId>
+        <lastName>Ruiz</lastName>
+        <firstName>Raul</firstName>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2109</lisID>
+          <gpoId />
+          <bioguideId>R000599</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>CA</state>
+        <district>36</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>BENES Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Beneficiary Enrollment Notification and Eligibility Simplification Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>BENES Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Beneficiary Enrollment Notification and Eligibility Simplification Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to establish a system to educate individuals approaching Medicare eligibility, to simplify and modernize the eligibility enrollment process, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>BENES Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>2575</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-19T13:04:05Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-26T15:29:21Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-19T13:04:00Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RU1Z:H.R. 2575.Congress has the power to enact this legislation pursuantto the following:Article I, section 8, Clauses 1 and 18 of the United StatesConstitution, to provide for the general welfare and make alllaws necessary and proper to carry out the powers ofCongress.[Page H4390]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Beneficiary Enrollment Notification and Eligibility Simplification Act of 2017 or the BENES Act of 2017</strong></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act and the Internal Revenue Code to:</p> <ul> <li>establish requirements for the Centers for Medicare &amp; Medicaid Services (CMS) to notify individuals of their potential eligibility for Medicare, </li> <li>require the Internal Revenue Service to disclose to CMS specified taxpayer information for the purpose of establishing individuals' potential Medicare eligibility, and </li> <li>restructure Medicare enrollment periods and coverage periods.</li></ul>]]></text>
+          <lastSummaryUpdateDate>2017-06-01T22:06:32Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2017-05-19</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-05-19T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>BENES Act of 2017</title>
+    <updateDate>2017-06-19T22:30:26Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2017-05-26</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

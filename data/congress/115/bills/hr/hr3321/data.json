@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-20", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-20", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3321-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "P000588", 
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-20", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001191", 
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-20", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-20", 
+  "number": "3321", 
+  "official_title": "To require the establishment of a national strategy for combating the financing of terrorism and related financial crimes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Strategy for Combating Terrorist, Underground, and Other Illicit Financing Act", 
+  "sponsor": {
+    "bioguide_id": "B001305", 
+    "district": "13", 
+    "name": "Budd, Ted", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-20", 
+  "subjects": [
+    "Finance and financial sector"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Strategy for Combating Terrorist, Underground, and Other Illicit Financing Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Strategy for Combating Terrorist, Underground, and Other Illicit Financing Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the establishment of a national strategy for combating the financing of terrorism and related financial crimes, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "National Strategy for Combating Terrorist, Underground, and Other Illicit Financing Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-24T16:45:12Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3321.xml"
+}

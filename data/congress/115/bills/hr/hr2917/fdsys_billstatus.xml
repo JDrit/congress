@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-06-15T14:04:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-06-16T13:46:59Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hspw02</systemCode>
+              <name>Water Resources and Environment Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <actions>
+      <item>
+        <actionDate>2017-06-16</actionDate>
+        <committee>
+          <name>Water Resources and Environment Subcommittee</name>
+          <systemCode>hspw02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-06-15</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-06-15</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-06-15</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2017-06-16</actionDate>
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </latestAction>
+    <committeeReports />
+    <relatedBills />
+    <amendments />
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <notes />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Regulatory Certainty Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Federal Water Pollution Control Act to clarify when the Administrator of the Environmental Protection Agency has the authority to prohibit the specification of a defined area, or deny or restrict the use of a defined area for specification, as a disposal site under section 404 of such Act, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Regulatory Certainty Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Regulatory Certainty Act of 2017</title>
+      </item>
+    </titles>
+    <updateDate>2017-07-13T13:25:42Z</updateDate>
+    <congress>115</congress>
+    <createDate>2017-06-16T03:11:38Z</createDate>
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <laws />
+    <billNumber>2917</billNumber>
+    <cosponsors>
+      <item>
+        <middleName />
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <lastName>CHABOT</lastName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>STEVE</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>C000266</bioguideId>
+        <state>OH</state>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
+        <lastName>Dunn</lastName>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Neal</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000628</bioguideId>
+          <lisID>2315</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>D000628</bioguideId>
+        <state>FL</state>
+      </item>
+      <item>
+        <middleName>B.</middleName>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <lastName>McKinley</lastName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>M001180</bioguideId>
+        <state>WV</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <lastName>Massie</lastName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Thomas</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001184</bioguideId>
+          <lisID>2094</lisID>
+          <gpoId>8371</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>M001184</bioguideId>
+        <state>KY</state>
+      </item>
+      <item>
+        <middleName>B.</middleName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <lastName>JONES</lastName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>WALTER</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>J000255</bioguideId>
+        <state>NC</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Perry, Scott [R-PA-4]</fullName>
+        <lastName>Perry</lastName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Scott</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+          <lisID>2157</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>P000605</bioguideId>
+        <state>PA</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <lastName>Barletta</lastName>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Lou</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2054</lisID>
+          <gpoId>8129</gpoId>
+          <bioguideId>B001269</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>B001269</bioguideId>
+        <state>PA</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <lastName>Lamborn</lastName>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Doug</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <lisID>1834</lisID>
+          <gpoId>7863</gpoId>
+          <bioguideId>L000564</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>L000564</bioguideId>
+        <state>CO</state>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <lastName>Gosar</lastName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Paul</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <gpoId>7798</gpoId>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>G000565</bioguideId>
+        <state>AZ</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <lastName>GRAVES</lastName>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>SAM</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <lisID>1656</lisID>
+          <gpoId>8014</gpoId>
+          <bioguideId>G000546</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>G000546</bioguideId>
+        <state>MO</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <lastName>Johnson</lastName>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bill</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2046</lisID>
+          <bioguideId>J000292</bioguideId>
+          <gpoId>8096</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>J000292</bioguideId>
+        <state>OH</state>
+      </item>
+      <item>
+        <middleName>H.</middleName>
+        <fullName>Rep. Jenkins, Evan H. [R-WV-3]</fullName>
+        <lastName>Jenkins</lastName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Evan</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2278</lisID>
+          <bioguideId>J000297</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>J000297</bioguideId>
+        <state>WV</state>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <lastName>Tipton</lastName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Scott</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <lisID>1997</lisID>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>T000470</bioguideId>
+        <state>CO</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <lastName>Collins</lastName>
+        <district>27</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Chris</firstName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001092</bioguideId>
+          <lisID>2151</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>C001092</bioguideId>
+        <state>NY</state>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <lastName>King</lastName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <bioguideId>K000362</bioguideId>
+        <state>IA</state>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <district>7</district>
+        <identifiers>
+          <lisID>2049</lisID>
+          <gpoId>8108</gpoId>
+          <bioguideId>G000563</bioguideId>
+        </identifiers>
+        <bioguideId>G000563</bioguideId>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <firstName>Bob</firstName>
+        <middleName />
+        <state>OH</state>
+        <lastName>Gibbs</lastName>
+      </item>
+    </sponsors>
+    <introducedDate>2017-06-15</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GIBBS:H.R. 2917.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution,specifically Clause 3 (relating to regulation of Commerceamong the several states.)[Page H4938]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Regulatory Certainty Act of 2017</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Army Corps of Engineers</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Environmental Protection Agency (EPA)</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Navigation, waterways, harbors</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

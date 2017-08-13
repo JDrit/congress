@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-11-16</actionDate>
+        <committee>
+          <name>Health, Employment, Labor, and Pensions Subcommittee</name>
+          <systemCode>hsed02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-03-19</actionDate>
+        <committee>
+          <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+          <systemCode>hspw14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <text>Referred to House Transportation and Infrastructure</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2015-03-18</actionDate>
+      </item>
+      <item>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <text>Referred to House Education and the Workforce</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2015-03-18</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-03-18</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-03-18</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-03-18</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>1431</number>
+        <latestTitle>To amend the National Labor Relations Act and the Railway Labor Act to prohibit the preemption of State stalking laws.</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+          <actionDate>2015-04-29</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>1432</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-03-18T14:02:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+          <name>Education and the Workforce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsed02</systemCode>
+              <name>Health, Employment, Labor, and Pensions Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-11-16T21:23:06Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-03-18T14:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hspw14</systemCode>
+              <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-03-19T13:42:20Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-03-18</introducedDate>
+    <updateDate>2017-06-02T20:18:48Z</updateDate>
+    <title>To amend the National Labor Relations Act and the Railway Labor Act to prohibit the preemption of State identity theft laws.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the National Labor Relations Act and the Railway Labor Act to prohibit the preemption of State identity theft laws.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the National Labor Relations Act and the Railway Labor Act to prohibit the preemption of State identity theft laws.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-03-18T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Amends the National Labor Relations Act and the Railway Labor Act to declare that nothing in those Acts shall be construed to preempt a law of any state, U.S. territory, or the District of Columbia that prohibits, criminalizes, or creates a civil cause of action for identity theft or the release of an individual's personally identifiable information.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-03-23T16:57:51Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-03-18</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C001103</bioguideId>
+          <gpoId />
+          <lisID>2236</lisID>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <bioguideId>C001103</bioguideId>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <firstName>Earl</firstName>
+        <state>GA</state>
+        <middleName>L. "Buddy"</middleName>
+        <byRequestType />
+        <lastName>Carter</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+      <actionDate>2015-11-16</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CARTER of Georgia:H.R. 1432.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the Constitution: ``Toregulate Commerce with foreign Nations, and among the severalStates and with the Indian Tribes.''[Page H1770]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1778</lisID>
+          <bioguideId>P000591</bioguideId>
+          <gpoId>7903</gpoId>
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <lastName>Price</lastName>
+        <fullName>Rep. Price, Tom [R-GA-6]</fullName>
+        <sponsorshipDate>2015-04-23</sponsorshipDate>
+        <state>GA</state>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000591</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2276</lisID>
+          <bioguideId>G000576</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <lastName>Grothman</lastName>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <sponsorshipDate>2015-04-23</sponsorshipDate>
+        <state>WI</state>
+        <firstName>Glenn</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000576</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1688</lisID>
+          <bioguideId>W000795</bioguideId>
+          <gpoId>8142</gpoId>
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <lastName>Wilson</lastName>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <sponsorshipDate>2015-04-27</sponsorshipDate>
+        <state>SC</state>
+        <firstName>Joe</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000795</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2239</lisID>
+          <gpoId />
+          <bioguideId>A000372</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <party>R</party>
+        <lastName>Allen</lastName>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <sponsorshipDate>2015-04-29</sponsorshipDate>
+        <state>GA</state>
+        <firstName>Rick</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>A000372</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>322</lisID>
+          <gpoId>8149</gpoId>
+          <bioguideId>D000533</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <lastName>DUNCAN</lastName>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <sponsorshipDate>2015-05-13</sponsorshipDate>
+        <state>TN</state>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000533</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000583</bioguideId>
+          <lisID>2238</lisID>
+        </identifiers>
+        <district>11</district>
+        <party>R</party>
+        <lastName>Loudermilk</lastName>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <sponsorshipDate>2015-05-15</sponsorshipDate>
+        <state>GA</state>
+        <firstName>Barry</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000583</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+          <gpoId />
+          <lisID>2100</lisID>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <lastName>LaMalfa</lastName>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <sponsorshipDate>2015-05-15</sponsorshipDate>
+        <state>CA</state>
+        <firstName>Doug</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000578</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1779</lisID>
+          <bioguideId>W000796</bioguideId>
+          <gpoId>7900</gpoId>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <lastName>Westmoreland</lastName>
+        <fullName>Rep. Westmoreland, Lynn A. [R-GA-3]</fullName>
+        <sponsorshipDate>2015-11-02</sponsorshipDate>
+        <state>GA</state>
+        <firstName>Lynn</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000796</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <party>R</party>
+        <lastName>Blackburn</lastName>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <sponsorshipDate>2015-12-16</sponsorshipDate>
+        <state>TN</state>
+        <firstName>Marsha</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001243</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+          <bioguideId>F000448</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <lastName>Franks</lastName>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <sponsorshipDate>2015-12-16</sponsorshipDate>
+        <state>AZ</state>
+        <firstName>Trent</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000448</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1514</lisID>
+          <gpoId>8134</gpoId>
+          <bioguideId>P000373</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <party>R</party>
+        <lastName>PITTS</lastName>
+        <fullName>Rep. Pitts, Joseph R. [R-PA-16]</fullName>
+        <sponsorshipDate>2016-01-05</sponsorshipDate>
+        <state>PA</state>
+        <firstName>JOSEPH</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000373</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <district>4</district>
+        <party>R</party>
+        <lastName>Gosar</lastName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipDate>2016-02-09</sponsorshipDate>
+        <state>AZ</state>
+        <firstName>Paul</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000565</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001071</bioguideId>
+          <lisID>2237</lisID>
+        </identifiers>
+        <district>10</district>
+        <party>R</party>
+        <lastName>Hice</lastName>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <sponsorshipDate>2016-02-25</sponsorshipDate>
+        <state>GA</state>
+        <firstName>Jody</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001071</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1801</lisID>
+          <bioguideId>G000552</bioguideId>
+          <gpoId>8157</gpoId>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <lastName>Gohmert</lastName>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <state>TX</state>
+        <firstName>Louie</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000552</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000601</bioguideId>
+          <gpoId>8022</gpoId>
+          <lisID>2035</lisID>
+        </identifiers>
+        <district>4</district>
+        <party>R</party>
+        <lastName>Palazzo</lastName>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <sponsorshipDate>2016-03-02</sponsorshipDate>
+        <state>MS</state>
+        <firstName>Steven</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000601</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7873</gpoId>
+          <bioguideId>M001144</bioguideId>
+          <lisID>1685</lisID>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <lastName>Miller</lastName>
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+        <sponsorshipDate>2016-03-16</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001144</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <gpoId>8143</gpoId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <lastName>Duncan</lastName>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <sponsorshipDate>2016-03-16</sponsorshipDate>
+        <state>SC</state>
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000615</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000606</bioguideId>
+          <gpoId />
+          <lisID>2141</lisID>
+        </identifiers>
+        <district>9</district>
+        <party>R</party>
+        <lastName>Pittenger</lastName>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <sponsorshipDate>2016-04-15</sponsorshipDate>
+        <state>NC</state>
+        <firstName>Robert</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000606</bioguideId>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Labor-management relations</name>
+          </item>
+          <item>
+            <name>Railroads</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-03-19T05:50:08Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

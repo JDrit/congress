@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-03-06</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2015-03-04</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Sponsor introductory remarks on measure. (CR E307-308)</text>
+        <type>IntroReferral</type>
+        <links>
+          <link>
+            <name>E307-308</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/extensions-of-remarks-section/page/E307-308</url>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-03-04</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-03-04</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-03-04</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <laws />
+    <billNumber>1293</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-03-06T20:26:15Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-03-04T15:06:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-03-04</introducedDate>
+    <updateDate>2017-06-02T20:12:04Z</updateDate>
+    <title>Services for Ending Long-Term Homelessness Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Services for Ending Long-Term Homelessness Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Public Health Service Act to establish a grant program to provide supportive services in permanent supportive housing for chronically homeless individuals and families, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Services for Ending Long-Term Homelessness Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-03-04</actionDate>
+          <updateDate>2015-03-04T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-06-30T23:22:40Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Services for Ending Long-Term Homelessness Act</b></p> <p>This bill amends the Public Health Service Act to require the Substance Abuse and Mental Health Services Administration to design national strategies and implement programs to address chronic homelessness.</p> <p>To promote an end to chronic homelessness, the Department of Health and Human Services (HHS) must award grants to provide:</p> <ul> <li>mental health services;</li> <li>substance use disorder treatment;</li> <li>integrated, coordinated treatment for co-occurring disorders;</li> <li>health education;</li> <li>services designed to help individuals and families make progress toward self-sufficiency; and</li> <li>other supportive services that promote an end to chronic homelessness.</li> </ul> <p>Priority for grants is given to applicants that target services to individuals and families who have experienced more homelessness, use more public emergency care, or have a history with the criminal justice system.</p> Grantees must: (1) contribute matching funds, (2) not spend more than 20% of a grant providing services to recipients who are not chronically homeless, and (3) annually report specific performance outcomes to HHS.]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <party>D</party>
+        <bioguideId>H000324</bioguideId>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <firstName>ALCEE</firstName>
+        <state>FL</state>
+        <middleName>L.</middleName>
+        <byRequestType />
+        <lastName>HASTINGS</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2015-03-06</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HASTINGS:H.R. 1293.Congress has the power to enact this legislation pursuantto the following:Article One, Section Eight, Clause Three ``To regulateCommerce with foreign Nations, and among the several States,and with the Indian Tribes.''[Page H1616]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2110</lisID>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <district>41</district>
+        <party>D</party>
+        <lastName>Takano</lastName>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <sponsorshipDate>2015-03-04</sponsorshipDate>
+        <state>CA</state>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000472</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>256</lisID>
+          <gpoId>7982</gpoId>
+          <bioguideId>C000984</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <party>D</party>
+        <lastName>CUMMINGS</lastName>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <sponsorshipDate>2015-03-04</sponsorshipDate>
+        <state>MD</state>
+        <firstName>ELIJAH</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000984</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <district>24</district>
+        <party>D</party>
+        <lastName>Wilson</lastName>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <sponsorshipDate>2015-03-04</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Frederica</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>S.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000808</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000556</bioguideId>
+          <gpoId>7302</gpoId>
+          <lisID>1914</lisID>
+        </identifiers>
+        <district>9</district>
+        <party>D</party>
+        <lastName>Grayson</lastName>
+        <fullName>Rep. Grayson, Alan [D-FL-9]</fullName>
+        <sponsorshipDate>2015-03-04</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Alan</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000556</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2119</lisID>
+          <bioguideId>F000462</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>22</district>
+        <party>D</party>
+        <lastName>Frankel</lastName>
+        <fullName>Rep. Frankel, Lois [D-FL-22]</fullName>
+        <sponsorshipDate>2015-03-04</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Lois</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000462</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2023</lisID>
+          <bioguideId>R000588</bioguideId>
+          <gpoId>7960</gpoId>
+        </identifiers>
+        <district>2</district>
+        <party>D</party>
+        <lastName>Richmond</lastName>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <sponsorshipDate>2015-03-04</sponsorshipDate>
+        <state>LA</state>
+        <firstName>Cedric</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000588</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>J000126</bioguideId>
+          <gpoId>8186</gpoId>
+          <lisID>599</lisID>
+        </identifiers>
+        <district>30</district>
+        <party>D</party>
+        <lastName>JOHNSON</lastName>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <sponsorshipDate>2015-03-04</sponsorshipDate>
+        <state>TX</state>
+        <firstName>EDDIE</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>BERNICE</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000126</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1686</lisID>
+          <gpoId>7974</gpoId>
+          <bioguideId>L000562</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <party>D</party>
+        <lastName>Lynch</lastName>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <sponsorshipDate>2015-03-17</sponsorshipDate>
+        <state>MA</state>
+        <firstName>Stephen</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000562</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>910</lisID>
+          <gpoId>8007</gpoId>
+          <bioguideId>P000258</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <party>D</party>
+        <lastName>PETERSON</lastName>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <sponsorshipDate>2015-03-17</sponsorshipDate>
+        <state>MN</state>
+        <firstName>COLLIN</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>C.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000258</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1818</lisID>
+          <bioguideId>S001165</bioguideId>
+          <gpoId>8055</gpoId>
+        </identifiers>
+        <district>8</district>
+        <party>D</party>
+        <lastName>Sires</lastName>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <sponsorshipDate>2015-03-17</sponsorshipDate>
+        <state>NJ</state>
+        <firstName>Albio</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001165</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2230</lisID>
+          <gpoId />
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+        <district>33</district>
+        <party>D</party>
+        <lastName>Lieu</lastName>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <sponsorshipDate>2015-03-17</sponsorshipDate>
+        <state>CA</state>
+        <firstName>Ted</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000582</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1832</lisID>
+          <gpoId>7816</gpoId>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <party>D</party>
+        <lastName>McNerney</lastName>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <sponsorshipDate>2015-03-17</sponsorshipDate>
+        <state>CA</state>
+        <firstName>Jerry</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001166</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1794</lisID>
+          <gpoId>8088</gpoId>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <district>26</district>
+        <party>D</party>
+        <lastName>Higgins</lastName>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <sponsorshipDate>2015-04-14</sponsorshipDate>
+        <state>NY</state>
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001038</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <district>1</district>
+        <party>D</party>
+        <lastName>RUSH</lastName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <sponsorshipDate>2015-04-14</sponsorshipDate>
+        <state>IL</state>
+        <firstName>BOBBY</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000515</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+          <lisID>229</lisID>
+        </identifiers>
+        <district>13</district>
+        <party>D</party>
+        <lastName>CONYERS</lastName>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <sponsorshipDate>2015-04-14</sponsorshipDate>
+        <state>MI</state>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000714</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2153</lisID>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <party>D</party>
+        <lastName>Beatty</lastName>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <sponsorshipDate>2015-04-14</sponsorshipDate>
+        <state>OH</state>
+        <firstName>Joyce</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001281</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1976</lisID>
+          <gpoId>7891</gpoId>
+          <bioguideId>D000610</bioguideId>
+        </identifiers>
+        <district>21</district>
+        <party>D</party>
+        <lastName>Deutch</lastName>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-21]</fullName>
+        <sponsorshipDate>2015-04-14</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Theodore</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000610</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1843</lisID>
+          <gpoId>7901</gpoId>
+          <bioguideId>J000288</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <party>D</party>
+        <lastName>Johnson</lastName>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <sponsorshipDate>2015-04-14</sponsorshipDate>
+        <state>GA</state>
+        <firstName>Henry</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>C. "Hank"</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000288</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2015-04-14</sponsorshipDate>
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>HOLMES</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2097</lisID>
+          <gpoId>8373</gpoId>
+          <bioguideId>P000604</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <party>D</party>
+        <lastName>Payne</lastName>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <sponsorshipDate>2015-04-14</sponsorshipDate>
+        <state>NJ</state>
+        <firstName>Donald</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000604</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>944</lisID>
+          <gpoId>8076</gpoId>
+          <bioguideId>R000053</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <party>D</party>
+        <lastName>RANGEL</lastName>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <sponsorshipDate>2015-04-17</sponsorshipDate>
+        <state>NY</state>
+        <firstName>CHARLES</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000053</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+          <bioguideId>G000553</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <party>D</party>
+        <lastName>Green</lastName>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <sponsorshipDate>2015-04-17</sponsorshipDate>
+        <state>TX</state>
+        <firstName>Al</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000553</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+          <lisID>1635</lisID>
+        </identifiers>
+        <district>28</district>
+        <party>D</party>
+        <lastName>SCHIFF</lastName>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <state>CA</state>
+        <firstName>ADAM</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001150</bioguideId>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Family services</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Housing supply and affordability</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-03-05T05:59:25Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

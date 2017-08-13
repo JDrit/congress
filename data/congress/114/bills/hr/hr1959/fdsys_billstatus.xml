@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-11-16</actionDate>
+        <committee>
+          <name>Higher Education and Workforce Training Subcommittee</name>
+          <systemCode>hsed13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-05-15</actionDate>
+        <committee>
+          <name>Immigration and Border Security Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-04-22</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Judiciary</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-04-22</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Education and the Workforce</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-04-22</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-04-22</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-04-22</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2015-04-22</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>1059</number>
+        <latestTitle>College Options for DREAMers Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>1959</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-04-22T14:05:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+          <name>Education and the Workforce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsed13</systemCode>
+              <name>Higher Education and Workforce Training Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-11-16T20:28:35Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-04-22T14:05:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-05-15T17:26:55Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-04-22</introducedDate>
+    <updateDate>2017-06-02T20:48:02Z</updateDate>
+    <title>College Options for DREAMers Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>College Options for DREAMers Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To provide Dreamer students with access to student financial aid.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>College Options for DREAMers Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-04-22</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>College Options for DREAMers Act</strong></p> <p>This bill amends title IV (Student Assistance) of the Higher Education Act of 1965 to allow Dreamer students to receive federal financial aid for higher education.</p> <p>A &quot;Dreamer student&quot; is an individual who was under age 16 upon entering this country, has provided a list of secondary schools the individual attended in this country, and, in this country:</p> <ul> <li>has earned a high school diploma or the equivalent,</li> <li>is scheduled to complete the requirements for a high school diploma or equivalent before the next academic year begins,</li> <li>has acquired a degree from an institution of higher education,</li> <li>has successfully completed at least two years of a program for a baccalaureate or higher degree,</li> <li>is a beneficiary of the Deferred Action for Childhood Arrivals program, or</li> <li>has served honorably in the uniformed services for at least four years. </li> </ul> <p>The Department of Education must provide for a hardship exception to the age and secondary school list requirements.</p> <p>States are allowed to offer unlawful aliens postsecondary benefits on the basis of their residence in the state (e.g., in-state tuition).</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-08-28T19:42:30Z</lastSummaryUpdateDate>
+          <updateDate>2015-04-22T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>H000636</bioguideId>
+          <gpoId>8171</gpoId>
+          <lisID>1490</lisID>
+        </identifiers>
+        <district>15</district>
+        <party>D</party>
+        <bioguideId>H000636</bioguideId>
+        <fullName>Rep. Hinojosa, Ruben [D-TX-15]</fullName>
+        <firstName>RUBEN</firstName>
+        <state>TX</state>
+        <middleName />
+        <byRequestType />
+        <lastName>HINOJOSA</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+      <actionDate>2015-11-16</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HINOJOSA:H.R. 1959.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to Clauses 1 and 18 ofArticle 1, Section 8 of the United States Constitution.[Page H2418]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>S000185</bioguideId>
+        <lastName>Scott</lastName>
+        <state>VA</state>
+        <firstName>Robert</firstName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S000185</bioguideId>
+          <gpoId>8194</gpoId>
+          <lisID>1037</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>C. "Bobby"</middleName>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>S001156</bioguideId>
+        <lastName>SANCHEZ</lastName>
+        <state>CA</state>
+        <firstName>LINDA</firstName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <identifiers>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <district>38</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>T.</middleName>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>B001251</bioguideId>
+        <lastName>Butterfield</lastName>
+        <state>NC</state>
+        <firstName>G. K.</firstName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <identifiers>
+          <lisID>1761</lisID>
+          <bioguideId>B001251</bioguideId>
+          <gpoId>8024</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001080</bioguideId>
+        <lastName>Chu</lastName>
+        <state>CA</state>
+        <firstName>Judy</firstName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <identifiers>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <district>27</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>K000188</bioguideId>
+        <lastName>KIND</lastName>
+        <state>WI</state>
+        <firstName>RON</firstName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>F000455</bioguideId>
+        <lastName>Fudge</lastName>
+        <state>OH</state>
+        <firstName>Marcia</firstName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <identifiers>
+          <lisID>1895</lisID>
+          <bioguideId>F000455</bioguideId>
+          <gpoId>8101</gpoId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>N000179</bioguideId>
+        <lastName>NAPOLITANO</lastName>
+        <state>CA</state>
+        <firstName>GRACE</firstName>
+        <sponsorshipDate>2015-04-29</sponsorshipDate>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <district>32</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>F.</middleName>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001063</bioguideId>
+        <lastName>Cuellar</lastName>
+        <state>TX</state>
+        <firstName>Henry</firstName>
+        <sponsorshipDate>2015-04-29</sponsorshipDate>
+        <identifiers>
+          <lisID>1807</lisID>
+          <bioguideId>C001063</bioguideId>
+          <gpoId>8184</gpoId>
+        </identifiers>
+        <district>28</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>V000132</bioguideId>
+        <lastName>Vela</lastName>
+        <state>TX</state>
+        <firstName>Filemon</firstName>
+        <sponsorshipDate>2015-04-29</sponsorshipDate>
+        <identifiers>
+          <lisID>2167</lisID>
+          <bioguideId>V000132</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>34</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>J000126</bioguideId>
+        <lastName>JOHNSON</lastName>
+        <state>TX</state>
+        <firstName>EDDIE</firstName>
+        <sponsorshipDate>2015-04-29</sponsorshipDate>
+        <identifiers>
+          <gpoId>8186</gpoId>
+          <bioguideId>J000126</bioguideId>
+          <lisID>599</lisID>
+        </identifiers>
+        <district>30</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>BERNICE</middleName>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>G000410</bioguideId>
+        <lastName>GREEN</lastName>
+        <state>TX</state>
+        <firstName>GENE</firstName>
+        <sponsorshipDate>2015-04-29</sponsorshipDate>
+        <identifiers>
+          <lisID>462</lisID>
+          <gpoId>8185</gpoId>
+          <bioguideId>G000410</bioguideId>
+        </identifiers>
+        <district>29</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>M001137</bioguideId>
+        <lastName>MEEKS</lastName>
+        <state>NY</state>
+        <firstName>GREGORY</firstName>
+        <sponsorshipDate>2015-04-29</sponsorshipDate>
+        <identifiers>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+          <bioguideId>M001137</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>D000096</bioguideId>
+        <lastName>DAVIS</lastName>
+        <state>IL</state>
+        <firstName>DANNY</firstName>
+        <sponsorshipDate>2015-04-29</sponsorshipDate>
+        <identifiers>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>S001185</bioguideId>
+        <lastName>Sewell</lastName>
+        <state>AL</state>
+        <firstName>Terri</firstName>
+        <sponsorshipDate>2015-04-29</sponsorshipDate>
+        <identifiers>
+          <gpoId>7792</gpoId>
+          <bioguideId>S001185</bioguideId>
+          <lisID>1988</lisID>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>G000551</bioguideId>
+        <lastName>Grijalva</lastName>
+        <state>AZ</state>
+        <firstName>Raul</firstName>
+        <sponsorshipDate>2015-04-30</sponsorshipDate>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>S001165</bioguideId>
+        <lastName>Sires</lastName>
+        <state>NJ</state>
+        <firstName>Albio</firstName>
+        <sponsorshipDate>2015-04-30</sponsorshipDate>
+        <identifiers>
+          <gpoId>8055</gpoId>
+          <bioguideId>S001165</bioguideId>
+          <lisID>1818</lisID>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>V000130</bioguideId>
+        <lastName>Vargas</lastName>
+        <state>CA</state>
+        <firstName>Juan</firstName>
+        <sponsorshipDate>2015-04-30</sponsorshipDate>
+        <identifiers>
+          <lisID>2112</lisID>
+          <bioguideId>V000130</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>51</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>V000081</bioguideId>
+        <lastName>VELAZQUEZ</lastName>
+        <state>NY</state>
+        <firstName>NYDIA</firstName>
+        <sponsorshipDate>2015-04-30</sponsorshipDate>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+          <lisID>1184</lisID>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001059</bioguideId>
+        <lastName>Costa</lastName>
+        <state>CA</state>
+        <firstName>Jim</firstName>
+        <sponsorshipDate>2015-04-30</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001059</bioguideId>
+          <gpoId>7825</gpoId>
+          <lisID>1774</lisID>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>G000535</bioguideId>
+        <lastName>GUTIERREZ</lastName>
+        <state>IL</state>
+        <firstName>LUIS</firstName>
+        <sponsorshipDate>2015-04-30</sponsorshipDate>
+        <identifiers>
+          <gpoId>7924</gpoId>
+          <bioguideId>G000535</bioguideId>
+          <lisID>478</lisID>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>V.</middleName>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>S001177</bioguideId>
+        <lastName>Sablan</lastName>
+        <state>MP</state>
+        <firstName>Gregorio</firstName>
+        <sponsorshipDate>2015-04-30</sponsorshipDate>
+        <identifiers>
+          <lisID>1962</lisID>
+          <gpoId>8018</gpoId>
+          <bioguideId>S001177</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>Kilili Camacho</middleName>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>A000371</bioguideId>
+        <lastName>Aguilar</lastName>
+        <state>CA</state>
+        <firstName>Pete</firstName>
+        <sponsorshipDate>2016-06-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>A000371</bioguideId>
+          <gpoId />
+          <lisID>2229</lisID>
+        </identifiers>
+        <district>31</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>K000368</bioguideId>
+        <lastName>Kirkpatrick</lastName>
+        <state>AZ</state>
+        <firstName>Ann</firstName>
+        <sponsorshipDate>2016-06-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000368</bioguideId>
+          <gpoId>7220</gpoId>
+          <lisID>1907</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Kirkpatrick, Ann [D-AZ-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>T000473</bioguideId>
+        <lastName>Takai</lastName>
+        <state>HI</state>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2016-06-10</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000473</bioguideId>
+          <lisID>2240</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Takai, Mark [D-HI-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>K000381</bioguideId>
+        <lastName>Kilmer</lastName>
+        <state>WA</state>
+        <firstName>Derek</firstName>
+        <sponsorshipDate>2016-06-10</sponsorshipDate>
+        <identifiers>
+          <lisID>2169</lisID>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>V000131</bioguideId>
+        <lastName>Veasey</lastName>
+        <state>TX</state>
+        <firstName>Marc</firstName>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <identifiers>
+          <lisID>2166</lisID>
+          <gpoId />
+          <bioguideId>V000131</bioguideId>
+        </identifiers>
+        <district>33</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Department of Education</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-04-23T09:12:28Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

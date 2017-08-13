@@ -1,0 +1,88 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr571-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-01-13", 
+  "number": "571", 
+  "official_title": "To permit members of the House of Representatives to donate used computer equipment to public elementary and secondary schools designated by the members.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S000248", 
+    "district": "15", 
+    "name": "Serrano, Jose E.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-01-13", 
+  "subjects": [
+    "Computers and information technology", 
+    "Congress", 
+    "Congressional operations and organization", 
+    "Educational technology and distance education", 
+    "Elementary and secondary education", 
+    "Government buildings, facilities, and property", 
+    "Members of Congress"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To permit members of the House of Representatives to donate used computer equipment to public elementary and secondary schools designated by the members.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To permit members of the House of Representatives to donate used computer equipment to public elementary and secondary schools designated by the members.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-05-03T23:56:05Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr571.xml"
+}

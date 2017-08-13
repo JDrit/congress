@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>192</billNumber>
+    <billType>SRES</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-06-04T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Makes it out of order in the Senate to consider a bill or resolution that is not confined to a single subject.</p> <p>Permits waiver or suspension of such prohibition, or successful appeals from rulings of the Chair, only by an affirmative vote of three-fifths (60) of the Senate.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2015-06-15T14:32:49Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2015-06-04</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <state>WY</state>
+        <middleName>B.</middleName>
+        <byRequestType />
+        <firstName>MICHAEL</firstName>
+        <lastName>ENZI</lastName>
+        <identifiers>
+          <lisID>1542</lisID>
+          <gpoId>8328</gpoId>
+          <bioguideId>E000285</bioguideId>
+        </identifiers>
+        <bioguideId>E000285</bioguideId>
+        <party>R</party>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors />
+    <cboCostEstimates />
+    <congress>114</congress>
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S3780)</text>
+      <actionDate>2015-06-04</actionDate>
+    </latestAction>
+    <notes />
+    <introducedDate>2015-06-04</introducedDate>
+    <createDate>2015-06-05T09:19:33Z</createDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution requiring that legislation considered by the Senate be confined to a single issue.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution requiring that legislation considered by the Senate be confined to a single issue.</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <title>A resolution requiring that legislation considered by the Senate be confined to a single issue.</title>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Rules and Administration Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2015-06-04T15:47:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <laws />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-06-04</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S3780</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S3780</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S3780)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2015-06-04</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <amendments />
+    <updateDate>2017-06-02T22:39:15Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

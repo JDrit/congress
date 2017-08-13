@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <relatedBills />
+    <cboCostEstimates />
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Marriage and family status</name>
+          </item>
+          <item>
+            <name>Sex, gender, sexual orientation discrimination</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-04-23</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <actionDate>2015-04-23</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <titles>
+      <item>
+        <title>A joint resolution proposing an amendment to the Constitution of the United States relative to marriage.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A joint resolution proposing an amendment to the Constitution of the United States relative to marriage.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <laws />
+    <notes />
+    <introducedDate>2015-04-23</introducedDate>
+    <committeeReports />
+    <updateDate>2017-07-20T13:51:53Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-04-23T20:56:25Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>SJRES</billType>
+    <billNumber>12</billNumber>
+    <title>A joint resolution proposing an amendment to the Constitution of the United States relative to marriage.</title>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <byRequestType />
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <state>TX</state>
+        <middleName />
+        <firstName>Ted</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <lastName>Cruz</lastName>
+        <bioguideId>C001098</bioguideId>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2015-04-23</actionDate>
+          <text><![CDATA[<p><b>Constitutional Amendment</b></p> <p>Grants the United States and each state, territory, and possession the power to define marriage as limited to the union of one man and one woman.</p> <p>Declares that: (1) nothing in this constitution shall be construed to require that marriage or its legal incidents be conferred upon any union other than the union of one man and one woman or to require that a state recognize a marriage that was licensed in another state; and (2) no decision or order of any court to the contrary, including any decision or order issued before the date of ratification, shall have any force or effect.</p>]]></text>
+          <lastSummaryUpdateDate>2015-05-12T19:39:39Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <updateDate>2015-04-23T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2015-04-23</actionDate>
+    </latestAction>
+    <createDate>2015-04-24T09:19:22Z</createDate>
+    <congress>114</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

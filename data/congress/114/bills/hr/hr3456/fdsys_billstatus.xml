@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <actionDate>2015-09-09</actionDate>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-09-09</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-09-09</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the House Committee on Financial Services.</text>
+          <actionDate>2015-11-19</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>4107</number>
+        <latestTitle>Flood Insurance Transparency and Accountability Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2016-04-27</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>3583</number>
+        <latestTitle>PREPARE Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2015-11-19</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>2324</number>
+        <latestTitle>Flood Insurance Transparency and Accountability Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+          <actionDate>2016-12-16</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>6381</number>
+        <latestTitle>DHS Reform and Improvement Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>3456</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-09-09T14:00:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-09-09</introducedDate>
+    <updateDate>2017-06-02T21:31:26Z</updateDate>
+    <title>Flood Insurance Mitigation and Policyholder Protection Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Flood Insurance Mitigation and Policyholder Protection Act of 2015</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To improve the process for claims for losses under the National Flood Insurance Program, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Flood Insurance Mitigation and Policyholder Protection Act of 2015</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-09-09T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Flood Insurance Mitigation and Policyholder Protection Act of 2015</strong></p> <p>This bill amends the National Flood Insurance Act of 1968 to direct the Federal Emergency Management Agency (FEMA) to require that any report of an on-site inspection of a property by a claims adjustor or engineer for the purpose of assessing any claim for losses covered by a flood insurance policy under such Act:</p> <ul> <li> may not be transmitted to any other person, employer, agency, or entity, before it is transmitted to the insured;</li> <li>may not include alterations by, or at the request of, anyone other than such preparer and shall include the preparer's certification that it does not contain any such alterations; and</li> <li> shall be transmitted in a manner that gives reasonable assurance that it was transmitted directly to the insured by the preparer.</li> </ul> <p>A claimant is authorized, in the case of a denial by FEMA or an insurance company of a claim for losses that is appealed to FEMA, to institute an action on such claim against FEMA or such insurance company in U.S. district court within one year after the date of a final determination upon appeal denying such claim. </p> <p> FEMA must, within 60 days after enactment of this Act, issue guidelines required under the Homeowner Flood Insurance Affordability Act of 2014 for alternative mitigation methods, other than building elevation, to reduce flood risk to residential buildings that cannot be elevated due to their structural characteristics.</p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-11-25T21:44:21Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-09-09</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2293</lisID>
+          <bioguideId>D000625</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>11</district>
+        <party>R</party>
+        <bioguideId>D000625</bioguideId>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <firstName>Daniel</firstName>
+        <state>NY</state>
+        <middleName>M.</middleName>
+        <byRequestType />
+        <lastName>Donovan</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Financial Services.</text>
+      <actionDate>2015-09-09</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DONOVAN:H.R. 3456.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constitution of the UnitedStates.[Page H5866]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-09-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rice</lastName>
+        <district>4</district>
+        <identifiers>
+          <lisID>2262</lisID>
+          <gpoId />
+          <bioguideId>R000602</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <firstName>Kathleen</firstName>
+        <bioguideId>R000602</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-09-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>KING</lastName>
+        <district>2</district>
+        <identifiers>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+          <lisID>635</lisID>
+        </identifiers>
+        <state>NY</state>
+        <firstName>PETER</firstName>
+        <bioguideId>K000210</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>T.</middleName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Federal Emergency Management Agency (FEMA)</name>
+          </item>
+          <item>
+            <name>Floods and storm protection</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-09-10T08:45:58Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

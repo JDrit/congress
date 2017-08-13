@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-03-16</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-03-16</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills />
+    <laws />
+    <billNumber>748</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-03-16T22:39:44Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-03-16</introducedDate>
+    <updateDate>2017-06-02T22:58:01Z</updateDate>
+    <title>Amnesty Bonuses Elimination Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Amnesty Bonuses Elimination Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to prohibit the issuance of social security numbers to individuals given deferred action under the President's immigration executive actions.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Amnesty Bonuses Elimination Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-09-03T20:30:46Z</lastSummaryUpdateDate>
+          <updateDate>2015-03-16T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2015-03-16</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Amnesty Bonuses Elimination Act</b></p> <p>This bill amends the Social Security Act to prohibit the Social Security Administration from issuing a Social Security account number to any alien granted deferred action pursuant to specified deferred action policies of the Department of Homeland Security.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2289</lisID>
+          <gpoId />
+          <bioguideId>S001197</bioguideId>
+        </identifiers>
+        <firstName>Ben</firstName>
+        <party>R</party>
+        <bioguideId>S001197</bioguideId>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <state>NE</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Sasse</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2015-03-16</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2015-03-16</sponsorshipDate>
+        <state>AL</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <lastName>Sessions</lastName>
+        <identifiers>
+          <lisID>1548</lisID>
+          <gpoId>8281</gpoId>
+          <bioguideId>S001141</bioguideId>
+        </identifiers>
+        <bioguideId>S001141</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Sessions, Jeff [R-AL]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-16</sponsorshipDate>
+        <state>LA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <lastName>Vitter</lastName>
+        <identifiers>
+          <lisID>1609</lisID>
+          <bioguideId>V000127</bioguideId>
+          <gpoId>8267</gpoId>
+        </identifiers>
+        <bioguideId>V000127</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-16</sponsorshipDate>
+        <state>AR</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <lastName>Cotton</lastName>
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001095</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-16</sponsorshipDate>
+        <state>UT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <lastName>Lee</lastName>
+        <identifiers>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+          <lisID>2080</lisID>
+        </identifiers>
+        <bioguideId>L000577</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-16</sponsorshipDate>
+        <state>TX</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Ted</firstName>
+        <lastName>Cruz</lastName>
+        <identifiers>
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001098</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-16</sponsorshipDate>
+        <state>GA</state>
+        <middleName>Alfred</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <lastName>Perdue</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000612</bioguideId>
+          <lisID>2286</lisID>
+        </identifiers>
+        <bioguideId>P000612</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-03-17T05:46:43Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-04-08</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-04-08</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-04-08</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2017-04-08</introducedDate>
+    <updateDate>2017-05-03T23:49:14Z</updateDate>
+    <laws />
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <createDate>2017-04-09T03:11:45Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <links />
+      <actionDate>2017-04-08</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-04-10T17:59:36Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-04-08</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Expresses the sense of the House of Representatives that the President shall, with the help of Congress, address comprehensive tax reform within the first 240 days of the President's administration.</p>]]></text>
+          <updateDate>2017-04-08T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Expressing the sense of the House of Representatives that the President of the United States shall, with the help of the Congress, address comprehensive tax reform within the first 240 days of the President's administration.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-08T15:00:38Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HRES</billType>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Expressing the sense of the House of Representatives that the President of the United States shall, with the help of the Congress, address comprehensive tax reform within the first 240 days of the President's administration.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Expressing the sense of the House of Representatives that the President of the United States shall, with the help of the Congress, address comprehensive tax reform within the first 240 days of the President's administration.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <relatedBills />
+    <committeeReports />
+    <sponsors>
+      <item>
+        <state>FL</state>
+        <party>R</party>
+        <district>3</district>
+        <identifiers>
+          <lisID>2115</lisID>
+          <gpoId />
+          <bioguideId>Y000065</bioguideId>
+        </identifiers>
+        <lastName>Yoho</lastName>
+        <firstName>Ted</firstName>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <bioguideId>Y000065</bioguideId>
+        <byRequestType />
+        <middleName>S.</middleName>
+      </item>
+    </sponsors>
+    <billNumber>272</billNumber>
+    <cosponsors>
+      <item>
+        <lastName>LaMalfa</lastName>
+        <firstName>Doug</firstName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <bioguideId>L000578</bioguideId>
+        <identifiers>
+          <lisID>2100</lisID>
+          <gpoId />
+          <bioguideId>L000578</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <party>R</party>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

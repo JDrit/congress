@@ -1,0 +1,109 @@
+<bill session="114" type="h" number="4982" updated="2017-06-02T21:53:50Z">
+  <state datetime="2016-05-11T18:33:41-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2016-05-11T18:33:41-04:00"/>
+  </status>
+  <introduced datetime="2016-04-18"/>
+  <titles>
+    <title type="short" as="introduced">Examining Opioid Treatment Infrastructure Act of 2016</title>
+    <title type="short" as="reported to house">Examining Opioid Treatment Infrastructure Act of 2016</title>
+    <title type="short" as="passed house">Examining Opioid Treatment Infrastructure Act of 2016</title>
+    <title type="official" as="introduced">To direct the Comptroller General of the United States to evaluate and report on the in-patient and outpatient treatment capacity, availability, and needs of the United States.</title>
+    <title type="display">Examining Opioid Treatment Infrastructure Act of 2016</title>
+  </titles>
+  <sponsor id="412257"/>
+  <cosponsors>
+    <cosponsor id="412486" joined="2016-05-03"/>
+    <cosponsor id="412583" joined="2016-05-10"/>
+    <cosponsor id="400308" joined="2016-04-18"/>
+    <cosponsor id="412426" joined="2016-05-03"/>
+    <cosponsor id="400411" joined="2016-05-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2016-04-18">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2016-04-18" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2016-04-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2016-04-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2016-04-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2016-04-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2016-04-27" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2016-05-10">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-560.</text>
+    </action>
+    <calendar datetime="2016-05-10" calendar="Union" number="434">
+      <text>Placed on the Union Calendar, Calendar No. 434.</text>
+    </calendar>
+    <action datetime="2016-05-11T18:24:43-04:00">
+      <text>Mr. Guthrie moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2016-05-11T18:24:57-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2275-2276" label="consideration"/>
+    </action>
+    <action datetime="2016-05-11T18:24:59-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4982.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2016-05-11T18:33:41-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2275" label="text"/>
+    </vote>
+    <action datetime="2016-05-11T18:33:44-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2016-05-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Reporting, Markup, Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="s" number="524"/>
+    <bill relation="unknown" session="114" type="h" number="5189"/>
+    <bill relation="unknown" session="114" type="h" number="4396"/>
+    <bill relation="unknown" session="114" type="h" number="4435"/>
+    <bill relation="unknown" session="114" type="s" number="1410"/>
+    <bill relation="unknown" session="114" type="s" number="2562"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Drug therapy"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health information and medical records"/>
+    <term name="Home and outpatient care"/>
+    <term name="Hospital care"/>
+    <term name="Indian social and development programs"/>
+    <term name="Minority health"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary date="2016-05-11T13:39:29Z" status="Passed House amended">(This measure has not been amended since it was reported to the House on May 10, 2016. The summary of that version is repeated here.)
+
+Examining Opioid Treatment Infrastructure Act of 2016
+
+(Sec. 2) This bill requires the Government Accountability Office to report on inpatient and outpatient treatment capacity, availability, and needs, including detoxification programs, clinical stabilization programs, transitional residential support services, rehabilitation programs, treatment programs for pregnant women or adolescents, and treatment through Indian health programs. The report must include the barriers to real-time reporting of drug overdoses at the federal, state, and local level and ways to overcome those barriers.</summary>
+  <committee-reports>
+    <report>H. Rept. 114-560</report>
+  </committee-reports>
+</bill>

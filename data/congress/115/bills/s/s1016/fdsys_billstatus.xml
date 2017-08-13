@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-03T14:43:17Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2017-05-03</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-05-26</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <number>2556</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>CONNECT for Health Act of 2017</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2017-02-16</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>431</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>Furthering Access to Stroke Telemedicine Act</latestTitle>
+      </item>
+    </relatedBills>
+    <congress>115</congress>
+    <actions>
+      <item>
+        <actionDate>2017-05-03</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-05-03</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2017-05-04T00:26:48Z</createDate>
+    <title>CONNECT for Health Act of 2017</title>
+    <cboCostEstimates />
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>CONNECT for Health Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Creating Opportunities Now for Necessary and Effective Care Technologies (CONNECT) for Health Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>CONNECT for Health Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Creating Opportunities Now for Necessary and Effective Care Technologies (CONNECT) for Health Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to amend title XVIII of the Social Security Act to expand access to telehealth services, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>CONNECT for Health Act of 2017</title>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <introducedDate>2017-05-03</introducedDate>
+    <billNumber>1016</billNumber>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <lastName>WICKER</lastName>
+        <firstName>ROGER</firstName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <state>MS</state>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>C000567</bioguideId>
+        <lastName>Cochran</lastName>
+        <firstName>Thad</firstName>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8292</gpoId>
+          <bioguideId>C000567</bioguideId>
+          <lisID>213</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <state>MS</state>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <lastName>CARDIN</lastName>
+        <firstName>BENJAMIN</firstName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <state>MD</state>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <lastName>THUNE</lastName>
+        <firstName>JOHN</firstName>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <state>SD</state>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>W000805</bioguideId>
+        <lastName>Warner</lastName>
+        <firstName>Mark</firstName>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <state>VA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>C001047</bioguideId>
+        <lastName>CAPITO</lastName>
+        <firstName>SHELLEY</firstName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <middleName>MOORE</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+        <state>WV</state>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <lastName>Kaine</lastName>
+        <firstName>Timothy</firstName>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+          <lisID>2176</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+        <state>VA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>D000618</bioguideId>
+        <lastName>Daines</lastName>
+        <firstName>Steve</firstName>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2138</lisID>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+        <state>MT</state>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <lastName>Klobuchar</lastName>
+        <firstName>Amy</firstName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+        <state>MN</state>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>G000359</bioguideId>
+        <lastName>GRAHAM</lastName>
+        <firstName>LINDSEY</firstName>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <middleName>O.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000359</bioguideId>
+          <lisID>452</lisID>
+          <gpoId>8335</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+        <state>SC</state>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>B001267</bioguideId>
+        <lastName>Bennet</lastName>
+        <firstName>Michael</firstName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+        <state>CO</state>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <lastName>Blunt</lastName>
+        <firstName>Roy</firstName>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+        <state>MO</state>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <lastName>Shaheen</lastName>
+        <firstName>Jeanne</firstName>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <state>NH</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <notes />
+    <laws />
+    <sponsors>
+      <item>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <bioguideId>S001194</bioguideId>
+        <lastName>Schatz</lastName>
+        <middleName />
+        <byRequestType />
+        <firstName>Brian</firstName>
+        <state>HI</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <committeeReports />
+    <updateDate>2017-06-19T22:15:27Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,158 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-02-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-02-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-07-12", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr864-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Financial Institutions and Consumer Credit", 
+      "subcommittee_id": "15"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001061", 
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-02-03", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000288", 
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-02-03", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001072", 
+      "district": "2", 
+      "name": "Hill, J. French", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-02-03", 
+      "state": "AR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-07-12", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-02-03", 
+  "number": "864", 
+  "official_title": "To amend the Fair Debt Collection Practices Act to restrict the debt collection practices of certain debt collectors.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s575-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Stop Debt Collection Abuse Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "L000584", 
+    "district": "4", 
+    "name": "Love, Mia B.", 
+    "state": "UT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-02-03", 
+  "subjects": [
+    "Congressional oversight", 
+    "Debt collection", 
+    "Finance and financial sector", 
+    "Government lending and loan guarantees", 
+    "Government studies and investigations", 
+    "State and local government operations", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stop Debt Collection Abuse Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stop Debt Collection Abuse Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Fair Debt Collection Practices Act to restrict the debt collection practices of certain debt collectors.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Stop Debt Collection Abuse Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-25T07:13:05Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr864.xml"
+}

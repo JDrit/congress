@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-05-02T19:21:54Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-04-27T14:05:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Oversight and Government Reform Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-05-23T19:51:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/52759</url>
+        <title>H.R. 2196, a bill to amend title 5, United States Code, to allow whistleblowers to disclose information to certain recipients</title>
+      </item>
+    </cboCostEstimates>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionDate>2017-04-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-04-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-04-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <congress>115</congress>
+    <updateDate>2017-05-23T19:57:11Z</updateDate>
+    <billType>HR</billType>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend title 5, United States Code, to allow whistleblowers to disclose information to certain recipients.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend title 5, United States Code, to allow whistleblowers to disclose information to certain recipients.</title>
+      </item>
+    </titles>
+    <laws />
+    <notes />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <firstName>ELIJAH</firstName>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <bioguideId>C000984</bioguideId>
+        <identifiers>
+          <lisID>256</lisID>
+          <gpoId>7982</gpoId>
+          <bioguideId>C000984</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <district>7</district>
+        <lastName>CUMMINGS</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <firstName>Stephen</firstName>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <bioguideId>L000562</bioguideId>
+        <identifiers>
+          <bioguideId>L000562</bioguideId>
+          <gpoId>7974</gpoId>
+          <lisID>1686</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <district>8</district>
+        <lastName>Lynch</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <firstName>Blake</firstName>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <bioguideId>F000460</bioguideId>
+        <identifiers>
+          <lisID>2067</lisID>
+          <gpoId>8183</gpoId>
+          <bioguideId>F000460</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>27</district>
+        <lastName>Farenthold</lastName>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-04-27</introducedDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <createDate>2017-04-28T03:11:52Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RUSSELL:H.R. 2196.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H2942]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-05-02</actionDate>
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <amendments />
+    <title>To amend title 5, United States Code, to allow whistleblowers to disclose information to certain recipients.</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>2196</billNumber>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>5</district>
+        <party>R</party>
+        <identifiers>
+          <lisID>2265</lisID>
+          <bioguideId>R000604</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>OK</state>
+        <firstName>Steve</firstName>
+        <middleName />
+        <lastName>Russell</lastName>
+        <fullName>Rep. Russell, Steve [R-OK-5]</fullName>
+        <bioguideId>R000604</bioguideId>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

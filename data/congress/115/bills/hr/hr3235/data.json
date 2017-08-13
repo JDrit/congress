@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3235-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001096", 
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-13", 
+      "state": "ND", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000258", 
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-13", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-13", 
+  "number": "3235", 
+  "official_title": "To amend the Food Security Act of 1985 with respect to the administration of wetland determinations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Wetland Determinations Efficiency and Transparency Act", 
+  "sponsor": {
+    "bioguide_id": "N000184", 
+    "district": null, 
+    "name": "Noem, Kristi L.", 
+    "state": "SD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-13", 
+  "subjects": [
+    "Administrative remedies", 
+    "Agricultural conservation and pollution", 
+    "Agricultural prices, subsidies, credit", 
+    "Agriculture and food", 
+    "Department of Agriculture", 
+    "Farmland", 
+    "Wetlands"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Wetland Determinations Efficiency and Transparency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Food Security Act of 1985 with respect to the administration of wetland determinations, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Wetland Determinations Efficiency and Transparency Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-24T15:00:14Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3235.xml"
+}

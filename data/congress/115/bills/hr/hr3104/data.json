@@ -1,0 +1,137 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-06-29", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-29", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR E928", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-07-24", 
+      "action_code": "", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Nutrition.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3104-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Nutrition", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-06-29", 
+  "number": "3104", 
+  "official_title": "To direct the Secretary of Agriculture to make grants to States to support the establishment and operation of grocery stores in underserved communities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Food Deserts Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "C001072", 
+    "district": "7", 
+    "name": "Carson, Andre", 
+    "state": "IN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-06-29", 
+  "subjects": [
+    "Agricultural marketing and promotion", 
+    "Agriculture and food", 
+    "Drug, alcohol, tobacco use", 
+    "Employee hiring", 
+    "Food assistance and relief", 
+    "Fruit and vegetables", 
+    "Government lending and loan guarantees", 
+    "Health promotion and preventive care", 
+    "Inflation and prices", 
+    "Nutrition and diet", 
+    "Poverty and welfare assistance", 
+    "Retail and wholesale trades", 
+    "Urban and suburban affairs and development"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Food Deserts Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Food Deserts Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Agriculture to make grants to States to support the establishment and operation of grocery stores in underserved communities, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Food Deserts Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-25T07:13:09Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3104.xml"
+}

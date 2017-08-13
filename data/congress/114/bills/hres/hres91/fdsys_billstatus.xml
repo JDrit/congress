@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-02-05</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-02-05</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-02-05</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>SRES</type>
+        <latestAction>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+          <actionDate>2015-02-04</actionDate>
+        </latestAction>
+        <latestTitle>A resolution congratulating the New England Patriots on their victory in Super Bowl XLIX.</latestTitle>
+        <number>63</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>91</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-02-05T14:07:50Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-02-05</introducedDate>
+    <updateDate>2017-06-02T19:27:57Z</updateDate>
+    <title>Congratulating the New England Patriots on their victory in Super Bowl XLIX.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Congratulating the New England Patriots on their victory in Super Bowl XLIX.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Congratulating the New England Patriots on their victory in Super Bowl XLIX.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-02-05</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Congratulates the New England Patriots on their Super Bowl XLIX victory.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-02-27T22:55:37Z</lastSummaryUpdateDate>
+          <updateDate>2015-02-05T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <party>D</party>
+        <bioguideId>C001084</bioguideId>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <firstName>David</firstName>
+        <state>RI</state>
+        <middleName>N.</middleName>
+        <byRequestType />
+        <lastName>Cicilline</lastName>
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Sports and Recreation</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2015-02-05</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kennedy</lastName>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>K000379</bioguideId>
+          <gpoId />
+          <lisID>2172</lisID>
+        </identifiers>
+        <state>MA</state>
+        <firstName>Joseph</firstName>
+        <bioguideId>K000379</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>P.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>LANGEVIN</lastName>
+        <district>2</district>
+        <identifiers>
+          <gpoId>8140</gpoId>
+          <bioguideId>L000559</bioguideId>
+          <lisID>1668</lisID>
+        </identifiers>
+        <state>RI</state>
+        <firstName>JAMES</firstName>
+        <bioguideId>L000559</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>LARSON</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+          <gpoId>7866</gpoId>
+        </identifiers>
+        <state>CT</state>
+        <firstName>JOHN</firstName>
+        <bioguideId>L000557</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Courtney</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>1836</lisID>
+          <bioguideId>C001069</bioguideId>
+          <gpoId>7867</gpoId>
+        </identifiers>
+        <state>CT</state>
+        <firstName>Joe</firstName>
+        <bioguideId>C001069</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>DELAURO</lastName>
+        <district>3</district>
+        <identifiers>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+          <bioguideId>D000216</bioguideId>
+        </identifiers>
+        <state>CT</state>
+        <firstName>ROSA</firstName>
+        <bioguideId>D000216</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCGOVERN</lastName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <state>MA</state>
+        <firstName>JAMES</firstName>
+        <bioguideId>M000312</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>P.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Tsongas, Niki [D-MA-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tsongas</lastName>
+        <district>3</district>
+        <identifiers>
+          <lisID>1884</lisID>
+          <gpoId>7970</gpoId>
+          <bioguideId>T000465</bioguideId>
+        </identifiers>
+        <state>MA</state>
+        <firstName>Niki</firstName>
+        <bioguideId>T000465</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Clark</lastName>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>C001101</bioguideId>
+          <gpoId />
+          <lisID>2196</lisID>
+        </identifiers>
+        <state>MA</state>
+        <firstName>Katherine</firstName>
+        <bioguideId>C001101</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Moulton</lastName>
+        <district>6</district>
+        <identifiers>
+          <lisID>2246</lisID>
+          <gpoId />
+          <bioguideId>M001196</bioguideId>
+        </identifiers>
+        <state>MA</state>
+        <firstName>Seth</firstName>
+        <bioguideId>M001196</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>CAPUANO</lastName>
+        <district>7</district>
+        <identifiers>
+          <lisID>1564</lisID>
+          <gpoId>7973</gpoId>
+          <bioguideId>C001037</bioguideId>
+        </identifiers>
+        <state>MA</state>
+        <firstName>MICHAEL</firstName>
+        <bioguideId>C001037</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Guinta, Frank C. [R-NH-1]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Guinta</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>2038</lisID>
+          <gpoId>8041</gpoId>
+          <bioguideId>G000570</bioguideId>
+        </identifiers>
+        <state>NH</state>
+        <firstName>Frank</firstName>
+        <bioguideId>G000570</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kuster</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>NH</state>
+        <firstName>Ann</firstName>
+        <bioguideId>K000382</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pingree</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <state>ME</state>
+        <firstName>Chellie</firstName>
+        <bioguideId>P000597</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Poliquin</lastName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>P000611</bioguideId>
+          <gpoId />
+          <lisID>2247</lisID>
+        </identifiers>
+        <state>ME</state>
+        <firstName>Bruce</firstName>
+        <bioguideId>P000611</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lynch</lastName>
+        <district>8</district>
+        <identifiers>
+          <lisID>1686</lisID>
+          <gpoId>7974</gpoId>
+          <bioguideId>L000562</bioguideId>
+        </identifiers>
+        <state>MA</state>
+        <firstName>Stephen</firstName>
+        <bioguideId>L000562</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Esty</lastName>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>E000293</bioguideId>
+          <gpoId />
+          <lisID>2114</lisID>
+        </identifiers>
+        <state>CT</state>
+        <firstName>Elizabeth</firstName>
+        <bioguideId>E000293</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>H.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Welch</lastName>
+        <district>0</district>
+        <identifiers>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <state>VT</state>
+        <firstName>Peter</firstName>
+        <bioguideId>W000800</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Keating</lastName>
+        <district>9</district>
+        <identifiers>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <state>MA</state>
+        <firstName>William</firstName>
+        <bioguideId>K000375</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>NEAL</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>854</lisID>
+          <bioguideId>N000015</bioguideId>
+          <gpoId>7967</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <firstName>RICHARD</firstName>
+        <bioguideId>N000015</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Athletes</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Professional sports</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Sports and Recreation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-02-06T04:59:51Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-06-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-15T13:42:35-04:00", 
+      "action_code": "H30200", 
+      "references": [], 
+      "text": "Mr. McCarthy asked unanimous consent to consider as introduced.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-15T13:42:35-04:00", 
+      "action_code": "H30000", 
+      "references": [
+        {
+          "reference": "CR H4931", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-15T13:46:03-04:00", 
+      "action_code": "H37100", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4931", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-06-15T13:46:07-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres385-115", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-06-15T13:42:35-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2017-06-15T13:46:03-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-06-15", 
+  "number": "385", 
+  "official_title": "Expressing gratitude for the heroic actions of the United States Capitol Police and other first responders in the attack on Members of Congress on June 14, 2017, and expressing hope for a full recovery for the injured.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M001165", 
+    "district": "23", 
+    "name": "McCarthy, Kevin", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2017-06-15T13:46:03-04:00", 
+  "subjects": [
+    "Congress"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expressing gratitude for the heroic actions of the United States Capitol Police and other first responders in the attack on Members of Congress on June 14, 2017, and expressing hope for a full recovery for the injured.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Expressing gratitude for the heroic actions of the United States Capitol Police and other first responders in the attack on Members of Congress on June 14, 2017, and expressing hope for a full recovery for the injured.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-16T15:00:09Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hres/BILLSTATUS-115hres385.xml"
+}

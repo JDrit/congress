@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-03-15</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Foreign Affairs</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-03-15</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Armed Services</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-03-15</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-03-15</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-03-15</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>396</number>
+        <latestTitle>A resolution expressing the sense of the Senate that individuals captured by the United States for supporting the Islamic State of Iraq and the Levant should be detained at United States Naval Station, Guantanamo Bay, Cuba.</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1442-1443)</text>
+          <actionDate>2016-03-10</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>SRES</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>645</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2016-03-15T14:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2016-03-15T14:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-03-15</introducedDate>
+    <updateDate>2017-06-02T19:33:27Z</updateDate>
+    <title>Expressing the sense of the House that individuals captured by the United States for supporting the Islamic State of Iraq and the Levant should be detained at United States Naval Station, Guantanamo Bay, Cuba.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of the House that individuals captured by the United States for supporting the Islamic State of Iraq and the Levant should be detained at United States Naval Station, Guantanamo Bay, Cuba.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of the House that individuals captured by the United States for supporting the Islamic State of Iraq and the Levant should be detained at United States Naval Station, Guantanamo Bay, Cuba.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2016-03-15T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Expresses the sense of the House of Representatives that: </p> <ul> <li> the Islamic State of Iraq and the Levant (ISIL) has declared war on the United States; </li> <li>the Armed Forces are currently engaged in combat operations against ISIL; </li> <li>the United States has captured and detained individuals associated with ISIL and will likely capture and hold additional ISIL detainees;</li> <li>ISIL members captured by the United States during combat operations meet specified criteria for continued detention at Naval Station, Guantanamo Bay, Cuba; and </li> <li>all individuals captured by the United States during combat operations against ISIL who meet such criteria by their ISIL affiliation must be detained outside the United States and its territories and should be transferred to Guantanamo Bay.</li> </ul>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2016-04-14T20:44:55Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2016-03-15</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2128</lisID>
+          <bioguideId>W000813</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <bioguideId>W000813</bioguideId>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <firstName>Jackie</firstName>
+        <state>IN</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Walorski</lastName>
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to House Foreign Affairs</text>
+      <actionDate>2016-03-15</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Byrne</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>2197</lisID>
+          <gpoId />
+          <bioguideId>B001289</bioguideId>
+        </identifiers>
+        <state>AL</state>
+        <firstName>Bradley</firstName>
+        <bioguideId>B001289</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Coffman</lastName>
+        <district>6</district>
+        <identifiers>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+        </identifiers>
+        <state>CO</state>
+        <firstName>Mike</firstName>
+        <bioguideId>C001077</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Franks</lastName>
+        <district>8</district>
+        <identifiers>
+          <bioguideId>F000448</bioguideId>
+          <gpoId>7799</gpoId>
+          <lisID>1707</lisID>
+        </identifiers>
+        <state>AZ</state>
+        <firstName>Trent</firstName>
+        <bioguideId>F000448</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Fleming, John [R-LA-4]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Fleming</lastName>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>F000456</bioguideId>
+          <gpoId>7962</gpoId>
+          <lisID>1924</lisID>
+        </identifiers>
+        <state>LA</state>
+        <firstName>John</firstName>
+        <bioguideId>F000456</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lamborn</lastName>
+        <district>5</district>
+        <identifiers>
+          <lisID>1834</lisID>
+          <gpoId>7863</gpoId>
+          <bioguideId>L000564</bioguideId>
+        </identifiers>
+        <state>CO</state>
+        <firstName>Doug</firstName>
+        <bioguideId>L000564</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Scott</lastName>
+        <district>8</district>
+        <identifiers>
+          <lisID>2009</lisID>
+          <gpoId>7905</gpoId>
+          <bioguideId>S001189</bioguideId>
+        </identifiers>
+        <state>GA</state>
+        <firstName>Austin</firstName>
+        <bioguideId>S001189</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wilson</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <state>SC</state>
+        <firstName>Joe</firstName>
+        <bioguideId>W000795</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Zinke, Ryan K. [R-MT-At Large]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Zinke</lastName>
+        <district>0</district>
+        <identifiers>
+          <bioguideId>Z000018</bioguideId>
+          <gpoId />
+          <lisID>2254</lisID>
+        </identifiers>
+        <state>MT</state>
+        <firstName>Ryan</firstName>
+        <bioguideId>Z000018</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-03-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+        </identifiers>
+        <state>IA</state>
+        <firstName>Steve</firstName>
+        <bioguideId>K000362</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Pompeo, Mike [R-KS-4]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pompeo</lastName>
+        <district>4</district>
+        <identifiers>
+          <lisID>2022</lisID>
+          <gpoId>7952</gpoId>
+          <bioguideId>P000602</bioguideId>
+        </identifiers>
+        <state>KS</state>
+        <firstName>Mike</firstName>
+        <bioguideId>P000602</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-04-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bucshon</lastName>
+        <district>8</district>
+        <identifiers>
+          <gpoId>7947</gpoId>
+          <bioguideId>B001275</bioguideId>
+          <lisID>2018</lisID>
+        </identifiers>
+        <state>IN</state>
+        <firstName>Larry</firstName>
+        <bioguideId>B001275</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Cuba</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2016-03-16T04:46:41Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,85 @@
+<bill session="115" type="h" number="951" updated="2017-07-17T19:30:14Z">
+  <state datetime="2017-06-12T16:04:10-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-06-12T16:04:10-04:00"/>
+  </status>
+  <introduced datetime="2017-02-07"/>
+  <titles>
+    <title type="official" as="introduced">To extend the deadline for commencement of construction of a hydroelectric project.</title>
+    <title type="display">To extend the deadline for commencement of construction of a hydroelectric project.</title>
+  </titles>
+  <sponsor id="400643"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2017-02-07">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-02-07" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-02-10">
+      <text>Referred to the Subcommittee on Energy.</text>
+    </action>
+    <action datetime="2017-06-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-06-07" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2017-06-07">
+      <text>Subcommittee on Energy Discharged.</text>
+    </action>
+    <action datetime="2017-06-12">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 115-172.</text>
+    </action>
+    <calendar datetime="2017-06-12" calendar="Union" number="116">
+      <text>Placed on the Union Calendar, Calendar No. 116.</text>
+    </calendar>
+    <action datetime="2017-06-12T15:59:30-04:00">
+      <text>Mr. Upton moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2017-06-12T15:59:38-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4826-4827" label="consideration"/>
+    </action>
+    <action datetime="2017-06-12T15:59:43-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 951.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-06-12T16:04:10-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4826" label="text"/>
+    </vote>
+    <action datetime="2017-06-12T16:04:11-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2017-06-13" calendar="Senate Legislative" under="General Orders" number="144">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 144.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Reporting, Markup, Referral"/>
+    <committee activity="Discharged, Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="115" type="s" number="723"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Dams and canals"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Federal Energy Regulatory Commission (FERC)"/>
+    <term name="Licensing and registrations"/>
+    <term name="North Carolina"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-06-12T15:25:28Z" status="Passed House without amendment">(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+(Sec.1)This bill authorizes the Federal Energy Regulatory Commission (FERC) to extend for up to six years the time period during which construction must commence on the W. Kerr Scott Hydropower Project located on the Yadkin River in Wilkes County, North Carolina.
+
+Additionally, FERC may reinstate the construction license if it is expired.</summary>
+  <committee-reports>
+    <report>H. Rept. 115-172</report>
+  </committee-reports>
+</bill>

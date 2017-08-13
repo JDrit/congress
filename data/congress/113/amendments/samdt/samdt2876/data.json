@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-02", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S2047", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "SA 2876 fell when inconsistent with Senate's precedents.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S2045, S2047", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-01", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S1897", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-31", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S1860", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1860", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2876 proposed by Senator Reid to Amendment SA 2875.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-31", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-31", 
+      "action_code": "93000", 
+      "references": [
+        {
+          "reference": "CR S1860", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1860", 
+          "type": "text"
+        }
+      ], 
+      "text": "Senate amendment proposed (on the floor): Amendment SA 2876 proposed by Senator Reid to Amendment SA 2875.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-31", 
+      "action_code": "91000", 
+      "references": [], 
+      "text": "Senate amendment submitted", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2876-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2875-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "description": null, 
+    "number": 2875, 
+    "purpose": "Of a perfecting nature."
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3979-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3979
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-03-31", 
+  "number": 2876, 
+  "proposed_at": "2014-03-31T04:00:00Z", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "bioguide_id": "R000146", 
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-03-31", 
+  "updated_at": "2016-10-25T17:07:04Z"
+}

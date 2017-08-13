@@ -1,0 +1,283 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-31", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-31", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR E107", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-31", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-02-03", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-06-29", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-29", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-27", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-27", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr767-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-27", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001097", 
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-31", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001066", 
+      "district": "14", 
+      "name": "Castor, Kathy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-29", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000215", 
+      "district": "18", 
+      "name": "Eshoo, Anna G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-29", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001067", 
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-27", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000378", 
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-31", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000382", 
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-27", 
+      "state": "NH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001181", 
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-05-16", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000812", 
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-31", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-06-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-01-31", 
+  "number": "767", 
+  "official_title": "To establish the Stop, Observe, Ask, and Respond to Health and Wellness Training pilot program to address human trafficking in the health care system.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s256-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "SOAR to Health and Wellness Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "C001068", 
+    "district": "9", 
+    "name": "Cohen, Steve", 
+    "state": "TN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-07-27", 
+  "subjects": [
+    "Crime victims", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Emergency medical services and trauma care", 
+    "Health", 
+    "Health facilities and institutions", 
+    "Health information and medical records", 
+    "Health personnel", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care", 
+    "Human trafficking", 
+    "Medical education"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-01-31T05:00:00Z", 
+    "text": "SOAR to Health and Wellness Act of 2017\n\nThis bill directs the Department of Health and Human Services (HHS) to establish a pilot program, to be known as Stop, Observe, Ask, and Respond to Health and Wellness Training (or SOAR to Health and Wellness Training), to train health care providers and other related providers to:\n\n identify potential human trafficking victims, work with law enforcement to report and facilitate communication with such victims, refer victims to social or victims service agencies or organizations, provide such victims with coordinated care tailored to their circumstances, and consider integrating this training with existing training programs. The pilot program must include the functions of the training program with the same name that was operating before this bill's enactment and the following initiatives:\n\n engaging stakeholders to develop a flexible training module, supporting training in diverse health care sites, providing technical assistance to health education programs, developing a strategy to incentivize the use of training materials developed under this bill and the implementation of a nationwide health care protocol, and developing a methodology for collecting and reporting data on the number of human trafficking victims served in health care settings or other related provider settings. The pilot program is authorized through FY2022.\n\nHHS must report on the number of facilities operating under the pilot program, the number of providers trained through the pilot program, and these numbers for the program operating before the pilot program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SOAR to Health and Wellness Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SOAR to Health and Wellness Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Stop, Observe, Ask, and Respond to Health and Wellness Training pilot program to address human trafficking in the health care system.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "SOAR to Health and Wellness Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-28T07:15:57Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr767.xml"
+}

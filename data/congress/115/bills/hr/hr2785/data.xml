@@ -1,0 +1,42 @@
+<bill session="115" type="h" number="2785" updated="2017-07-27T13:11:11Z">
+  <state datetime="2017-06-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-06"/>
+  </status>
+  <introduced datetime="2017-06-06"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Emergency Room Relief Act of 2017</title>
+    <title type="short" as="introduced">Veterans Emergency Room Relief Act of 2017</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to require the Secretary of Veterans Affairs to pay the reasonable costs of urgent care provided to certain veterans, to establish cost-sharing amounts for veterans receiving care at an emergency room of the Department of Veterans Affairs, and for other purposes.</title>
+    <title type="display">Veterans Emergency Room Relief Act of 2017</title>
+  </titles>
+  <sponsor id="412705"/>
+  <cosponsors>
+    <cosponsor id="412282" joined="2017-07-10"/>
+    <cosponsor id="412510" joined="2017-06-06"/>
+    <cosponsor id="412393" joined="2017-06-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-06" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-06-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="115" type="s" number="1261"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-06-21</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionTime>17:49:31</actionTime>
+        <links />
+        <actionDate>2017-06-20</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4968-4969)</text>
+        <type>Floor</type>
+        <actionTime>17:49:29</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4968-4969</url>
+            <name>H4968-4969</name>
+          </link>
+        </links>
+        <actionDate>2017-06-20</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4968-4969)</text>
+        <type>Floor</type>
+        <actionTime>17:49:29</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4968-4969</url>
+            <name>H4968-4969</name>
+          </link>
+        </links>
+        <actionDate>2017-06-20</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2857.</text>
+        <type>Floor</type>
+        <actionTime>17:32:59</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2857</url>
+            <name>H.R. 2857</name>
+          </link>
+        </links>
+        <actionDate>2017-06-20</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H4968-4970)</text>
+        <type>Floor</type>
+        <actionTime>17:32:59</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4968-4970</url>
+            <name>H4968-4970</name>
+          </link>
+        </links>
+        <actionDate>2017-06-20</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <text>Mrs. Noem moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <actionTime>17:32:43</actionTime>
+        <links />
+        <actionDate>2017-06-20</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-08</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-08</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-08</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2017-06-21T17:29:17Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2017-06-08T14:05:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2017-06-21</actionDate>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Supporting Families in Substance Abuse Treatment Act</b></p> <p>This bill amends part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act to provide that the removal and foster care placement of a child shall meet the requirements for foster care maintenance payments on the child's behalf if the child has been placed with a parent residing in a licensed residential family-based treatment facility.</p> <p>Placement with such a parent shall meet these requirements, however, only if:</p> <ul> <li>the placement recommendation is specified in the child's case plan before the placement; </li> <li>the treatment facility offers, as part of substance abuse treatment, parenting skills training, parent education, and individual and family counseling; and </li> <li>this training and counseling are delivered under an organizational structure and treatment framework that involves understanding, recognizing, and responding to the effects of all types of trauma, and in accordance with recognized principles of a trauma-informed approach and trauma-specific interventions, to address the consequences of trauma and facilitate healing. </li> </ul>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-06-08T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-06-22T15:28:58Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2017-06-08</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Families</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>Supporting Families in Substance Abuse Treatment Act</title>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Supporting Families in Substance Abuse Treatment Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To support foster care maintenance payments for children with parents in a licensed residential family-based treatment facility for substance abuse.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Supporting Families in Substance Abuse Treatment Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Supporting Families in Substance Abuse Treatment Act</title>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Supporting Families in Substance Abuse Treatment Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <committeeReports />
+    <cboCostEstimates />
+    <relatedBills />
+    <title>Supporting Families in Substance Abuse Treatment Act</title>
+    <policyArea>
+      <name>Families</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <bioguideId>N000184</bioguideId>
+        <party>R</party>
+        <district>0</district>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <firstName>Kristi</firstName>
+        <byRequestType />
+        <middleName>L.</middleName>
+        <lastName>Noem</lastName>
+        <state>SD</state>
+        <identifiers>
+          <lisID>2060</lisID>
+          <gpoId>8147</gpoId>
+          <bioguideId>N000184</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. NOEM:H.R. 2857.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution of the UnitedStates.[Page H4820]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2857</billNumber>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <introducedDate>2017-06-08</introducedDate>
+    <congress>115</congress>
+    <laws />
+    <createDate>2017-06-09T03:11:39Z</createDate>
+    <originChamber>House</originChamber>
+    <updateDate>2017-07-08T04:28:17Z</updateDate>
+    <billType>HR</billType>
+    <amendments />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <district>27</district>
+        <lastName>Chu</lastName>
+        <identifiers>
+          <lisID>1970</lisID>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <firstName>Judy</firstName>
+        <bioguideId>C001080</bioguideId>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <party>D</party>
+        <state>IL</state>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <lastName>DAVIS</lastName>
+        <identifiers>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <firstName>DANNY</firstName>
+        <bioguideId>D000096</bioguideId>
+        <middleName>K.</middleName>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

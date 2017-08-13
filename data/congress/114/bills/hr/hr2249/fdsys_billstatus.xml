@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-05-15</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2015-05-12</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-05-12</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-05-12</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2015-05-12</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>1301</number>
+        <latestTitle>Restoring Medicaid for Compact of Free Association Migrants Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>2249</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2015-05-15T19:37:44Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2015-05-12T16:00:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-05-12</introducedDate>
+    <updateDate>2017-06-02T21:01:16Z</updateDate>
+    <title>Restoring Medicaid for Compact of Free Association Migrants Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Restoring Medicaid for Compact of Free Association Migrants Act of 2015</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to restore Medicaid coverage for citizens of the Freely Associated States lawfully residing in the United States under the Compacts of Free Association between the Government of the United States and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Restoring Medicaid for Compact of Free Association Migrants Act of 2015</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-05-12</actionDate>
+          <updateDate>2015-05-12T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-06-02T19:54:42Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Restoring Medicaid for Compact of Free Association Migrants Act of 2015</b></p> <p> Amends the Personal Responsibility and Work Opportunity Act of 1996 to permit coverage under title XIX (Medicaid) of the Social Security Act for citizens of the Freely Associated States lawfully residing in the United States under the Compacts of Free Association between the United States Government and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.</p> <p>Permits Medicaid coverage also to lawful residents, in accordance with such Compacts, but only at the option of the governor, of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa.</p> <p>Exempts such citizens from the five-year limited eligibility of qualified aliens for federal means-tested public benefits with respect to Medicaid benefits.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000571</bioguideId>
+          <lisID>2122</lisID>
+        </identifiers>
+        <district>2</district>
+        <party>D</party>
+        <bioguideId>G000571</bioguideId>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <firstName>Tulsi</firstName>
+        <state>HI</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Gabbard</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2015-05-15</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. GABBARD:H.R. 2249.Congress has the power to enact this legislation pursuantto the following:The U.S. Constitution including Article 1, Section 8.[Page H2877]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000473</bioguideId>
+          <lisID>2240</lisID>
+        </identifiers>
+        <district>1</district>
+        <party>D</party>
+        <lastName>Takai</lastName>
+        <fullName>Rep. Takai, Mark [D-HI-1]</fullName>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <state>HI</state>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000473</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001245</bioguideId>
+          <gpoId>7911</gpoId>
+          <lisID>1723</lisID>
+        </identifiers>
+        <district>0</district>
+        <party>D</party>
+        <lastName>Bordallo</lastName>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <state>GU</state>
+        <firstName>Madeleine</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>Z.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001245</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8018</gpoId>
+          <bioguideId>S001177</bioguideId>
+          <lisID>1962</lisID>
+        </identifiers>
+        <district>0</district>
+        <party>D</party>
+        <lastName>Sablan</lastName>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <state>MP</state>
+        <firstName>Gregorio</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>Kilili Camacho</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001177</bioguideId>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>American Samoa</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Guam</name>
+          </item>
+          <item>
+            <name>Marshall Islands</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Micronesia</name>
+          </item>
+          <item>
+            <name>Northern Mariana Islands</name>
+          </item>
+          <item>
+            <name>Oceania</name>
+          </item>
+          <item>
+            <name>Palau</name>
+          </item>
+          <item>
+            <name>Puerto Rico</name>
+          </item>
+          <item>
+            <name>Virgin Islands</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-05-13T08:46:05Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2016-05-24</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2016-05-24</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2016-05-24</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <laws />
+    <billNumber>745</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2016-05-24T14:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-05-24</introducedDate>
+    <updateDate>2017-06-02T19:34:24Z</updateDate>
+    <title>Congratulating Einstein Healthcare Network on their 150th anniversary.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Congratulating Einstein Healthcare Network on their 150th anniversary.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Congratulating Einstein Healthcare Network on their 150th anniversary.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2016-05-24T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Congratulates the Einstein Healthcare Network on its 150th anniversary and commends the network for providing high-quality medical care to the people of Philadelphia and the surrounding region.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2016-05-27T16:50:09Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2016-05-24</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8119</gpoId>
+          <bioguideId>B001227</bioguideId>
+          <lisID>1469</lisID>
+        </identifiers>
+        <district>1</district>
+        <party>D</party>
+        <bioguideId>B001227</bioguideId>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <firstName>ROBERT</firstName>
+        <state>PA</state>
+        <middleName>A.</middleName>
+        <byRequestType />
+        <lastName>BRADY</lastName>
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2016-05-24</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8120</gpoId>
+          <bioguideId>F000043</bioguideId>
+          <lisID>371</lisID>
+        </identifiers>
+        <firstName>CHAKA</firstName>
+        <middleName />
+        <state>PA</state>
+        <district>2</district>
+        <lastName>FATTAH</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000043</bioguideId>
+        <fullName>Rep. Fattah, Chaka [D-PA-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8373</gpoId>
+          <bioguideId>P000604</bioguideId>
+          <lisID>2097</lisID>
+        </identifiers>
+        <firstName>Donald</firstName>
+        <middleName>M.</middleName>
+        <state>NJ</state>
+        <district>10</district>
+        <lastName>Payne</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000604</bioguideId>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1797</lisID>
+          <bioguideId>F000451</bioguideId>
+          <gpoId>8126</gpoId>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <middleName>G.</middleName>
+        <state>PA</state>
+        <district>8</district>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000451</bioguideId>
+        <fullName>Rep. Fitzpatrick, Michael G. [R-PA-8]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <gpoId>8125</gpoId>
+          <lisID>2052</lisID>
+        </identifiers>
+        <firstName>Patrick</firstName>
+        <middleName />
+        <state>PA</state>
+        <district>7</district>
+        <lastName>Meehan</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001181</bioguideId>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001193</bioguideId>
+          <gpoId />
+          <lisID>2258</lisID>
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <middleName />
+        <state>NJ</state>
+        <district>3</district>
+        <lastName>MacArthur</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001193</bioguideId>
+        <fullName>Rep. MacArthur, Thomas [R-NJ-3]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8050</gpoId>
+          <bioguideId>P000096</bioguideId>
+          <lisID>1510</lisID>
+        </identifiers>
+        <firstName>WILLIAM</firstName>
+        <middleName>J.</middleName>
+        <state>NJ</state>
+        <district>9</district>
+        <lastName>PASCRELL</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000096</bioguideId>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000188</bioguideId>
+          <lisID>2202</lisID>
+        </identifiers>
+        <firstName>Donald</firstName>
+        <middleName />
+        <state>NJ</state>
+        <district>1</district>
+        <lastName>Norcross</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000188</bioguideId>
+        <fullName>Rep. Norcross, Donald [D-NJ-1]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2266</lisID>
+          <gpoId />
+          <bioguideId>C001106</bioguideId>
+        </identifiers>
+        <firstName>Ryan</firstName>
+        <middleName>A.</middleName>
+        <state>PA</state>
+        <district>6</district>
+        <lastName>Costello</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001106</bioguideId>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000482</bioguideId>
+          <gpoId>8132</gpoId>
+          <lisID>316</lisID>
+        </identifiers>
+        <firstName>MIKE</firstName>
+        <middleName />
+        <state>PA</state>
+        <district>14</district>
+        <lastName>DOYLE</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000482</bioguideId>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>699</lisID>
+          <gpoId>8044</gpoId>
+          <bioguideId>L000554</bioguideId>
+        </identifiers>
+        <firstName>FRANK</firstName>
+        <middleName>A.</middleName>
+        <state>NJ</state>
+        <district>2</district>
+        <lastName>LOBIONDO</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000554</bioguideId>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1744</lisID>
+          <gpoId>8723</gpoId>
+          <bioguideId>M001151</bioguideId>
+        </identifiers>
+        <firstName>Tim</firstName>
+        <middleName />
+        <state>PA</state>
+        <district>18</district>
+        <lastName>Murphy</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001151</bioguideId>
+        <fullName>Rep. Murphy, Tim [R-PA-18]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <gpoId />
+          <lisID>2267</lisID>
+        </identifiers>
+        <firstName>Brendan</firstName>
+        <middleName>F.</middleName>
+        <state>PA</state>
+        <district>13</district>
+        <lastName>Boyle</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001296</bioguideId>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Pennsylvania</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2016-05-25T05:16:45Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-04-21</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-03-13</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-03-13</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-03-13</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills />
+    <laws />
+    <billNumber>1358</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-04-21T15:20:40Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2015-03-13T15:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-03-13</introducedDate>
+    <updateDate>2017-06-02T20:17:55Z</updateDate>
+    <title>Armor-Piercing Bullets Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Armor-Piercing Bullets Act of 2015</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To enact into law a framework for deciding whether certain projectiles are "primarily intended for sporting purposes" for purposes of determining whether the projectiles are armor piercing ammunition.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Armor-Piercing Bullets Act of 2015</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-03-13T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Armor-Piercing Bullets Act of 2015</strong></p> <p>Amends the federal criminal code to provide that: (1) a .22 caliber projectile that would otherwise constitute &quot;armor piercing ammunition&quot; shall be considered to be primarily intended to be used for sporting purposes (and thus excluded from the definition of &quot;armor piercing ammunition&quot; for purposes of federal firearms provisions) if the projectile weighs 40 grains or less and is loaded into a rimfire cartridge, and (2) a projectile that would otherwise constitute &quot;armor piercing ammunition&quot; shall be considered to be primarily intended to be used for a sporting purpose if the projectile is loaded into a cartridge for which the only handgun that is readily available in the ordinary channels of commercial trade is a single shot handgun. </p> <p>Defines a &quot;single shot handgun&quot; as a break-open or bolt action handgun that can accept only a single cartridge manually and that does not accept or use a magazine or other ammunition feeding device, excluding a pocket pistol or derringer-type firearm.</p> <p>Authorizes the Attorney General to treat a projectile as not primarily intended to be used for sporting purposes if substantial evidence exists that the projectile is not primarily intended to be used for such purposes.</p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-06-17T20:11:03Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-03-13</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>E000179</bioguideId>
+          <gpoId>8078</gpoId>
+          <lisID>344</lisID>
+        </identifiers>
+        <district>16</district>
+        <party>D</party>
+        <bioguideId>E000179</bioguideId>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <firstName>ELIOT</firstName>
+        <state>NY</state>
+        <middleName>L.</middleName>
+        <byRequestType />
+        <lastName>ENGEL</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <actionDate>2015-04-21</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ENGEL:H.R. 1358.Congress has the power to enact this legislation pursuantto the following:U.S. Const. Art. I Section 8 clause 3[Page H1635]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>C001067</bioguideId>
+        <lastName>Clarke</lastName>
+        <state>NY</state>
+        <firstName>Yvette</firstName>
+        <sponsorshipDate>2015-03-13</sponsorshipDate>
+        <identifiers>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>D.</middleName>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>W000822</bioguideId>
+        <lastName>Watson Coleman</lastName>
+        <state>NJ</state>
+        <firstName>Bonnie</firstName>
+        <sponsorshipDate>2015-03-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2259</lisID>
+          <gpoId />
+          <bioguideId>W000822</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>M000087</bioguideId>
+        <lastName>MALONEY</lastName>
+        <state>NY</state>
+        <firstName>CAROLYN</firstName>
+        <sponsorshipDate>2015-03-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <bioguideId>M000087</bioguideId>
+          <lisID>729</lisID>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>B001292</bioguideId>
+        <lastName>Beyer</lastName>
+        <state>VA</state>
+        <firstName>Donald</firstName>
+        <sponsorshipDate>2015-03-16</sponsorshipDate>
+        <identifiers>
+          <lisID>2272</lisID>
+          <gpoId />
+          <bioguideId>B001292</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>S.</middleName>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>N000002</bioguideId>
+        <lastName>NADLER</lastName>
+        <state>NY</state>
+        <firstName>JERROLD</firstName>
+        <sponsorshipDate>2015-03-18</sponsorshipDate>
+        <identifiers>
+          <lisID>850</lisID>
+          <gpoId>8069</gpoId>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>R000053</bioguideId>
+        <lastName>RANGEL</lastName>
+        <state>NY</state>
+        <firstName>CHARLES</firstName>
+        <sponsorshipDate>2015-03-18</sponsorshipDate>
+        <identifiers>
+          <lisID>944</lisID>
+          <gpoId>8076</gpoId>
+          <bioguideId>R000053</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>E000288</bioguideId>
+        <lastName>Ellison</lastName>
+        <state>MN</state>
+        <firstName>Keith</firstName>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <identifiers>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>M001137</bioguideId>
+        <lastName>MEEKS</lastName>
+        <state>NY</state>
+        <firstName>GREGORY</firstName>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <identifiers>
+          <lisID>1506</lisID>
+          <bioguideId>M001137</bioguideId>
+          <gpoId>8067</gpoId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>S001175</bioguideId>
+        <lastName>Speier</lastName>
+        <state>CA</state>
+        <firstName>Jackie</firstName>
+        <sponsorshipDate>2015-03-24</sponsorshipDate>
+        <identifiers>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>G000551</bioguideId>
+        <lastName>Grijalva</lastName>
+        <state>AZ</state>
+        <firstName>Raul</firstName>
+        <sponsorshipDate>2015-04-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>L000581</bioguideId>
+        <lastName>Lawrence</lastName>
+        <state>MI</state>
+        <firstName>Brenda</firstName>
+        <sponsorshipDate>2015-04-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2252</lisID>
+          <bioguideId>L000581</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001036</bioguideId>
+        <lastName>CAPPS</lastName>
+        <state>CA</state>
+        <firstName>LOIS</firstName>
+        <sponsorshipDate>2015-04-15</sponsorshipDate>
+        <identifiers>
+          <lisID>1471</lisID>
+          <bioguideId>C001036</bioguideId>
+          <gpoId>7828</gpoId>
+        </identifiers>
+        <district>24</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Capps, Lois [D-CA-24]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>D000623</bioguideId>
+        <lastName>DeSaulnier</lastName>
+        <state>CA</state>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <lisID>2227</lisID>
+          <gpoId />
+          <bioguideId>D000623</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>V000130</bioguideId>
+        <lastName>Vargas</lastName>
+        <state>CA</state>
+        <firstName>Juan</firstName>
+        <sponsorshipDate>2016-07-06</sponsorshipDate>
+        <identifiers>
+          <lisID>2112</lisID>
+          <gpoId />
+          <bioguideId>V000130</bioguideId>
+        </identifiers>
+        <district>51</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001068</bioguideId>
+        <lastName>Cohen</lastName>
+        <state>TN</state>
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2016-07-07</sponsorshipDate>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-03-14T04:46:25Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

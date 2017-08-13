@@ -1,0 +1,143 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-05-25", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-05-25", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-05-26", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2688-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "E000179", 
+      "district": "16", 
+      "name": "Engel, Eliot L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-20", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000588", 
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-05-25", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-05-25", 
+  "number": "2688", 
+  "official_title": "To amend title XIX of the Social Security Act to provide the same level of Federal matching assistance for every State that chooses to expand Medicaid coverage to newly eligible individuals, regardless of when such expansion takes place.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1545-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Incentivizing Medicaid Expansion Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "G000410", 
+    "district": "29", 
+    "name": "Green, Gene", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-05-25", 
+  "subjects": [
+    "Health", 
+    "Medicaid", 
+    "State and local finance"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Incentivizing Medicaid Expansion Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Incentivizing Medicaid Expansion Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to provide the same level of Federal matching assistance for every State that chooses to expand Medicaid coverage to newly eligible individuals, regardless of when such expansion takes place.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Incentivizing Medicaid Expansion Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-31T18:30:24Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr2688.xml"
+}

@@ -1,0 +1,137 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-07-19", 
+      "action_code": "", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-19", 
+      "action_code": "", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr378-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000754", 
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-09", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-07-19", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-01-09", 
+  "number": "378", 
+  "official_title": "To amend title 5, United States Code, to enhance the authority under which Federal agencies may pay cash awards to employees for making cost saving disclosures, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Bonuses for Cost-Cutters Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "F000459", 
+    "district": "3", 
+    "name": "Fleischmann, Charles J. \"Chuck\"", 
+    "state": "TN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-07-19", 
+  "subjects": [
+    "Appropriations", 
+    "Congressional oversight", 
+    "Executive agency funding and structure", 
+    "Fraud offenses and financial crimes", 
+    "Government employee pay, benefits, personnel management", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-01-09T05:00:00Z", 
+    "text": "Bonuses for Cost-Cutters Act of 2017\n\nThe bill authorizes the head of a federal agency to pay a cash award to any agency employee whose identification of unnecessary expenses has resulted in cost savings for the agency. The maximum dollar amount of such award is increased from $10,000 to $20,000.\n\nIf the Chief Financial Officer of the agency determines that potential unnecessary expenses identified by the employee meet applicable requirements, the head of the agency shall transfer the amount of the unnecessary expenses or unnecessary budget authority from the applicable appropriations account to the general fund of the Treasury. Any amount so transferred shall be deposited in the Treasury and used for deficit reduction or to reduce the federal debt, if there is no current budget deficit.\n\nAn agency head may retain not more than 10% of amounts transferred to the general fund of the Treasury.\n\nThe bill expands the list of federal officers and employees ineligible to receive a cash award."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bonuses for Cost-Cutters Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bonuses for Cost-Cutters Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 5, United States Code, to enhance the authority under which Federal agencies may pay cash awards to employees for making cost saving disclosures, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Bonuses for Cost-Cutters Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-20T07:13:07Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr378.xml"
+}

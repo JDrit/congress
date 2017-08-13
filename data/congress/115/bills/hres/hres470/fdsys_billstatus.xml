@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <billNumber>470</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-24T16:00:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <titles>
+      <item>
+        <title>Recognizing that international education and exchange programs further national security and foreign policy priorities, enhance economic competitiveness, and promote mutual understanding and cooperation among nations.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Recognizing that international education and exchange programs further national security and foreign policy priorities, enhance economic competitiveness, and promote mutual understanding and cooperation among nations.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <createDate>2017-07-25T03:11:31Z</createDate>
+    <committeeReports />
+    <billType>HRES</billType>
+    <updateDate>2017-08-01T19:45:24Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-24</actionDate>
+      </item>
+    </actions>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Pearce</lastName>
+        <party>R</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000588</bioguideId>
+          <gpoId>8057</gpoId>
+          <lisID>1738</lisID>
+        </identifiers>
+        <firstName>Stevan</firstName>
+        <state>NM</state>
+        <bioguideId>P000588</bioguideId>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Bishop</lastName>
+        <party>R</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1753</lisID>
+          <bioguideId>B001250</bioguideId>
+          <gpoId>8189</gpoId>
+        </identifiers>
+        <firstName>Rob</firstName>
+        <state>UT</state>
+        <bioguideId>B001250</bioguideId>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Evans</lastName>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <gpoId />
+          <lisID>2298</lisID>
+        </identifiers>
+        <firstName>Dwight</firstName>
+        <state>PA</state>
+        <bioguideId>E000296</bioguideId>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <state>AZ</state>
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Jenkins</lastName>
+        <party>R</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7950</gpoId>
+          <bioguideId>J000290</bioguideId>
+          <lisID>1921</lisID>
+        </identifiers>
+        <firstName>Lynn</firstName>
+        <state>KS</state>
+        <bioguideId>J000290</bioguideId>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <lastName>Keating</lastName>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000375</bioguideId>
+          <gpoId>7975</gpoId>
+          <lisID>2025</lisID>
+        </identifiers>
+        <firstName>William</firstName>
+        <state>MA</state>
+        <bioguideId>K000375</bioguideId>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>SMITH</lastName>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8213</gpoId>
+          <lisID>1528</lisID>
+          <bioguideId>S000510</bioguideId>
+        </identifiers>
+        <firstName>ADAM</firstName>
+        <state>WA</state>
+        <bioguideId>S000510</bioguideId>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Welch</lastName>
+        <party>D</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8204</gpoId>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <firstName>Peter</firstName>
+        <state>VT</state>
+        <bioguideId>W000800</bioguideId>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <lastName>Donovan</lastName>
+        <party>R</party>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000625</bioguideId>
+          <gpoId />
+          <lisID>2293</lisID>
+        </identifiers>
+        <firstName>Daniel</firstName>
+        <state>NY</state>
+        <bioguideId>D000625</bioguideId>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <constitutionalAuthorityStatementText />
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+      <actionDate>2017-07-24</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>Himes</lastName>
+        <district>4</district>
+        <bioguideId>H001047</bioguideId>
+        <firstName>James</firstName>
+        <party>D</party>
+        <byRequestType />
+        <state>CT</state>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <identifiers>
+          <gpoId>7869</gpoId>
+          <lisID>1913</lisID>
+          <bioguideId>H001047</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <title>Recognizing that international education and exchange programs further national security and foreign policy priorities, enhance economic competitiveness, and promote mutual understanding and cooperation among nations.</title>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <introducedDate>2017-07-24</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

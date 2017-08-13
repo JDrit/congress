@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <item>
+        <actionDate>2016-03-04</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2016-02-01</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2016-02-01</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2016-02-01</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>4909</number>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2017</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 502.</text>
+          <actionDate>2016-05-26</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>2943</number>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2017</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Became Public Law No: 114-328.</text>
+          <actionDate>2016-12-23</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>4424</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Military Personnel Subcommittee</name>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-03-04T20:26:09Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-02-01T17:02:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-02-01</introducedDate>
+    <updateDate>2017-06-02T21:44:41Z</updateDate>
+    <title>Rural Guard Act of 2016</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Rural Guard Act of 2016</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend title 37, United States Code, to increase the maximum reimbursement amount authorized for travel expenses incurred by certain members of the Selected Reserve of the Ready Reserve to attend inactive duty training outside of normal commuting distances.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Rural Guard Act of 2016</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2016-02-01T05:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Rural Guard Act of 2016</strong></p> <p>This bill authorizes the removal, on a case by case basis, of the $300 cap on travel expense reimbursements to certain members of the Selected Reserve of the Ready Reserve who: (1) live in a rural area in the same state as the inactive duty training location; and (2) are required to travel to the inactive training location using a boat or aircraft due to limited or nonexistent vehicular routes, or from a permanent residence more than 75 miles from that location.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2016-02-02T22:24:08Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2016-02-01</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <district>0</district>
+        <party>R</party>
+        <bioguideId>Y000033</bioguideId>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <firstName>DON</firstName>
+        <state>AK</state>
+        <middleName>E.</middleName>
+        <byRequestType />
+        <lastName>YOUNG</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <actionDate>2016-03-04</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. YOUNG of Alaska:H.R. 4424.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8The constitutional authority of Congress to enact thislegislation is provided by Article I, section 8 of the UnitedStates Constitution (clauses 12, 13, 14, 16, and 18), whichgrants Congress the power to raise and support an Army; toprovide and maintain a Navy; to make rules for the governmentand regulation of the land and naval forces; to provide fororganizing, arming, and disciplining the militia; and to makeall laws necessary and proper for carrying out the foregoingpowers.____________________[Page H432]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2240</lisID>
+          <bioguideId>T000473</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Mark</firstName>
+        <middleName />
+        <state>HI</state>
+        <district>1</district>
+        <lastName>Takai</lastName>
+        <sponsorshipDate>2016-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000473</bioguideId>
+        <fullName>Rep. Takai, Mark [D-HI-1]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000799</bioguideId>
+          <gpoId>8001</gpoId>
+          <lisID>1856</lisID>
+        </identifiers>
+        <firstName>Timothy</firstName>
+        <middleName>J.</middleName>
+        <state>MN</state>
+        <district>1</district>
+        <lastName>Walz</lastName>
+        <sponsorshipDate>2016-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000799</bioguideId>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>Z000018</bioguideId>
+          <lisID>2254</lisID>
+        </identifiers>
+        <firstName>Ryan</firstName>
+        <middleName>K.</middleName>
+        <state>MT</state>
+        <district>0</district>
+        <lastName>Zinke</lastName>
+        <sponsorshipDate>2016-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>Z000018</bioguideId>
+        <fullName>Rep. Zinke, Ryan K. [R-MT-At Large]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2035</lisID>
+          <gpoId>8022</gpoId>
+          <bioguideId>P000601</bioguideId>
+        </identifiers>
+        <firstName>Steven</firstName>
+        <middleName>M.</middleName>
+        <state>MS</state>
+        <district>4</district>
+        <lastName>Palazzo</lastName>
+        <sponsorshipDate>2016-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000601</bioguideId>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000185</bioguideId>
+          <gpoId>7877</gpoId>
+          <lisID>2001</lisID>
+        </identifiers>
+        <firstName>Richard</firstName>
+        <middleName>B.</middleName>
+        <state>FL</state>
+        <district>11</district>
+        <lastName>Nugent</lastName>
+        <sponsorshipDate>2016-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000185</bioguideId>
+        <fullName>Rep. Nugent, Richard B. [R-FL-11]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2230</lisID>
+          <gpoId />
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <middleName />
+        <state>CA</state>
+        <district>33</district>
+        <lastName>Lieu</lastName>
+        <sponsorshipDate>2016-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000582</bioguideId>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2122</lisID>
+          <gpoId />
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <firstName>Tulsi</firstName>
+        <middleName />
+        <state>HI</state>
+        <district>2</district>
+        <lastName>Gabbard</lastName>
+        <sponsorshipDate>2016-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000571</bioguideId>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>A000373</bioguideId>
+          <gpoId />
+          <lisID>2257</lisID>
+        </identifiers>
+        <firstName>Brad</firstName>
+        <middleName />
+        <state>NE</state>
+        <district>2</district>
+        <lastName>Ashford</lastName>
+        <sponsorshipDate>2016-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000373</bioguideId>
+        <fullName>Rep. Ashford, Brad [D-NE-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7888</gpoId>
+          <bioguideId>R000583</bioguideId>
+          <lisID>1916</lisID>
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <middleName>J.</middleName>
+        <state>FL</state>
+        <district>17</district>
+        <lastName>Rooney</lastName>
+        <sponsorshipDate>2016-02-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000583</bioguideId>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7806</gpoId>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+        </identifiers>
+        <firstName>MIKE</firstName>
+        <middleName />
+        <state>CA</state>
+        <district>5</district>
+        <lastName>THOMPSON</lastName>
+        <sponsorshipDate>2016-02-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000460</bioguideId>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001283</bioguideId>
+          <lisID>2155</lisID>
+        </identifiers>
+        <firstName>Jim</firstName>
+        <middleName />
+        <state>OK</state>
+        <district>1</district>
+        <lastName>Bridenstine</lastName>
+        <sponsorshipDate>2016-02-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001283</bioguideId>
+        <fullName>Rep. Bridenstine, Jim [R-OK-1]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001191</bioguideId>
+          <gpoId />
+          <lisID>2117</lisID>
+        </identifiers>
+        <firstName>Patrick</firstName>
+        <middleName />
+        <state>FL</state>
+        <district>18</district>
+        <lastName>Murphy</lastName>
+        <sponsorshipDate>2016-02-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001191</bioguideId>
+        <fullName>Rep. Murphy, Patrick [D-FL-18]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2171</lisID>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <middleName />
+        <state>WI</state>
+        <district>2</district>
+        <lastName>Pocan</lastName>
+        <sponsorshipDate>2016-02-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000607</bioguideId>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1774</lisID>
+          <gpoId>7825</gpoId>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <firstName>Jim</firstName>
+        <middleName />
+        <state>CA</state>
+        <district>16</district>
+        <lastName>Costa</lastName>
+        <sponsorshipDate>2016-02-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001059</bioguideId>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1753</lisID>
+          <bioguideId>B001250</bioguideId>
+          <gpoId>8189</gpoId>
+        </identifiers>
+        <firstName>Rob</firstName>
+        <middleName />
+        <state>UT</state>
+        <district>1</district>
+        <lastName>Bishop</lastName>
+        <sponsorshipDate>2016-02-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001250</bioguideId>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001281</bioguideId>
+          <gpoId />
+          <lisID>2153</lisID>
+        </identifiers>
+        <firstName>Joyce</firstName>
+        <middleName />
+        <state>OH</state>
+        <district>3</district>
+        <lastName>Beatty</lastName>
+        <sponsorshipDate>2016-02-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001281</bioguideId>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1733</lisID>
+          <gpoId>8002</gpoId>
+          <bioguideId>K000363</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+        <middleName />
+        <state>MN</state>
+        <district>2</district>
+        <lastName>Kline</lastName>
+        <sponsorshipDate>2016-02-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000363</bioguideId>
+        <fullName>Rep. Kline, John [R-MN-2]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1590</lisID>
+          <gpoId>7920</gpoId>
+          <bioguideId>S001148</bioguideId>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+        <middleName>K.</middleName>
+        <state>ID</state>
+        <district>2</district>
+        <lastName>SIMPSON</lastName>
+        <sponsorshipDate>2016-02-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001148</bioguideId>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+          <lisID>2263</lisID>
+        </identifiers>
+        <firstName>Elise</firstName>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <district>21</district>
+        <lastName>Stefanik</lastName>
+        <sponsorshipDate>2016-05-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001196</bioguideId>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1909</lisID>
+          <gpoId>7857</gpoId>
+          <bioguideId>H001048</bioguideId>
+        </identifiers>
+        <firstName>Duncan</firstName>
+        <middleName>D.</middleName>
+        <state>CA</state>
+        <district>50</district>
+        <lastName>Hunter</lastName>
+        <sponsorshipDate>2016-06-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001048</bioguideId>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Military education and training</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Transportation costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2016-02-02T05:12:50Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

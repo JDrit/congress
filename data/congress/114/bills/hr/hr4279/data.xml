@@ -1,0 +1,57 @@
+<bill session="114" type="h" number="4279" updated="2017-06-02T21:42:39Z">
+  <state datetime="2015-12-16">REFERRED</state>
+  <status>
+    <introduced datetime="2015-12-16"/>
+  </status>
+  <introduced datetime="2015-12-16"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to disclose certain information to State controlled substance monitoring programs.</title>
+    <title type="display">To direct the Secretary of Veterans Affairs to disclose certain information to State controlled substance monitoring programs.</title>
+  </titles>
+  <sponsor id="412538"/>
+  <cosponsors>
+    <cosponsor id="412539" joined="2015-12-16"/>
+    <cosponsor id="412516" joined="2016-01-12"/>
+    <cosponsor id="412513" joined="2016-01-12"/>
+    <cosponsor id="412447" joined="2016-01-11"/>
+    <cosponsor id="412566" joined="2016-02-02"/>
+    <cosponsor id="400211" joined="2016-01-11"/>
+    <cosponsor id="412614" joined="2016-01-11"/>
+    <cosponsor id="412557" joined="2016-01-07"/>
+    <cosponsor id="412540" joined="2016-01-11"/>
+    <cosponsor id="400273" joined="2016-02-01"/>
+    <cosponsor id="412515" joined="2016-01-11"/>
+    <cosponsor id="400417" joined="2016-02-12"/>
+    <cosponsor id="412618" joined="2016-01-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-12-16">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2015-12-16" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <reference ref="CR H9378"/>
+    </action>
+    <action datetime="2016-01-12">
+      <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR08" subcommittee="Oversight and Investigations" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="2601"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Health information and medical records"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Prescription drugs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary date="2015-12-16T05:00:00Z" status="Introduced in House">This bill requires the Department of Veterans Affairs (which currently is simply authorized) to disclose information about a veteran or dependent to a state controlled substance monitoring program to the extent necessary to prevent misuse and diversion of prescription medicines.</summary>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <latestTitle>Proposing an amendment to the Constitution of the United States relative to balancing the budget.</latestTitle>
+        <number>5</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the House Committee on the Judiciary.</text>
+          <actionDate>2017-01-03</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HJRES</type>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <notes />
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2017-08-03</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>Stivers</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8105</gpoId>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <bioguideId>S001187</bioguideId>
+        <state>OH</state>
+        <middleName />
+        <firstName>Steve</firstName>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <byRequestType />
+        <district>15</district>
+      </item>
+    </sponsors>
+    <billType>HJRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-08-03T14:32:50Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-19T14:03:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-07-20T03:11:31Z</createDate>
+    <updateDate>2017-08-04T07:12:33Z</updateDate>
+    <introducedDate>2017-07-19</introducedDate>
+    <recordedVotes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionDate>2017-07-19</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-07-19</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-07-19</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-07-19T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-07-28T18:39:52Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Constitutional Amendment </b></p> <p>This joint resolution proposes a constitutional amendment prohibiting total outlays for a fiscal year from exceeding total receipts for the year, excluding outlays for repayment of debt principal and receipts derived from borrowing. </p> <p>The President must submit an annual budget in which total outlays for the fiscal year do not exceed total receipts. </p> <p>Congress may waive the requirements for any fiscal year in which: </p> <ul> <li> a declaration of war is in effect, </li> <li>the United States is engaged in a military conflict which causes an imminent and serious military threat to national security as declared by a joint resolution, or </li> <li> a national emergency has been declared by a joint resolution. </li> </ul> <p>Any waiver must identify and be limited to the specific increase for the year that is necessary for the military conflict or emergency. Any increase in spending pursuant to a waiver must be offset by a budget surplus within 10 years of the end of the waiver. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2017-07-19</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>110</billNumber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001063</bioguideId>
+          <gpoId>8184</gpoId>
+          <lisID>1807</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>Cuellar</lastName>
+        <middleName />
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <district>28</district>
+        <bioguideId>C001063</bioguideId>
+        <party>D</party>
+        <firstName>Henry</firstName>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Proposing a balanced budget amendment to the Constitution of the United States.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Proposing a balanced budget amendment to the Constitution of the United States.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <title>Proposing a balanced budget amendment to the Constitution of the United States.</title>
+    <calendarNumbers />
+    <committeeReports />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

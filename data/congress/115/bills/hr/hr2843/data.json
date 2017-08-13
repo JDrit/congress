@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-06-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-06-09", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2843-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000379", 
+      "district": "4", 
+      "name": "Kennedy, Joseph P., III", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-06-08", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-06-08", 
+  "number": "2843", 
+  "official_title": "To amend titles XI and XIX of the Social Security Act to establish a comprehensive and nationwide system to evaluate the quality of care provided to beneficiaries of Medicaid and the Children's Health Insurance Program and to provide incentives for voluntary quality improvement.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1317-115", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Medicaid and CHIP Quality Improvement Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "D000197", 
+    "district": "1", 
+    "name": "DeGette, Diana", 
+    "state": "CO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-06-08", 
+  "subjects": [
+    "Child health", 
+    "Government information and archives", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care quality", 
+    "Medicaid", 
+    "Performance measurement", 
+    "Poverty and welfare assistance", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicaid and CHIP Quality Improvement Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicaid and CHIP Quality Improvement Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend titles XI and XIX of the Social Security Act to establish a comprehensive and nationwide system to evaluate the quality of care provided to beneficiaries of Medicaid and the Children's Health Insurance Program and to provide incentives for voluntary quality improvement.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Medicaid and CHIP Quality Improvement Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-20T16:56:20Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr2843.xml"
+}

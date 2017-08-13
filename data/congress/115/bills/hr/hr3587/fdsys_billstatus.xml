@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <cosponsors />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-28T13:12:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Select</type>
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent) Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the House Committee on Intelligence (Permanent Select).</text>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <updateDate>2017-07-29T07:33:09Z</updateDate>
+    <cboCostEstimates />
+    <introducedDate>2017-07-28</introducedDate>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-28</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Intelligence (Permanent) Committee</name>
+          <systemCode>hlig00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Intelligence (Permanent Select).</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-28</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-28</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <lastName>Gomez</lastName>
+        <bioguideId>G000585</bioguideId>
+        <state>CA</state>
+        <middleName />
+        <party>D</party>
+        <fullName>Rep. Gomez, Jimmy [D-CA-34]</fullName>
+        <district>34</district>
+        <byRequestType />
+        <firstName>Jimmy</firstName>
+        <identifiers>
+          <lisID>2362</lisID>
+          <gpoId />
+          <bioguideId>G000585</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>To provide for the collection and assessment of intelligence regarding the efforts of foreign powers to gain influence through the financial interests of the President and close family members and associates of the President.</title>
+    <notes />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea />
+    <laws />
+    <billNumber>3587</billNumber>
+    <constitutionalAuthorityStatementText />
+    <createDate>2017-07-29T03:11:38Z</createDate>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <title>To provide for the collection and assessment of intelligence regarding the efforts of foreign powers to gain influence through the financial interests of the President and close family members and associates of the President.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To provide for the collection and assessment of intelligence regarding the efforts of foreign powers to gain influence through the financial interests of the President and close family members and associates of the President.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

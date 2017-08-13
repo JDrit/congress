@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-07-20T19:21:01Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-06-28T19:31:42Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-06-14T13:10:49Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-06-08T14:00:51Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <laws />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <party>R</party>
+        <lastName>Higgins</lastName>
+        <firstName>Clay</firstName>
+        <bioguideId>H001077</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001077</bioguideId>
+          <lisID>2329</lisID>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <middleName />
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <party>R</party>
+        <lastName>Fitzpatrick</lastName>
+        <firstName>Brian</firstName>
+        <bioguideId>F000466</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <party>R</party>
+        <lastName>McSally</lastName>
+        <firstName>Martha</firstName>
+        <bioguideId>M001197</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001197</bioguideId>
+          <lisID>2225</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <middleName />
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <party>R</party>
+        <lastName>KING</lastName>
+        <firstName>PETER</firstName>
+        <bioguideId>K000210</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+          <lisID>635</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <party>R</party>
+        <lastName>Gallagher</lastName>
+        <firstName>Mike</firstName>
+        <bioguideId>G000579</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2355</lisID>
+          <gpoId />
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <middleName />
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <party>R</party>
+        <lastName>Garrett</lastName>
+        <firstName>Thomas</firstName>
+        <bioguideId>G000580</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2353</lisID>
+          <bioguideId>G000580</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Perry, Scott [R-PA-4]</fullName>
+        <party>R</party>
+        <lastName>Perry</lastName>
+        <firstName>Scott</firstName>
+        <bioguideId>P000605</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2157</lisID>
+          <bioguideId>P000605</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <middleName />
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <party>R</party>
+        <lastName>Donovan</lastName>
+        <firstName>Daniel</firstName>
+        <bioguideId>D000625</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000625</bioguideId>
+          <lisID>2293</lisID>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <party>R</party>
+        <lastName>Rutherford</lastName>
+        <firstName>John</firstName>
+        <bioguideId>R000609</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2316</lisID>
+          <gpoId />
+          <bioguideId>R000609</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <party>R</party>
+        <lastName>Ratcliffe</lastName>
+        <firstName>John</firstName>
+        <bioguideId>R000601</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000601</bioguideId>
+          <lisID>2268</lisID>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <middleName />
+        <sponsorshipDate>2017-06-23</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <party>R</party>
+        <lastName>Katko</lastName>
+        <firstName>John</firstName>
+        <bioguideId>K000386</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000386</bioguideId>
+          <lisID>2264</lisID>
+          <gpoId />
+        </identifiers>
+        <district>24</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <middleName />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <createDate>2017-06-09T03:11:38Z</createDate>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2017-07-20</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-198</citation>
+      </committeeReport>
+    </committeeReports>
+    <recordedVotes>
+      <recordedVote>
+        <chamber>House</chamber>
+        <rollNumber>403</rollNumber>
+        <url>http://clerk.house.gov/evs/2017/roll403.xml</url>
+        <congress>115</congress>
+        <date>2017-07-20T15:34:06Z</date>
+        <sessionNumber>1</sessionNumber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+      </recordedVote>
+    </recordedVotes>
+    <introducedDate>2017-06-08</introducedDate>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 2825, DHS Authorization Act of 2017</title>
+        <pubDate>2017-07-20T20:00:02Z</pubDate>
+        <url>https://www.cbo.gov/publication/52944</url>
+      </item>
+    </cboCostEstimates>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>115</congress>
+    <relatedBills />
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00135</calendar>
+      </item>
+    </calendarNumbers>
+    <title>Department of Homeland Security Authorization Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McCAUL:H.R. 2825.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18--To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H4819]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <middleName>T.</middleName>
+        <byRequestType />
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <lastName>McCaul</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <bioguideId>M001157</bioguideId>
+        <district>10</district>
+        <firstName>Michael</firstName>
+      </item>
+    </sponsors>
+    <actions>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <actionTime>11:34:07</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <committee />
+        <actionCode>H37300</actionCode>
+        <actionTime>11:34:06</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6047-6109</url>
+            <name>H6047-6109</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll403.xml</url>
+            <name>Roll no. 403</name>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 41 (Roll no. 403). (text: CR H6047-6109)</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <committee />
+        <actionCode>8000</actionCode>
+        <actionTime>11:34:06</actionTime>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll403.xml</url>
+            <name>Roll no. 403</name>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 41 (Roll no. 403).</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <actionTime>11:01:25</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6128</url>
+            <name>H6128</name>
+          </link>
+        </links>
+        <text>Considered as unfinished business. (consideration: CR H6128)</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <committee />
+        <actionCode>H37220</actionCode>
+        <actionTime>09:56:10</actionTime>
+        <links />
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <actionTime>09:16:23</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2825</url>
+            <name>H.R. 2825</name>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2825.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <actionTime>09:16:21</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6047-6120</url>
+            <name>H6047-6120</name>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H6047-6120)</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-07-20</actionDate>
+        <committee />
+        <actionCode>H30300</actionCode>
+        <actionTime>09:15:44</actionTime>
+        <links />
+        <text>Mr. McCaul moved to suspend the rules and pass the bill, as amended.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Calendars</type>
+        <actionDate>2017-06-28</actionDate>
+        <links />
+        <actionCode>H12410</actionCode>
+        <committee />
+        <text>Placed on the Union Calendar, Calendar No. 135.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-06-28</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/198</url>
+            <name>H. Rept. 115-198</name>
+          </link>
+        </links>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-198.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-06-28</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/198</url>
+            <name>H. Rept. 115-198</name>
+          </link>
+        </links>
+        <actionCode>5000</actionCode>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-198.</text>
+      </item>
+      <item>
+        <actionDate>2017-06-14</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended).</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-14</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-06-08</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Homeland Security.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-06-08</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-06-08</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <reportedToHouse>1</reportedToHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <actionStageOverride>1</actionStageOverride>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <generalDebate>1</generalDebate>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <billReferrals>1</billReferrals>
+        <considerationByHouse>2</considerationByHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House for portions of this bill</titleType>
+        <title>FEMA Reauthorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House for portions of this bill</titleType>
+        <title>Coast Guard Authorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House for portions of this bill</titleType>
+        <title>United States Citizenship and Immigration Services Authorization Act</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House for portions of this bill</titleType>
+        <title>Immigration and Customs Enforcement Authorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House for portions of this bill</titleType>
+        <title>Department of Homeland Security Authorization Act for Fiscal Years 2018 and 2019</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House for portions of this bill</titleType>
+        <title>Secret Service Reauthorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Department of Homeland Security Authorization Act</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>DHS Authorization Act</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Reported to House</titleType>
+        <title>DHS Authorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Reported to House</titleType>
+        <title>Department of Homeland Security Authorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>DHS Authorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Department of Homeland Security Authorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Homeland Security Act of 2002 to make certain improvements in the laws administered by the Secretary of Homeland Security, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Department of Homeland Security Authorization Act</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House for portions of this bill</titleType>
+        <title>FEMA Reauthorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House for portions of this bill</titleType>
+        <title>Secret Service Reauthorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House for portions of this bill</titleType>
+        <title>United States Citizenship and Immigration Services Authorization Act</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House for portions of this bill</titleType>
+        <title>Immigration and Customs Enforcement Authorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Coast Guard Authorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Department of Homeland Security Authorization Act</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <title>DHS Authorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <title>Department of Homeland Security Authorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>DHS Authorization Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Department of Homeland Security Authorization Act of 2017</title>
+      </item>
+    </titles>
+    <billNumber>2825</billNumber>
+    <updateDate>2017-07-25T17:45:12Z</updateDate>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

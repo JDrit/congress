@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <notes />
+    <recordedVotes />
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-06-20</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-06-20</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-06-20</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <updateDate>2017-07-26T07:16:22Z</updateDate>
+    <createDate>2017-06-21T07:26:38Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <relatedBills />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LaMALFA:H.R. 2946.Congress has the power to enact this legislation pursuantto the following:Section 8, Clause 1, of the Constitution of the UnitedStates.[Page H4994]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <identifiers>
+          <bioguideId>R000607</bioguideId>
+          <lisID>2323</lisID>
+          <gpoId />
+        </identifiers>
+        <district>19</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000607</bioguideId>
+        <lastName>Rooney</lastName>
+        <firstName>Francis</firstName>
+        <party>R</party>
+        <state>FL</state>
+        <middleName />
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <identifiers>
+          <bioguideId>W000816</bioguideId>
+          <gpoId />
+          <lisID>2165</lisID>
+        </identifiers>
+        <district>25</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000816</bioguideId>
+        <lastName>Williams</lastName>
+        <firstName>Roger</firstName>
+        <party>R</party>
+        <state>TX</state>
+        <middleName />
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <identifiers>
+          <bioguideId>H001077</bioguideId>
+          <lisID>2329</lisID>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001077</bioguideId>
+        <lastName>Higgins</lastName>
+        <firstName>Clay</firstName>
+        <party>R</party>
+        <state>LA</state>
+        <middleName />
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <identifiers>
+          <bioguideId>A000374</bioguideId>
+          <lisID>2244</lisID>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>A000374</bioguideId>
+        <lastName>Abraham</lastName>
+        <firstName>Ralph</firstName>
+        <party>R</party>
+        <state>LA</state>
+        <middleName>Lee</middleName>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <identifiers>
+          <lisID>2314</lisID>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000578</bioguideId>
+        <lastName>Gaetz</lastName>
+        <firstName>Matt</firstName>
+        <party>R</party>
+        <state>FL</state>
+        <middleName />
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <identifiers>
+          <gpoId>7885</gpoId>
+          <lisID>1840</lisID>
+          <bioguideId>B001260</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001260</bioguideId>
+        <lastName>Buchanan</lastName>
+        <firstName>Vern</firstName>
+        <party>R</party>
+        <state>FL</state>
+        <middleName />
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+        </identifiers>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001045</bioguideId>
+        <lastName>Harper</lastName>
+        <firstName>Gregg</firstName>
+        <party>R</party>
+        <state>MS</state>
+        <middleName />
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000579</bioguideId>
+        <lastName>Gallagher</lastName>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <state>WI</state>
+        <middleName />
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+        </identifiers>
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001305</bioguideId>
+        <lastName>Budd</lastName>
+        <firstName>Ted</firstName>
+        <party>R</party>
+        <state>NC</state>
+        <middleName />
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Smucker, Lloyd [R-PA-16]</fullName>
+        <identifiers>
+          <bioguideId>S001199</bioguideId>
+          <gpoId />
+          <lisID>2346</lisID>
+        </identifiers>
+        <district>16</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001199</bioguideId>
+        <lastName>Smucker</lastName>
+        <firstName>Lloyd</firstName>
+        <party>R</party>
+        <state>PA</state>
+        <middleName />
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <identifiers>
+          <gpoId>8001</gpoId>
+          <bioguideId>W000799</bioguideId>
+          <lisID>1856</lisID>
+        </identifiers>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000799</bioguideId>
+        <lastName>Walz</lastName>
+        <firstName>Timothy</firstName>
+        <party>D</party>
+        <state>MN</state>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Heavy Truck, Tractor, and Trailer Retail Federal Excise Tax Repeal Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Heavy Truck, Tractor, and Trailer Retail Federal Excise Tax Repeal Act of 2017</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To amend the Internal Revenue Code of 1986 to repeal the excise tax on heavy trucks and trailers, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Heavy Truck, Tractor, and Trailer Retail Federal Excise Tax Repeal Act of 2017</title>
+      </item>
+    </titles>
+    <laws />
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2017-06-20</actionDate>
+      <links />
+    </latestAction>
+    <billType>HR</billType>
+    <introducedDate>2017-06-20</introducedDate>
+    <title>Heavy Truck, Tractor, and Trailer Retail Federal Excise Tax Repeal Act of 2017</title>
+    <sponsors>
+      <item>
+        <lastName>LaMalfa</lastName>
+        <party>R</party>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <bioguideId>L000578</bioguideId>
+        <firstName>Doug</firstName>
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+          <lisID>2100</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <state>CA</state>
+        <district>1</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>2946</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-20T16:03:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

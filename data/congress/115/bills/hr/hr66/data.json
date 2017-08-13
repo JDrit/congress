@@ -1,0 +1,294 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-01-04", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr66-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000371", 
+      "district": "31", 
+      "name": "Aguilar, Pete", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-10", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001295", 
+      "district": "12", 
+      "name": "Bost, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-03", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001080", 
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-01-30", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000454", 
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-03", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000290", 
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-01-05", 
+      "state": "KS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000378", 
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-03", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000585", 
+      "district": "18", 
+      "name": "LaHood, Darin", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-03", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000563", 
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-03", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000576", 
+      "district": "7", 
+      "name": "Long, Billy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-03", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000491", 
+      "district": "3", 
+      "name": "Lucas, Frank D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-03", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000580", 
+      "district": "1", 
+      "name": "Lujan Grisham, Michelle", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-06", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000570", 
+      "district": "3", 
+      "name": "Lujan, Ben Ray", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-26", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000179", 
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-03", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000171", 
+      "district": "1", 
+      "name": "O'Halleran, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-21", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001150", 
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-03", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000364", 
+      "district": "15", 
+      "name": "Shimkus, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-03", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000812", 
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-03", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-01-03", 
+  "number": "66", 
+  "official_title": "To establish the Route 66 Centennial Commission, to direct the Secretary of Transportation to prepare a plan on the preservation needs of Route 66, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Route 66 Centennial Commission Act", 
+  "sponsor": {
+    "bioguide_id": "D000619", 
+    "district": "13", 
+    "name": "Davis, Rodney", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-01-03", 
+  "subjects": [
+    "Advisory bodies", 
+    "Commemorative events and holidays", 
+    "Government studies and investigations", 
+    "Historic sites and heritage areas", 
+    "Roads and highways", 
+    "Transportation and public works", 
+    "U.S. history"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-01-03T05:00:00Z", 
+    "text": "Route 66 Centennial Commission Act\n\nThis bill establishes the Route 66 Centennial Commission to honor Route 66 on the occasion of its centennial anniversary.\n\nThe Department of Transportation shall prepare a plan on the preservation needs of Route 66."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Route 66 Centennial Commission Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Route 66 Centennial Commission Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Route 66 Centennial Commission, to direct the Secretary of Transportation to prepare a plan on the preservation needs of Route 66, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Route 66 Centennial Commission Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-27T07:15:59Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr66.xml"
+}

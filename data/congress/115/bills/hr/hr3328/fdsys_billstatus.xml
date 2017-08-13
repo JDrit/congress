@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <congress>115</congress>
+    <relatedBills />
+    <version>1.0.0</version>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KATKO:H.R. 3328.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18--To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States or in anyDepartment or Officer thereof.[Page H6146]</pre>]]></constitutionalAuthorityStatementText>
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2017-07-25</actionDate>
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>Katko</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+          <lisID>2264</lisID>
+        </identifiers>
+        <bioguideId>K000386</bioguideId>
+        <state>NY</state>
+        <middleName />
+        <firstName>John</firstName>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <byRequestType />
+        <district>24</district>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hspw05</systemCode>
+              <name>Aviation Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-07-25T19:29:07Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-07-20T13:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-07-20T13:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hshm00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Homeland Security Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-07-20T13:00:51Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-07-21T03:11:37Z</createDate>
+    <updateDate>2017-08-01T12:45:14Z</updateDate>
+    <introducedDate>2017-07-20</introducedDate>
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <systemCode>hspw05</systemCode>
+          <name>Aviation Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on Foreign Affairs, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-07-20</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on Foreign Affairs, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-07-20</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committees on Foreign Affairs, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-07-20</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-07-20</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-07-20</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3328</billNumber>
+    <cosponsors>
+      <item>
+        <state>TX</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+          <lisID>1804</lisID>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <middleName>T.</middleName>
+        <lastName>McCaul</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001157</bioguideId>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+      </item>
+      <item>
+        <state>NJ</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001165</bioguideId>
+          <gpoId>8055</gpoId>
+          <lisID>1818</lisID>
+        </identifiers>
+        <firstName>Albio</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <middleName />
+        <lastName>Sires</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001165</bioguideId>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberName />
+        <title>Cuban Airport Security Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>To require a study regarding security measures and equipment at Cuba's airports, require the standardization of Federal Air Marshal Service agreements, require efforts to raise international aviation security standards, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Cuban Airport Security Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Cuban Airport Security Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <amendments />
+    <title>Cuban Airport Security Act of 2017</title>
+    <calendarNumbers />
+    <committeeReports />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

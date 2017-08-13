@@ -1,0 +1,91 @@
+<bill session="115" type="h" number="505" updated="2017-06-19T20:45:30Z">
+  <state datetime="2017-01-31T15:19:47-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-01-31T15:19:47-05:00"/>
+  </status>
+  <introduced datetime="2017-01-12"/>
+  <titles>
+    <title type="short" as="passed house">Border Security Technology Accountability Act of 2017</title>
+    <title type="short" as="introduced">Border Security Technology Accountability Act of 2017</title>
+    <title type="short" as="introduced">Border Security Technology Accountability Act of 2017</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to strengthen accountability for deployment of border security technology at the Department of Homeland Security, and for other purposes.</title>
+    <title type="display">Border Security Technology Accountability Act of 2017</title>
+  </titles>
+  <sponsor id="412611"/>
+  <cosponsors>
+    <cosponsor id="412726" joined="2017-01-30"/>
+    <cosponsor id="412683" joined="2017-01-12"/>
+    <cosponsor id="412601" joined="2017-01-24"/>
+    <cosponsor id="412658" joined="2017-01-12"/>
+    <cosponsor id="412672" joined="2017-01-12"/>
+    <cosponsor id="412639" joined="2017-01-24"/>
+    <cosponsor id="412482" joined="2017-01-12"/>
+    <cosponsor id="412721" joined="2017-01-13"/>
+    <cosponsor id="400141" joined="2017-01-12"/>
+    <cosponsor id="412397" joined="2017-01-12"/>
+    <cosponsor id="400175" joined="2017-01-12"/>
+    <cosponsor id="412654" joined="2017-01-12"/>
+    <cosponsor id="412649" joined="2017-01-12"/>
+    <cosponsor id="400219" joined="2017-01-12"/>
+    <cosponsor id="400654" joined="2017-01-12"/>
+    <cosponsor id="412633" joined="2017-01-30"/>
+    <cosponsor id="412653" joined="2017-01-31"/>
+    <cosponsor id="400341" joined="2017-01-12"/>
+    <cosponsor id="412650" joined="2017-01-12"/>
+    <cosponsor id="412509" joined="2017-01-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-01-12">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-01-12" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-01-31T15:13:06-05:00">
+      <text>Ms. McSally moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-01-31T15:13:35-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H784-785" label="consideration"/>
+    </action>
+    <action datetime="2017-01-31T15:13:36-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 505.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-01-31T15:19:47-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H784" label="text"/>
+    </vote>
+    <action datetime="2017-01-31T15:19:48-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-02-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="115" type="s" number="146"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Technology assessment"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-01-31T13:36:44Z" status="Passed House amended">Border Security Technology Accountability Act of 2017
+
+(Sec. 2) This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security (DHS) to: (1) ensure that each border security technology acquisition program that is determined to be a major acquisition program has an acquisition program baseline approved by the relevant acquisition decision authority; (2) document that each such program is meeting the cost, schedule, and performance thresholds specified in such baseline in compliance with relevant departmental acquisition policies and the Federal Acquisition Regulation; and (3) have a plan for each such program to meet program implementation objectives by managing contractor performance.
+
+The Under Secretary for Management and the Commissioner of U.S. Customs and Border Protection is required to ensure that border security technology acquisition program managers adhere to relevant internal control standards identified by the Government Accountability Office. The Commissioner shall provide information to assist the Under Secretary in monitoring proper program management of such acquisition programs.
+
+The Under Secretary for Management, in coordination with the Under Secretary for Science and Technology and the Commissioner, shall submit a plan for testing and evaluation, as well as for the use of independent verification and validation resources, for border security technology so that new border security technologies are evaluated through a series of assessments, processes, and audits to ensure compliance with relevant departmental acquisition policies and the Federal Acquisition Regulation and the effectiveness of taxpayer dollars.
+
+"Major acquisition program" means a DHS acquisition program that is estimated by DHS to require an eventual total expenditure of at least $300 million over its life cycle cost.</summary>
+  <committee-reports/>
+</bill>

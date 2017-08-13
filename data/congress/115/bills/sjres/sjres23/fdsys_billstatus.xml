@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Labor</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-02-16</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-02-16</introducedDate>
+    <createDate>2017-02-17T09:06:54Z</createDate>
+    <amendments />
+    <relatedBills>
+      <item>
+        <type>HJRES</type>
+        <number>42</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.</latestTitle>
+        <latestAction>
+          <actionDate>2017-03-31</actionDate>
+          <text>Became Public Law No: 115-17.</text>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <billNumber>23</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-02-16T23:09:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <title>A joint resolution disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.</title>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A joint resolution disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A joint resolution disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-03-16T19:18:54Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-16</actionDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>This joint resolution nullifies the rule finalized by the Department of Labor on August 1, 2016, relating to establishing, for<br> state unemployment compensation program purposes, occupations that regularly conduct drug testing.</p>]]></text>
+          <updateDate>2017-02-16T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <actionDate>2017-02-16</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <state>TX</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cornyn</lastName>
+        <firstName>John</firstName>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <bioguideId>C001056</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Ted</firstName>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Cruz</lastName>
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <cboCostEstimates />
+    <updateDate>2017-05-04T00:17:58Z</updateDate>
+    <congress>115</congress>
+    <billType>SJRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

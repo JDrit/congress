@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-08-31</actionDate>
+        <committee>
+          <name>Water, Power and Oceans Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2015-07-13</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-07-13</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-07-13</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2016-05-13</actionDate>
+          <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        </latestAction>
+        <latestTitle>Western Water Recycling and Drought Relief Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>5159</number>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>3045</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-07-13T16:00:48Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii13</systemCode>
+              <name>Water, Power and Oceans Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-08-31T20:39:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-07-13</introducedDate>
+    <updateDate>2017-06-02T21:26:09Z</updateDate>
+    <title>California Water Recycling and Drought Relief Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>California Water Recycling and Drought Relief Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize certain recycled water projects, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>California Water Recycling and Drought Relief Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-07-13T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>California Water Recycling and Drought Relief Act</strong></p> <p>This bill amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Department of the Interior to participate in the design, planning, and construction of recycled water system facilities in California in cooperation with:</p> <ul> <li> the cities of Benicia, Brentwood, Ceres, Fresno, Hayward, Modesto, Mountain View, Palo Alto, Pleasanton, Redwood City, Sunnyvale, and Turlock;</li> <li>the Dublin San Ramon Services District;</li> <li> the Central Contra Costa Sanitary District;</li> <li>the Delta Diablo; </li> <li> the Ironhouse Sanitary District;</li> <li>the Monterey Regional Water Pollution Control Agency;</li> <li>the Del Puerto Water District;</li> <li> Stanislaus County;</li> <li>the Santa Clara Valley Water District;</li> <li>the San Jose Water Company;</li> <li>the West Bay Sanitary District; and </li> <li>the town of Yountville.</li> </ul> <p>The federal share of each project is limited to 25%. Interior must enter into individual agreements to fund such projects and include in such agreements a provision for the reimbursement of design, planning, and construction costs, but may not provide funds for project operation and maintenance.</p> <p>The bill increases the authorization of appropriations for the Antioch, California, recycled water system facilities.</p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-12-21T21:56:26Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-07-13</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1832</lisID>
+          <gpoId>7816</gpoId>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <party>D</party>
+        <bioguideId>M001166</bioguideId>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <firstName>Jerry</firstName>
+        <state>CA</state>
+        <middleName />
+        <byRequestType />
+        <lastName>McNerney</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+      <actionDate>2015-08-31</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McNERNEY:H.R. 3045.Congress has the power to enact this legislation pursuantto the following:Article I, section 8 of the Constitution of the UnitedStates grants Congress the authority to enact this bill.[Page H5117]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>DeSaulnier</lastName>
+        <district>11</district>
+        <identifiers>
+          <lisID>2227</lisID>
+          <bioguideId>D000623</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <firstName>Mark</firstName>
+        <bioguideId>D000623</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Huffman</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>2101</lisID>
+          <gpoId />
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Jared</firstName>
+        <bioguideId>H001068</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Farr, Sam [D-CA-20]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>FARR</lastName>
+        <district>20</district>
+        <identifiers>
+          <gpoId>7822</gpoId>
+          <bioguideId>F000030</bioguideId>
+          <lisID>368</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>SAM</firstName>
+        <bioguideId>F000030</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Honda, Michael M. [D-CA-17]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>HONDA</lastName>
+        <district>17</district>
+        <identifiers>
+          <lisID>1634</lisID>
+          <gpoId>7820</gpoId>
+          <bioguideId>H001034</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>MICHAEL</firstName>
+        <bioguideId>H001034</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>THOMPSON</lastName>
+        <district>5</district>
+        <identifiers>
+          <gpoId>7806</gpoId>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>MIKE</firstName>
+        <bioguideId>T000460</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Speier</lastName>
+        <district>14</district>
+        <identifiers>
+          <lisID>1890</lisID>
+          <gpoId>7817</gpoId>
+          <bioguideId>S001175</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Jackie</firstName>
+        <bioguideId>S001175</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Swalwell</lastName>
+        <district>15</district>
+        <identifiers>
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <firstName>Eric</firstName>
+        <bioguideId>S001193</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Garamendi</lastName>
+        <district>3</district>
+        <identifiers>
+          <lisID>1973</lisID>
+          <bioguideId>G000559</bioguideId>
+          <gpoId>7815</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>John</firstName>
+        <bioguideId>G000559</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>LOFGREN</lastName>
+        <district>19</district>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>ZOE</firstName>
+        <bioguideId>L000397</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-07-14T09:26:45Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

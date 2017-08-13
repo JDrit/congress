@@ -1,0 +1,86 @@
+<bill session="115" type="h" number="2484" updated="2017-06-30T04:45:58Z">
+  <state datetime="2017-06-20T18:10:51-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-06-20T18:10:51-04:00"/>
+  </status>
+  <introduced datetime="2017-05-17"/>
+  <titles>
+    <title type="short" as="introduced">Women, Peace, and Security Act of 2017</title>
+    <title type="short" as="introduced">Women, Peace, and Security Act of 2017</title>
+    <title type="short" as="passed house">Women, Peace, and Security Act of 2017</title>
+    <title type="short" as="passed house">Women, Peace, and Security Act of 2017</title>
+    <title type="official" as="introduced">To ensure that the United States promotes the meaningful participation of women in mediation and negotiation processes seeking to prevent, mitigate, or resolve violent conflict.</title>
+    <title type="display">Women, Peace, and Security Act of 2017</title>
+  </titles>
+  <sponsor id="412475"/>
+  <cosponsors>
+    <cosponsor id="412635" joined="2017-06-15"/>
+    <cosponsor id="412539" joined="2017-06-06"/>
+    <cosponsor id="412651" joined="2017-06-06"/>
+    <cosponsor id="412555" joined="2017-06-06"/>
+    <cosponsor id="400648" joined="2017-06-08"/>
+    <cosponsor id="412672" joined="2017-05-24"/>
+    <cosponsor id="400122" joined="2017-05-17"/>
+    <cosponsor id="412435" joined="2017-05-24"/>
+    <cosponsor id="400652" joined="2017-05-24"/>
+    <cosponsor id="400348" joined="2017-05-17"/>
+    <cosponsor id="400360" joined="2017-05-17"/>
+    <cosponsor id="400371" joined="2017-05-24"/>
+    <cosponsor id="400380" joined="2017-06-20"/>
+    <cosponsor id="412617" joined="2017-06-06"/>
+    <cosponsor id="412548" joined="2017-06-06"/>
+    <cosponsor id="412538" joined="2017-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-17">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-17" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-05-17">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2017-05-17">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2017-05-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-05-25" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-06-20T17:50:09-04:00">
+      <text>Mr. Royce (CA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2017-06-20T17:50:24-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4970-4974" label="consideration"/>
+    </action>
+    <action datetime="2017-06-20T17:50:26-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2484.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-06-20T18:10:51-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4970-4972" label="text"/>
+    </vote>
+    <action datetime="2017-06-20T18:10:53-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2017-06-21" calendar="Senate Legislative" under="General Orders" number="152">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 152.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Markup, Referral"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="115" type="s" number="1141"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

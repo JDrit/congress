@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr493-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "E000288", 
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-12", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000562", 
+      "district": "8", 
+      "name": "Lynch, Stephen F.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-12", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-01-12", 
+  "number": "493", 
+  "official_title": "To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to require certain systemically important entities to account for the financial benefit they receive as a result of the expectations on the part of shareholders, creditors, and counterparties of such entities that the Government will shield them from losses in the event of failure, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Subsidy Reserve Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "C001037", 
+    "district": "7", 
+    "name": "Capuano, Michael E.", 
+    "state": "MA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-01-12", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Banking and financial institutions regulation", 
+    "Business investment and capital", 
+    "Business records", 
+    "Corporate finance and management", 
+    "Federal Reserve System", 
+    "Finance and financial sector", 
+    "Financial services and investments"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Subsidy Reserve Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Subsidy Reserve Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to require certain systemically important entities to account for the financial benefit they receive as a result of the expectations on the part of shareholders, creditors, and counterparties of such entities that the Government will shield them from losses in the event of failure, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Subsidy Reserve Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-19T20:45:29Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr493.xml"
+}

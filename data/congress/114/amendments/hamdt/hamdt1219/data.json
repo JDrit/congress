@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-06-16T11:24:16-04:00", 
+      "action_code": "H32111", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Barletta amendment (A045) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-06-16T11:17:10-04:00", 
+      "action_code": "H3A100", 
+      "references": [
+        {
+          "reference": "CR H3933-3934", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3933", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A045) offered by Mr. Barletta.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16T11:17:10-04:00", 
+      "action_code": "71500", 
+      "references": [
+        {
+          "reference": "CR H3933-3934", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3933", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by : Amendment (A045) offered by Mr. Barletta.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16T11:24:16-04:00", 
+      "action_code": "72000", 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Barletta amendment (A045) Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16T11:24:16-04:00", 
+      "action_code": "76000", 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1219-114", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5293-114", 
+    "bill_type": "hr", 
+    "congress": 114, 
+    "number": 5293
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "114", 
+  "description": "At the end of the bill (before the short title) insert the following:    SEC.___. None of the funds appropriated or otherwise made available in this Act may be used for a contract under section 2922a of title 10, United States Code, for energy or fuel for a military installation that is procured from the Russian Federation.", 
+  "introduced_at": "2016-06-16", 
+  "number": 1219, 
+  "purpose": "An amendment No. 74 printed in House Report 114-623 to prohibit funding from being used to enter into contracts for the procurement of energy or fuel for military installations if such energy or fuel originates from the Russian Federation.", 
+  "sponsor": {
+    "bioguide_id": "B001269", 
+    "district": "11", 
+    "name": "Barletta, Lou", 
+    "state": "PA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2016-06-16T11:24:16-04:00", 
+  "updated_at": "2017-08-07T09:49:33Z"
+}

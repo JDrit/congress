@@ -1,0 +1,150 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-06-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-06-06", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2787-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "J000255", 
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-06-06", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000577", 
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-06-06", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-06-06", 
+  "number": "2787", 
+  "official_title": "To establish in the Department of Veterans Affairs a pilot program instituting a clinical observation program for pre-med students preparing to attend medical school.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "VET MD Act", 
+  "sponsor": {
+    "bioguide_id": "K000009", 
+    "district": "9", 
+    "name": "Kaptur, Marcy", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-06-06", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-06-06T04:00:00Z", 
+    "text": "Veterans-Specific Education for Tomorrow's Medical Doctors Act or the VET MD Act\n\nThis bill directs the Department of Veterans Affairs (VA) to carry out a three-year pilot program at at least five VA medical centers to provide undergraduate students a clinical observation experience.\n\nThe VA shall ensure that such program:\n\n increases the awareness, knowledge, and empathy of future medical professionals toward the medical conditions common to veterans; increases the diversity of the recruitment pool of future VA physicians; provides a diverse clinical observation experience commensurate with the standard expectations for medical school applications; and expands clinical observation opportunities for all students by encouraging students of all backgrounds to consider a career in medicine. The VA shall select undergraduate students who are U.S. citizens enrolled in an accredited science or medical program of study to participate in the program, with priority to students who resided in a health professional shortage area and who are the first in their immediate family to attend an undergraduate institution."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "VET MD Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "VET MD Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans-Specific Education for Tomorrow's Medical Doctors Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans-Specific Education for Tomorrow\u2019s Medical Doctors Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish in the Department of Veterans Affairs a pilot program instituting a clinical observation program for pre-med students preparing to attend medical school.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "VET MD Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-28T07:12:56Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr2787.xml"
+}

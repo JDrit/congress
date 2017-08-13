@@ -1,0 +1,53 @@
+<bill session="115" type="h" number="2435" updated="2017-07-28T07:16:30Z">
+  <state datetime="2017-05-16">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-16"/>
+  </status>
+  <introduced datetime="2017-05-16"/>
+  <titles>
+    <title type="short" as="introduced">Justice Safety Valve Act of 2017</title>
+    <title type="short" as="introduced">Justice Safety Valve Act of 2017</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to prevent unjust and irrational criminal punishments.</title>
+    <title type="display">Justice Safety Valve Act of 2017</title>
+  </titles>
+  <sponsor id="400364"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2017-07-12"/>
+    <cosponsor id="412379" joined="2017-07-11"/>
+    <cosponsor id="412236" joined="2017-05-22"/>
+    <cosponsor id="400080" joined="2017-06-06"/>
+    <cosponsor id="400087" joined="2017-05-26"/>
+    <cosponsor id="400090" joined="2017-07-27"/>
+    <cosponsor id="412730" joined="2017-05-22"/>
+    <cosponsor id="412503" joined="2017-05-16"/>
+    <cosponsor id="400289" joined="2017-06-26"/>
+    <cosponsor id="412708" joined="2017-06-13"/>
+    <cosponsor id="400366" joined="2017-06-21"/>
+    <cosponsor id="412520" joined="2017-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-16">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-16" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-06-07">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="115" type="s" number="1127"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Judicial procedure and administration"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

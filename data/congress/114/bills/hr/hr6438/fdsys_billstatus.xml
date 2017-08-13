@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInSenate>1</introducedInSenate>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <committeeDischarged>1</committeeDischarged>
+        <introducedInHouse>1</introducedInHouse>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-12-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-12-06</actionDate>
+        <actionTime>14:27:38</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H7220-7221</name>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H7220-7221</url>
+          </link>
+        </links>
+        <actionDate>2016-12-06</actionDate>
+        <actionTime>14:27:19</actionTime>
+        <text>On passage Passed without objection. (text: CR H7220-7221)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H37100</actionCode>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H7220-7221</name>
+            <url>http://tntwxavlp01.loc.gov/congressional-record/volume-162/house-section/page/H7220-7221</url>
+          </link>
+        </links>
+        <actionDate>2016-12-06</actionDate>
+        <actionTime>14:27:19</actionTime>
+        <text>Passed/agreed to in House: On passage Passed without objection.(text: CR H7220-7221)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H7220-7221</name>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H7220-7221</url>
+          </link>
+        </links>
+        <actionDate>2016-12-06</actionDate>
+        <actionTime>14:27:05</actionTime>
+        <text>Considered by unanimous consent. (consideration: CR H7220-7221)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H7220</name>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H7220</url>
+          </link>
+        </links>
+        <actionDate>2016-12-06</actionDate>
+        <text>Committee on Ways and Means discharged. (consideration: CR H7220)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H12300</actionCode>
+        <type>Discharge</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H7220</name>
+            <url>http://tntwxavlp01.loc.gov/congressional-record/volume-162/house-section/page/H7220</url>
+          </link>
+        </links>
+        <actionDate>2016-12-06</actionDate>
+        <text>Committee on Ways and Means discharged.(consideration: CR H7220)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>5500</actionCode>
+        <type>Committee</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-12-06</actionDate>
+        <actionTime>14:27:00</actionTime>
+        <text>Mr. Boustany asked unanimous consent to discharge from committee and consider.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30200</actionCode>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-12-05</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-12-05</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-12-05</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>A bill to extend the waiver of limitations with respect to excluding from gross income amounts received by wrongfully incarcerated individuals.</latestTitle>
+        <number>3507</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance. (text of measure as introduced in Senate: CR S6761)</text>
+          <actionDate>2016-12-06</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>6438</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2016-12-06T19:27:03Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2016-12-05T17:01:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-12-05</introducedDate>
+    <updateDate>2017-06-02T22:17:55Z</updateDate>
+    <title>To extend the waiver of limitations with respect to excluding from gross income amounts received by wrongfully incarcerated individuals.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To extend the waiver of limitations with respect to excluding from gross income amounts received by wrongfully incarcerated individuals.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To extend the waiver of limitations with respect to excluding from gross income amounts received by wrongfully incarcerated individuals.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2016-12-05</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>This bill amends the Protecting Americans from Tax Hikes Act of 2015 to extend the waiver of limitations on credits or refunds related to the exclusion from gross income of certain civil damages, restitution, or other monetary awards received by wrongfully incarcerated individuals.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2016-12-07T18:03:19Z</lastSummaryUpdateDate>
+          <updateDate>2016-12-05T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDate>2016-12-06</actionDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p>(Sec. 1) This bill amends the Protecting Americans from Tax Hikes Act of 2015 to extend the waiver of limitations on credits or refunds related to the exclusion from gross income of certain civil damages, restitution, or other monetary awards received by wrongfully incarcerated individuals.</p>]]></text>
+          <name>Passed House without amendment</name>
+          <versionCode>81</versionCode>
+          <lastSummaryUpdateDate>2016-12-13T20:50:57Z</lastSummaryUpdateDate>
+          <updateDate>2016-12-06T20:02:32Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>603</lisID>
+          <bioguideId>J000174</bioguideId>
+          <gpoId>8159</gpoId>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <bioguideId>J000174</bioguideId>
+        <fullName>Rep. Johnson, Sam [R-TX-3]</fullName>
+        <firstName>SAM</firstName>
+        <state>TX</state>
+        <middleName />
+        <byRequestType />
+        <lastName>JOHNSON</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Received in the Senate.</text>
+      <actionDate>2016-12-07</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SAM JOHNSON of Texas:H.R. 6438.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the Constitution of theUnited States of America.____________________[Page H7181]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>L000557</bioguideId>
+          <gpoId>7866</gpoId>
+          <lisID>1583</lisID>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <sponsorshipDate>2016-12-05</sponsorshipDate>
+        <district>1</district>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>LARSON</lastName>
+        <bioguideId>L000557</bioguideId>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2016-12-06T05:04:07Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-05-06</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2016-04-29</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2016-04-29</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2016-04-29</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>244</number>
+        <latestTitle>Expressing support for the designation of May 2015 as "Mental Health Month".</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2015-05-08</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HRES</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>712</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-04-29T13:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2016-05-06T20:47:32Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-04-29</introducedDate>
+    <updateDate>2017-06-02T19:34:08Z</updateDate>
+    <title>Expressing support for the designation of May 2016 as "Mental Health Month".</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for the designation of May 2016 as "Mental Health Month".</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing support for the designation of May 2016 as "Mental Health Month".</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2016-04-29T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Supports the designation of Mental Health Month to remove the stigma associated with mental illness and to place emphasis on scientific findings regarding mental health recovery.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2016-05-16T14:15:48Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2016-04-29</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1744</lisID>
+          <gpoId>8723</gpoId>
+          <bioguideId>M001151</bioguideId>
+        </identifiers>
+        <district>18</district>
+        <party>R</party>
+        <bioguideId>M001151</bioguideId>
+        <fullName>Rep. Murphy, Tim [R-PA-18]</fullName>
+        <firstName>Tim</firstName>
+        <state>PA</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Murphy</lastName>
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2016-05-06</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <cosponsors>
+      <item>
+        <state>GU</state>
+        <identifiers>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+          <bioguideId>B001245</bioguideId>
+        </identifiers>
+        <firstName>Madeleine</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <sponsorshipDate>2016-04-29</sponsorshipDate>
+        <district>0</district>
+        <middleName>Z.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bordallo</lastName>
+        <bioguideId>B001245</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>L000263</bioguideId>
+          <gpoId>7997</gpoId>
+          <lisID>683</lisID>
+        </identifiers>
+        <firstName>SANDER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <sponsorshipDate>2016-04-29</sponsorshipDate>
+        <district>9</district>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEVIN</lastName>
+        <bioguideId>L000263</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>PA</state>
+        <identifiers>
+          <gpoId>8120</gpoId>
+          <bioguideId>F000043</bioguideId>
+          <lisID>371</lisID>
+        </identifiers>
+        <firstName>CHAKA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Fattah, Chaka [D-PA-2]</fullName>
+        <sponsorshipDate>2016-05-03</sponsorshipDate>
+        <district>2</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>FATTAH</lastName>
+        <bioguideId>F000043</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <lisID>599</lisID>
+          <gpoId>8186</gpoId>
+          <bioguideId>J000126</bioguideId>
+        </identifiers>
+        <firstName>EDDIE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <sponsorshipDate>2016-05-03</sponsorshipDate>
+        <district>30</district>
+        <middleName>BERNICE</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>JOHNSON</lastName>
+        <bioguideId>J000126</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2111</lisID>
+          <bioguideId>L000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Alan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <sponsorshipDate>2016-05-03</sponsorshipDate>
+        <district>47</district>
+        <middleName>S.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lowenthal</lastName>
+        <bioguideId>L000579</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Scott</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <sponsorshipDate>2016-05-10</sponsorshipDate>
+        <district>52</district>
+        <middleName>H.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Peters</lastName>
+        <bioguideId>P000608</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>WI</state>
+        <identifiers>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <firstName>Gwen</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <sponsorshipDate>2016-05-10</sponsorshipDate>
+        <district>4</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Moore</lastName>
+        <bioguideId>M001160</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2251</lisID>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <firstName>Debbie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <sponsorshipDate>2016-05-10</sponsorshipDate>
+        <district>12</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Dingell</lastName>
+        <bioguideId>D000624</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>699</lisID>
+          <gpoId>8044</gpoId>
+          <bioguideId>L000554</bioguideId>
+        </identifiers>
+        <firstName>FRANK</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <sponsorshipDate>2016-05-10</sponsorshipDate>
+        <district>2</district>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>LOBIONDO</lastName>
+        <bioguideId>L000554</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MO</state>
+        <identifiers>
+          <lisID>1931</lisID>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+        </identifiers>
+        <firstName>Blaine</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <district>3</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Luetkemeyer</lastName>
+        <bioguideId>L000569</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>PA</state>
+        <identifiers>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+        </identifiers>
+        <firstName>Glenn</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <sponsorshipDate>2016-05-12</sponsorshipDate>
+        <district>5</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Thompson</lastName>
+        <bioguideId>T000467</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+          <lisID>2169</lisID>
+        </identifiers>
+        <firstName>Derek</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <sponsorshipDate>2016-05-13</sponsorshipDate>
+        <district>6</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Kilmer</lastName>
+        <bioguideId>K000381</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <lisID>2025</lisID>
+          <bioguideId>K000375</bioguideId>
+          <gpoId>7975</gpoId>
+        </identifiers>
+        <firstName>William</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <district>9</district>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Keating</lastName>
+        <bioguideId>K000375</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NM</state>
+        <identifiers>
+          <lisID>2146</lisID>
+          <gpoId />
+          <bioguideId>L000580</bioguideId>
+        </identifiers>
+        <firstName>Michelle</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <sponsorshipDate>2016-06-08</sponsorshipDate>
+        <district>1</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Lujan Grisham</lastName>
+        <bioguideId>L000580</bioguideId>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2016-04-30T04:50:33Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

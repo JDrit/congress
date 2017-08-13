@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <createDate>2017-05-26T00:41:40Z</createDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2017-05-25</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-25T20:54:22Z</date>
+            </item>
+          </activities>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2017-05-25</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-05-25</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <title>Community Bank Relief Act</title>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <congress>115</congress>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Community Bank Relief Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Community Bank Relief Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to raise the consolidated assets threshold under the small bank holding company policy statement, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Community Bank Relief Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-06-19T22:30:09Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <billNumber>1284</billNumber>
+    <laws />
+    <introducedDate>2017-05-25</introducedDate>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>UT</state>
+        <middleName>GRANT</middleName>
+        <byRequestType />
+        <party>R</party>
+        <firstName>ORRIN</firstName>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <identifiers>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+          <lisID>1351</lisID>
+        </identifiers>
+        <lastName>HATCH</lastName>
+        <bioguideId>H000338</bioguideId>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <party>I</party>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <firstName>Angus</firstName>
+      </item>
+      <item>
+        <bioguideId>N000032</bioguideId>
+        <state>FL</state>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <identifiers>
+          <gpoId>8236</gpoId>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>WILLIAM</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>NELSON</lastName>
+        <firstName>CLARENCE</firstName>
+      </item>
+      <item>
+        <bioguideId>P000612</bioguideId>
+        <state>GA</state>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000612</bioguideId>
+          <lisID>2286</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Alfred</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Perdue</lastName>
+        <firstName>David</firstName>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

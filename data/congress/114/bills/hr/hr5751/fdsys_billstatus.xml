@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-07-25</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2016-07-13</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2016-07-13</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2016-07-13</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <laws />
+    <billNumber>5751</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Federal Lands Subcommittee</name>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <date>2016-07-25T15:58:53Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2016-07-13T14:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-07-13</introducedDate>
+    <updateDate>2017-06-02T22:12:00Z</updateDate>
+    <title>Shiras Moose Protection and Recovery Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Shiras Moose Protection and Recovery Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To provide that any State whose wildlife agency has determined that a portion of the State is within the current range of the Shiras Moose may take management actions on certain Federal lands within that State to stem decline of that species' population in that State, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Shiras Moose Protection and Recovery Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2016-07-13T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Shiras Moose Protection and Recovery Act</b></p> <p>This bill allows a state to take management actions on covered federal lands within its boundaries to stem the population decline of the Shiras Moose if a portion of the state is within the range of the moose, including by formulating a recovery plan that mitigates the population decline. </p> <p>Upon request, the U.S. Fish and Wildlife Service (USFWS) must provide funding for state implementation of a plan from funds appropriated to the USFWS for implementing its Northern Rocky Mountain Gray Wolf Recovery Plan and any of its other gray wolf recovery or monitoring plans.</p> <p>Utah and Colorado may manage Shiras Moose and their predators on federal, state, and private lands to prevent declines in moose populations within their respective state. They must collect, analyze, and disseminate data on the results of such management.</p> <p>The Department of the Interior must issue as a final rule the draft rule entitled, &quot;Removing the Gray Wolf (Canis lupus) From the List of Endangered and Threatened Wildlife and Maintaining Protections for the Mexican Wolf (Canis lupus baileyi) by Listing It as Endangered,&quot; as published on June 13, 2013.</p> <p>The bill exempts the requirements and implementation of this bill from judicial review.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-02-21T17:40:49Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2016-07-13</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8191</gpoId>
+          <bioguideId>C001076</bioguideId>
+          <lisID>1956</lisID>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <bioguideId>C001076</bioguideId>
+        <fullName>Rep. Chaffetz, Jason [R-UT-3]</fullName>
+        <firstName>Jason</firstName>
+        <state>UT</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Chaffetz</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+      <actionDate>2016-07-25</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CHAFFETZ:H.R. 5751.Congress has the power to enact this legislation pursuantto the following:Tenth Amendment--United States Constitution[Page H4926]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <state>UT</state>
+        <identifiers>
+          <lisID>2168</lisID>
+          <bioguideId>S001192</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Chris</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <district>2</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Stewart</lastName>
+        <bioguideId>S001192</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>UT</state>
+        <identifiers>
+          <lisID>2271</lisID>
+          <bioguideId>L000584</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Mia</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Love, Mia B. [R-UT-4]</fullName>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <district>4</district>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Love</lastName>
+        <bioguideId>L000584</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1997</lisID>
+          <gpoId>7861</gpoId>
+          <bioguideId>T000470</bioguideId>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <district>3</district>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tipton</lastName>
+        <bioguideId>T000470</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MT</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>Z000018</bioguideId>
+          <lisID>2254</lisID>
+        </identifiers>
+        <firstName>Ryan</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Zinke, Ryan K. [R-MT-At Large]</fullName>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <district>0</district>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Zinke</lastName>
+        <bioguideId>Z000018</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>WY</state>
+        <identifiers>
+          <lisID>1960</lisID>
+          <bioguideId>L000571</bioguideId>
+          <gpoId>8225</gpoId>
+        </identifiers>
+        <firstName>Cynthia</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lummis, Cynthia M. [R-WY-At Large]</fullName>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <district>0</district>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lummis</lastName>
+        <bioguideId>L000571</bioguideId>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Colorado</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Hunting and fishing</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Utah</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2016-07-14T06:10:13Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

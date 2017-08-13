@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To designate the facility of the United States Postal Service located at 9155 Schaefer Road, Converse, Texas, as the "Converse Veterans Post Office Building".</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To designate the facility of the United States Postal Service located at 9155 Schaefer Road, Converse, Texas, as the "Converse Veterans Post Office Building".</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionDate>2017-02-21</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2017-02-21</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2017-02-21</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-02-22T09:02:48Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-02-21</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[Designates the facility of the United States Postal Service located at 9155 Schaefer Road, Converse, Texas, as the "Converse Veterans Post Office Building."]]></text>
+          <updateDate>2017-02-21T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <firstName>LAMAR</firstName>
+        <bioguideId>S000583</bioguideId>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8177</gpoId>
+          <lisID>1075</lisID>
+          <bioguideId>S000583</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>SMITH</lastName>
+        <state>TX</state>
+        <district>21</district>
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <bioguideId>P000592</bioguideId>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Poe</lastName>
+        <state>TX</state>
+        <district>2</district>
+      </item>
+      <item>
+        <firstName>EDDIE</firstName>
+        <bioguideId>J000126</bioguideId>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8186</gpoId>
+          <lisID>599</lisID>
+          <bioguideId>J000126</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName>BERNICE</middleName>
+        <lastName>JOHNSON</lastName>
+        <state>TX</state>
+        <district>30</district>
+      </item>
+      <item>
+        <firstName>Louie</firstName>
+        <bioguideId>G000552</bioguideId>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+          <gpoId>8157</gpoId>
+          <lisID>1801</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Gohmert</lastName>
+        <state>TX</state>
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>SAM</firstName>
+        <bioguideId>J000174</bioguideId>
+        <fullName>Rep. Johnson, Sam [R-TX-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>J000174</bioguideId>
+          <lisID>603</lisID>
+          <gpoId>8159</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>JOHNSON</lastName>
+        <state>TX</state>
+        <district>3</district>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <bioguideId>R000601</bioguideId>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000601</bioguideId>
+          <lisID>2268</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Ratcliffe</lastName>
+        <state>TX</state>
+        <district>4</district>
+      </item>
+      <item>
+        <firstName>Jeb</firstName>
+        <bioguideId>H001036</bioguideId>
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001036</bioguideId>
+          <gpoId>8161</gpoId>
+          <lisID>1749</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Hensarling</lastName>
+        <state>TX</state>
+        <district>5</district>
+      </item>
+      <item>
+        <firstName>JOE</firstName>
+        <bioguideId>B000213</bioguideId>
+        <fullName>Rep. Barton, Joe [R-TX-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B000213</bioguideId>
+          <lisID>62</lisID>
+          <gpoId>8162</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName>L.</middleName>
+        <lastName>BARTON</lastName>
+        <state>TX</state>
+        <district>6</district>
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <bioguideId>C001048</bioguideId>
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8163</gpoId>
+          <lisID>1670</lisID>
+          <bioguideId>C001048</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName>ABNEY</middleName>
+        <lastName>CULBERSON</lastName>
+        <state>TX</state>
+        <district>7</district>
+      </item>
+      <item>
+        <firstName>KEVIN</firstName>
+        <bioguideId>B000755</bioguideId>
+        <fullName>Rep. Brady, Kevin [R-TX-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B000755</bioguideId>
+          <lisID>1468</lisID>
+          <gpoId>8164</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>BRADY</lastName>
+        <state>TX</state>
+        <district>8</district>
+      </item>
+      <item>
+        <firstName>Al</firstName>
+        <bioguideId>G000553</bioguideId>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8165</gpoId>
+          <lisID>1803</lisID>
+          <bioguideId>G000553</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Green</lastName>
+        <state>TX</state>
+        <district>9</district>
+      </item>
+      <item>
+        <firstName>Michael</firstName>
+        <bioguideId>M001157</bioguideId>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8166</gpoId>
+          <lisID>1804</lisID>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName>T.</middleName>
+        <lastName>McCaul</lastName>
+        <state>TX</state>
+        <district>10</district>
+      </item>
+      <item>
+        <firstName>K.</firstName>
+        <bioguideId>C001062</bioguideId>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001062</bioguideId>
+          <lisID>1805</lisID>
+          <gpoId>8167</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName>Michael</middleName>
+        <lastName>Conaway</lastName>
+        <state>TX</state>
+        <district>11</district>
+      </item>
+      <item>
+        <firstName>KAY</firstName>
+        <bioguideId>G000377</bioguideId>
+        <fullName>Rep. Granger, Kay [R-TX-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000377</bioguideId>
+          <lisID>1487</lisID>
+          <gpoId>8168</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>GRANGER</lastName>
+        <state>TX</state>
+        <district>12</district>
+      </item>
+      <item>
+        <firstName>WILLIAM</firstName>
+        <bioguideId>T000238</bioguideId>
+        <fullName>Rep. Thornberry, Mac [R-TX-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>T000238</bioguideId>
+          <gpoId>8755</gpoId>
+          <lisID>1155</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName>M.</middleName>
+        <lastName>THORNBERRY</lastName>
+        <state>TX</state>
+        <district>13</district>
+      </item>
+      <item>
+        <firstName>Randy</firstName>
+        <bioguideId>W000814</bioguideId>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName>K.</middleName>
+        <lastName>Weber</lastName>
+        <state>TX</state>
+        <district>14</district>
+      </item>
+      <item>
+        <firstName>Vicente</firstName>
+        <bioguideId>G000581</bioguideId>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000581</bioguideId>
+          <lisID>2349</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Gonzalez</lastName>
+        <state>TX</state>
+        <district>15</district>
+      </item>
+      <item>
+        <firstName>Beto</firstName>
+        <bioguideId>O000170</bioguideId>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>O000170</bioguideId>
+          <gpoId />
+          <lisID>2162</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>O'Rourke</lastName>
+        <state>TX</state>
+        <district>16</district>
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <bioguideId>F000461</bioguideId>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>F000461</bioguideId>
+          <gpoId>8173</gpoId>
+          <lisID>2065</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Flores</lastName>
+        <state>TX</state>
+        <district>17</district>
+      </item>
+      <item>
+        <firstName>SHEILA</firstName>
+        <bioguideId>J000032</bioguideId>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>JACKSON LEE</lastName>
+        <state>TX</state>
+        <district>18</district>
+      </item>
+      <item>
+        <firstName>Jodey</firstName>
+        <bioguideId>A000375</bioguideId>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2350</lisID>
+          <bioguideId>A000375</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName>C.</middleName>
+        <lastName>Arrington</lastName>
+        <state>TX</state>
+        <district>19</district>
+      </item>
+      <item>
+        <firstName>Joaquin</firstName>
+        <bioguideId>C001091</bioguideId>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001091</bioguideId>
+          <lisID>2163</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Castro</lastName>
+        <state>TX</state>
+        <district>20</district>
+      </item>
+      <item>
+        <firstName>Pete</firstName>
+        <bioguideId>O000168</bioguideId>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>O000168</bioguideId>
+          <lisID>1955</lisID>
+          <gpoId>8178</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Olson</lastName>
+        <state>TX</state>
+        <district>22</district>
+      </item>
+      <item>
+        <firstName>Will</firstName>
+        <bioguideId>H001073</bioguideId>
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <lisID>2269</lisID>
+          <bioguideId>H001073</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Hurd</lastName>
+        <state>TX</state>
+        <district>23</district>
+      </item>
+      <item>
+        <firstName>Kenny</firstName>
+        <bioguideId>M001158</bioguideId>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M001158</bioguideId>
+          <lisID>1806</lisID>
+          <gpoId>8766</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Marchant</lastName>
+        <state>TX</state>
+        <district>24</district>
+      </item>
+      <item>
+        <firstName>Roger</firstName>
+        <bioguideId>W000816</bioguideId>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2165</lisID>
+          <bioguideId>W000816</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Williams</lastName>
+        <state>TX</state>
+        <district>25</district>
+      </item>
+      <item>
+        <firstName>Michael</firstName>
+        <bioguideId>B001248</bioguideId>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8182</gpoId>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName>C.</middleName>
+        <lastName>Burgess</lastName>
+        <state>TX</state>
+        <district>26</district>
+      </item>
+      <item>
+        <firstName>Blake</firstName>
+        <bioguideId>F000460</bioguideId>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <gpoId>8183</gpoId>
+          <lisID>2067</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Farenthold</lastName>
+        <state>TX</state>
+        <district>27</district>
+      </item>
+      <item>
+        <firstName>GENE</firstName>
+        <bioguideId>G000410</bioguideId>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8185</gpoId>
+          <lisID>462</lisID>
+          <bioguideId>G000410</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>GREEN</lastName>
+        <state>TX</state>
+        <district>29</district>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <bioguideId>C001051</bioguideId>
+        <fullName>Rep. Carter, John R. [R-TX-31]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001051</bioguideId>
+          <gpoId>8187</gpoId>
+          <lisID>1752</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName>R.</middleName>
+        <lastName>Carter</lastName>
+        <state>TX</state>
+        <district>31</district>
+      </item>
+      <item>
+        <firstName>PETE</firstName>
+        <bioguideId>S000250</bioguideId>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <lisID>1525</lisID>
+          <bioguideId>S000250</bioguideId>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>SESSIONS</lastName>
+        <state>TX</state>
+        <district>32</district>
+      </item>
+      <item>
+        <firstName>Marc</firstName>
+        <bioguideId>V000131</bioguideId>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000131</bioguideId>
+          <gpoId />
+          <lisID>2166</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName>A.</middleName>
+        <lastName>Veasey</lastName>
+        <state>TX</state>
+        <district>33</district>
+      </item>
+      <item>
+        <firstName>Filemon</firstName>
+        <bioguideId>V000132</bioguideId>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2167</lisID>
+          <bioguideId>V000132</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Vela</lastName>
+        <state>TX</state>
+        <district>34</district>
+      </item>
+      <item>
+        <firstName>LLOYD</firstName>
+        <bioguideId>D000399</bioguideId>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>D000399</bioguideId>
+          <gpoId>8181</gpoId>
+          <lisID>303</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>DOGGETT</lastName>
+        <state>TX</state>
+        <district>35</district>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <bioguideId>B001291</bioguideId>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <lisID>2270</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <middleName />
+        <lastName>Babin</lastName>
+        <state>TX</state>
+        <district>36</district>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CUELLAR:H.R. 1208.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 7: To establish post officesand post road;[Page H1316]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2017-06-29T07:56:09Z</updateDate>
+    <createDate>2017-02-22T04:49:59Z</createDate>
+    <committeeReports />
+    <cboCostEstimates />
+    <introducedDate>2017-02-21</introducedDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>C001063</bioguideId>
+        <middleName />
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8184</gpoId>
+          <lisID>1807</lisID>
+          <bioguideId>C001063</bioguideId>
+        </identifiers>
+        <lastName>Cuellar</lastName>
+        <byRequestType />
+        <district>28</district>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <firstName>Henry</firstName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <name>Oversight and Government Reform Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-21T19:30:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <title>To designate the facility of the United States Postal Service located at 9155 Schaefer Road, Converse, Texas, as the "Converse Veterans Post Office Building".</title>
+    <congress>115</congress>
+    <latestAction>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2017-02-21</actionDate>
+      <links />
+    </latestAction>
+    <amendments />
+    <notes />
+    <calendarNumbers />
+    <billNumber>1208</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

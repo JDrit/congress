@@ -1,0 +1,56 @@
+<bill session="114" type="h" number="3656" updated="2017-06-02T21:34:16Z">
+  <state datetime="2015-09-30">REFERRED</state>
+  <status>
+    <introduced datetime="2015-09-30"/>
+  </status>
+  <introduced datetime="2015-09-30"/>
+  <titles>
+    <title type="short" as="introduced">Tobacco to 21 Act</title>
+    <title type="official" as="introduced">To prohibit the sale or distribution of tobacco products to individuals under the age of 21.</title>
+    <title type="display">Tobacco to 21 Act</title>
+  </titles>
+  <sponsor id="400101"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2016-09-22"/>
+    <cosponsor id="412501" joined="2016-07-14"/>
+    <cosponsor id="412236" joined="2016-04-14"/>
+    <cosponsor id="400111" joined="2016-05-25"/>
+    <cosponsor id="400122" joined="2016-11-15"/>
+    <cosponsor id="412532" joined="2016-11-15"/>
+    <cosponsor id="412382" joined="2015-10-22"/>
+    <cosponsor id="400162" joined="2015-10-09"/>
+    <cosponsor id="400347" joined="2016-07-14"/>
+    <cosponsor id="412626" joined="2015-09-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-09-30">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2015-09-30" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2015-10-02">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="s" number="2100"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary date="2015-09-30T04:00:00Z" status="Introduced in House">Tobacco to 21 Act
+
+This bill prohibits the sale or distribution of tobacco products to individuals under the age of 21.
+
+The Department of Health and Human Services must enforce this prohibition by taking necessary actions including, as appropriate, conducting undercover compliance checks, performing retailer inspections, initiating enforcement actions for noncompliance, and establishing requirements that retailers check identification.</summary>
+  <committee-reports/>
+</bill>

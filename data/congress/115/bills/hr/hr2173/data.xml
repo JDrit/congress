@@ -1,0 +1,49 @@
+<bill session="115" type="h" number="2173" updated="2017-07-27T07:16:08Z">
+  <state datetime="2017-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-26"/>
+  </status>
+  <introduced datetime="2017-04-26"/>
+  <titles>
+    <title type="short" as="introduced">Cruise Passenger Protection Act</title>
+    <title type="short" as="introduced">Cruise Passenger Protection Act</title>
+    <title type="official" as="introduced">To improve passenger vessel security and safety, and for other purposes.</title>
+    <title type="display">Cruise Passenger Protection Act</title>
+  </titles>
+  <sponsor id="400663"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2017-05-16"/>
+    <cosponsor id="412379" joined="2017-06-06"/>
+    <cosponsor id="412600" joined="2017-07-26"/>
+    <cosponsor id="400640" joined="2017-07-19"/>
+    <cosponsor id="412282" joined="2017-04-26"/>
+    <cosponsor id="400263" joined="2017-05-16"/>
+    <cosponsor id="400652" joined="2017-04-26"/>
+    <cosponsor id="400347" joined="2017-05-16"/>
+    <cosponsor id="400361" joined="2017-05-16"/>
+    <cosponsor id="412254" joined="2017-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-26" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-04-27">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="115" type="s" number="965"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

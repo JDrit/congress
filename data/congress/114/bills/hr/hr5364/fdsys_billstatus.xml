@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-06-03</actionDate>
+        <committee>
+          <name>Human Resources Subcommittee</name>
+          <systemCode>hswm03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Human Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-05-26</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-05-26</actionDate>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR H3285)</text>
+        <links>
+          <link>
+            <name>H3285</name>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H3285</url>
+          </link>
+        </links>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-05-26</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-05-26</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2015-08-04</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>1932</number>
+        <latestTitle>All Kids Matter Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>5364</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-05-26T13:02:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hswm03</systemCode>
+              <name>Human Resources Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2016-06-03T20:48:33Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-05-26</introducedDate>
+    <updateDate>2017-06-02T22:03:07Z</updateDate>
+    <title>All Kids Matter Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>All Kids Matter Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide States with flexibility to use Federal IV-E funding for State child welfare programs to improve safety, permanency, and well-being outcomes for all children who need child welfare services.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>All Kids Matter Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2016-05-26T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>All Kids Matter Act</b></p> <p>This bill amends part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act (SSAct) to revise state plan requirements to require:</p> <ul> <li>the state to identify and provide appropriate prevention, intervention, and support services before placing a child in foster care as part of its reasonable efforts to preserve and reunify families;</li> <li>that all at-risk children, children in foster care, and children who have left foster care to return home through reunification or reinstatement of parental rights, or for kinship guardianship or adoption, be provided with a standard array of child welfare services;</li> <li>the state to submit, update, and revise as necessary a description of its activities and delivery mechanisms for achieving increased permanency for all infants, children, and youth.</li> </ul> <p>Payments to states shall incorporate: (1) an amount equal to the federal medical assistance percentage for the state under SSAct title XIX (Medicaid), and (2) a performance achievement payment.</p> <p>The Department of Health and Human Services (HHS) shall establish criteria for assessing state performance in order to award performance achievement payments to the states.</p> <p>States may elect an alternative allotment for specified administrative costs.</p> <p>Aid to Families with Dependent Children eligibility under SSAct title IV part A (Temporary Assistance for Needy Families) (TANF) is removed from eligibility requirements under the Foster Care Maintenance Program.</p> <p>States may provide services to an individual age 18-21 who is pursing legal permanency through family reunification, permanent placement with a planned permanent living arrangement, or such other pathways to permanency as the state, in consultation with HHS, may specify. </p> <p>Eligibility for John H. Chafee Foster Care Independence Program services and education and training vouchers shall extend to youth who return home after attaining age 16.</p> <p>HHS, the Department of Housing and Urban Development, and the Department of Education shall jointly develop and disseminate to states permanency-supportive housing options.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2016-09-29T21:48:15Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2016-05-26</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1668</lisID>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <district>2</district>
+        <party>D</party>
+        <bioguideId>L000559</bioguideId>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <firstName>JAMES</firstName>
+        <state>RI</state>
+        <middleName>R.</middleName>
+        <byRequestType />
+        <lastName>LANGEVIN</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Human Resources.</text>
+      <actionDate>2016-06-03</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LANGEVIN:H.R. 5364.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1.[Page H3296]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Marino</lastName>
+        <district>10</district>
+        <identifiers>
+          <lisID>2053</lisID>
+          <bioguideId>M001179</bioguideId>
+          <gpoId>8128</gpoId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Tom</firstName>
+        <bioguideId>M001179</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bass</lastName>
+        <district>37</district>
+        <identifiers>
+          <lisID>1996</lisID>
+          <bioguideId>B001270</bioguideId>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Karen</firstName>
+        <bioguideId>B001270</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>HASTINGS</lastName>
+        <district>20</district>
+        <identifiers>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <firstName>ALCEE</firstName>
+        <bioguideId>H000324</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>JOHNSON</lastName>
+        <district>30</district>
+        <identifiers>
+          <lisID>599</lisID>
+          <bioguideId>J000126</bioguideId>
+          <gpoId>8186</gpoId>
+        </identifiers>
+        <state>TX</state>
+        <firstName>EDDIE</firstName>
+        <bioguideId>J000126</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>BERNICE</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cartwright</lastName>
+        <district>17</district>
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <gpoId />
+          <lisID>2159</lisID>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Matt</firstName>
+        <bioguideId>C001090</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Dingell</lastName>
+        <district>12</district>
+        <identifiers>
+          <lisID>2251</lisID>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <state>MI</state>
+        <firstName>Debbie</firstName>
+        <bioguideId>D000624</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-06-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>DeSaulnier</lastName>
+        <district>11</district>
+        <identifiers>
+          <lisID>2227</lisID>
+          <gpoId />
+          <bioguideId>D000623</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Mark</firstName>
+        <bioguideId>D000623</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-06-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>McNerney</lastName>
+        <district>9</district>
+        <identifiers>
+          <lisID>1832</lisID>
+          <bioguideId>M001166</bioguideId>
+          <gpoId>7816</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Jerry</firstName>
+        <bioguideId>M001166</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Adoption and foster care</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Family services</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2016-05-27T05:26:27Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

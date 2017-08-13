@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-05-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-05-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-06-07", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2615-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-07-26", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-05-23", 
+  "number": "2615", 
+  "official_title": "To authorize the exchange of certain land located in Gulf Islands National Seashore, Jackson County, Mississippi, between the National Park Service and the Veterans of Foreign Wars, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Gulf Islands National Seashore Land Exchange Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "P000601", 
+    "district": "4", 
+    "name": "Palazzo, Steven M.", 
+    "state": "MS", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-07-26", 
+  "subjects": [
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-05-23T04:00:00Z", 
+    "text": "Gulf Islands National Seashore Land Exchange Act of 2017\n\n This bill authorizes the National Park Service to convey to the Veterans of Foreign Wars Post 5699 approximately 1.542 acres of real property located within the Gulf Islands National Seashore in Jackson County, Mississippi, in exchange for a parcel of 2.161 acres.\n\nLand and interests acquired by the United States by this bill shall be administered as part of the Gulf Islands National Seashore."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Gulf Islands National Seashore Land Exchange Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Gulf Islands National Seashore Land Exchange Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the exchange of certain land located in Gulf Islands National Seashore, Jackson County, Mississippi, between the National Park Service and the Veterans of Foreign Wars, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Gulf Islands National Seashore Land Exchange Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-27T07:13:37Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr2615.xml"
+}

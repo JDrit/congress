@@ -1,0 +1,275 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-06-21", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-21", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [
+        {
+          "reference": "CR S3688", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-06-29", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-08-03", 
+      "action_code": "", 
+      "committee": "Commerce, Science, and Transportation", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2017-08-03", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "202", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 202.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1393-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001277", 
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-29", 
+      "state": "CT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000622", 
+      "district": null, 
+      "name": "Duckworth, Tammy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-22", 
+      "state": "IL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001076", 
+      "district": null, 
+      "name": "Hassan, Margaret Wood", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-27", 
+      "state": "NH", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "I000024", 
+      "district": null, 
+      "name": "Inhofe, James M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-28", 
+      "state": "OK", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000383", 
+      "district": null, 
+      "name": "King, Angus S., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-20", 
+      "state": "ME", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000032", 
+      "district": null, 
+      "name": "Nelson, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-22", 
+      "state": "FL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001181", 
+      "district": null, 
+      "name": "Shaheen, Jeanne", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-28", 
+      "state": "NH", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001198", 
+      "district": null, 
+      "name": "Sullivan, Dan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-29", 
+      "state": "AK", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000250", 
+      "district": null, 
+      "name": "Thune, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-26", 
+      "state": "SD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000476", 
+      "district": null, 
+      "name": "Tillis, Thom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-06-21", 
+      "state": "NC", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000817", 
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-06-21", 
+      "state": "MA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-08-03", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-06-21", 
+  "number": "1393", 
+  "official_title": "A bill to streamline the process by which active duty military, reservists, and veterans receive commercial driver's licenses.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2258-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1396-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Jobs for Our Heroes Act", 
+  "sponsor": {
+    "bioguide_id": "C001056", 
+    "district": null, 
+    "name": "Cornyn, John", 
+    "state": "TX", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-06-29", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Department of Transportation", 
+    "Department of Veterans Affairs", 
+    "Health personnel", 
+    "Licensing and registrations", 
+    "Medical tests and diagnostic methods", 
+    "Military personnel and dependents", 
+    "Motor carriers", 
+    "Motor vehicles", 
+    "National Guard and reserves", 
+    "Transportation and public works", 
+    "Transportation employees"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Jobs for Our Heroes Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Jobs for Our Heroes Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Jobs for Our Heroes Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to streamline the process by which active duty military, reservists, and veterans receive commercial driver's licenses.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Jobs for Our Heroes Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-08-05T05:06:10Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s1393.xml"
+}

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-05-06</actionDate>
+        <committee>
+          <name>Trade Subcommittee</name>
+          <systemCode>hswm04</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-04-22</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>E555</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/extensions-of-remarks-section/page/E555</url>
+          </link>
+        </links>
+        <actionDate>2015-04-22</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR E555)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-04-22</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-04-22</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <laws />
+    <billNumber>1946</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-04-22T14:04:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hswm04</systemCode>
+              <name>Trade Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-05-06T13:23:12Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-04-22</introducedDate>
+    <updateDate>2017-06-02T20:47:55Z</updateDate>
+    <title>Green 301 Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Green 301 Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Trade and Environment Enforcement Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Trade Act of 1974 to authorize the United States Trade Representative to take discretionary action if a foreign country is engaging in unreasonable acts, policies, or practices relating to the environment, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Green 301 Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-04-22T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Trade and Environment Enforcement Act or the Green 301 Act</b></p> <p> Amends the Trade Act of 1974 to authorize the U.S. Trade Representative (USTR) to take certain discretionary trade action against foreign countries that engage in unreasonable acts, policies, or practices that fail to enforce their environmental laws effectively. </p> <p>Directs the USTR to identify foreign country trade practices that affect negatively the environment of the United States, the foreign country, a third country, or internationally.</p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-05-05T18:21:00Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-04-22</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <party>D</party>
+        <bioguideId>B000574</bioguideId>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <firstName>EARL</firstName>
+        <state>OR</state>
+        <middleName />
+        <byRequestType />
+        <lastName>BLUMENAUER</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Trade.</text>
+      <actionDate>2015-05-06</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BLUMENAUER:H.R. 1946.Congress has the power to enact this legislation pursuantto the following:Section 8 of Article I of the U.S. Constitution[Page H2418]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <state>WI</state>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <firstName>RON</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <district>3</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>KIND</lastName>
+        <bioguideId>K000188</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>N000015</bioguideId>
+          <gpoId>7967</gpoId>
+          <lisID>854</lisID>
+        </identifiers>
+        <firstName>RICHARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <district>1</district>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>NEAL</lastName>
+        <bioguideId>N000015</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7806</gpoId>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+        </identifiers>
+        <firstName>MIKE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <district>5</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>THOMPSON</lastName>
+        <bioguideId>T000460</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CT</state>
+        <identifiers>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+          <gpoId>7866</gpoId>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <district>1</district>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>LARSON</lastName>
+        <bioguideId>L000557</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>M000404</bioguideId>
+          <gpoId>8211</gpoId>
+          <lisID>766</lisID>
+        </identifiers>
+        <firstName>JIM</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <district>7</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>MCDERMOTT</lastName>
+        <bioguideId>M000404</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <gpoId>8076</gpoId>
+          <bioguideId>R000053</bioguideId>
+          <lisID>944</lisID>
+        </identifiers>
+        <firstName>CHARLES</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <district>13</district>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>RANGEL</lastName>
+        <bioguideId>R000053</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NJ</state>
+        <identifiers>
+          <gpoId>8050</gpoId>
+          <bioguideId>P000096</bioguideId>
+          <lisID>1510</lisID>
+        </identifiers>
+        <firstName>WILLIAM</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <district>9</district>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>PASCRELL</lastName>
+        <bioguideId>P000096</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <firstName>LINDA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <district>38</district>
+        <middleName>T.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>SANCHEZ</lastName>
+        <bioguideId>S001156</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1641</lisID>
+          <bioguideId>D000598</bioguideId>
+          <gpoId>7858</gpoId>
+        </identifiers>
+        <firstName>SUSAN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <district>53</district>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>DAVIS</lastName>
+        <bioguideId>D000598</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>WA</state>
+        <identifiers>
+          <lisID>1675</lisID>
+          <gpoId>8206</gpoId>
+          <bioguideId>L000560</bioguideId>
+        </identifiers>
+        <firstName>RICK</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <sponsorshipDate>2015-06-08</sponsorshipDate>
+        <district>2</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>LARSEN</lastName>
+        <bioguideId>L000560</bioguideId>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Animal and plant health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Environmental health</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-04-23T09:12:28Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

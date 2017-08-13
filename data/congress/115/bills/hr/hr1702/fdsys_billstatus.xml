@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Dwight</firstName>
+        <bioguideId>E000296</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <byRequestType />
+        <district>2</district>
+        <state>PA</state>
+        <lastName>Evans</lastName>
+        <identifiers>
+          <lisID>2298</lisID>
+          <bioguideId>E000296</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Small Business.</text>
+        <committee>
+          <name>Small Business Committee</name>
+          <systemCode>hssm00</systemCode>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-03-23</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-03-23</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-03-23</actionDate>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <number>1774</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-29</actionDate>
+          <text>Referred to the House Committee on Small Business.</text>
+        </latestAction>
+        <latestTitle>Developing the Next Generation of Small Businesses Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. EVANS:H.R. 1702.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the U.S. Constitution.[Page H2370]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hssm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-23T13:04:00Z</date>
+            </item>
+          </activities>
+          <name>Small Business Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <title>Small Business Development Centers Improvement Act of 2017</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend the Small Business Act to improve the small business development centers program, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Small Business Development Centers Improvement Act of 2017</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <title>Small Business Development Centers Improvement Act of 2017</title>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2222</lisID>
+          <bioguideId>R000600</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <state>AS</state>
+        <firstName>Aumua Amata</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>Coleman</middleName>
+        <lastName>Radewagen</lastName>
+        <district>0</district>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <bioguideId>R000600</bioguideId>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001294</bioguideId>
+          <gpoId />
+          <lisID>2241</lisID>
+        </identifiers>
+        <party>R</party>
+        <state>IA</state>
+        <firstName>Rod</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Blum</lastName>
+        <district>1</district>
+        <fullName>Rep. Blum, Rod [R-IA-1]</fullName>
+        <bioguideId>B001294</bioguideId>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Business education</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <cboCostEstimates />
+    <latestAction>
+      <text>Referred to the House Committee on Small Business.</text>
+      <links />
+      <actionDate>2017-03-23</actionDate>
+    </latestAction>
+    <updateDate>2017-07-18T21:30:09Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <updateDate>2017-03-23T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-23</actionDate>
+          <lastSummaryUpdateDate>2017-07-18T21:17:58Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Small Business Development Centers Improvement Act of 2017</b></p> <p> This bill amends the Small Business Act with respect to the authority of the Small Business Administration (SBA) to use certain SBA programs, including the small business development center (SBDC) program, to provide grants, financial assistance, loans, export assistance, and subcontracting opportunities on federal contracts to specified small businesses, organizations, state governments, universities, companies, and other entities that assist smaller enterprises.</p> <p>The SBA shall use such programs only to deliver entrepreneurial development services, entrepreneurial education, support for the development and maintenance of clusters, or business training. Such program requirements shall not apply to services provided to assist small businesses owned by an Indian tribe.</p> <p>The SBA shall not prohibit SBDC grant recipients from marketing and advertising their services to individuals and small business concerns.</p> <p>The SBA shall establish a Data Collection Working Group to determine the best way to capture data collection and create or revise existing systems dedicated to data collection.</p> <p>The bill: (1) increases the portion of certain available funds the SBA may use to pay the expenses of the National Small Business Development Center Advisory Board, the information sharing system, and the SBDC association for conducting an SBCD accreditation program; and (2) removes a limitation on the amount the SBA may use to pay the examination expenses of the SBDC accreditation program.</p> <p>The SBA may not award grants (including contracts and cooperative agreements) under the SBDC program to entities other than those that received them before September 30, 2015, and seek to renew them after that date, with an exception for not-for-profit institutions of higher education.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1702</billNumber>
+    <createDate>2017-03-24T05:20:59Z</createDate>
+    <version>1.0.0</version>
+    <introducedDate>2017-03-23</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-03-27</actionDate>
+        <committee>
+          <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+          <systemCode>hsvr09</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-21</actionDate>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+      </item>
+      <item>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-21</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-21</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+          <item>
+            <name>Vietnam</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-03-21T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-25T14:38:22Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2017-03-21</actionDate>
+          <text><![CDATA[<p>Expresses support for the designation of Welcome Home Vietnam Veterans Day.</p> <p> Honors and recognizes the contributions of veterans who served in Vietnam.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2017-03-22T05:45:11Z</createDate>
+    <congress>115</congress>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <title>Expressing support for designation of a Welcome Home Vietnam Veterans Day.</title>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Expressing support for designation of a Welcome Home Vietnam Veterans Day.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Expressing support for designation of a Welcome Home Vietnam Veterans Day.</title>
+      </item>
+    </titles>
+    <billNumber>214</billNumber>
+    <billType>HRES</billType>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2017-03-27</actionDate>
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </latestAction>
+    <updateDate>2017-05-26T19:15:10Z</updateDate>
+    <cosponsors>
+      <item>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <firstName>Paul</firstName>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <bioguideId>C001094</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cook</lastName>
+        <middleName />
+        <district>8</district>
+      </item>
+      <item>
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <firstName>TIM</firstName>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <bioguideId>R000577</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>RYAN</lastName>
+        <middleName />
+        <district>13</district>
+      </item>
+      <item>
+        <state>GA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+          <gpoId>7899</gpoId>
+          <lisID>91</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <firstName>SANFORD</firstName>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <bioguideId>B000490</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>BISHOP</lastName>
+        <middleName>D.</middleName>
+        <district>2</district>
+      </item>
+      <item>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <lisID>1602</lisID>
+          <bioguideId>N000179</bioguideId>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <firstName>GRACE</firstName>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <bioguideId>N000179</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>NAPOLITANO</lastName>
+        <middleName>F.</middleName>
+        <district>32</district>
+      </item>
+      <item>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <firstName>Yvette</firstName>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <bioguideId>C001067</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Clarke</lastName>
+        <middleName>D.</middleName>
+        <district>9</district>
+      </item>
+      <item>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>E000288</bioguideId>
+          <gpoId>8005</gpoId>
+          <lisID>1857</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <firstName>Keith</firstName>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <bioguideId>E000288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ellison</lastName>
+        <middleName />
+        <district>5</district>
+      </item>
+      <item>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <firstName>BOBBY</firstName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <bioguideId>R000515</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>RUSH</lastName>
+        <middleName>L.</middleName>
+        <district>1</district>
+      </item>
+      <item>
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <bioguideId>G000579</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gallagher</lastName>
+        <middleName />
+        <district>8</district>
+      </item>
+      <item>
+        <state>WA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <lisID>2170</lisID>
+          <gpoId />
+          <bioguideId>H001064</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <firstName>Denny</firstName>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <bioguideId>H001064</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heck</lastName>
+        <middleName />
+        <district>10</district>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <introducedDate>2017-03-21</introducedDate>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <identifiers>
+          <lisID>1757</lisID>
+          <gpoId>7844</gpoId>
+          <bioguideId>S001156</bioguideId>
+        </identifiers>
+        <district>38</district>
+        <firstName>LINDA</firstName>
+        <bioguideId>S001156</bioguideId>
+        <middleName>T.</middleName>
+        <party>D</party>
+        <lastName>SANCHEZ</lastName>
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr09</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-27T15:52:41Z</date>
+                </item>
+              </activities>
+              <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-21T14:02:25Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

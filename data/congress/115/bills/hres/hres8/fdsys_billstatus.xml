@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <considerationByHouse>1</considerationByHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-01-03</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <actionTime>17:37:37</actionTime>
+        <links />
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-01-03</actionDate>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H29)</text>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H37100</actionCode>
+        <actionTime>17:37:34</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H29</url>
+            <name>H29</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-01-03</actionDate>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H29)</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <actionTime>17:37:34</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H29</url>
+            <name>H29</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-01-03</actionDate>
+        <text>Considered as privileged matter. (consideration: CR H29)</text>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionTime>17:37:10</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H29</url>
+            <name>H29</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2017-01-03</introducedDate>
+    <updateDate>2017-05-03T23:47:20Z</updateDate>
+    <laws />
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <createDate>2017-01-04T07:01:07Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional officers and employees</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <links />
+      <actionDate>2017-01-03</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>17:37:37</actionTime>
+    </latestAction>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-01-23T21:15:43Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-03</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Names individuals to fill six specified minority party employee positions authorized by the Legislative Pay Act of 1929. Authorizes the minority leader to appoint and set the annual rate of pay for up to three further minority employees.</p>]]></text>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-01-23T21:15:51Z</lastSummaryUpdateDate>
+          <versionCode>81</versionCode>
+          <actionDate>2017-01-03</actionDate>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Names individuals to fill six specified minority party employee positions authorized by the Legislative Pay Act of 1929. Authorizes the minority leader to appoint and set the annual rate of pay for up to three further minority employees.</p>]]></text>
+          <updateDate>2017-01-03T14:29:28Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Providing for the designation of certain minority employees.</title>
+    <committees>
+      <billCommittees />
+    </committees>
+    <billType>HRES</billType>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Providing for the designation of certain minority employees.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Providing for the designation of certain minority employees.</title>
+      </item>
+    </titles>
+    <relatedBills />
+    <committeeReports />
+    <sponsors>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <district>14</district>
+        <identifiers>
+          <lisID>1604</lisID>
+          <gpoId>8068</gpoId>
+          <bioguideId>C001038</bioguideId>
+        </identifiers>
+        <lastName>CROWLEY</lastName>
+        <firstName>JOSEPH</firstName>
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <bioguideId>C001038</bioguideId>
+        <byRequestType />
+        <middleName />
+      </item>
+    </sponsors>
+    <billNumber>8</billNumber>
+    <cosponsors />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

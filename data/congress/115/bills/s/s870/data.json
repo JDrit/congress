@@ -1,0 +1,332 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-04-06", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-04-06", 
+      "action_code": "", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-08-03", 
+      "action_code": "", 
+      "committee": "Finance", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 115-146.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2017-08-03", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "206", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 206.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s870-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [
+    "S. Rept. 115-146"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001267", 
+      "district": null, 
+      "name": "Bennet, Michael F.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "CO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000141", 
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "MD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000174", 
+      "district": null, 
+      "name": "Carper, Thomas R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "DE", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001070", 
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "PA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001075", 
+      "district": null, 
+      "name": "Cassidy, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-04-07", 
+      "state": "LA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001056", 
+      "district": null, 
+      "name": "Cornyn, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "TX", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000880", 
+      "district": null, 
+      "name": "Crapo, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "ID", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000386", 
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "IA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "I000055", 
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "GA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001170", 
+      "district": null, 
+      "name": "McCaskill, Claire", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "MO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000032", 
+      "district": null, 
+      "name": "Nelson, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-05-15", 
+      "state": "FL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000307", 
+      "district": null, 
+      "name": "Roberts, Pat", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-04-07", 
+      "state": "KS", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001194", 
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-05-15", 
+      "state": "HI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000770", 
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "MI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000250", 
+      "district": null, 
+      "name": "Thune, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "SD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000805", 
+      "district": null, 
+      "name": "Warner, Mark R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "VA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000437", 
+      "district": null, 
+      "name": "Wicker, Roger F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-05-11", 
+      "state": "MS", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000779", 
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-04-06", 
+      "state": "OR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-08-03", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-04-06", 
+  "number": "870", 
+  "official_title": "A bill to amend title XVIII of the Social Security Act to implement Medicare payment policies designed to improve management of chronic disease, streamline care coordination, and improve quality outcomes without adding to the deficit.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3168-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3044-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1995-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s431-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC) Care Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "H000338", 
+    "district": null, 
+    "name": "Hatch, Orrin G.", 
+    "state": "UT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-08-03", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC) Care Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC) Care Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC) Care Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title XVIII of the Social Security Act to implement Medicare payment policies designed to improve management of chronic disease, streamline care coordination, and improve quality outcomes without adding to the deficit.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC) Care Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-08-05T13:31:37Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s870.xml"
+}

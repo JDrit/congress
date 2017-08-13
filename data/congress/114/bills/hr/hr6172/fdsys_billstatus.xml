@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2016-09-26</actionDate>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2016-09-26</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2016-09-26</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2016-09-20</actionDate>
+        </latestAction>
+        <latestTitle>Campus Fire Safety Education Act of 2016</latestTitle>
+        <number>3362</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>6172</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2016-09-26T16:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-09-26</introducedDate>
+    <updateDate>2017-06-02T22:16:18Z</updateDate>
+    <title>Campus Fire Safety Education Act of 2016</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Campus Fire Safety Education Act of 2016</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To authorize the Secretary of Education to make grants to support fire safety education programs on college campuses.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Campus Fire Safety Education Act of 2016</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2016-09-26</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>Campus Fire Safety Education Act of 2016</strong></p> <p> This bill directs the Department of Education (ED) to establish a program to award grants, on a competitive basis, to institutions of higher education or consortiums of such institutions, in a collaborative partnership with a nonprofit organization or a public safety department (eligible entity), for: (1) initiating, expanding, or improving fire safety education programs; and (2) increasing fire safety awareness among enrolled students. </p> <p>ED shall give priority to institutions that plan to use funds to initiate, expand, or improve fire safety education programs that include educational material specifically prepared for students with physical, sensory, or cognitive disabilities. The bill sets forth provisions regarding grant periods and matching and other requirements. An eligible entity may not be awarded more than $250,000 per fiscal year under this bill.</p> <p>An eligible entity shall use grant funds to initiate, expand, or improve a fire safety education program that: </p> <ul> <li>reaches all enrolled students (for an institution of higher education); </li> <li>ensures maximum exposure to, increases awareness of, and effectuates change in behavior regarding, fire safety by students through conducting outreach to students a minimum of twice per academic year and through measures that provide fire safety information to any student upon request; </li> <li>includes minimum instruction regarding fire behavior, fire injury and death, ignition scenarios, fire safety systems and equipment, the importance of means of egress, fire prevention techniques, and actions to be taken if a fire occurs to minimize the potential for death, injury, and property damage; and </li> <li>includes a mechanism for carrying out evaluations of program effectiveness. </li> </ul> <p>ED shall publish a report of best practices for initiating, expanding, or improving fire safety education programs.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2016-11-25T22:15:09Z</lastSummaryUpdateDate>
+          <updateDate>2016-09-26T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1510</lisID>
+          <bioguideId>P000096</bioguideId>
+          <gpoId>8050</gpoId>
+        </identifiers>
+        <district>9</district>
+        <party>D</party>
+        <bioguideId>P000096</bioguideId>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <firstName>WILLIAM</firstName>
+        <state>NJ</state>
+        <middleName>J.</middleName>
+        <byRequestType />
+        <lastName>PASCRELL</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <actionDate>2016-09-26</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PASCRELL:H.R. 6172.Congress has the power to enact this legislation pursuantto the following:Congress has the power to enact this legislation pursuantto Article I, Section 8, Clause 3 of the United StatesConstitution.[Page H5913]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <lisID>635</lisID>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <firstName>PETER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <sponsorshipDate>2016-09-26</sponsorshipDate>
+        <district>2</district>
+        <middleName>T.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>KING</lastName>
+        <bioguideId>K000210</bioguideId>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2016-09-27T05:14:25Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

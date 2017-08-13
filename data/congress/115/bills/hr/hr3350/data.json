@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-20", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-20", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3350-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000266", 
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-20", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000617", 
+      "district": "1", 
+      "name": "DelBene, Suzan K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-20", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000460", 
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-20", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-20", 
+  "number": "3350", 
+  "official_title": "To amend title 17, United States Code, to establish a database of nondramatic musical works and sound recordings to help entities that wish to publicly perform such works and recordings to identify and compensate the owners of rights in such works and recordings, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Transparency in Music Licensing and Ownership Act", 
+  "sponsor": {
+    "bioguide_id": "S000244", 
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-20", 
+  "subjects": [
+    "Commerce"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Transparency in Music Licensing and Ownership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Transparency in Music Licensing and Ownership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 17, United States Code, to establish a database of nondramatic musical works and sound recordings to help entities that wish to publicly perform such works and recordings to identify and compensate the owners of rights in such works and recordings, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Transparency in Music Licensing and Ownership Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-08-07T16:37:55Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3350.xml"
+}

@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-17", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-17", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3264-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001059", 
+      "district": "16", 
+      "name": "Costa, Jim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-17", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000188", 
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-17", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000129", 
+      "district": "21", 
+      "name": "Valadao, David G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-17", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-17", 
+  "number": "3264", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to extend and modify certain tax incentives for biodiesel, renewable diesel, and alternative fuels.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Biodiesel, Renewable Diesel, and Alternative Fuels Extension Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "B001273", 
+    "district": "6", 
+    "name": "Black, Diane", 
+    "state": "TN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-17", 
+  "subjects": [
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Biodiesel, Renewable Diesel, and Alternative Fuels Extension Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Biodiesel, Renewable Diesel, and Alternative Fuels Extension Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to extend and modify certain tax incentives for biodiesel, renewable diesel, and alternative fuels.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Biodiesel, Renewable Diesel, and Alternative Fuels Extension Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-26T12:15:14Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3264.xml"
+}

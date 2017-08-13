@@ -1,0 +1,92 @@
+<bill session="115" type="h" number="2772" updated="2017-08-05T04:34:37Z">
+  <state datetime="2017-07-28T11:12:24-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-07-28T11:12:24-04:00"/>
+  </status>
+  <introduced datetime="2017-06-06"/>
+  <titles>
+    <title type="short" as="introduced">SEA Act</title>
+    <title type="short" as="introduced">VA Senior Executive Accountability Act</title>
+    <title type="short" as="introduced">VA Senior Executive Accountability Act</title>
+    <title type="short" as="reported to house">SEA Act</title>
+    <title type="short" as="reported to house">VA Senior Executive Accountability Act</title>
+    <title type="short" as="reported to house">VA Senior Executive Accountability Act</title>
+    <title type="short" as="passed house">SEA Act</title>
+    <title type="short" as="passed house">VA Senior Executive Accountability Act</title>
+    <title type="short" as="passed house">VA Senior Executive Accountability Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for requirements relating to the reassignment of Department of Veterans Affairs senior executive employees.</title>
+    <title type="display">SEA Act</title>
+  </titles>
+  <sponsor id="412727"/>
+  <cosponsors>
+    <cosponsor id="412648" joined="2017-07-12"/>
+    <cosponsor id="412520" joined="2017-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-06" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-06-06">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2017-06-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2017-07-12">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2017-07-12">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+    <action datetime="2017-07-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-07-19" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-07-24">
+      <text>Reported by the Committee on Veterans' Affairs. H. Rept. 115-248.</text>
+    </action>
+    <calendar datetime="2017-07-24" calendar="Union" number="180">
+      <text>Placed on the Union Calendar, Calendar No. 180.</text>
+    </calendar>
+    <action datetime="2017-07-28T11:08:13-04:00">
+      <text>Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-07-28T11:08:25-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6540" label="consideration"/>
+    </action>
+    <action datetime="2017-07-28T11:08:26-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2772.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-07-28T11:12:24-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6540" label="text"/>
+    </vote>
+    <action datetime="2017-07-28T11:12:26-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-07-31">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Reporting, Markup, Referral"/>
+    <committee activity="Reporting, Markup, Hearings, Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="115" type="h" number="2517"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 115-248</report>
+  </committee-reports>
+</bill>

@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-24", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr658-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001193", 
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-24", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-01-24", 
+  "number": "658", 
+  "official_title": "To amend the Federal Election Campaign Act of 1971 to prohibit criminal corporations from making disbursements of funds in connection with a campaign for election for Federal, State, or local office.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Protect Democracy From Criminal Corporations Act", 
+  "sponsor": {
+    "bioguide_id": "E000288", 
+    "district": "5", 
+    "name": "Ellison, Keith", 
+    "state": "MN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-01-24", 
+  "subjects": [
+    "Business ethics", 
+    "Congressional elections", 
+    "Corporate finance and management", 
+    "Elections, voting, political campaign regulation", 
+    "Fraud offenses and financial crimes", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protect Democracy From Criminal Corporations Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protect Democracy From Criminal Corporations Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Election Campaign Act of 1971 to prohibit criminal corporations from making disbursements of funds in connection with a campaign for election for Federal, State, or local office.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Protect Democracy From Criminal Corporations Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-19T20:45:19Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr658.xml"
+}

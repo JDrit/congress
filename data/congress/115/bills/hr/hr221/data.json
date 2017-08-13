@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-02-10", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr221-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-01-03", 
+  "number": "221", 
+  "official_title": "To reauthorize the Hydrographic Services Improvement Act of 1998, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s171-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Hydrographic Services Improvement Amendments Act", 
+  "sponsor": {
+    "bioguide_id": "Y000033", 
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-01-03", 
+  "subjects": [
+    "Arctic Ocean", 
+    "Arctic and polar regions", 
+    "Congressional oversight", 
+    "Department of Commerce", 
+    "Executive agency funding and structure", 
+    "Government studies and investigations", 
+    "Hydrology and hydrography", 
+    "Marine and coastal resources, fisheries", 
+    "Navigation, waterways, harbors", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-01-03T05:00:00Z", 
+    "text": "Hydrographic Services Improvement Amendments Act \n\n\n\nThis bill reauthorizes the Hydrographic Services Improvement Act of 1998 from FY2018-FY2022.\n\n The Governmental Accountability Office must compare the unit costs of hydrographic surveys conducted by the National Oceanic and Atmospheric Administration to the unit costs of procuring the surveys."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hydrographic Services Improvement Amendments Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hydrographic Services Improvement Amendments Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize the Hydrographic Services Improvement Act of 1998, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Hydrographic Services Improvement Amendments Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-19T20:30:27Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr221.xml"
+}

@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-11-20</actionDate>
+        <committee>
+          <name>Energy and Power Subcommittee</name>
+          <systemCode>hsif03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-11-16</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-11-16</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-11-16</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2016-06-09</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>4775</number>
+        <latestTitle>Ozone Standards Implementation Act of 2016</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Committee on Environment and Public Works Subcommittee on Clean Air and Nuclear Safety. Hearings held.</text>
+          <actionDate>2016-06-22</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>2882</number>
+        <latestTitle>Ozone Standards Implementation Act of 2016</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>4000</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-11-16T19:03:30Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Energy and Power Subcommittee</name>
+              <systemCode>hsif03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-11-20T22:33:14Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-11-16</introducedDate>
+    <updateDate>2017-06-02T21:39:01Z</updateDate>
+    <title>Ozone National Ambient Air Quality Standard Deadline Harmonization Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Ozone National Ambient Air Quality Standard Deadline Harmonization Act of 2015</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To harmonize requirements of the 2008 and 2015 ozone national ambient air quality standards, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Ozone National Ambient Air Quality Standard Deadline Harmonization Act of 2015</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-11-16T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Ozone National Ambient Air Quality Standard Deadline Harmonization Act of 2015</b></p> <p>This bill delays the implementation of the Environmental Protection Agency's (EPA) 2015 national ambient air quality standards (NAAQS) for ozone issued under the Clean Air Act. </p> <p> Each state must designate all of its areas as attainment, nonattainment, or unclassifiable with respect to the 2015 ozone standards by October 26, 2024. The EPA must promulgate final designations for those areas by October 26, 2025. States must submit a state implementation plan for the 2015 ozone standards by October 26, 2026.</p> <p>The 2015 ozone standards do not apply to the review and disposition of an application for a preconstruction permit for the construction or modification of a major emitting facility or major stationary source if: (1) the application is completed before final designations under the Clean Air Act, or (2) the applicable permitting authority publishes a public notice of a preliminary determination or draft permit for the application before a certain date.</p> <p>The bill changes the interval by which the EPA must review its NAAQS for criteria pollutants from a 5-year review cycle to a 10-year review cycle. The EPA must not complete any review of ozone criteria or its ozone NAAQS before October 26, 2025, or propose any revisions to them.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2016-12-12T19:10:56Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-11-16</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2065</lisID>
+          <gpoId>8173</gpoId>
+          <bioguideId>F000461</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <party>R</party>
+        <bioguideId>F000461</bioguideId>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <firstName>Bill</firstName>
+        <state>TX</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Flores</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <actionDate>2015-11-20</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. FLORES:H.R. 4000.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3 of the Constitution of theUnited States.[Page H8241]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>B001257</bioguideId>
+        <lastName>Bilirakis</lastName>
+        <state>FL</state>
+        <firstName>Gus</firstName>
+        <sponsorshipDate>2015-11-17</sponsorshipDate>
+        <identifiers>
+          <lisID>1838</lisID>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>L000576</bioguideId>
+        <lastName>Long</lastName>
+        <state>MO</state>
+        <firstName>Billy</firstName>
+        <sponsorshipDate>2015-11-17</sponsorshipDate>
+        <identifiers>
+          <lisID>2033</lisID>
+          <gpoId>8015</gpoId>
+          <bioguideId>L000576</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>F000460</bioguideId>
+        <lastName>Farenthold</lastName>
+        <state>TX</state>
+        <firstName>Blake</firstName>
+        <sponsorshipDate>2015-11-17</sponsorshipDate>
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <gpoId>8183</gpoId>
+          <lisID>2067</lisID>
+        </identifiers>
+        <district>27</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>M001180</bioguideId>
+        <lastName>McKinley</lastName>
+        <state>WV</state>
+        <firstName>David</firstName>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <identifiers>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>H001045</bioguideId>
+        <lastName>Harper</lastName>
+        <state>MS</state>
+        <firstName>Gregg</firstName>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <identifiers>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+          <bioguideId>H001045</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>P000602</bioguideId>
+        <lastName>Pompeo</lastName>
+        <state>KS</state>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <identifiers>
+          <lisID>2022</lisID>
+          <bioguideId>P000602</bioguideId>
+          <gpoId>7952</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Pompeo, Mike [R-KS-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>A000373</bioguideId>
+        <lastName>Ashford</lastName>
+        <state>NE</state>
+        <firstName>Brad</firstName>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <identifiers>
+          <lisID>2257</lisID>
+          <gpoId />
+          <bioguideId>A000373</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Ashford, Brad [D-NE-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>W000813</bioguideId>
+        <lastName>Walorski</lastName>
+        <state>IN</state>
+        <firstName>Jackie</firstName>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <identifiers>
+          <lisID>2128</lisID>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>S000364</bioguideId>
+        <lastName>SHIMKUS</lastName>
+        <state>IL</state>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <identifiers>
+          <lisID>1527</lisID>
+          <bioguideId>S000364</bioguideId>
+          <gpoId>7939</gpoId>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>G000558</bioguideId>
+        <lastName>Guthrie</lastName>
+        <state>KY</state>
+        <firstName>Brett</firstName>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <identifiers>
+          <lisID>1922</lisID>
+          <gpoId>7954</gpoId>
+          <bioguideId>G000558</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>C001092</bioguideId>
+        <lastName>Collins</lastName>
+        <state>NY</state>
+        <firstName>Chris</firstName>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <identifiers>
+          <lisID>2151</lisID>
+          <gpoId />
+          <bioguideId>C001092</bioguideId>
+        </identifiers>
+        <district>27</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>B001284</bioguideId>
+        <lastName>Brooks</lastName>
+        <state>IN</state>
+        <firstName>Susan</firstName>
+        <sponsorshipDate>2015-12-08</sponsorshipDate>
+        <identifiers>
+          <lisID>2129</lisID>
+          <gpoId />
+          <bioguideId>B001284</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>J000292</bioguideId>
+        <lastName>Johnson</lastName>
+        <state>OH</state>
+        <firstName>Bill</firstName>
+        <sponsorshipDate>2015-12-11</sponsorshipDate>
+        <identifiers>
+          <lisID>2046</lisID>
+          <bioguideId>J000292</bioguideId>
+          <gpoId>8096</gpoId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>H001067</bioguideId>
+        <lastName>Hudson</lastName>
+        <state>NC</state>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2016-01-11</sponsorshipDate>
+        <identifiers>
+          <lisID>2140</lisID>
+          <gpoId />
+          <bioguideId>H001067</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>R000586</bioguideId>
+        <lastName>Renacci</lastName>
+        <state>OH</state>
+        <firstName>James</firstName>
+        <sponsorshipDate>2016-02-01</sponsorshipDate>
+        <identifiers>
+          <lisID>2048</lisID>
+          <bioguideId>R000586</bioguideId>
+          <gpoId>8106</gpoId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Environmental Protection Agency (EPA)</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-11-17T10:19:51Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

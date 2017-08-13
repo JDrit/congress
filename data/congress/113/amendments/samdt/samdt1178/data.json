@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-06-06", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-06-06", 
+      "action_code": "91000", 
+      "references": [], 
+      "text": "Senate amendment submitted", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1178-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1171-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "description": null, 
+    "number": 1171, 
+    "purpose": null
+  }, 
+  "amends_bill": {
+    "bill_id": "s954-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-06-06", 
+  "number": 1178, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "bioguide_id": "S001194", 
+    "district": null, 
+    "name": "Schatz, Brian", 
+    "state": "HI", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2013-06-06", 
+  "updated_at": "2016-10-25T17:01:13Z"
+}

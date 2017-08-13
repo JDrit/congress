@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-24T16:18:51-04:00", 
+      "action_code": "H32111", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Newhouse amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-06-24T16:11:17-04:00", 
+      "action_code": "H3A100", 
+      "references": [
+        {
+          "reference": "CR H4629-4630", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4629", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Newhouse.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-24", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-24T16:18:51-04:00", 
+      "action_code": "76000", 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-24T16:18:51-04:00", 
+      "action_code": "72000", 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Newhouse amendment (A005) Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-24T16:11:17-04:00", 
+      "action_code": "71500", 
+      "references": [
+        {
+          "reference": "CR H4629-4630", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4629", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by : Amendment (A005) offered by Mr. Newhouse.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-24", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt530-114", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2042-114", 
+    "bill_type": "hr", 
+    "congress": 114, 
+    "number": 2042
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "114", 
+  "description": "At the end of the bill, add the following new section:    SEC. 4. TREATMENT OF HYDROPOWER AS RENEWABLE ENERGY.    In issuing, implementing, and enforcing any final rule described in section 2(b), the Administrator of the Environmental Protection Agency shall treat hydropower as renewable energy.", 
+  "introduced_at": "2015-06-24", 
+  "number": 530, 
+  "purpose": "An amendment numbered 5 printed in House Report 114-177 to direct EPA to recognize hydropower as a renewable energy source when issuing, implementing, and enforcing any final rule to address carbon dioxide emissions from existing sources under section 111(d) of the Clean Air Act.", 
+  "sponsor": {
+    "bioguide_id": "N000189", 
+    "district": "4", 
+    "name": "Newhouse, Dan", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2015-06-24T16:18:51-04:00", 
+  "updated_at": "2017-06-02T16:57:56Z"
+}

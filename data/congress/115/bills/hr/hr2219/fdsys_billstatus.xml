@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-27T14:06:10Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-27T14:06:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <congress>115</congress>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Keating</lastName>
+        <firstName>William</firstName>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <district>9</district>
+        <bioguideId>K000375</bioguideId>
+        <identifiers>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>MALONEY</lastName>
+        <firstName>CAROLYN</firstName>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <district>12</district>
+        <bioguideId>M000087</bioguideId>
+        <identifiers>
+          <lisID>729</lisID>
+          <gpoId>8075</gpoId>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Love</lastName>
+        <firstName>Mia</firstName>
+        <fullName>Rep. Love, Mia B. [R-UT-4]</fullName>
+        <district>4</district>
+        <bioguideId>L000584</bioguideId>
+        <identifiers>
+          <lisID>2271</lisID>
+          <gpoId />
+          <bioguideId>L000584</bioguideId>
+        </identifiers>
+        <state>UT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Meehan</lastName>
+        <firstName>Patrick</firstName>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <district>7</district>
+        <bioguideId>M001181</bioguideId>
+        <identifiers>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+          <lisID>2052</lisID>
+        </identifiers>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <billNumber>2219</billNumber>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>952</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-04-26</actionDate>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        </latestAction>
+        <latestTitle>End Banking for Human Traffickers Act of 2017</latestTitle>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <notes />
+    <createDate>2017-04-28T03:11:53Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <text>Referred to House Financial Services</text>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-04-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Referred to House Foreign Affairs</text>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-04-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-27</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <amendments />
+    <introducedDate>2017-04-27</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>R000487</bioguideId>
+        <middleName />
+        <firstName>ED</firstName>
+        <party>R</party>
+        <byRequestType />
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <identifiers>
+          <lisID>998</lisID>
+          <gpoId>7845</gpoId>
+          <bioguideId>R000487</bioguideId>
+        </identifiers>
+        <lastName>ROYCE</lastName>
+        <state>CA</state>
+        <district>39</district>
+      </item>
+    </sponsors>
+    <updateDate>2017-07-13T07:16:40Z</updateDate>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ROYCE of California:H.R. 2219.Congress has the power to enact this legislation pursuantto the following:Article I, section 8, clause I (relating to the generalwelfare of the United States); and Article I, section 8,clause 3 (relating to the power to regulate interstatecommerce).[Page H2942]</pre>]]></constitutionalAuthorityStatementText>
+    <title>End Banking for Human Traffickers Act of 2017</title>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2017-04-27</actionDate>
+      <text>Referred to House Financial Services</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>End Banking for Human Traffickers Act of 2017</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>End Banking for Human Traffickers Act of 2017</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To increase the role of the financial industry in combating human trafficking.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>End Banking for Human Traffickers Act of 2017</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

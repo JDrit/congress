@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-06-05</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-06-02</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-06-02</actionDate>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR E815)</text>
+        <links>
+          <link>
+            <name>E815</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/extensions-of-remarks-section/page/E815</url>
+          </link>
+        </links>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-06-02</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-06-02</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2015-06-02</actionDate>
+        </latestAction>
+        <latestTitle>A bill to authorize the appropriation of funds to the Centers for Disease Control and Prevention for conducting or supporting research on firearms safety or gun violence prevention.</latestTitle>
+        <number>1473</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>2612</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-06-02T14:01:30Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-06-05T14:48:06Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-06-02</introducedDate>
+    <updateDate>2017-06-02T21:16:31Z</updateDate>
+    <title>To authorize the appropriation of funds to the Centers for Disease Control and Prevention for conducting or supporting research on firearms safety or gun violence prevention.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To authorize the appropriation of funds to the Centers for Disease Control and Prevention for conducting or supporting research on firearms safety or gun violence prevention.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>To authorize the appropriation of funds to the Centers for Disease Control and Prevention for conducting or supporting research on firearms safety or gun violence prevention.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-06-02T04:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill authorizes FY2016-FY2021 appropriations for the Centers for Diseases Control and Prevention to conduct or support research on firearms safety or gun violence prevention. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-06-04T17:11:19Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-06-02</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>729</lisID>
+          <gpoId>8075</gpoId>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <party>D</party>
+        <bioguideId>M000087</bioguideId>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <firstName>CAROLYN</firstName>
+        <state>NY</state>
+        <middleName>B.</middleName>
+        <byRequestType />
+        <lastName>MALONEY</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2015-06-05</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. CAROLYN B. MALONEY of New York:H.R. 2612.Congress has the power tuenact this legislation pursuantto the following:Article I, Section 8[Page H3758]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>M000404</bioguideId>
+          <gpoId>8211</gpoId>
+          <lisID>766</lisID>
+        </identifiers>
+        <firstName>JIM</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>7</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>MCDERMOTT</lastName>
+        <bioguideId>M000404</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>3</district>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Grijalva</lastName>
+        <bioguideId>G000551</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MD</state>
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <firstName>Chris</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Van Hollen, Chris [D-MD-8]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>8</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Van Hollen</lastName>
+        <bioguideId>V000128</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>DC</state>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <firstName>ELEANOR</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>0</district>
+        <middleName>HOLMES</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001101</bioguideId>
+          <lisID>2196</lisID>
+        </identifiers>
+        <firstName>Katherine</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>5</district>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Clark</lastName>
+        <bioguideId>C001101</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <gpoId>7974</gpoId>
+          <bioguideId>L000562</bioguideId>
+          <lisID>1686</lisID>
+        </identifiers>
+        <firstName>Stephen</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>8</district>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lynch</lastName>
+        <bioguideId>L000562</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <lisID>1884</lisID>
+          <gpoId>7970</gpoId>
+          <bioguideId>T000465</bioguideId>
+        </identifiers>
+        <firstName>Niki</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Tsongas, Niki [D-MA-3]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>3</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Tsongas</lastName>
+        <bioguideId>T000465</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>RI</state>
+        <identifiers>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>1</district>
+        <middleName>N.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cicilline</lastName>
+        <bioguideId>C001084</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>IL</state>
+        <identifiers>
+          <lisID>2190</lisID>
+          <bioguideId>K000385</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Robin</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>2</district>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kelly</lastName>
+        <bioguideId>K000385</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CT</state>
+        <identifiers>
+          <lisID>2114</lisID>
+          <gpoId />
+          <bioguideId>E000293</bioguideId>
+        </identifiers>
+        <firstName>Elizabeth</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>5</district>
+        <middleName>H.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Esty</lastName>
+        <bioguideId>E000293</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>OR</state>
+        <identifiers>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <firstName>EARL</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>3</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>BLUMENAUER</lastName>
+        <bioguideId>B000574</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <lisID>944</lisID>
+          <gpoId>8076</gpoId>
+          <bioguideId>R000053</bioguideId>
+        </identifiers>
+        <firstName>CHARLES</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>13</district>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>RANGEL</lastName>
+        <bioguideId>R000053</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <lisID>850</lisID>
+          <bioguideId>N000002</bioguideId>
+          <gpoId>8069</gpoId>
+        </identifiers>
+        <firstName>JERROLD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>10</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>NADLER</lastName>
+        <bioguideId>N000002</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MD</state>
+        <identifiers>
+          <lisID>256</lisID>
+          <gpoId>7982</gpoId>
+          <bioguideId>C000984</bioguideId>
+        </identifiers>
+        <firstName>ELIJAH</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <district>7</district>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>CUMMINGS</lastName>
+        <bioguideId>C000984</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CT</state>
+        <identifiers>
+          <lisID>1913</lisID>
+          <gpoId>7869</gpoId>
+          <bioguideId>H001047</bioguideId>
+        </identifiers>
+        <firstName>James</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <sponsorshipDate>2015-06-03</sponsorshipDate>
+        <district>4</district>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Himes</lastName>
+        <bioguideId>H001047</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <lisID>683</lisID>
+          <bioguideId>L000263</bioguideId>
+          <gpoId>7997</gpoId>
+        </identifiers>
+        <firstName>SANDER</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <sponsorshipDate>2015-06-03</sponsorshipDate>
+        <district>9</district>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEVIN</lastName>
+        <bioguideId>L000263</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipDate>2015-06-03</sponsorshipDate>
+        <district>2</district>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCGOVERN</lastName>
+        <bioguideId>M000312</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+          <lisID>1653</lisID>
+        </identifiers>
+        <firstName>BETTY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <district>4</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>MCCOLLUM</lastName>
+        <bioguideId>M001143</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>IL</state>
+        <identifiers>
+          <lisID>1967</lisID>
+          <bioguideId>Q000023</bioguideId>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <sponsorshipDate>2015-10-09</sponsorshipDate>
+        <district>5</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Quigley</lastName>
+        <bioguideId>Q000023</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2267</lisID>
+          <bioguideId>B001296</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Brendan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <sponsorshipDate>2015-10-21</sponsorshipDate>
+        <district>13</district>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Boyle</lastName>
+        <bioguideId>B001296</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <firstName>William</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <sponsorshipDate>2015-10-21</sponsorshipDate>
+        <district>9</district>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Keating</lastName>
+        <bioguideId>K000375</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CO</state>
+        <identifiers>
+          <gpoId>7865</gpoId>
+          <bioguideId>P000593</bioguideId>
+          <lisID>1835</lisID>
+        </identifiers>
+        <firstName>Ed</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <sponsorshipDate>2015-10-21</sponsorshipDate>
+        <district>7</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Perlmutter</lastName>
+        <bioguideId>P000593</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1635</lisID>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+        </identifiers>
+        <firstName>ADAM</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <sponsorshipDate>2015-10-28</sponsorshipDate>
+        <district>28</district>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHIFF</lastName>
+        <bioguideId>S001150</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>355</lisID>
+          <gpoId>7819</gpoId>
+          <bioguideId>E000215</bioguideId>
+        </identifiers>
+        <firstName>ANNA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <sponsorshipDate>2015-11-02</sponsorshipDate>
+        <district>18</district>
+        <middleName>G.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>ESHOO</lastName>
+        <bioguideId>E000215</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <gpoId>7810</gpoId>
+          <lisID>1814</lisID>
+        </identifiers>
+        <firstName>Doris</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <district>6</district>
+        <middleName>O.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Matsui</lastName>
+        <bioguideId>M001163</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>OR</state>
+        <identifiers>
+          <gpoId>8367</gpoId>
+          <bioguideId>B001278</bioguideId>
+          <lisID>2092</lisID>
+        </identifiers>
+        <firstName>Suzanne</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <district>1</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Bonamici</lastName>
+        <bioguideId>B001278</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>B001287</bioguideId>
+          <gpoId />
+          <lisID>2102</lisID>
+        </identifiers>
+        <firstName>Ami</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <sponsorshipDate>2015-12-03</sponsorshipDate>
+        <district>7</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Bera</lastName>
+        <bioguideId>B001287</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <gpoId>8063</gpoId>
+          <bioguideId>I000057</bioguideId>
+          <lisID>1663</lisID>
+        </identifiers>
+        <firstName>STEVE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Israel, Steve [D-NY-3]</fullName>
+        <sponsorshipDate>2015-12-11</sponsorshipDate>
+        <district>3</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>ISRAEL</lastName>
+        <bioguideId>I000057</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2107</lisID>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <firstName>Tony</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <sponsorshipDate>2015-12-17</sponsorshipDate>
+        <district>29</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Cardenas</lastName>
+        <bioguideId>C001097</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <lisID>229</lisID>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <sponsorshipDate>2016-01-06</sponsorshipDate>
+        <district>13</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>CONYERS</lastName>
+        <bioguideId>C000714</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>L000581</bioguideId>
+          <gpoId />
+          <lisID>2252</lisID>
+        </identifiers>
+        <firstName>Brenda</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <sponsorshipDate>2016-01-06</sponsorshipDate>
+        <district>14</district>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lawrence</lastName>
+        <bioguideId>L000581</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1890</lisID>
+          <gpoId>7817</gpoId>
+          <bioguideId>S001175</bioguideId>
+        </identifiers>
+        <firstName>Jackie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <sponsorshipDate>2016-01-06</sponsorshipDate>
+        <district>14</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Speier</lastName>
+        <bioguideId>S001175</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <firstName>BARBARA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <sponsorshipDate>2016-01-06</sponsorshipDate>
+        <district>13</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>LEE</lastName>
+        <bioguideId>L000551</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>IL</state>
+        <identifiers>
+          <lisID>2123</lisID>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <firstName>Tammy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Duckworth, Tammy [D-IL-8]</fullName>
+        <sponsorshipDate>2016-02-03</sponsorshipDate>
+        <district>8</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Duckworth</lastName>
+        <bioguideId>D000622</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+          <bioguideId>M001137</bioguideId>
+        </identifiers>
+        <firstName>GREGORY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <sponsorshipDate>2016-06-16</sponsorshipDate>
+        <district>5</district>
+        <middleName>W.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>MEEKS</lastName>
+        <bioguideId>M001137</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>IL</state>
+        <identifiers>
+          <lisID>2127</lisID>
+          <gpoId />
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <firstName>Cheri</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <sponsorshipDate>2016-06-21</sponsorshipDate>
+        <district>17</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Bustos</lastName>
+        <bioguideId>B001286</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipDate>2016-07-08</sponsorshipDate>
+        <district>9</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Cohen</lastName>
+        <bioguideId>C001068</bioguideId>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Accidents</name>
+          </item>
+          <item>
+            <name>Centers for Disease Control and Prevention (CDC)</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-06-03T08:47:48Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

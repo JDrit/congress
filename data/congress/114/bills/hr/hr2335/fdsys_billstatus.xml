@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-05-15</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-05-14</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-05-14</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-05-14</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <laws />
+    <billNumber>2335</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-05-15T19:42:42Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-05-14T14:02:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-05-14</introducedDate>
+    <updateDate>2017-06-02T21:02:33Z</updateDate>
+    <title>Stop Tampering of Prescription Pills Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Stop Tampering of Prescription Pills Act of 2015</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Federal Food, Drug, and Cosmetic Act to incentivize the development of abuse-deterrent drugs.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Stop Tampering of Prescription Pills Act of 2015</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-05-14</actionDate>
+          <updateDate>2015-05-14T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-11-09T19:30:47Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Stop Tampering of Prescription Pills Act of 2015</b></p> <p>This bill amends the Federal Food, Drug, and Cosmetic Act to require the Food and Drug Administration (FDA) to deny approval to a new oral opioid (a drug with effects similar to opium, such as morphine) that does not have properties that make the drug significantly more difficult to abuse if an abuse-deterrent drug containing the same opioid is available. The FDA may approve an opioid drug that is not abuse-deterrent if approval is necessary to prevent or alleviate a drug shortage or to address a significant unmet public health need.</p> <p>To be approved by the FDA, a generic version of an abuse-deterrent brand name drug must be at least comparably abuse-deterrent and its active components must not differ in any material respect from the brand name drug.</p> <p>An approved generic drug is not bioequivalent to, and does not have the same therapeutic effect as, a brand name drug that becomes abuse-deterrent unless the generic drug is at least comparably abuse-deterrent.</p> <p>Approval of a generic oral opioid is withdrawn if the brand name drug is not abuse-deterrent and not available and there is an approved abuse-deterrent drug available that contains the same opioid in the same dose.</p> Approval of an oral opioid is withdrawn if the drug is not abuse-deterrent and there is an approved abuse-deterrent drug available that contains the same opioid. Withdrawal of approval may be waived by the FDA for a drug intended for a special needs population. The FDA must delay withdrawal to give the drug sponsor an opportunity to obtain approval for an abuse-deterrent formulation of the drug.]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2025</lisID>
+          <bioguideId>K000375</bioguideId>
+          <gpoId>7975</gpoId>
+        </identifiers>
+        <district>9</district>
+        <party>D</party>
+        <bioguideId>K000375</bioguideId>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <firstName>William</firstName>
+        <state>MA</state>
+        <middleName>R.</middleName>
+        <byRequestType />
+        <lastName>Keating</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2015-05-15</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KEATING:H.R. 2335.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H3213]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7957</gpoId>
+          <bioguideId>R000395</bioguideId>
+          <lisID>977</lisID>
+        </identifiers>
+        <firstName>HAROLD</firstName>
+        <middleName />
+        <state>KY</state>
+        <district>5</district>
+        <lastName>ROGERS</lastName>
+        <sponsorshipDate>2015-05-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000395</bioguideId>
+        <fullName>Rep. Rogers, Harold [R-KY-5]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1916</lisID>
+          <bioguideId>R000583</bioguideId>
+          <gpoId>7888</gpoId>
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <middleName>J.</middleName>
+        <state>FL</state>
+        <district>17</district>
+        <lastName>Rooney</lastName>
+        <sponsorshipDate>2015-05-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000583</bioguideId>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1686</lisID>
+          <gpoId>7974</gpoId>
+          <bioguideId>L000562</bioguideId>
+        </identifiers>
+        <firstName>Stephen</firstName>
+        <middleName>F.</middleName>
+        <state>MA</state>
+        <district>8</district>
+        <lastName>Lynch</lastName>
+        <sponsorshipDate>2015-05-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000562</bioguideId>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1460</lisID>
+          <gpoId>7789</gpoId>
+          <bioguideId>A000055</bioguideId>
+        </identifiers>
+        <firstName>ROBERT</firstName>
+        <middleName>B.</middleName>
+        <state>AL</state>
+        <district>4</district>
+        <lastName>ADERHOLT</lastName>
+        <sponsorshipDate>2015-05-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000055</bioguideId>
+        <fullName>Rep. Aderholt, Robert B. [R-AL-4]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001260</bioguideId>
+          <gpoId>7885</gpoId>
+          <lisID>1840</lisID>
+        </identifiers>
+        <firstName>Vern</firstName>
+        <middleName />
+        <state>FL</state>
+        <district>16</district>
+        <lastName>Buchanan</lastName>
+        <sponsorshipDate>2015-05-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001260</bioguideId>
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2172</lisID>
+          <gpoId />
+          <bioguideId>K000379</bioguideId>
+        </identifiers>
+        <firstName>Joseph</firstName>
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <district>4</district>
+        <lastName>Kennedy</lastName>
+        <sponsorshipDate>2015-05-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000379</bioguideId>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <district>2</district>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipDate>2015-05-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+        </identifiers>
+        <firstName>JANICE</firstName>
+        <middleName>D.</middleName>
+        <state>IL</state>
+        <district>9</district>
+        <lastName>SCHAKOWSKY</lastName>
+        <sponsorshipDate>2015-05-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001145</bioguideId>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2196</lisID>
+          <gpoId />
+          <bioguideId>C001101</bioguideId>
+        </identifiers>
+        <firstName>Katherine</firstName>
+        <middleName>M.</middleName>
+        <state>MA</state>
+        <district>5</district>
+        <lastName>Clark</lastName>
+        <sponsorshipDate>2015-07-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001101</bioguideId>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Food and Drug Administration (FDA)</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-05-15T12:51:45Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

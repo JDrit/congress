@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-02-21", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-02-21", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-16", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1213-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-02-21", 
+  "number": "1213", 
+  "official_title": "To require, as a condition on the receipt of Federal funds, that States require law enforcement agencies to have in effect a policy regarding the use of body-worn cameras and dashboard cameras.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Laquan McDonald Camera Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "R000515", 
+    "district": "1", 
+    "name": "Rush, Bobby L.", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-02-21", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Crime and law enforcement", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Photography and imaging"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-02-21T05:00:00Z", 
+    "text": "Laquan McDonald Camera Act of 2017\n\nThis bill requires state and local law enforcement agencies to require and enforce the use of body-worn and dashboard cameras, as an eligibility condition for a state to receive funds under Department of Justice (DOJ) grant programs that provide amounts for law enforcement purposes.\n\nDOJ must reduce by 10% the allocation of grant funds for a state that fails to certify the full compliance of its state and local law enforcement agencies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Laquan McDonald Camera Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Laquan McDonald Camera Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require, as a condition on the receipt of Federal funds, that States require law enforcement agencies to have in effect a policy regarding the use of body-worn cameras and dashboard cameras.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Laquan McDonald Camera Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-19T21:15:27Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr1213.xml"
+}

@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3209-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "T000465", 
+      "district": "3", 
+      "name": "Tsongas, Niki", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-12", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-12", 
+  "number": "3209", 
+  "official_title": "To amend title 10, United States Code, to improve protections for a member of the Armed Forces who is a survivor of a sex-related offense during military service regarding the separation, or the characterization of any separation, of the member from the Armed Forces, to make additional changes to the authorities and procedures of boards for the correction of military records and discharge review boards, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Protecting Military Honor Act", 
+  "sponsor": {
+    "bioguide_id": "H001056", 
+    "district": "3", 
+    "name": "Herrera Beutler, Jaime", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-12", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting Military Honor Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting Military Honor Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to improve protections for a member of the Armed Forces who is a survivor of a sex-related offense during military service regarding the separation, or the characterization of any separation, of the member from the Armed Forces, to make additional changes to the authorities and procedures of boards for the correction of military records and discharge review boards, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Protecting Military Honor Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-20T15:00:12Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3209.xml"
+}

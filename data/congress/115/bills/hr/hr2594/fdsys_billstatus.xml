@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>2594</billNumber>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>M001202</bioguideId>
+        <lastName>Murphy</lastName>
+        <identifiers>
+          <bioguideId>M001202</bioguideId>
+          <gpoId />
+          <lisID>2318</lisID>
+        </identifiers>
+        <district>7</district>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <middleName>N.</middleName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <firstName>Stephanie</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>K000387</bioguideId>
+        <lastName>Knight</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2228</lisID>
+          <bioguideId>K000387</bioguideId>
+        </identifiers>
+        <district>25</district>
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <middleName />
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <firstName>Stephen</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001067</bioguideId>
+        <lastName>Clarke</lastName>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <district>9</district>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <middleName>D.</middleName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <firstName>Yvette</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>G000582</bioguideId>
+        <lastName>Gonzalez-Colon</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2347</lisID>
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <middleName />
+        <state>PR</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <firstName>Jenniffer</firstName>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Small Business Committee</name>
+          <activities>
+            <item>
+              <date>2017-06-15T13:12:35Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-05-23T14:00:37Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hssm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-05-23</introducedDate>
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <name>Small Business Committee</name>
+          <systemCode>hssm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended).</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <name>Small Business Committee</name>
+          <systemCode>hssm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Small Business.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Small Business Committee</name>
+          <systemCode>hssm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-23</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-23</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-23</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <state>PA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <bioguideId>F000466</bioguideId>
+        <firstName>Brian</firstName>
+        <middleName>K.</middleName>
+        <lastName>Fitzpatrick</lastName>
+        <district>8</district>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <updateDate>2017-06-27T07:12:40Z</updateDate>
+    <recordedVotes />
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <relatedBills />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. FITZPATRICK:H.R. 2594.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1[Page H4503]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Small Business Payment for Performance Act of 2017</title>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <createDate>2017-05-24T03:11:40Z</createDate>
+    <latestAction>
+      <text>Ordered to be Reported (Amended).</text>
+      <links />
+      <actionDate>2017-06-15</actionDate>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Small Business Payment for Performance Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Small Business Payment for Performance Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Small Business Act to provide interim partial payment to small business contractors that request an equitable adjustment due to a change in the terms of a construction contract, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Small Business Payment for Performance Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <billType>HR</billType>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

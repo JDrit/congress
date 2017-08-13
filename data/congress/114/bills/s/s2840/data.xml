@@ -1,0 +1,127 @@
+<bill session="114" type="s" number="2840" updated="2017-06-02T23:42:12Z">
+  <state datetime="2016-07-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2016-07-22"/>
+  </status>
+  <introduced datetime="2016-04-21"/>
+  <titles>
+    <title type="short" as="introduced">POLICE Act of 2016</title>
+    <title type="short" as="introduced">Protecting Our Lives by Initiating COPS Expansion Act of 2016</title>
+    <title type="short" as="reported to senate">POLICE Act of 2016</title>
+    <title type="short" as="reported to senate">Protecting Our Lives by Initiating COPS Expansion Act of 2016</title>
+    <title type="short" as="passed house">POLICE Act of 2016</title>
+    <title type="short" as="passed house">Protecting Our Lives by Initiating COPS Expansion Act of 2016</title>
+    <title type="short" as="passed senate">POLICE Act of 2016</title>
+    <title type="short" as="passed senate">Protecting Our Lives by Initiating COPS Expansion Act of 2016</title>
+    <title type="short" as="enacted">POLICE Act of 2016</title>
+    <title type="short" as="enacted">Protecting Our Lives by Initiating COPS Expansion Act of 2016</title>
+    <title type="official" as="introduced">A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to authorize COPS grantees to use grant funds for active shooter training, and for other purposes.</title>
+    <title type="display">Protecting Our Lives by Initiating COPS Expansion Act of 2016</title>
+  </titles>
+  <sponsor id="300027"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2016-04-28"/>
+    <cosponsor id="400040" joined="2016-04-28"/>
+    <cosponsor id="412390" joined="2016-04-21"/>
+    <cosponsor id="412205" joined="2016-05-10"/>
+    <cosponsor id="300038" joined="2016-05-18"/>
+    <cosponsor id="300043" joined="2016-04-21"/>
+    <cosponsor id="412378" joined="2016-04-21"/>
+    <cosponsor id="300048" joined="2016-04-21"/>
+    <cosponsor id="300052" joined="2016-04-21"/>
+    <cosponsor id="412554" joined="2016-05-11"/>
+    <cosponsor id="412242" joined="2016-05-12"/>
+    <cosponsor id="300065" joined="2016-04-21"/>
+    <cosponsor id="412391" joined="2016-05-10"/>
+    <cosponsor id="300072" joined="2016-05-10"/>
+    <cosponsor id="300075" joined="2016-04-28"/>
+    <cosponsor id="300088" joined="2016-04-28"/>
+    <cosponsor id="412668" joined="2016-05-11"/>
+    <cosponsor id="400418" joined="2016-04-21"/>
+    <cosponsor id="412247" joined="2016-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2016-04-21">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2016-04-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S2390" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2016-05-12" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2016-05-12">
+      <text>Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2016-05-12" calendar="Senate Legislative" under="General Orders" number="464">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 464.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="2016-05-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+      <reference ref="CR S2933-2935" label="consideration"/>
+      <reference ref="CR S2933" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2016-05-18T15:06:51-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2016-05-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2016-05-18">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2016-05-23">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2016-07-12">
+      <text>Committee on the Judiciary discharged.</text>
+    </action>
+    <action datetime="2016-07-12T16:36:00-04:00">
+      <text>Mr. Goodlatte asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2016-07-12T16:36:17-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H4697-4698" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote2" datetime="2016-07-12T16:36:36-04:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H4697-4698" label="text"/>
+    </vote>
+    <action datetime="2016-07-12T16:36:42-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2016-07-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2016-07-22" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="114-199" type="public" datetime="2016-07-22">
+      <text>Became Public Law No: 114-199.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Discharged, Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="h" number="4584"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms and explosives"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Terrorism"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary date="2016-07-23T03:59:58Z" status="Public Law">(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.)
+
+Protecting Our Lives by Initiating COPS Expansion Act of 2016 or the POLICE Act of 2016
+
+(Sec. 2) This bill amends the Omnibus Crime Control and Safe Streets Act of 1968 to expand the allowable use of grant funds under the Community Oriented Policing Services (COPS) program to include participation in active shooter training programs.</summary>
+  <committee-reports/>
+</bill>

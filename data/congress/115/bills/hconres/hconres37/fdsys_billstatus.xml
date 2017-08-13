@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-22T14:03:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-23T13:34:03Z</date>
+                </item>
+              </activities>
+              <systemCode>hswm04</systemCode>
+              <name>Trade Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-03-22T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-27T17:40:34Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Expresses the sense of Congress that Congress and the President should prioritize the reduction and elimination, over a reasonable period of time, of the overall trade deficit of the United States.</p>]]></text>
+          <actionDate>2017-03-22</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <createDate>2017-03-23T05:20:01Z</createDate>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-03-23</actionDate>
+      <text>Referred to the Subcommittee on Trade.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <congress>115</congress>
+    <billNumber>37</billNumber>
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <updateDate>2017-06-21T07:15:17Z</updateDate>
+    <cosponsors>
+      <item>
+        <firstName>Daniel</firstName>
+        <state>IL</state>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>William</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <identifiers>
+          <gpoId>7923</gpoId>
+          <lisID>1781</lisID>
+          <bioguideId>L000563</bioguideId>
+        </identifiers>
+        <bioguideId>L000563</bioguideId>
+        <lastName>Lipinski</lastName>
+      </item>
+      <item>
+        <firstName>Duncan</firstName>
+        <state>CA</state>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>D.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>50</district>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <identifiers>
+          <gpoId>7857</gpoId>
+          <bioguideId>H001048</bioguideId>
+          <lisID>1909</lisID>
+        </identifiers>
+        <bioguideId>H001048</bioguideId>
+        <lastName>Hunter</lastName>
+      </item>
+      <item>
+        <firstName>WALTER</firstName>
+        <state>NC</state>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <bioguideId>J000255</bioguideId>
+        <lastName>JONES</lastName>
+      </item>
+    </cosponsors>
+    <laws />
+    <introducedDate>2017-03-22</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2017-03-23</actionDate>
+        <committee>
+          <systemCode>hswm04</systemCode>
+          <name>Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-22</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-03-22</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-03-22</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Expressing the sense of Congress that Congress and the President should prioritize the reduction and elimination, over a reasonable period of time, of the overall trade deficit of the United States.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Expressing the sense of Congress that Congress and the President should prioritize the reduction and elimination, over a reasonable period of time, of the overall trade deficit of the United States.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <title>Expressing the sense of Congress that Congress and the President should prioritize the reduction and elimination, over a reasonable period of time, of the overall trade deficit of the United States.</title>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billType>HCONRES</billType>
+    <recordedVotes />
+    <committeeReports />
+    <cboCostEstimates />
+    <amendments />
+    <sponsors>
+      <item>
+        <bioguideId>B001274</bioguideId>
+        <firstName>Mo</firstName>
+        <state>AL</state>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <district>5</district>
+        <party>R</party>
+        <byRequestType />
+        <lastName>Brooks</lastName>
+        <identifiers>
+          <gpoId>7790</gpoId>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

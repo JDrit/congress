@@ -1,0 +1,54 @@
+<bill session="115" type="h" number="578" updated="2017-06-19T20:45:23Z">
+  <state datetime="2017-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2017-01-13"/>
+  </status>
+  <introduced datetime="2017-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Military Residency Choice Act</title>
+    <title type="short" as="introduced">Military Residency Choice Act</title>
+    <title type="official" as="introduced">To amend the Servicemembers Civil Relief Act to authorize spouses of servicemembers to elect to use the same residences as the servicemembers.</title>
+    <title type="display">Military Residency Choice Act</title>
+  </titles>
+  <sponsor id="412255"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2017-01-30"/>
+    <cosponsor id="412382" joined="2017-02-02"/>
+    <cosponsor id="400196" joined="2017-01-13"/>
+    <cosponsor id="400209" joined="2017-01-30"/>
+    <cosponsor id="412649" joined="2017-02-28"/>
+    <cosponsor id="400352" joined="2017-01-30"/>
+    <cosponsor id="412219" joined="2017-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-01-13">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-01-13" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2017-02-03">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="115" type="h" number="282"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Marriage and family status"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-01-13T05:00:00Z" status="Introduced in House">Military Residency Choice Act
+
+This bill amends the Servicemembers Civil Relief Act to permit the spouse of a servicemember to elect to use the same residence as the servicemember for purposes of taxation and voting, regardless of the date on which the marriage of the spouse and the servicemember occurred.</summary>
+  <committee-reports/>
+</bill>

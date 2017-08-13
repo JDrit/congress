@@ -1,0 +1,82 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3430-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-26", 
+  "number": "3430", 
+  "official_title": "To establish in the National Highway Traffic Safety Administration a Highly Automated Vehicle Information Sharing Advisory Council to make recommendations regarding the development of a framework that allows manufacturers of highly automated vehicles to share information related to testing or deployment events on public streets.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "G000558", 
+    "district": "2", 
+    "name": "Guthrie, Brett", 
+    "state": "KY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-26", 
+  "subjects": [
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish in the National Highway Traffic Safety Administration a Highly Automated Vehicle Information Sharing Advisory Council to make recommendations regarding the development of a framework that allows manufacturers of highly automated vehicles to share information related to testing or deployment events on public streets.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To establish in the National Highway Traffic Safety Administration a Highly Automated Vehicle Information Sharing Advisory Council to make recommendations regarding the development of a framework that allows manufacturers of highly automated vehicles to share information related to testing or deployment events on public streets.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-28T13:00:17Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3430.xml"
+}

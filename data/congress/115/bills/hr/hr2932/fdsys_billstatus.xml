@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-06-16T13:30:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-06-23T13:36:29Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif17</systemCode>
+              <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+        </item>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-06-16T13:30:36Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+        </item>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-06-16T13:30:31Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <committee>
+          <systemCode>hsif17</systemCode>
+          <name>Commerce, Manufacturing, and Trade Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to House Energy and Commerce</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-16</actionDate>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to House Foreign Affairs</text>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-16</actionDate>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to House Financial Services</text>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-16</actionDate>
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committees on Foreign Affairs, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-16</actionDate>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-16</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-16</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>3</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2017-06-23</actionDate>
+      <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+    </latestAction>
+    <committeeReports />
+    <relatedBills />
+    <amendments />
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <notes />
+    <titles>
+      <item>
+        <title>Foreign Investment and Economic Security Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>To amend the Defense Production Act of 1950 to provide for a net benefit review of certain covered transactions, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Foreign Investment and Economic Security Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>Foreign Investment and Economic Security Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <updateDate>2017-07-14T07:16:13Z</updateDate>
+    <congress>115</congress>
+    <createDate>2017-06-17T03:11:35Z</createDate>
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <laws />
+    <billNumber>2932</billNumber>
+    <cosponsors>
+      <item>
+        <middleName />
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <state>MI</state>
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <party>D</party>
+        <lastName>CONYERS</lastName>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <district>13</district>
+        <bioguideId>C000714</bioguideId>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <state>OR</state>
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <party>D</party>
+        <lastName>DEFAZIO</lastName>
+        <firstName>PETER</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <bioguideId>D000191</bioguideId>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <state>AZ</state>
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <party>D</party>
+        <lastName>Grijalva</lastName>
+        <firstName>Raul</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <bioguideId>G000551</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <state>WI</state>
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <party>D</party>
+        <lastName>Pocan</lastName>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <bioguideId>P000607</bioguideId>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <state>NY</state>
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <party>D</party>
+        <lastName>SLAUGHTER</lastName>
+        <firstName>LOUISE</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8089</gpoId>
+          <lisID>1069</lisID>
+          <bioguideId>S000480</bioguideId>
+        </identifiers>
+        <district>25</district>
+        <bioguideId>S000480</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <state>MN</state>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <lastName>MCCOLLUM</lastName>
+        <firstName>BETTY</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8004</gpoId>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <bioguideId>M001143</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <state>CA</state>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <lastName>Khanna</lastName>
+        <firstName>Ro</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>17</district>
+        <bioguideId>K000389</bioguideId>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <state>MA</state>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <party>D</party>
+        <lastName>MCGOVERN</lastName>
+        <firstName>JAMES</firstName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <district>2</district>
+        <bioguideId>M000312</bioguideId>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <district>3</district>
+        <identifiers>
+          <gpoId>7868</gpoId>
+          <bioguideId>D000216</bioguideId>
+          <lisID>281</lisID>
+        </identifiers>
+        <bioguideId>D000216</bioguideId>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <firstName>ROSA</firstName>
+        <middleName />
+        <state>CT</state>
+        <lastName>DELAURO</lastName>
+      </item>
+    </sponsors>
+    <introducedDate>2017-06-16</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. DeLAURO:H.R. 2932.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the U.S. Constitution[Page H4943]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Foreign Investment and Economic Security Act of 2017</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

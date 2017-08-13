@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-10-29</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-10-29</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-03-03</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <latestTitle>PHIT Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1218</number>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>2218</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-10-29T15:33:52Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-10-29</introducedDate>
+    <updateDate>2017-06-02T23:32:01Z</updateDate>
+    <title>PHIT Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>PHIT Act of 2015</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Personal Health Investment Today Act of 2015</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to treat certain amounts paid for physical activity, fitness, and exercise as amounts paid for medical care.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>PHIT Act of 2015</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-10-29T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Personal Health Investment Today Act of 2015 or the PHIT Act of 2015</strong></p> <p>This bill amends the Internal Revenue Code to allow a medical care tax deduction for up to $1,000 ($2,000 for a joint return or a head of household) of qualified sports and fitness expenses. The bill defines "qualified sports and fitness expenses" as amounts paid exclusively for the sole purpose of participating in a physical activity, including: (1) for membership at a fitness facility, (2) for participation or instruction in physical exercise or activity, or (3) for equipment used in a program (including a self-directed program) of physical exercise or activity.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2015-12-17T14:53:22Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2015-10-29</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <party>R</party>
+        <bioguideId>T000250</bioguideId>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <state>SD</state>
+        <middleName>R.</middleName>
+        <byRequestType />
+        <lastName>THUNE</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2015-10-29</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>7870</gpoId>
+          <bioguideId>M001169</bioguideId>
+          <lisID>1837</lisID>
+        </identifiers>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <bioguideId>M001169</bioguideId>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-10-29</sponsorshipDate>
+        <lastName>Murphy</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+        <firstName>Johnny</firstName>
+        <party>R</party>
+        <bioguideId>I000055</bioguideId>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>GA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-10-29</sponsorshipDate>
+        <lastName>Isakson</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <gpoId>7941</gpoId>
+          <lisID>1850</lisID>
+        </identifiers>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <bioguideId>D000607</bioguideId>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IN</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-10-29</sponsorshipDate>
+        <lastName>Donnelly</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+        </identifiers>
+        <firstName>Gary</firstName>
+        <party>D</party>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-01-19</sponsorshipDate>
+        <lastName>Peters</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <firstName>EDWARD</firstName>
+        <party>D</party>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-02-10</sponsorshipDate>
+        <lastName>MARKEY</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+          <lisID>1881</lisID>
+        </identifiers>
+        <firstName>John</firstName>
+        <party>R</party>
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WY</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-02-11</sponsorshipDate>
+        <lastName>Barrasso</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <firstName>JERRY</firstName>
+        <party>R</party>
+        <bioguideId>M000934</bioguideId>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>KS</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-02-22</sponsorshipDate>
+        <lastName>MORAN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <firstName>TAMMY</firstName>
+        <party>D</party>
+        <bioguideId>B001230</bioguideId>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-02-25</sponsorshipDate>
+        <lastName>BALDWIN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8315</gpoId>
+          <bioguideId>A000368</bioguideId>
+          <lisID>2075</lisID>
+        </identifiers>
+        <firstName>Kelly</firstName>
+        <party>R</party>
+        <bioguideId>A000368</bioguideId>
+        <fullName>Sen. Ayotte, Kelly [R-NH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-03-16</sponsorshipDate>
+        <lastName>Ayotte</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+        <party>R</party>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WV</state>
+        <middleName>MOORE</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-03-16</sponsorshipDate>
+        <lastName>CAPITO</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2288</lisID>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <bioguideId>R000605</bioguideId>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SD</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-04-06</sponsorshipDate>
+        <lastName>Rounds</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+          <bioguideId>H001041</bioguideId>
+        </identifiers>
+        <firstName>Dean</firstName>
+        <party>R</party>
+        <bioguideId>H001041</bioguideId>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NV</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-06-16</sponsorshipDate>
+        <lastName>Heller</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Physical fitness and lifestyle</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-10-30T14:28:53Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

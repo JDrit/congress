@@ -1,0 +1,72 @@
+<bill session="115" type="h" number="2190" updated="2017-06-27T04:33:00Z">
+  <state datetime="2017-06-20T19:16:58-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-06-20T19:16:58-04:00"/>
+  </status>
+  <introduced datetime="2017-04-27"/>
+  <titles>
+    <title type="short" as="reported to house">Streamlining DHS Overhead Act</title>
+    <title type="short" as="introduced">Streamlining DHS Overhead Act</title>
+    <title type="short" as="introduced">Streamlining DHS Overhead Act</title>
+    <title type="short" as="passed house">Streamlining DHS Overhead Act</title>
+    <title type="short" as="passed house">Streamlining DHS Overhead Act</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to direct the Under Secretary for Management of the Department of Homeland Security to make certain improvements in managing the Department's real property portfolio, and for other purposes.</title>
+    <title type="display">Streamlining DHS Overhead Act</title>
+  </titles>
+  <sponsor id="412692"/>
+  <cosponsors>
+    <cosponsor id="400654" joined="2017-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-27" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-05-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-05-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-06-20">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-184.</text>
+    </action>
+    <calendar datetime="2017-06-20" calendar="Union" number="125">
+      <text>Placed on the Union Calendar, Calendar No. 125.</text>
+    </calendar>
+    <action datetime="2017-06-20T19:11:37-04:00">
+      <text>Mr. Rutherford moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-06-20T19:11:52-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4982-4984" label="consideration"/>
+    </action>
+    <action datetime="2017-06-20T19:11:56-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2190.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-06-20T19:16:58-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4982-4983" label="text"/>
+    </vote>
+    <action datetime="2017-06-20T19:17:05-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-06-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 115-184</report>
+  </committee-reports>
+</bill>

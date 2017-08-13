@@ -1,0 +1,146 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-05-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-05-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2341-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001298", 
+      "district": "2", 
+      "name": "Bacon, Don", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-29", 
+      "state": "NE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000376", 
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-22", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000188", 
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-05-03", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-05-03", 
+  "number": "2341", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to clarify the retirement income account rules relating to church-controlled organizations.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s674-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Seeking an End to Restrictions on Votive Employees Act", 
+  "sponsor": {
+    "bioguide_id": "R000580", 
+    "district": "6", 
+    "name": "Roskam, Peter J.", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-05-03", 
+  "subjects": [
+    "Employee benefits and pensions", 
+    "Income tax deferral", 
+    "Religion", 
+    "Tax-exempt organizations", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-05-03T04:00:00Z", 
+    "text": "Seeking an End to Restrictions on Votive Employees Act or the SERVE Act \n\nThis bill amends the Internal Revenue Code to specify that a retirement income account provided by a church or a convention or association of churches may cover: (1) a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry, regardless of the source of his compensation; (2) an employee of a tax-exempt organization, whether a civil law corporation or otherwise, that is controlled by or associated with a church or a convention or association of churches; and (3) certain employees who have been separated from service with a church, a convention or association of churches, or an organization described above."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Seeking an End to Restrictions on Votive Employees Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Seeking an End to Restrictions on Votive Employees Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SERVE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to clarify the retirement income account rules relating to church-controlled organizations.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "SERVE Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-11T18:45:10Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr2341.xml"
+}

@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-02-11</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2015-02-11</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2015-02-11</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2015-11-10</actionDate>
+        </latestAction>
+        <latestTitle>A bill to direct the Secretary of the Interior to reissue final rules relating to listing of the gray wolf in the Western Great Lakes and Wyoming under the Endangered Species Act of 1973, and for other purposes.</latestTitle>
+        <number>2281</number>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 371.</text>
+          <actionDate>2016-02-24</actionDate>
+        </latestAction>
+        <latestTitle>Bipartisan Sportsmen's Act of 2016</latestTitle>
+        <number>659</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>884</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-02-11T15:06:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-02-11</introducedDate>
+    <updateDate>2017-06-02T20:06:23Z</updateDate>
+    <title>To direct the Secretary of the Interior to reissue final rules relating to listing of the gray wolf in the Western Great Lakes and Wyoming under the Endangered Species Act of 1973, and for other purposes.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To direct the Secretary of the Interior to reissue final rules relating to listing of the gray wolf in the Western Great Lakes and Wyoming under the Endangered Species Act of 1973, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To direct the Secretary of the Interior to reissue final rules relating to listing of the gray wolf in the Western Great Lakes and Wyoming under the Endangered Species Act of 1973, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-02-11</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>This bill requires the Department of the Interior to reissue: (1) the final rule published on December 28, 2011, that removed the gray wolf in the Western Great Lakes Distinct Population Segment from the List of Endangered and Threatened Wildlife and that removed the designation of critical habitat for that wolf in Minnesota and Michigan; and (2) the final rule published on September 10, 2012, that removed the gray wolf in Wyoming from the list and removed the Yellowstone Experimental Protection Area that was established to facilitate reintroduction of the wolf.</p> <p>Rules reissued under this Act are not subject to judicial review.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-07-20T16:47:42Z</lastSummaryUpdateDate>
+          <updateDate>2015-02-11T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2073</lisID>
+          <bioguideId>R000587</bioguideId>
+          <gpoId>8221</gpoId>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <bioguideId>R000587</bioguideId>
+        <fullName>Rep. Ribble, Reid J. [R-WI-8]</fullName>
+        <firstName>Reid</firstName>
+        <state>WI</state>
+        <middleName>J.</middleName>
+        <byRequestType />
+        <lastName>Ribble</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2015-02-11</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RIBBLE:H.R. 884.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the U.S. Constitution.[Page H983]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <state>WY</state>
+        <identifiers>
+          <lisID>1960</lisID>
+          <gpoId>8225</gpoId>
+          <bioguideId>L000571</bioguideId>
+        </identifiers>
+        <firstName>Cynthia</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lummis, Cynthia M. [R-WY-At Large]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>0</district>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lummis</lastName>
+        <bioguideId>L000571</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2027</lisID>
+          <gpoId>7986</gpoId>
+          <bioguideId>B001271</bioguideId>
+        </identifiers>
+        <firstName>Dan</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Benishek, Dan [R-MI-1]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>1</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Benishek</lastName>
+        <bioguideId>B001271</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <lisID>910</lisID>
+          <gpoId>8007</gpoId>
+          <bioguideId>P000258</bioguideId>
+        </identifiers>
+        <firstName>COLLIN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>7</district>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>PETERSON</lastName>
+        <bioguideId>P000258</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>WI</state>
+        <identifiers>
+          <gpoId>8220</gpoId>
+          <bioguideId>D000614</bioguideId>
+          <lisID>2072</lisID>
+        </identifiers>
+        <firstName>Sean</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>7</district>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Duffy</lastName>
+        <bioguideId>D000614</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>E000294</bioguideId>
+          <gpoId />
+          <lisID>2253</lisID>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>6</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Emmer</lastName>
+        <bioguideId>E000294</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>WI</state>
+        <identifiers>
+          <lisID>2276</lisID>
+          <gpoId />
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <firstName>Glenn</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>6</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Grothman</lastName>
+        <bioguideId>G000576</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2028</lisID>
+          <gpoId>7987</gpoId>
+          <bioguideId>H001058</bioguideId>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>2</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Huizenga</lastName>
+        <bioguideId>H001058</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <firstName>RON</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>3</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>KIND</lastName>
+        <bioguideId>K000188</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1733</lisID>
+          <bioguideId>K000363</bioguideId>
+          <gpoId>8002</gpoId>
+        </identifiers>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Kline, John [R-MN-2]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>2</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Kline</lastName>
+        <bioguideId>K000363</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>WI</state>
+        <identifiers>
+          <lisID>1560</lisID>
+          <bioguideId>R000570</bioguideId>
+          <gpoId>8214</gpoId>
+        </identifiers>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Ryan, Paul [R-WI-1]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>1</district>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ryan</lastName>
+        <bioguideId>R000570</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>WI</state>
+        <identifiers>
+          <gpoId>8218</gpoId>
+          <bioguideId>S000244</bioguideId>
+          <lisID>1041</lisID>
+        </identifiers>
+        <firstName>F.</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>5</district>
+        <middleName>JAMES</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>SENSENBRENNER</lastName>
+        <bioguideId>S000244</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>S001148</bioguideId>
+          <gpoId>7920</gpoId>
+          <lisID>1590</lisID>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>2</district>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>SIMPSON</lastName>
+        <bioguideId>S001148</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>W000798</bioguideId>
+          <gpoId>7992</gpoId>
+          <lisID>1855</lisID>
+        </identifiers>
+        <firstName>Tim</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>7</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Walberg</lastName>
+        <bioguideId>W000798</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1856</lisID>
+          <bioguideId>W000799</bioguideId>
+          <gpoId>8001</gpoId>
+        </identifiers>
+        <firstName>Timothy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <district>1</district>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Walz</lastName>
+        <bioguideId>W000799</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <lisID>867</lisID>
+          <bioguideId>N000127</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>RICHARD</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <sponsorshipDate>2015-02-13</sponsorshipDate>
+        <district>8</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>NOLAN</lastName>
+        <bioguideId>N000127</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001194</bioguideId>
+          <lisID>2248</lisID>
+        </identifiers>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <sponsorshipDate>2015-03-16</sponsorshipDate>
+        <district>4</district>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Moolenaar</lastName>
+        <bioguideId>M001194</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <gpoId>7991</gpoId>
+          <bioguideId>U000031</bioguideId>
+          <lisID>1177</lisID>
+        </identifiers>
+        <firstName>FRED</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <district>6</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>UPTON</lastName>
+        <bioguideId>U000031</bioguideId>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Michigan</name>
+          </item>
+          <item>
+            <name>Minnesota</name>
+          </item>
+          <item>
+            <name>Wisconsin</name>
+          </item>
+          <item>
+            <name>Wyoming</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-02-12T05:30:26Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-09-22</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6900-6901</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S6900-6901</url>
+          </link>
+          <link>
+            <name>S6907</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S6907</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6907; text as passed Senate: CR S6900-6901)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S6907; text as passed Senate: CR S6900-6901)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S6900-6901</name>
+            <url>http://tntwxavlp01.loc.gov/congressional-record/volume-161/senate-section/page/S6900-6901</url>
+          </link>
+          <link>
+            <name>S6907</name>
+            <url>http://tntwxavlp01.loc.gov/congressional-record/volume-161/senate-section/page/S6907</url>
+          </link>
+        </links>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-09-22</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-09-22</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HRES</type>
+        <latestAction>
+          <text>Referred to the House Committee on House Administration.</text>
+          <actionDate>2015-09-17</actionDate>
+        </latestAction>
+        <latestTitle>Honoring the life, accomplishments, and legacy of Congressman Louis Stokes.</latestTitle>
+        <number>427</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>265</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees />
+    </committees>
+    <introducedDate>2015-09-22</introducedDate>
+    <updateDate>2017-06-02T22:40:04Z</updateDate>
+    <title>A resolution honoring the life, accomplishments, and legacy of Congressman Louis Stokes.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution honoring the life, accomplishments, and legacy of Congressman Louis Stokes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A resolution honoring the life, accomplishments, and legacy of Congressman Louis Stokes.</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-09-22T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Honor the life, accomplishments, and legacy of Congressman Louis Stokes.</p> <p>Extends heartfelt sympathies and condolences to his family, friends, and loved ones.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-09-25T21:16:33Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-09-22</actionDate>
+        </item>
+        <item>
+          <updateDate>2015-09-22T15:48:23Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Honor the life, accomplishments, and legacy of Congressman Louis Stokes.</p> <p>Extends heartfelt sympathies and condolences to his family, friends, and loved ones.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2015-09-25T21:16:41Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <versionCode>82</versionCode>
+          <actionDate>2015-09-22</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <firstName>SHERROD</firstName>
+        <party>D</party>
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <state>OH</state>
+        <middleName />
+        <byRequestType />
+        <lastName>BROWN</lastName>
+      </item>
+    </sponsors>
+    <billType>SRES</billType>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6907; text as passed Senate: CR S6900-6901)</text>
+      <actionDate>2015-09-22</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2015-09-22</sponsorshipDate>
+        <state>OH</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>ROB</firstName>
+        <lastName>PORTMAN</lastName>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+        </identifiers>
+        <bioguideId>P000449</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Ohio</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-09-23T08:46:10Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

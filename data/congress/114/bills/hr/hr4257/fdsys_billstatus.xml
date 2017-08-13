@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>4</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-12-15</actionDate>
+        <committee>
+          <name>Trade Subcommittee</name>
+          <systemCode>hswm04</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-12-15</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Financial Services</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-12-15</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-12-15</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Rules</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-12-15</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Foreign Affairs</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-12-15</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Rules, Ways and Means, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-12-15</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-12-15</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills />
+    <laws />
+    <billNumber>4257</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-12-15T17:01:05Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Trade Subcommittee</name>
+              <systemCode>hswm04</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-12-15T20:28:58Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-12-15T17:01:10Z</date>
+            </item>
+          </activities>
+          <systemCode>hsba00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-12-15T17:01:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsru00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-12-15T17:00:50Z</date>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-12-15</introducedDate>
+    <updateDate>2017-06-02T21:42:21Z</updateDate>
+    <title>IRGC Sanctions Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>IRGC Sanctions Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To protect the American and Iranian peoples as well as the global economy from Iran's systematic abjuration of international legal standards on human and civil rights, its support for international terrorism, and the corrosive economic malfeasance of Iran's Revolutionary Guard Corps, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>IRGC Sanctions Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-12-15</actionDate>
+          <updateDate>2015-12-15T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2016-03-23T19:10:01Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>IRGC Sanctions Act</strong></p> <p>This bill amends the Arms Export Control Act, the Export Administration Act of 1979, and the Foreign Assistance Act of 1961 to require congressional approval of any rescission of a determination that a country is a state sponsor of terrorism.</p> <p>The Trade Act of 1974 is amended to prohibit a U.S. person from knowingly engaging in any financial transaction with or transfer of funds to: </p> <ul> <li>Iran's Revolutionary Guard Corps (IRGC) or any IRGC subdivision; </li> <li>any person that is an agent, alias, front, instrumentality, or affiliate of any such entity; </li> <li>any person owned or controlled by such an entity or such a person; </li> <li>any natural person who is a representative, official, or senior member of any such entity; or </li> <li>any person for the purpose of avoiding a financial transaction with, or transfer of funds to, such an individual or entity, or for the benefit of such an individual or entity.</li> </ul> <p>The President shall exercise specified authorities under the International Emergency Economic Powers Act to carry out this Act, except that the President shall: </p> <ul> <li>not issue any general license authorizing, or otherwise authorize, any prohibited activity; or </li> <li>require any U.S. person seeking to engage in a prohibited financial transaction or transfer of funds to submit a written request to the Department of the Treasury's Office of Foreign Assets Control.</li> </ul> <p>Congressional approval shall be required to remove any person added to the Office's list of specially designated nationals and blocked persons pursuant to this Act.</p> <p>A person that violates prohibited activities shall be subject to specified penalties under the International Emergency Economic Powers Act. </p> <p>The President shall establish and update a watch list of persons that: </p> <ul> <li> meet certain criteria under this Act and are not included on the Office's list of specially designated nationals and blocked persons, and </li> <li>are Iranian persons that meet specified criteria under this Act and have been removed from the Office's list of specially designated nationals and blocked persons in accordance with the terms of United Nations Security Council Resolution 2231 and the Joint Comprehensive Plan of Action.</li> </ul> <p>The President may remove a person on the watch list under specified conditions.</p> <p>The Securities Exchange Act of 1934 is amended to require securities issuers to report to the Securities Exchange Commission any transaction prohibited by this Act.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1710</lisID>
+          <gpoId>7826</gpoId>
+          <bioguideId>N000181</bioguideId>
+        </identifiers>
+        <district>22</district>
+        <party>R</party>
+        <bioguideId>N000181</bioguideId>
+        <fullName>Rep. Nunes, Devin [R-CA-22]</fullName>
+        <firstName>Devin</firstName>
+        <state>CA</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Nunes</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Trade.</text>
+      <actionDate>2015-12-15</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. NUNES:H.R. 4257.Congress has the power to enact this legislation pursuantto the following:Clause 3 of section 8 of Article I of the United StatesConstitution;Clause 18 of section 8 of Article I of the United StatesConstitution.[Page H9328]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Thornberry, Mac [R-TX-13]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>THORNBERRY</lastName>
+        <district>13</district>
+        <identifiers>
+          <gpoId>8755</gpoId>
+          <bioguideId>T000238</bioguideId>
+          <lisID>1155</lisID>
+        </identifiers>
+        <state>TX</state>
+        <firstName>WILLIAM</firstName>
+        <bioguideId>T000238</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>McCaul</lastName>
+        <district>10</district>
+        <identifiers>
+          <lisID>1804</lisID>
+          <bioguideId>M001157</bioguideId>
+          <gpoId>8166</gpoId>
+        </identifiers>
+        <state>TX</state>
+        <firstName>Michael</firstName>
+        <bioguideId>M001157</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>T.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Miller</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1685</lisID>
+          <gpoId>7873</gpoId>
+          <bioguideId>M001144</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <firstName>Jeff</firstName>
+        <bioguideId>M001144</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Frelinghuysen, Rodney P. [R-NJ-11]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>FRELINGHUYSEN</lastName>
+        <district>11</district>
+        <identifiers>
+          <lisID>414</lisID>
+          <gpoId>8053</gpoId>
+          <bioguideId>F000372</bioguideId>
+        </identifiers>
+        <state>NJ</state>
+        <firstName>RODNEY</firstName>
+        <bioguideId>F000372</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Granger, Kay [R-TX-12]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>GRANGER</lastName>
+        <district>12</district>
+        <identifiers>
+          <gpoId>8168</gpoId>
+          <bioguideId>G000377</bioguideId>
+          <lisID>1487</lisID>
+        </identifiers>
+        <state>TX</state>
+        <firstName>KAY</firstName>
+        <bioguideId>G000377</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>KING</lastName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+        </identifiers>
+        <state>NY</state>
+        <firstName>PETER</firstName>
+        <bioguideId>K000210</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>T.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>LOBIONDO</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>699</lisID>
+          <bioguideId>L000554</bioguideId>
+          <gpoId>8044</gpoId>
+        </identifiers>
+        <state>NJ</state>
+        <firstName>FRANK</firstName>
+        <bioguideId>L000554</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rooney</lastName>
+        <district>17</district>
+        <identifiers>
+          <lisID>1916</lisID>
+          <gpoId>7888</gpoId>
+          <bioguideId>R000583</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <firstName>Thomas</firstName>
+        <bioguideId>R000583</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Heck, Joseph J. [R-NV-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heck</lastName>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>H001055</bioguideId>
+          <gpoId>8061</gpoId>
+          <lisID>2040</lisID>
+        </identifiers>
+        <state>NV</state>
+        <firstName>Joseph</firstName>
+        <bioguideId>H001055</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Pompeo, Mike [R-KS-4]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pompeo</lastName>
+        <district>4</district>
+        <identifiers>
+          <gpoId>7952</gpoId>
+          <bioguideId>P000602</bioguideId>
+          <lisID>2022</lisID>
+        </identifiers>
+        <state>KS</state>
+        <firstName>Mike</firstName>
+        <bioguideId>P000602</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Stewart</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>2168</lisID>
+          <gpoId />
+          <bioguideId>S001192</bioguideId>
+        </identifiers>
+        <state>UT</state>
+        <firstName>Chris</firstName>
+        <bioguideId>S001192</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>TIBERI</lastName>
+        <district>12</district>
+        <identifiers>
+          <gpoId>8102</gpoId>
+          <bioguideId>T000462</bioguideId>
+          <lisID>1664</lisID>
+        </identifiers>
+        <state>OH</state>
+        <firstName>PATRICK</firstName>
+        <bioguideId>T000462</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Roskam</lastName>
+        <district>6</district>
+        <identifiers>
+          <bioguideId>R000580</bioguideId>
+          <gpoId>7926</gpoId>
+          <lisID>1848</lisID>
+        </identifiers>
+        <state>IL</state>
+        <firstName>Peter</firstName>
+        <bioguideId>R000580</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Jenkins</lastName>
+        <district>2</district>
+        <identifiers>
+          <gpoId>7950</gpoId>
+          <bioguideId>J000290</bioguideId>
+          <lisID>1921</lisID>
+        </identifiers>
+        <state>KS</state>
+        <firstName>Lynn</firstName>
+        <bioguideId>J000290</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Marchant</lastName>
+        <district>24</district>
+        <identifiers>
+          <lisID>1806</lisID>
+          <bioguideId>M001158</bioguideId>
+          <gpoId>8766</gpoId>
+        </identifiers>
+        <state>TX</state>
+        <firstName>Kenny</firstName>
+        <bioguideId>M001158</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Black</lastName>
+        <district>6</district>
+        <identifiers>
+          <bioguideId>B001273</bioguideId>
+          <gpoId>8153</gpoId>
+          <lisID>2063</lisID>
+        </identifiers>
+        <state>TN</state>
+        <firstName>Diane</firstName>
+        <bioguideId>B001273</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Meehan</lastName>
+        <district>7</district>
+        <identifiers>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Patrick</firstName>
+        <bioguideId>M001181</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Dold, Robert J. [R-IL-10]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Dold</lastName>
+        <district>10</district>
+        <identifiers>
+          <lisID>2013</lisID>
+          <gpoId>7930</gpoId>
+          <bioguideId>D000613</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <firstName>Robert</firstName>
+        <bioguideId>D000613</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Holding, George [R-NC-13]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Holding</lastName>
+        <district>13</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001065</bioguideId>
+          <lisID>2143</lisID>
+        </identifiers>
+        <state>NC</state>
+        <firstName>George</firstName>
+        <bioguideId>H001065</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Russell, Steve [R-OK-5]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Russell</lastName>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>R000604</bioguideId>
+          <gpoId />
+          <lisID>2265</lisID>
+        </identifiers>
+        <state>OK</state>
+        <firstName>Steve</firstName>
+        <bioguideId>R000604</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Stivers</lastName>
+        <district>15</district>
+        <identifiers>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+          <gpoId>8105</gpoId>
+        </identifiers>
+        <state>OH</state>
+        <firstName>Steve</firstName>
+        <bioguideId>S001187</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Boustany, Charles W., Jr. [R-LA-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Boustany</lastName>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>B001255</bioguideId>
+          <gpoId>7965</gpoId>
+          <lisID>1787</lisID>
+        </identifiers>
+        <state>LA</state>
+        <firstName>Charles</firstName>
+        <bioguideId>B001255</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>W.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Zinke, Ryan K. [R-MT-At Large]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Zinke</lastName>
+        <district>0</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>Z000018</bioguideId>
+          <lisID>2254</lisID>
+        </identifiers>
+        <state>MT</state>
+        <firstName>Ryan</firstName>
+        <bioguideId>Z000018</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Price, Tom [R-GA-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Price</lastName>
+        <district>6</district>
+        <identifiers>
+          <lisID>1778</lisID>
+          <gpoId>7903</gpoId>
+          <bioguideId>P000591</bioguideId>
+        </identifiers>
+        <state>GA</state>
+        <firstName>Tom</firstName>
+        <bioguideId>P000591</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Guthrie</lastName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>G000558</bioguideId>
+          <gpoId>7954</gpoId>
+          <lisID>1922</lisID>
+        </identifiers>
+        <state>KY</state>
+        <firstName>Brett</firstName>
+        <bioguideId>G000558</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kelly</lastName>
+        <district>3</district>
+        <identifiers>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Mike</firstName>
+        <bioguideId>K000376</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lance</lastName>
+        <district>7</district>
+        <identifiers>
+          <bioguideId>L000567</bioguideId>
+          <gpoId>8049</gpoId>
+          <lisID>1936</lisID>
+        </identifiers>
+        <state>NJ</state>
+        <firstName>Leonard</firstName>
+        <bioguideId>L000567</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-01-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Costello</lastName>
+        <district>6</district>
+        <identifiers>
+          <bioguideId>C001106</bioguideId>
+          <gpoId />
+          <lisID>2266</lisID>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Ryan</firstName>
+        <bioguideId>C001106</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-01-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Newhouse</lastName>
+        <district>4</district>
+        <identifiers>
+          <lisID>2275</lisID>
+          <gpoId />
+          <bioguideId>N000189</bioguideId>
+        </identifiers>
+        <state>WA</state>
+        <firstName>Dan</firstName>
+        <bioguideId>N000189</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-01-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Walorski</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>2128</lisID>
+          <bioguideId>W000813</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>IN</state>
+        <firstName>Jackie</firstName>
+        <bioguideId>W000813</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-01-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Davis</lastName>
+        <district>13</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+        </identifiers>
+        <state>IL</state>
+        <firstName>Rodney</firstName>
+        <bioguideId>D000619</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-01-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Diaz-Balart</lastName>
+        <district>25</district>
+        <identifiers>
+          <gpoId>7893</gpoId>
+          <bioguideId>D000600</bioguideId>
+          <lisID>1717</lisID>
+        </identifiers>
+        <state>FL</state>
+        <firstName>Mario</firstName>
+        <bioguideId>D000600</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-01-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kinzinger</lastName>
+        <district>16</district>
+        <identifiers>
+          <gpoId>7931</gpoId>
+          <bioguideId>K000378</bioguideId>
+          <lisID>2014</lisID>
+        </identifiers>
+        <state>IL</state>
+        <firstName>Adam</firstName>
+        <bioguideId>K000378</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-01-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>CULBERSON</lastName>
+        <district>7</district>
+        <identifiers>
+          <lisID>1670</lisID>
+          <bioguideId>C001048</bioguideId>
+          <gpoId>8163</gpoId>
+        </identifiers>
+        <state>TX</state>
+        <firstName>JOHN</firstName>
+        <bioguideId>C001048</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>ABNEY</middleName>
+      </item>
+      <item>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-01-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>McClintock</lastName>
+        <district>4</district>
+        <identifiers>
+          <lisID>1908</lisID>
+          <gpoId>7809</gpoId>
+          <bioguideId>M001177</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Tom</firstName>
+        <bioguideId>M001177</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Young, Todd C. [R-IN-9]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-04-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Young</lastName>
+        <district>9</district>
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+          <gpoId>7948</gpoId>
+          <lisID>2019</lisID>
+        </identifiers>
+        <state>IN</state>
+        <firstName>Todd</firstName>
+        <bioguideId>Y000064</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>C.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Rothfus, Keith J. [R-PA-12]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-06-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rothfus</lastName>
+        <district>12</district>
+        <identifiers>
+          <bioguideId>R000598</bioguideId>
+          <gpoId />
+          <lisID>2158</lisID>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Keith</firstName>
+        <bioguideId>R000598</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>J.</middleName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Foreign and international banking</name>
+          </item>
+          <item>
+            <name>Foreign property</name>
+          </item>
+          <item>
+            <name>Iran</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>War and emergency powers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-12-16T10:22:05Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

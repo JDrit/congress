@@ -1,0 +1,184 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-03-01", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-01", 
+      "action_code": "", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-09", 
+      "action_code": "", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Banking, Housing, and Urban Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-03-13", 
+      "action_code": "", 
+      "committee": "Banking, Housing, and Urban Affairs", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo without amendment. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2017-03-13", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "15", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 15.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s488-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001197", 
+      "district": null, 
+      "name": "Sasse, Ben", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-03-09", 
+      "state": "NE", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000805", 
+      "district": null, 
+      "name": "Warner, Mark R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-01", 
+      "state": "VA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-03-13", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-03-01", 
+  "number": "488", 
+  "official_title": "A bill to increase the threshold for disclosures required by the Securities and Exchange Commission relating to compensatory benefit plans, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr10-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1343-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Encouraging Employee Ownership Act", 
+  "sponsor": {
+    "bioguide_id": "T000461", 
+    "district": null, 
+    "name": "Toomey, Pat", 
+    "state": "PA", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2017-03-09", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Employee benefits and pensions", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Reported to Senate without amendment", 
+    "date": "2017-03-13T13:38:52Z", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nEncouraging Employee Ownership Act\n\n(Sec. 2) This bill\u00a0\u00a0requires the Securities and Exchange Commission to increase, from $5 million to $10 million, the 12-month sales threshold beyond which an issuer is required to provide investors with additional disclosures related to compensatory benefit plans."
+  }, 
+  "titles": [
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Encouraging Employee Ownership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Encouraging Employee Ownership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Encouraging Employee Ownership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Encouraging Employee Ownership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to increase the threshold for disclosures required by the Securities and Exchange Commission relating to compensatory benefit plans, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Encouraging Employee Ownership Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-18T04:31:15Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s488.xml"
+}

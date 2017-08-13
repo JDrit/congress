@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-07-14</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2016-07-14</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>1547</number>
+        <latestTitle>Family Health Care Flexibility Act</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2015-04-07</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>836</number>
+        <latestTitle>Family Health Care Flexibility Act</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2015-03-23</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+      <item>
+        <number>6019</number>
+        <latestTitle>Relief from Obamacare Mandate Act of 2016</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2016-09-19</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>2207</number>
+        <latestTitle>FSA Act</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2015-05-01</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>3297</number>
+        <latestTitle>Relief from Obamacare Mandate Act of 2016</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 619.</text>
+          <actionDate>2016-09-08</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>3251</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2016-07-14T19:24:53Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-07-14</introducedDate>
+    <updateDate>2017-06-03T00:06:54Z</updateDate>
+    <title>Relief from Obamacare Mandate Act of 2016</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Relief from Obamacare Mandate Act of 2016</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Internal Revenue Code of 1986 to provide an exemption to the individual mandate to maintain health coverage for certain individuals whose premium has increased by more than 10 percent, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Relief from Obamacare Mandate Act of 2016</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2016-07-14T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Relief from Obamacare Mandate Act of 2016 </b></p> <p>This bill amends the Internal Revenue Code (IRC) to exempt individuals with certain premium increases from the requirement under the Patient Protection and Affordable Care Act (PPACA) to maintain minimum essential health coverage. </p> <p>The exemption applies to any individual for any month during a year that the individual resides in a state in which the average premium for self-only or family coverage under the second lowest cost silver plans within the state has increased by more than 10% from the prior year. </p> <p>The bill also requires the cost of annual deductibles to be taken into account in applying the exemption for individuals who cannot afford coverage. </p> <p>The bill repeals provisions added to the IRC by PPACA that: (1) restrict payments from health savings accounts (HSAs), Archer medical savings accounts (MSAs), and health flexible spending and reimbursement arrangements for medications to prescription drugs and insulin only (thus allowing payments for over-the-counter medications); (2) impose a $2,500 limitation on salary reduction contributions to a health flexible spending arrangement under a cafeteria plan; and (3) impose an additional tax on HSA and Archer MSA distributions not used for qualified medical expenses. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-02-07T15:04:13Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2016-07-14</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <bioguideId>C001095</bioguideId>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <state>AR</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Cotton</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2016-07-14</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>A000368</bioguideId>
+        <state>NH</state>
+        <lastName>Ayotte</lastName>
+        <identifiers>
+          <bioguideId>A000368</bioguideId>
+          <gpoId>8315</gpoId>
+          <lisID>2075</lisID>
+        </identifiers>
+        <fullName>Sen. Ayotte, Kelly [R-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Kelly</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>M000303</bioguideId>
+        <state>AZ</state>
+        <lastName>MCCAIN</lastName>
+        <identifiers>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>SIDNEY</middleName>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>L000575</bioguideId>
+        <state>OK</state>
+        <lastName>Lankford</lastName>
+        <identifiers>
+          <lisID>2050</lisID>
+          <gpoId>8113</gpoId>
+          <bioguideId>L000575</bioguideId>
+        </identifiers>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>James</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>J000293</bioguideId>
+        <state>WI</state>
+        <lastName>Johnson</lastName>
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+        </identifiers>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Ron</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>B001135</bioguideId>
+        <state>NC</state>
+        <lastName>BURR</lastName>
+        <identifiers>
+          <lisID>153</lisID>
+          <gpoId>8286</gpoId>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>RICHARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <bioguideId>P000612</bioguideId>
+        <state>GA</state>
+        <lastName>Perdue</lastName>
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+          <lisID>2286</lisID>
+        </identifiers>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>Alfred</middleName>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2016-07-15T07:14:53Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

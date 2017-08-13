@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-06-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-06-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2792-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "J000174", 
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-06-06", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-06-06", 
+  "number": "2792", 
+  "official_title": "To amend the Social Security Act to make certain revisions to provisions limiting payment of benefits to fugitive felons under titles II, VIII, and XVI of the Social Security Act.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Control Unlawful Fugitive Felons Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "N000184", 
+    "district": null, 
+    "name": "Noem, Kristi L.", 
+    "state": "SD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-06-06", 
+  "subjects": [
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Control Unlawful Fugitive Felons Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Control Unlawful Fugitive Felons Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Social Security Act to make certain revisions to provisions limiting payment of benefits to fugitive felons under titles II, VIII, and XVI of the Social Security Act.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Control Unlawful Fugitive Felons Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-19T22:37:14Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr2792.xml"
+}

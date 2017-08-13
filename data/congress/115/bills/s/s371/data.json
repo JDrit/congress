@@ -1,0 +1,316 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-02-14", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-02-14", 
+      "action_code": "", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-05-01", 
+      "action_code": "", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [
+        {
+          "reference": "CR S2653-2654", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-05-01", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-05-01", 
+      "action_code": "", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2653-2654", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2017-05-02", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-05-02T13:23:45-04:00", 
+      "action_code": "H14000", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-05-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-05-25", 
+      "action_code": "", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-05-25", 
+      "action_code": "", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-07-28T12:55:30-04:00", 
+      "action_code": "H30200", 
+      "references": [], 
+      "text": "Mr. Royce (CA) asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28", 
+      "action_code": "H12300", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [
+        {
+          "reference": "CR H6558", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Committee on Foreign Affairs discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28T12:55:45-04:00", 
+      "action_code": "H30000", 
+      "references": [
+        {
+          "reference": "CR H6558-6560", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28T12:56:15-04:00", 
+      "action_code": "H37100", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H6558-6559", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-07-28T12:56:18-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-31", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on House action received in Senate and at desk: House amendment to Senate bill.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "hamdt272-115", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "272"
+    }, 
+    {
+      "amendment_id": "samdt209-115", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "209"
+    }
+  ], 
+  "bill_id": "s371-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "discharged", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-05-01", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2017-07-28T12:56:15-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2017-05-01", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-02-14", 
+  "number": "371", 
+  "official_title": "A bill to make technical changes and other improvements to the Department of State Authorities Act, Fiscal Year 2017.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Department of State Authorities Act, Fiscal Year 2017, Improvements Act", 
+  "sponsor": {
+    "bioguide_id": "C001071", 
+    "district": null, 
+    "name": "Corker, Bob", 
+    "state": "TN", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:BILL", 
+  "status_at": "2017-07-28T12:56:15-04:00", 
+  "subjects": [
+    "Asia", 
+    "Broadcasting Board of Governors", 
+    "Building construction", 
+    "Caribbean area", 
+    "China", 
+    "Colombia", 
+    "Congressional oversight", 
+    "Crime victims", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Department of State", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Drug trafficking and controlled substances", 
+    "Employee performance", 
+    "Foreign aid and international relief", 
+    "Foreign and international banking", 
+    "Government buildings, facilities, and property", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government studies and investigations", 
+    "House Committee on Appropriations", 
+    "Human rights", 
+    "Human trafficking", 
+    "International affairs", 
+    "International exchange and broadcasting", 
+    "Latin America", 
+    "Military operations and strategy", 
+    "Religion", 
+    "Senate Committee on Appropriations", 
+    "Sex offenses", 
+    "Sovereignty, recognition, national governance and status", 
+    "Terrorism", 
+    "Tibet", 
+    "United Nations", 
+    "Western Hemisphere"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of State Authorities Act, Fiscal Year 2017, Improvements Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of State Authorities Act, Fiscal Year 2017, Improvements Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Department of State Authorities Act, Fiscal Year 2017, Improvements Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Department of State Authorities Act, Fiscal Year 2017, Improvements Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to make technical changes and other improvements to the Department of State Authorities Act, Fiscal Year 2017.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of State Authorities Act, Fiscal Year 2017, Improvements Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-08-01T04:31:36Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s371.xml"
+}

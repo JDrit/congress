@@ -1,0 +1,102 @@
+<bill session="115" type="h" number="3003" updated="2017-07-25T16:15:14Z">
+  <state datetime="2017-06-29T17:15:17-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-06-29T17:15:17-04:00"/>
+  </status>
+  <introduced datetime="2017-06-22"/>
+  <titles>
+    <title type="short" as="introduced">No Sanctuary for Criminals Act</title>
+    <title type="short" as="introduced">No Sanctuary for Criminals Act</title>
+    <title type="short" as="passed house">No Sanctuary for Criminals Act</title>
+    <title type="short" as="passed house">No Sanctuary for Criminals Act</title>
+    <title type="official" as="introduced">To amend the Immigration and Nationality Act to modify provisions relating to assistance by States, and political subdivision of States, in the enforcement of Federal immigration laws, and for other purposes.</title>
+    <title type="display">No Sanctuary for Criminals Act</title>
+  </titles>
+  <sponsor id="400154"/>
+  <cosponsors>
+    <cosponsor id="412726" joined="2017-06-28"/>
+    <cosponsor id="412469" joined="2017-06-26"/>
+    <cosponsor id="412683" joined="2017-06-22"/>
+    <cosponsor id="412196" joined="2017-06-27"/>
+    <cosponsor id="400057" joined="2017-06-27"/>
+    <cosponsor id="400116" joined="2017-06-27"/>
+    <cosponsor id="412690" joined="2017-06-26"/>
+    <cosponsor id="412663" joined="2017-06-26"/>
+    <cosponsor id="400220" joined="2017-06-22"/>
+    <cosponsor id="412653" joined="2017-06-27"/>
+    <cosponsor id="412462" joined="2017-06-27"/>
+    <cosponsor id="400367" joined="2017-06-22"/>
+    <cosponsor id="400381" joined="2017-06-26"/>
+    <cosponsor id="412628" joined="2017-06-26"/>
+    <cosponsor id="412646" joined="2017-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-22">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-22" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-06-22">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+    <action datetime="2017-06-27T17:19:51-04:00">
+      <text>Rules Committee Resolution H. Res. 414 Reported to House. Rule provides for consideration of H.R. 3003 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2017-06-28T13:58:11-04:00">
+      <text>Rule H. Res. 414 passed House.</text>
+    </action>
+    <action datetime="2017-06-29T14:07:18-04:00">
+      <text>Considered under the provisions of rule H. Res. 414.</text>
+      <reference ref="CR H5316-5333" label="consideration"/>
+    </action>
+    <action datetime="2017-06-29T14:07:23-04:00">
+      <text>Rule provides for consideration of H.R. 3003 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2017-06-29T14:07:46-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 3003.</text>
+    </action>
+    <action datetime="2017-06-29T15:22:28-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2017-06-29T15:22:56-04:00">
+      <text>Mrs. Demings moved to recommit with instructions to the Committee on the Judiciary.</text>
+      <reference ref="CR H5332" label="text"/>
+    </action>
+    <action datetime="2017-06-29T15:23:13-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Demings motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to the Public Safety Exception subsection in which the State or a political subdivision of the State certifies to the Attorney General that compliance with the underlying bill would endanger public safety.</text>
+    </action>
+    <action datetime="2017-06-29T15:31:58-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+    </action>
+    <action datetime="2017-06-29T15:32:25-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Demings motion to recommit with instructions, Chair put the question on adoption of the motion to recommit and by voice vote announced that the noes had prevailed. Mrs. Demings demanded the yeas and nays, and the Chair postponed further proceedings until later in the later legislative day.</text>
+    </action>
+    <action datetime="2017-06-29T16:48:24-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5353-5355" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="342" datetime="2017-06-29T17:15:17-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 228 - 195 (Roll no. 342).</text>
+      <reference ref="CR H5316-5318" label="text"/>
+    </vote>
+    <action datetime="2017-06-29T17:15:19-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-07-10">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="procedurally-related" session="115" type="hr" number="414"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

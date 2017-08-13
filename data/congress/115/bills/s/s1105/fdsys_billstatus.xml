@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-05-12T00:26:38Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-11</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-05-11</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <title>Miners Pension Protection Act</title>
+    <laws />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <state>WV</state>
+        <identifiers>
+          <gpoId>8256</gpoId>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <lastName>Manchin</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2017-05-11</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-11T20:14:55Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <congress>115</congress>
+    <billNumber>1105</billNumber>
+    <recordedVotes />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-06-19T22:15:19Z</updateDate>
+    <introducedDate>2017-05-11</introducedDate>
+    <notes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>2713</number>
+        <latestTitle>Miners Pension Protection Act</latestTitle>
+        <latestAction>
+          <text>Referred to House Ways and Means</text>
+          <actionDate>2017-05-25</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <lastName>CAPITO</lastName>
+        <middleName>MOORE</middleName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <bioguideId>C001047</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SHELLEY</firstName>
+        <state>WV</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <lastName>BROWN</lastName>
+        <middleName />
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <bioguideId>B000944</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SHERROD</firstName>
+        <state>OH</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <lastName>Casey</lastName>
+        <middleName />
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <bioguideId>C001070</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bob</firstName>
+        <state>PA</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <lastName>Warner</lastName>
+        <middleName>R.</middleName>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <bioguideId>W000805</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <state>VA</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <lastName>Franken</lastName>
+        <middleName />
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <bioguideId>F000457</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Al</firstName>
+        <state>MN</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001170</bioguideId>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <lastName>McCaskill</lastName>
+        <middleName />
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <bioguideId>M001170</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Claire</firstName>
+        <state>MO</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <lastName>NELSON</lastName>
+        <middleName>WILLIAM</middleName>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <bioguideId>N000032</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>CLARENCE</firstName>
+        <state>FL</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <lastName>Warren</lastName>
+        <middleName>A.</middleName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Elizabeth</firstName>
+        <state>MA</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001111</bioguideId>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <lastName>MURRAY</lastName>
+        <middleName />
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <bioguideId>M001111</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>PATTY</firstName>
+        <state>WA</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+          <lisID>2176</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Kaine</lastName>
+        <middleName />
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <bioguideId>K000384</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Timothy</firstName>
+        <state>VA</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <lisID>1850</lisID>
+          <gpoId>7941</gpoId>
+        </identifiers>
+        <lastName>Donnelly</lastName>
+        <middleName />
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <bioguideId>D000607</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Joe</firstName>
+        <state>IN</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2174</lisID>
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+        <lastName>Heitkamp</lastName>
+        <middleName />
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <bioguideId>H001069</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Heidi</firstName>
+        <state>ND</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <lastName>PORTMAN</lastName>
+        <middleName />
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <bioguideId>P000449</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROB</firstName>
+        <state>OH</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <lastName>Whitehouse</lastName>
+        <middleName />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <bioguideId>W000802</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Sheldon</firstName>
+        <state>RI</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <lastName>DURBIN</lastName>
+        <middleName>J.</middleName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <bioguideId>D000563</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>RICHARD</firstName>
+        <state>IL</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <lastName>Heinrich</lastName>
+        <middleName />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <bioguideId>H001046</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Martin</firstName>
+        <state>NM</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <lisID>153</lisID>
+          <gpoId>8286</gpoId>
+        </identifiers>
+        <lastName>BURR</lastName>
+        <middleName />
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <bioguideId>B001135</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>RICHARD</firstName>
+        <state>NC</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <lastName>SANDERS</lastName>
+        <middleName />
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <bioguideId>S000033</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>I</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>BERNARD</firstName>
+        <state>VT</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Booker</lastName>
+        <middleName>A.</middleName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <bioguideId>B001288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Cory</firstName>
+        <state>NJ</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Duckworth</lastName>
+        <middleName />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <bioguideId>D000622</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tammy</firstName>
+        <state>IL</state>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <lastName>WYDEN</lastName>
+        <middleName />
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <bioguideId>W000779</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>RON</firstName>
+        <state>OR</state>
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Miners Pension Protection Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Miners Pension Protection Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to amend the Surface Mining Control and Reclamation Act of 1977 to transfer certain funds to the 1974 United Mine Workers of America Pension Plan, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Miners Pension Protection Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

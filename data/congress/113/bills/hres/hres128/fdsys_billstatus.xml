@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-04-05</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-03-19</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-03-19</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-03-19</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <district>50</district>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <lastName>Hunter</lastName>
+        <middleName>D.</middleName>
+        <state>CA</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>1909</lisID>
+          <bioguideId>H001048</bioguideId>
+          <gpoId>7857</gpoId>
+        </identifiers>
+        <firstName>Duncan</firstName>
+        <bioguideId>H001048</bioguideId>
+      </item>
+    </sponsors>
+    <congress>113</congress>
+    <constitutionalAuthorityStatementText />
+    <billNumber>128</billNumber>
+    <cboCostEstimates />
+    <updateDate>2016-10-25T15:54:35Z</updateDate>
+    <laws />
+    <createDate>2013-03-20T07:01:11Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <name>Military Personnel Subcommittee</name>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <date>2013-04-05T15:14:20Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsas00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-03-19T14:04:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-03-19</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2013-04-16T16:06:23Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Extends gratitude to the more than 1.5 million members of the U.S. Armed Forces, from both the regular and reserve components of the Army, Navy, Air Force, Marine Corps, Coast Guard, and Merchant Marine, who served in Operations Iraqi Freedom and New Dawn.</p> <p>Recognizes their success in operations against a dangerous and determined enemy.</p> <p>Recognizes the tremendous personal sacrifice of those who served in such Operations, many of whom were committed to multiple deployments, and the contributions of military families on the home front.</p> <p>Pays tribute to the 4,486 members who lost their lives in such Operations, and commits to honoring their memory for their courage and sacrifice.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2013-03-19T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <lastName>Turner</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <party>R</party>
+        <middleName>R.</middleName>
+        <firstName>Michael</firstName>
+        <bioguideId>T000463</bioguideId>
+        <identifiers>
+          <lisID>1741</lisID>
+          <bioguideId>T000463</bioguideId>
+          <gpoId>8093</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>OH</state>
+      </item>
+      <item>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <lastName>Franks</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Trent</firstName>
+        <bioguideId>F000448</bioguideId>
+        <identifiers>
+          <gpoId>7799</gpoId>
+          <lisID>1707</lisID>
+          <bioguideId>F000448</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>AZ</state>
+      </item>
+      <item>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <lastName>Kinzinger</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>16</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Adam</firstName>
+        <bioguideId>K000378</bioguideId>
+        <identifiers>
+          <gpoId>7931</gpoId>
+          <bioguideId>K000378</bioguideId>
+          <lisID>2014</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>IL</state>
+      </item>
+      <item>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <lastName>Peters</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>52</district>
+        <party>D</party>
+        <middleName>H.</middleName>
+        <firstName>Scott</firstName>
+        <bioguideId>P000608</bioguideId>
+        <identifiers>
+          <bioguideId>P000608</bioguideId>
+          <lisID>2113</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Rep. Duckworth, Tammy [D-IL-8]</fullName>
+        <lastName>Duckworth</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>D</party>
+        <middleName />
+        <firstName>Tammy</firstName>
+        <bioguideId>D000622</bioguideId>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+          <lisID>2123</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>IL</state>
+      </item>
+      <item>
+        <fullName>Rep. Grimm, Michael G. [R-NY-11]</fullName>
+        <lastName>Grimm</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <party>R</party>
+        <middleName>G.</middleName>
+        <firstName>Michael</firstName>
+        <bioguideId>G000569</bioguideId>
+        <identifiers>
+          <lisID>2041</lisID>
+          <bioguideId>G000569</bioguideId>
+          <gpoId>8074</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>NY</state>
+      </item>
+      <item>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <lastName>Scott</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Austin</firstName>
+        <bioguideId>S001189</bioguideId>
+        <identifiers>
+          <bioguideId>S001189</bioguideId>
+          <gpoId>7905</gpoId>
+          <lisID>2009</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>GA</state>
+      </item>
+      <item>
+        <fullName>Rep. Gibson, Christopher P. [R-NY-19]</fullName>
+        <lastName>Gibson</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>19</district>
+        <party>R</party>
+        <middleName>P.</middleName>
+        <firstName>Christopher</firstName>
+        <bioguideId>G000564</bioguideId>
+        <identifiers>
+          <gpoId>8081</gpoId>
+          <lisID>2043</lisID>
+          <bioguideId>G000564</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>NY</state>
+      </item>
+      <item>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <lastName>Hartzler</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Vicky</firstName>
+        <bioguideId>H001053</bioguideId>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>MO</state>
+      </item>
+      <item>
+        <fullName>Rep. Murphy, Tim [R-PA-18]</fullName>
+        <lastName>Murphy</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>18</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Tim</firstName>
+        <bioguideId>M001151</bioguideId>
+        <identifiers>
+          <bioguideId>M001151</bioguideId>
+          <lisID>1744</lisID>
+          <gpoId>8723</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>PA</state>
+      </item>
+      <item>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <lastName>Conaway</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <party>R</party>
+        <middleName>Michael</middleName>
+        <firstName>K.</firstName>
+        <bioguideId>C001062</bioguideId>
+        <identifiers>
+          <bioguideId>C001062</bioguideId>
+          <gpoId>8167</gpoId>
+          <lisID>1805</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>TX</state>
+      </item>
+      <item>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <lastName>Coffman</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Mike</firstName>
+        <bioguideId>C001077</bioguideId>
+        <identifiers>
+          <gpoId>7864</gpoId>
+          <lisID>1912</lisID>
+          <bioguideId>C001077</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>CO</state>
+      </item>
+      <item>
+        <fullName>Rep. Gallego, Pete P. [D-TX-23]</fullName>
+        <lastName>Gallego</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>23</district>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <firstName>Pete</firstName>
+        <bioguideId>G000572</bioguideId>
+        <identifiers>
+          <lisID>2164</lisID>
+          <bioguideId>G000572</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>TX</state>
+      </item>
+      <item>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <lastName>Wittman</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <firstName>Robert</firstName>
+        <bioguideId>W000804</bioguideId>
+        <identifiers>
+          <bioguideId>W000804</bioguideId>
+          <lisID>1886</lisID>
+          <gpoId>8192</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>VA</state>
+      </item>
+      <item>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <lastName>Stivers</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>15</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Steve</firstName>
+        <bioguideId>S001187</bioguideId>
+        <identifiers>
+          <bioguideId>S001187</bioguideId>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-19</sponsorshipDate>
+        <state>OH</state>
+      </item>
+      <item>
+        <fullName>Rep. Southerland, Steve II [R-FL-2]</fullName>
+        <lastName>Southerland</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Steve</firstName>
+        <bioguideId>S001186</bioguideId>
+        <identifiers>
+          <gpoId>7874</gpoId>
+          <bioguideId>S001186</bioguideId>
+          <lisID>2000</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-25</sponsorshipDate>
+        <state>FL</state>
+      </item>
+      <item>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <lastName>LANGEVIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <firstName>JAMES</firstName>
+        <bioguideId>L000559</bioguideId>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+          <lisID>1668</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-25</sponsorshipDate>
+        <state>RI</state>
+      </item>
+      <item>
+        <fullName>Rep. Forbes, J. Randy [R-VA-4]</fullName>
+        <lastName>Forbes</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <middleName>Randy</middleName>
+        <firstName>J.</firstName>
+        <bioguideId>F000445</bioguideId>
+        <identifiers>
+          <lisID>1683</lisID>
+          <bioguideId>F000445</bioguideId>
+          <gpoId>8786</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-25</sponsorshipDate>
+        <state>VA</state>
+      </item>
+      <item>
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+        <lastName>Miller</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <bioguideId>M001144</bioguideId>
+        <identifiers>
+          <lisID>1685</lisID>
+          <bioguideId>M001144</bioguideId>
+          <gpoId>7873</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-25</sponsorshipDate>
+        <state>FL</state>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Iraq</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Honoring the service and sacrifice of members of the United States Armed Forces on the occasion of the 10th anniversary of the start of Operation Iraqi Freedom and Operation New Dawn.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Honoring the service and sacrifice of members of the United States Armed Forces on the occasion of the 10th anniversary of the start of Operation Iraqi Freedom and Operation New Dawn.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <notes />
+    <calendarNumbers />
+    <title>Honoring the service and sacrifice of members of the United States Armed Forces on the occasion of the 10th anniversary of the start of Operation Iraqi Freedom and Operation New Dawn.</title>
+    <billType>HRES</billType>
+    <introducedDate>2013-03-19</introducedDate>
+    <amendments />
+    <latestAction>
+      <actionDate>2013-04-05</actionDate>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-03-21</introducedDate>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-03-21</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Transportation costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <calendarNumbers />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <createDate>2017-03-22T05:45:19Z</createDate>
+    <latestAction>
+      <links />
+      <actionDate>2017-03-21</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <billNumber>673</billNumber>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Savings for Servicemembers Act </b></p> <p>This bill amends the Internal Revenue Code to reduce from 100 miles to 50 miles the distance from home requirement for the tax deduction for the travel expenses of a member of a reserve component of the Armed Forces. </p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-03-21T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-04-12T14:04:04Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-21</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <title>Savings for Servicemembers Act</title>
+    <sponsors>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <state>MN</state>
+        <firstName>Amy</firstName>
+        <byRequestType />
+        <middleName />
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <firstName>Thomas</firstName>
+        <middleName>Roland</middleName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NC</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <bioguideId>T000476</bioguideId>
+        <lastName>Tillis</lastName>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <middleName />
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MD</state>
+        <identifiers>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <bioguideId>V000128</bioguideId>
+        <lastName>Van Hollen</lastName>
+      </item>
+      <item>
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <identifiers>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <bioguideId>M000133</bioguideId>
+        <lastName>MARKEY</lastName>
+      </item>
+      <item>
+        <firstName>Timothy</firstName>
+        <middleName />
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <bioguideId>K000384</bioguideId>
+        <lastName>Kaine</lastName>
+      </item>
+      <item>
+        <firstName>Kirsten</firstName>
+        <middleName>E.</middleName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <bioguideId>G000555</bioguideId>
+        <lastName>Gillibrand</lastName>
+      </item>
+      <item>
+        <firstName>Elizabeth</firstName>
+        <middleName>A.</middleName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <bioguideId>W000817</bioguideId>
+        <lastName>Warren</lastName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>Savings for Servicemembers Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>Savings for Servicemembers Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>A bill to amend the Internal Revenue Code of 1986 to decrease the distance away from home required for a member of a reserve component of the Armed Forces to be eligible for the above-the-line deduction for travel expenses.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Savings for Servicemembers Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <billType>S</billType>
+    <amendments />
+    <version>1.0.0</version>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-03-21T15:43:31Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <updateDate>2017-07-14T04:53:38Z</updateDate>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

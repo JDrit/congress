@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <billNumber>225</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-08-02T20:48:22Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-07-20T14:47:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Arts, Culture, Religion</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution designating July 22, 2017, as "National Day of the American Cowboy".</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution designating July 22, 2017, as "National Day of the American Cowboy".</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <createDate>2017-07-21T00:56:42Z</createDate>
+    <committeeReports />
+    <billType>SRES</billType>
+    <updateDate>2017-08-04T18:06:47Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <committeeDischarged>1</committeeDischarged>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <agreedToInSenate>1</agreedToInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <actionDate>2017-08-02</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S4715-4716</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4715-4716</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4715-4716)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionCode>14500</actionCode>
+        <actionDate>2017-08-02</actionDate>
+        <links>
+          <link>
+            <name>S4715-4716</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4715-4716</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4715-4716)</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S4118</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4118</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4118)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-07-20</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <firstName>Heidi</firstName>
+        <state>ND</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>H001069</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heitkamp</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>H001069</bioguideId>
+          <gpoId />
+          <lisID>2174</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <firstName>MICHAEL</firstName>
+        <state>ID</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>C000880</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>CRAPO</lastName>
+        <middleName>D.</middleName>
+        <identifiers>
+          <gpoId>8289</gpoId>
+          <bioguideId>C000880</bioguideId>
+          <lisID>250</lisID>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <firstName>JIM</firstName>
+        <state>OK</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>I000024</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>INHOFE</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>583</lisID>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <firstName>James</firstName>
+        <state>ID</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>R000584</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Risch</lastName>
+        <middleName>E.</middleName>
+        <identifiers>
+          <gpoId>8274</gpoId>
+          <bioguideId>R000584</bioguideId>
+          <lisID>1896</lisID>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <firstName>John</firstName>
+        <state>TX</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>C001056</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cornyn</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <state>MT</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>T000464</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tester</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <firstName>James</firstName>
+        <state>OK</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>L000575</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lankford</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <firstName>John</firstName>
+        <state>ND</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>H001061</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hoeven</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <firstName>John</firstName>
+        <state>WY</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>B001261</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Barrasso</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8300</gpoId>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <firstName>Martin</firstName>
+        <state>NM</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>H001046</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heinrich</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <firstName>TOM</firstName>
+        <state>NM</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>U000039</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>UDALL</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <firstName>JOHN</firstName>
+        <state>SD</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>T000250</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>THUNE</lastName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <state>OR</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Merkley</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <firstName>Mike</firstName>
+        <state>SD</state>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <bioguideId>R000605</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rounds</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2288</lisID>
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <amendments />
+    <recordedVotes />
+    <latestAction>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <links />
+      <actionDate>2017-08-02</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>ENZI</lastName>
+        <bioguideId>E000285</bioguideId>
+        <firstName>MICHAEL</firstName>
+        <party>R</party>
+        <byRequestType />
+        <state>WY</state>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <identifiers>
+          <gpoId>8328</gpoId>
+          <lisID>1542</lisID>
+          <bioguideId>E000285</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <title>A resolution designating July 22, 2017, as "National Day of the American Cowboy".</title>
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <introducedDate>2017-07-20</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,48 @@
+<bill session="115" type="h" number="2774" updated="2017-07-11T07:15:25Z">
+  <state datetime="2017-06-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-06"/>
+  </status>
+  <introduced datetime="2017-06-06"/>
+  <titles>
+    <title type="short" as="introduced">Hack DHS Act</title>
+    <title type="short" as="introduced">Hack DHS Act</title>
+    <title type="short" as="introduced">Hack the Department of Homeland Security Act of 2017</title>
+    <title type="short" as="introduced">Hack the Department of Homeland Security Act of 2017</title>
+    <title type="official" as="introduced">To establish a bug bounty pilot program within the Department of Homeland Security, and for other purposes.</title>
+    <title type="display">Hack DHS Act</title>
+  </titles>
+  <sponsor id="412616"/>
+  <cosponsors>
+    <cosponsor id="412677" joined="2017-07-10"/>
+    <cosponsor id="412730" joined="2017-07-10"/>
+    <cosponsor id="412595" joined="2017-07-10"/>
+    <cosponsor id="412684" joined="2017-06-12"/>
+    <cosponsor id="412583" joined="2017-07-10"/>
+    <cosponsor id="412466" joined="2017-06-12"/>
+    <cosponsor id="412727" joined="2017-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-06" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM08" subcommittee="Cybersecurity, Infrastructure Protection, and Security Technologies" name="House Homeland Security"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="115" type="s" number="1281"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

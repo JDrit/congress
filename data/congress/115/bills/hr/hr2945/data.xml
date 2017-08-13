@@ -1,0 +1,44 @@
+<bill session="115" type="h" number="2945" updated="2017-07-11T07:12:26Z">
+  <state datetime="2017-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-20"/>
+  </status>
+  <introduced datetime="2017-06-20"/>
+  <titles>
+    <title type="short" as="introduced">Congressional Personal Safety Act</title>
+    <title type="short" as="introduced">Congressional Personal Safety Act</title>
+    <title type="official" as="introduced">To grant Members of Congress the right to carry a firearm anywhere in the United States, except in the United States Capitol.</title>
+    <title type="display">Congressional Personal Safety Act</title>
+  </titles>
+  <sponsor id="412623"/>
+  <cosponsors>
+    <cosponsor id="412395" joined="2017-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-20" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-07-10">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="115" type="h" number="2940"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Crime and Law Enforcement"/>
+    <term name="Firearms and explosives"/>
+    <term name="Members of Congress"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

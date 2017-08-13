@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <createDate>2017-05-26T03:11:41Z</createDate>
+    <latestAction>
+      <text>Subcommittee Hearings Held.</text>
+      <actionDate>2017-06-21</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsii24</systemCode>
+              <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-06-21T20:24:09Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2017-06-08T13:48:31Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-25T13:07:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-05-26T20:30:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-25T13:07:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-25T13:07:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-25T13:07:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2017-06-21</actionDate>
+        <committee>
+          <systemCode>hsii24</systemCode>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <committee>
+          <systemCode>hsii24</systemCode>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-26</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Oversight and Government Reform</text>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Ways and Means</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Energy and Commerce</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to House Natural Resources</text>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Ways and Means, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-25</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <prayer>1</prayer>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>4</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <title>Restoring Accountability in the Indian Health Service Act of 2017</title>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <congress>115</congress>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Restoring Accountability in the Indian Health Service Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Restoring Accountability in the Indian Health Service Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend the Indian Health Care Improvement Act to improve the recruitment and retention of employees in the Indian Health Service, restore accountability in the Indian Health Service, improve health services, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Restoring Accountability in the Indian Health Service Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2017-06-22T14:23:46Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <billNumber>2662</billNumber>
+    <laws />
+    <introducedDate>2017-05-25</introducedDate>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>SD</state>
+        <identifiers>
+          <gpoId>8147</gpoId>
+          <bioguideId>N000184</bioguideId>
+          <lisID>2060</lisID>
+        </identifiers>
+        <middleName>L.</middleName>
+        <byRequestType />
+        <party>R</party>
+        <firstName>Kristi</firstName>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <district>0</district>
+        <lastName>Noem</lastName>
+        <bioguideId>N000184</bioguideId>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1250</number>
+        <latestTitle>Restoring Accountability in the Indian Health Service Act of 2017</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-06-13</actionDate>
+          <text>Committee on Indian Affairs. Hearings held.</text>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. NOEM:H.R. 2662.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution of the UnitedStates[Page H4608]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <middleName />
+        <lastName>Bishop</lastName>
+        <firstName>Rob</firstName>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+        <bioguideId>B001250</bioguideId>
+        <identifiers>
+          <bioguideId>B001250</bioguideId>
+          <lisID>1753</lisID>
+          <gpoId>8189</gpoId>
+        </identifiers>
+        <state>UT</state>
+        <party>R</party>
+        <district>1</district>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Mullin</lastName>
+        <firstName>Markwayne</firstName>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <bioguideId>M001190</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001190</bioguideId>
+          <lisID>2156</lisID>
+        </identifiers>
+        <state>OK</state>
+        <party>R</party>
+        <district>2</district>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>McMorris Rodgers</lastName>
+        <firstName>Cathy</firstName>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <bioguideId>M001159</bioguideId>
+        <identifiers>
+          <gpoId>8209</gpoId>
+          <lisID>1809</lisID>
+          <bioguideId>M001159</bioguideId>
+        </identifiers>
+        <state>WA</state>
+        <party>R</party>
+        <district>5</district>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Cole</lastName>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <bioguideId>C001053</bioguideId>
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <state>OK</state>
+        <party>R</party>
+        <district>4</district>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>LaMalfa</lastName>
+        <firstName>Doug</firstName>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <bioguideId>L000578</bioguideId>
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+          <lisID>2100</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <party>R</party>
+        <district>1</district>
+        <sponsorshipDate>2017-05-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Cramer</lastName>
+        <firstName>Kevin</firstName>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <bioguideId>C001096</bioguideId>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <state>ND</state>
+        <party>R</party>
+        <district>0</district>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Gonzalez-Colon</lastName>
+        <firstName>Jenniffer</firstName>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <bioguideId>G000582</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000582</bioguideId>
+          <lisID>2347</lisID>
+        </identifiers>
+        <state>PR</state>
+        <party>R</party>
+        <district>0</district>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>Coleman</middleName>
+        <lastName>Radewagen</lastName>
+        <firstName>Aumua Amata</firstName>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <bioguideId>R000600</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000600</bioguideId>
+          <lisID>2222</lisID>
+        </identifiers>
+        <state>AS</state>
+        <party>R</party>
+        <district>0</district>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

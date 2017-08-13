@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <orderedReported>1</orderedReported>
+        <reportedToSenate>2</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-12-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 709.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2016-12-07</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-12-07</actionDate>
+        <text>Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <type>Committee</type>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2016-12-06</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-02-10</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S827</name>
+            <url>https://www.congress.gov/congressional-record/volume-162/senate-section/page/S827</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S827)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-02-10</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HCONRES</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+          <actionDate>2016-04-29</actionDate>
+        </latestAction>
+        <latestTitle>Expressing concern over the disappearance of David Sneddon, and for other purposes.</latestTitle>
+        <number>114</number>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2016-09-28</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>18:22:21</actionTime>
+        </latestAction>
+        <latestTitle>Expressing concern over the disappearance of David Sneddon, and for other purposes.</latestTitle>
+        <number>891</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>30</billNumber>
+    <recordedVotes />
+    <calendarNumbers>
+      <item>
+        <number>0709</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2016-12-07T18:29:12Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2016-12-06T19:30:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2016-02-10T19:46:09Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-02-10</introducedDate>
+    <updateDate>2017-06-02T22:37:00Z</updateDate>
+    <title>A concurrent resolution expressing concern over the disappearance of David Sneddon, and for other purposes.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A concurrent resolution expressing concern over the disappearance of David Sneddon, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A concurrent resolution expressing concern over the disappearance of David Sneddon, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2016-02-10T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Expresses concern about the disappearance of David Sneddon in Yunnan Province, China, in August 2004.</p> <p> Directs the Department of State and the intelligence community to continue joint investigations, coordinate investigations with the governments of China, Japan, and South Korea, and solicit information from regional affairs and law enforcement experts on plausible explanations for David Sneddon's disappearance.</p> <p> Encourages the State Department and the intelligence community to work with foreign governments known to have diplomatic influence with North Korea to better investigate the possibility of North Korea's involvement in David Sneddon's disappearance, and to seek his recovery. </p> <p>Requests the State Department and the intelligence community to continue to work with and inform Congress and David Sneddon's family on efforts to resolve David's disappearance.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2016-02-12T21:54:29Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2016-02-10</actionDate>
+        </item>
+        <item>
+          <versionCode>80</versionCode>
+          <updateDate>2016-12-07T16:25:36Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Expresses concern about the disappearance of David Sneddon in Yunnan Province, China, in August 2004.</p> <p> Directs the Department of State and the intelligence community to continue joint investigations, coordinate investigations with the governments of China, Japan, and South Korea, and solicit information from regional affairs and law enforcement experts on plausible explanations for David Sneddon's disappearance.</p> <p> Encourages the State Department and the intelligence community to work with foreign governments known to have diplomatic influence with North Korea to better investigate the possibility of North Korea's involvement in David Sneddon's disappearance, and to seek his recovery. </p> <p>Requests the State Department and the intelligence community to continue to work with and inform Congress and David Sneddon's family on efforts to resolve David's disappearance.</p>]]></text>
+          <name>Reported to Senate without amendment</name>
+          <lastSummaryUpdateDate>2017-03-07T19:11:34Z</lastSummaryUpdateDate>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <actionDate>2016-12-07</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2080</lisID>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <bioguideId>L000577</bioguideId>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <state>UT</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Lee</lastName>
+      </item>
+    </sponsors>
+    <billType>SCONRES</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 709.</text>
+      <actionDate>2016-12-07</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2016-02-10</sponsorshipDate>
+        <state>UT</state>
+        <middleName>GRANT</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>ORRIN</firstName>
+        <lastName>HATCH</lastName>
+        <identifiers>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <bioguideId>H000338</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-02-10</sponsorshipDate>
+        <state>NE</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Deb</firstName>
+        <lastName>Fischer</lastName>
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+          <lisID>2179</lisID>
+        </identifiers>
+        <bioguideId>F000463</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-02-10</sponsorshipDate>
+        <state>NE</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Ben</firstName>
+        <lastName>Sasse</lastName>
+        <identifiers>
+          <lisID>2289</lisID>
+          <gpoId />
+          <bioguideId>S001197</bioguideId>
+        </identifiers>
+        <bioguideId>S001197</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <state>FL</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <bioguideId>R000595</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-05-12</sponsorshipDate>
+        <state>AZ</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>JEFF</firstName>
+        <lastName>FLAKE</lastName>
+        <identifiers>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+        <bioguideId>F000444</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-11</sponsorshipDate>
+        <state>CO</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Cory</firstName>
+        <lastName>Gardner</lastName>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+          <lisID>1998</lisID>
+        </identifiers>
+        <bioguideId>G000562</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>DE</state>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Christopher</firstName>
+        <lastName>Coons</lastName>
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <bioguideId>C001088</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-11-28</sponsorshipDate>
+        <state>AK</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Dan</firstName>
+        <lastName>Sullivan</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+        </identifiers>
+        <bioguideId>S001198</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>China</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Japan</name>
+          </item>
+          <item>
+            <name>North Korea</name>
+          </item>
+          <item>
+            <name>South Korea</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2016-02-11T05:13:19Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

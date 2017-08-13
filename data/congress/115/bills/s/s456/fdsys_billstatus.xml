@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>RACE for Children Act</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-03-03</actionDate>
+        </latestAction>
+        <number>1231</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <notes />
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2017-02-27</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>Bennet</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+          <lisID>1965</lisID>
+        </identifiers>
+        <bioguideId>B001267</bioguideId>
+        <state>CO</state>
+        <firstName>Michael</firstName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <byRequestType />
+        <middleName>F.</middleName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>sshr00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-27T22:57:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-02-28T05:17:32Z</createDate>
+    <updateDate>2017-08-03T06:47:37Z</updateDate>
+    <introducedDate>2017-02-27</introducedDate>
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-02-27</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-27</actionDate>
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>456</billNumber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Rubio</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <bioguideId>R000595</bioguideId>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <firstName>Marco</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Van Hollen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MD</state>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <bioguideId>V000128</bioguideId>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <firstName>Chris</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Gardner</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CO</state>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <bioguideId>G000562</bioguideId>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <firstName>Cory</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+        </identifiers>
+        <party>I</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>King</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>ME</state>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <bioguideId>K000383</bioguideId>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <firstName>Angus</firstName>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>RACE for Children Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Research to Accelerate Cures and Equity for Children Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>RACE for Children Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Research to Accelerate Cures and Equity for Children Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Federal Food, Drug, and Cosmetic Act to establish a program to increase the development of new drugs to treat pediatric cancers, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>RACE for Children Act</title>
+      </item>
+    </titles>
+    <amendments />
+    <title>RACE for Children Act</title>
+    <calendarNumbers />
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

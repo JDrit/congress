@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <billNumber>73</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-07-26T14:00:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>General taxation matters</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Resolves that Congress calls a convention for proposing amendments under Article V of the U.S. Constitution in accordance with the Compact for a Balanced Budget, effective after Congress receives certification that at least three-fourths of the states are members of the Compact and have applied for a convention for proposing amendments under Article V of the U.S. Constitution. </p> <p>Resolves that Congress refers the Balanced Budget Amendment to the state legislatures for ratification after Congress receives a certified copy of the Amendment showing that a convention for proposing amendments under Article V has approved and proposed for ratification the Amendment that is defined by the Compact and meets specified criteria, including prohibiting outlays from exceeding receipts unless the excess is financed by debt issued using specified procedures requiring approval by a majority of state legislatures. </p>]]></text>
+          <actionDate>2017-07-26</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-07-28T18:41:11Z</lastSummaryUpdateDate>
+          <updateDate>2017-07-26T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Effectuating the Compact for a Balanced Budget.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Effectuating the Compact for a Balanced Budget.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <createDate>2017-07-27T03:11:30Z</createDate>
+    <committeeReports />
+    <billType>HCONRES</billType>
+    <updateDate>2017-08-05T13:32:02Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionDate>2017-07-26</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-07-26</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-07-26</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+        </identifiers>
+        <party>R</party>
+        <state>ND</state>
+        <firstName>Kevin</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Cramer</lastName>
+        <district>0</district>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <bioguideId>C001096</bioguideId>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <gpoId>8021</gpoId>
+          <lisID>1933</lisID>
+        </identifiers>
+        <party>R</party>
+        <state>MS</state>
+        <firstName>Gregg</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Harper</lastName>
+        <district>3</district>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <bioguideId>H001045</bioguideId>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2237</lisID>
+          <bioguideId>H001071</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <state>GA</state>
+        <firstName>Jody</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <lastName>Hice</lastName>
+        <district>10</district>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <bioguideId>H001071</bioguideId>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1707</lisID>
+          <bioguideId>F000448</bioguideId>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <party>R</party>
+        <state>AZ</state>
+        <firstName>Trent</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Franks</lastName>
+        <district>8</district>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <bioguideId>F000448</bioguideId>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8022</gpoId>
+          <lisID>2035</lisID>
+          <bioguideId>P000601</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <state>MS</state>
+        <firstName>Steven</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <lastName>Palazzo</lastName>
+        <district>4</district>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <bioguideId>P000601</bioguideId>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+          <lisID>1992</lisID>
+        </identifiers>
+        <party>R</party>
+        <state>AZ</state>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <lastName>Gosar</lastName>
+        <district>4</district>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <bioguideId>G000565</bioguideId>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <amendments />
+    <constitutionalAuthorityStatementText />
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2017-07-26</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>Messer</lastName>
+        <district>6</district>
+        <bioguideId>M001189</bioguideId>
+        <firstName>Luke</firstName>
+        <party>R</party>
+        <byRequestType />
+        <state>IN</state>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <identifiers>
+          <lisID>2130</lisID>
+          <bioguideId>M001189</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <title>Effectuating the Compact for a Balanced Budget.</title>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <introducedDate>2017-07-26</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

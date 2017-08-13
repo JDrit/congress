@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-09-28</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2016-09-28</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Became Public Law No: 114-190.</text>
+          <actionDate>2016-07-15</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>636</number>
+        <latestTitle>FAA Extension, Safety, and Security Act of 2016</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>3421</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2016-09-28T19:54:23Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-09-28</introducedDate>
+    <updateDate>2017-06-03T00:08:00Z</updateDate>
+    <title>A bill to require air carriers to provide all flight attendants with scheduled rest periods of at least 10 consecutive hours between duty periods and to comply with fatigue management plans for flight attendants that have been approved by the Federal Aviation Administration.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to require air carriers to provide all flight attendants with scheduled rest periods of at least 10 consecutive hours between duty periods and to comply with fatigue management plans for flight attendants that have been approved by the Federal Aviation Administration.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to require air carriers to provide all flight attendants with scheduled rest periods of at least 10 consecutive hours between duty periods and to comply with fatigue management plans for flight attendants that have been approved by the Federal Aviation Administration.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2016-09-28</actionDate>
+          <updateDate>2016-09-28T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-17T14:13:52Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>This bill requires air carriers to provide a&nbsp;10-hour rest period&nbsp;to a flight attendant who&nbsp;is scheduled to a duty period of up to 14 hours. Current&nbsp;regulations generally mandate a nine-hour rest period but allow an eight-hour rest period under certain circumstances.</p> <p>Air carriers must comply with&nbsp;specified fatigue risk management plan requirements, subject to civil penalties.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <firstName>Richard</firstName>
+        <party>D</party>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <state>CT</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Blumenthal</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2016-09-28</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <firstName>EDWARD</firstName>
+        <party>D</party>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <lastName>MARKEY</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <firstName>Jeanne</firstName>
+        <party>D</party>
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NH</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <lastName>Shaheen</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <firstName>SHERROD</firstName>
+        <party>D</party>
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <lastName>BROWN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+        </identifiers>
+        <firstName>MARIA</firstName>
+        <party>D</party>
+        <bioguideId>C000127</bioguideId>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <lastName>CANTWELL</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <firstName>Brian</firstName>
+        <party>D</party>
+        <bioguideId>S001194</bioguideId>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>HI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-11-15</sponsorshipDate>
+        <lastName>Schatz</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2016-09-29T05:34:48Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

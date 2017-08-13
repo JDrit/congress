@@ -1,0 +1,82 @@
+<bill session="115" type="h" number="1282" updated="2017-06-29T04:35:56Z">
+  <state datetime="2017-06-21T15:03:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-06-21T15:03:00-04:00"/>
+  </status>
+  <introduced datetime="2017-03-01"/>
+  <titles>
+    <title type="short" as="introduced">DHS Acquisition Review Board Act of 2017</title>
+    <title type="short" as="introduced">DHS Acquisition Review Board Act of 2017</title>
+    <title type="short" as="reported to house">DHS Acquisition Review Board Act of 2017</title>
+    <title type="short" as="reported to house">DHS Acquisition Review Board Act of 2017</title>
+    <title type="short" as="passed house">DHS Acquisition Review Board Act of 2017</title>
+    <title type="short" as="passed house">DHS Acquisition Review Board Act of 2017</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to establish Acquisition Review Boards in the Department of Homeland Security, and for other purposes.</title>
+    <title type="official" as="amended by house">To amend the Homeland Security Act of 2002 to establish the Acquisition Review Board in the Department of Homeland Security, and for other purposes.</title>
+    <title type="display">DHS Acquisition Review Board Act of 2017</title>
+  </titles>
+  <sponsor id="412729"/>
+  <cosponsors>
+    <cosponsor id="400654" joined="2017-03-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-01">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-01" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <calendar datetime="2017-03-08" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-03-23">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-57.</text>
+    </action>
+    <calendar datetime="2017-03-23" calendar="Union" number="32">
+      <text>Placed on the Union Calendar, Calendar No. 32.</text>
+    </calendar>
+    <action datetime="2017-06-21T14:52:16-04:00">
+      <text>Mr. Garrett moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-06-21T14:52:43-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5020-5022" label="consideration"/>
+    </action>
+    <action datetime="2017-06-21T14:52:44-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1282.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-06-21T15:03:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5020-5021" label="text"/>
+    </vote>
+    <action datetime="2017-06-21T15:03:02-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-06-21T15:03:04-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-06-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Reporting, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="115" type="s" number="886"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 115-57</report>
+  </committee-reports>
+</bill>

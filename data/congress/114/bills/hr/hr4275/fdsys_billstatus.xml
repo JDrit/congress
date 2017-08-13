@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <updateDate>2017-06-02T21:42:37Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <number>4589</number>
+        <latestTitle>Excellence in Medicare Act</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2016-02-26</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <introducedDate>2015-12-16</introducedDate>
+    <notes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2015-12-18</actionDate>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Kelly</lastName>
+        <identifiers>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <bioguideId>K000376</bioguideId>
+        <middleName />
+        <byRequestType />
+        <state>PA</state>
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <billNumber>4275</billNumber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Medicare Advantage Quality Payment Relief Act of 2015</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to eliminate a provision under the Medicare Advantage program that inadvertently penalizes Medicare Advantage plans for providing high quality care to Medicare beneficiaries.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Medicare Advantage Quality Payment Relief Act of 2015</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-12-16</actionDate>
+          <updateDate>2015-12-16T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2016-07-11T18:03:28Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Medicare Advantage Quality Payment Relief Act of 2015</strong></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to require the Centers for Medicare &amp; Medicaid to disregard the application of certain percentage quality increases when calculating&nbsp;the maximum payment that may be made to a Medicare Advantage organization.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <committeeReports />
+    <title>Medicare Advantage Quality Payment Relief Act of 2015</title>
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-12-18</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-12-16</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-12-16</actionDate>
+        <text>Referred to House Energy and Commerce</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-12-16</actionDate>
+        <text>Referred to House Ways and Means</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-12-16</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-12-16</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-12-16</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2015-12-17T09:58:46Z</createDate>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-12-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>KIND</lastName>
+        <district>3</district>
+        <identifiers>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <state>WI</state>
+        <firstName>RON</firstName>
+        <bioguideId>K000188</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-12-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Guthrie</lastName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>G000558</bioguideId>
+          <gpoId>7954</gpoId>
+          <lisID>1922</lisID>
+        </identifiers>
+        <state>KY</state>
+        <firstName>Brett</firstName>
+        <bioguideId>G000558</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-12-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>DOYLE</lastName>
+        <district>14</district>
+        <identifiers>
+          <lisID>316</lisID>
+          <gpoId>8132</gpoId>
+          <bioguideId>D000482</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>MIKE</firstName>
+        <bioguideId>D000482</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-01-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Huizenga</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>2028</lisID>
+          <gpoId>7987</gpoId>
+          <bioguideId>H001058</bioguideId>
+        </identifiers>
+        <state>MI</state>
+        <firstName>Bill</firstName>
+        <bioguideId>H001058</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-04-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cartwright</lastName>
+        <district>17</district>
+        <identifiers>
+          <lisID>2159</lisID>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Matt</firstName>
+        <bioguideId>C001090</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-04-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Paulsen</lastName>
+        <district>3</district>
+        <identifiers>
+          <lisID>1930</lisID>
+          <gpoId>8003</gpoId>
+          <bioguideId>P000594</bioguideId>
+        </identifiers>
+        <state>MN</state>
+        <firstName>Erik</firstName>
+        <bioguideId>P000594</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-05-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>BLUMENAUER</lastName>
+        <district>3</district>
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <state>OR</state>
+        <firstName>EARL</firstName>
+        <bioguideId>B000574</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-05-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>SENSENBRENNER</lastName>
+        <district>5</district>
+        <identifiers>
+          <lisID>1041</lisID>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <state>WI</state>
+        <firstName>F.</firstName>
+        <bioguideId>S000244</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>JAMES</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-05-31</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Moolenaar</lastName>
+        <district>4</district>
+        <identifiers>
+          <lisID>2248</lisID>
+          <gpoId />
+          <bioguideId>M001194</bioguideId>
+        </identifiers>
+        <state>MI</state>
+        <firstName>John</firstName>
+        <bioguideId>M001194</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>NEAL</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>854</lisID>
+          <bioguideId>N000015</bioguideId>
+          <gpoId>7967</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <firstName>RICHARD</firstName>
+        <bioguideId>N000015</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-06-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bilirakis</lastName>
+        <district>12</district>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+        </identifiers>
+        <state>FL</state>
+        <firstName>Gus</firstName>
+        <bioguideId>B001257</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Meehan</lastName>
+        <district>7</district>
+        <identifiers>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Patrick</firstName>
+        <bioguideId>M001181</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2016-11-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Blackburn</lastName>
+        <district>7</district>
+        <identifiers>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <state>TN</state>
+        <firstName>Marsha</firstName>
+        <bioguideId>B001243</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-12-18T14:14:54Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-12-16T14:02:05Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-12-16T20:29:46Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-12-16T14:02:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KELLY of Pennsylvania:H.R. 4275.Congress has the power to enact this legislation pursuantto the following:The Congress enacts this bill pursuant to Article I Section8 of the United States Constitution.[Page H9375]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-04-07T03:11:59Z</createDate>
+    <policyArea>
+      <name>Families</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills />
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-07</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-04-06</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-04-06</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-04-06</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <state>IL</state>
+        <firstName>Darin</firstName>
+        <identifiers>
+          <lisID>2295</lisID>
+          <gpoId />
+          <bioguideId>L000585</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>LaHood</lastName>
+        <bioguideId>L000585</bioguideId>
+        <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>18</district>
+      </item>
+      <item>
+        <state>IN</state>
+        <firstName>Jim</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001299</bioguideId>
+          <lisID>2326</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Banks</lastName>
+        <bioguideId>B001299</bioguideId>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+      <item>
+        <state>AL</state>
+        <firstName>ROBERT</firstName>
+        <identifiers>
+          <bioguideId>A000055</bioguideId>
+          <lisID>1460</lisID>
+          <gpoId>7789</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>ADERHOLT</lastName>
+        <bioguideId>A000055</bioguideId>
+        <fullName>Rep. Aderholt, Robert B. [R-AL-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <state>MO</state>
+        <firstName>Vicky</firstName>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Hartzler</lastName>
+        <bioguideId>H001053</bioguideId>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <state>GA</state>
+        <firstName>Jody</firstName>
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+          <lisID>2237</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hice</lastName>
+        <bioguideId>H001071</bioguideId>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+      </item>
+      <item>
+        <state>TX</state>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2270</lisID>
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Babin</lastName>
+        <bioguideId>B001291</bioguideId>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>36</district>
+      </item>
+      <item>
+        <state>NC</state>
+        <firstName>WALTER</firstName>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>JONES</lastName>
+        <bioguideId>J000255</bioguideId>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-04-06</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>H001059</bioguideId>
+        <lastName>Hultgren</lastName>
+        <firstName>Randy</firstName>
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>H001059</bioguideId>
+          <lisID>2015</lisID>
+          <gpoId>7934</gpoId>
+        </identifiers>
+        <byRequestType />
+        <state>IL</state>
+        <district>14</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <title>Healthy Relationships Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Healthy Relationships Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>To authorize the Secretary of Health and Human Services, acting through the Administration for Children &amp; Families, to award grants on a competitive basis to public and private entities to provide exclusively education in sexual risk avoidance (meaning avoiding all sexual risk by voluntarily refraining from nonmarital sexual activity).</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Healthy Relationships Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>2028</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2017-04-07T14:50:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-04-06T13:11:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HULTGREN:H.R. 2028.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1, 3--The Congress shall havethe power to provide for the common welfare of the UnitedStates and to regulate commerce . . . among the severalstates.[Page H2791]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Families</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>Healthy Relationships Act of 2017</title>
+    <updateDate>2017-06-19T21:45:12Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2017-04-07</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

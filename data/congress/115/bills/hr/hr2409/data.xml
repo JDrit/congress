@@ -1,0 +1,43 @@
+<bill session="115" type="h" number="2409" updated="2017-07-06T21:15:10Z">
+  <state datetime="2017-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-11"/>
+  </status>
+  <introduced datetime="2017-05-11"/>
+  <titles>
+    <title type="official" as="introduced">To allow servicemembers to terminate their cable, satellite television, and Internet access service contracts while deployed.</title>
+    <title type="display">To allow servicemembers to terminate their cable, satellite television, and Internet access service contracts while deployed.</title>
+  </titles>
+  <sponsor id="412651"/>
+  <cosponsors>
+    <cosponsor id="412583" joined="2017-05-11"/>
+    <cosponsor id="400263" joined="2017-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-11" state="REFERRED">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2017-05-11">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="115" type="s" number="624"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Contracts and agency"/>
+    <term name="Internet and video services"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Television and film"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

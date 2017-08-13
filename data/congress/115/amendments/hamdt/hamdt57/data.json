@@ -1,0 +1,93 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-03-01T16:50:30-05:00", 
+      "action_code": "H32111", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Mitchell amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-03-01T16:43:20-05:00", 
+      "action_code": "H3A100", 
+      "references": [
+        {
+          "reference": "CR H1438-1439", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1438", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Mitchell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-01", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-01T16:50:30-05:00", 
+      "action_code": "76000", 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-01T16:50:30-05:00", 
+      "action_code": "72000", 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Mitchell amendment (A001) Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-01T16:43:20-05:00", 
+      "action_code": "71500", 
+      "references": [], 
+      "text": "House amendment offered/reported by : Amendment (A001) offered by Mr. Mitchell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-01", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt57-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1009-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 1009
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "Page 7, line 2, strike \"Administrator shall work with interested\" and insert the following: \"head of each agency shall submit the program descriptions required in subparagraph (B) to the Administrator. The Administrator shall work with other interested\".    Page 7, beginning on line 16, strike \"April 1 and October 1\" and insert \"March 15 and September 15\". ***.", 
+  "introduced_at": "2017-03-01", 
+  "number": 57, 
+  "purpose": null, 
+  "sponsor": {
+    "bioguide_id": "M001201", 
+    "district": "10", 
+    "name": "Mitchell, Paul", 
+    "state": "MI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2017-03-01T16:50:30-05:00", 
+  "updated_at": "2017-07-11T07:16:09Z"
+}

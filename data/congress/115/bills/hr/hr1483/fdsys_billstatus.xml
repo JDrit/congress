@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <createDate>2017-03-10T05:16:37Z</createDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+      <actionDate>2017-03-23</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Agriculture Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Conservation and Forestry Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-23T20:24:00Z</date>
+                </item>
+              </activities>
+              <systemCode>hsag15</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-09T15:07:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hsag00</systemCode>
+        </item>
+        <item>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-20T20:44:55Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-09T15:07:20Z</date>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2017-03-23</actionDate>
+        <committee>
+          <systemCode>hsag15</systemCode>
+          <name>Conservation and Forestry Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-20</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-03-09</actionDate>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to House Agriculture</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-03-09</actionDate>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to House Natural Resources</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <actionDate>2017-03-09</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-03-09</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-03-09</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+    </actions>
+    <title>Litigation Relief for Forest Management Projects Act</title>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-03-09</actionDate>
+          <text><![CDATA[<p><b>Litigation Relief for Forest Management Projects Act</b></p> <p>This bill amends the Forest and Rangeland Renewable Resources Planning Act of 1974 and the Federal Land Policy and Management Act of 1976 to prohibit the Department of Agriculture (USDA) or the Department of the Interior from being required to engage in any additional consultation with respect to: (1) the listing of a species as threatened or endangered, or a designation of a critical habitat, if a land management plan or land use plan, respectively, has been adopted by USDA or Interior as of the date of the listing or designation; or (2) any provision of such an adopted plan. </p>]]></text>
+          <lastSummaryUpdateDate>2017-06-19T19:43:17Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2017-03-09T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <congress>115</congress>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Litigation Relief for Forest Management Projects Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Litigation Relief for Forest Management Projects Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend the Forest and Rangeland Renewable Resources Planning Act of 1974 and the Federal Land Policy and Management Act of 1976 to discourage litigation against the Forest Service and the Bureau of Land Management relating to land management projects.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Litigation Relief for Forest Management Projects Act</title>
+      </item>
+    </titles>
+    <updateDate>2017-06-19T21:30:29Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Public participation and lobbying</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <billNumber>1483</billNumber>
+    <laws />
+    <introducedDate>2017-03-09</introducedDate>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>S001148</bioguideId>
+          <lisID>1590</lisID>
+          <gpoId>7920</gpoId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <byRequestType />
+        <party>R</party>
+        <firstName>MICHAEL</firstName>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <district>2</district>
+        <lastName>SIMPSON</lastName>
+        <bioguideId>S001148</bioguideId>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <latestTitle>Litigation Relief for Forest Management Projects Act</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-09</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <type>S</type>
+        <number>605</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SIMPSON:H.R. 1483.Congress has the power to enact this legislation pursuantto the following:The constitutional authority of Congress to enact thislegislation is provided by Article I, section 8 of the UnitedStates Constitution, specifically clause 1 (relating to thepower of Congress to provide for the general welfare of theUnited States) and clause 18 (relating to the power to makeall laws necessary and proper for carrying out the powersvested in Congress), and Article IV, section 3, clause 2(relating to the power of Congress to dispose of and make allneedful rules and regulations respecting the territory orother property belonging to the United States).[Page H2020]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>COLLIN</firstName>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MN</state>
+        <party>D</party>
+        <district>7</district>
+        <identifiers>
+          <bioguideId>P000258</bioguideId>
+          <lisID>910</lisID>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <lastName>PETERSON</lastName>
+        <bioguideId>P000258</bioguideId>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Cathy</firstName>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <party>R</party>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>M001159</bioguideId>
+          <lisID>1809</lisID>
+          <gpoId>8209</gpoId>
+        </identifiers>
+        <lastName>McMorris Rodgers</lastName>
+        <bioguideId>M001159</bioguideId>
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Scott</firstName>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CO</state>
+        <party>R</party>
+        <district>3</district>
+        <identifiers>
+          <gpoId>7861</gpoId>
+          <bioguideId>T000470</bioguideId>
+          <lisID>1997</lisID>
+        </identifiers>
+        <lastName>Tipton</lastName>
+        <bioguideId>T000470</bioguideId>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <actionDate>2015-05-22</actionDate>
+        <text>Referred to House Intelligence (Permanent)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Intelligence (Permanent) Committee</name>
+          <systemCode>hlig00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-05-22</actionDate>
+        <text>Referred to House Armed Services</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-05-22</actionDate>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-05-22</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-05-22</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <laws />
+    <billNumber>2569</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Select</type>
+          <name>Intelligence (Permanent) Committee</name>
+          <systemCode>hlig00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-05-22T18:31:00Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-05-22T18:30:52Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-05-22</introducedDate>
+    <updateDate>2017-06-02T21:05:19Z</updateDate>
+    <title>Drone Reform Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Drone Reform Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To consolidate within the Department of Defense all executive authority regarding the use of armed unmanned aerial vehicles, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Drone Reform Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-05-22</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>Drone Reform Act</strong></p> <p>Prohibits operations involving the use of an armed unmanned aerial vehicle from being carried out under the authority of federal agency other than the Department of Defense (DOD).</p> <p>Defines &quot;unmanned aerial vehicle&quot; (UAV) as an aircraft operated without the possibility of direct human intervention from within or on the aircraft, including drones, unmanned aircraft or aerial systems, remotely piloted aircraft or vehicles, remotely operated aircraft, and unmanned aerial vehicle systems.</p> <p>Authorizes only uniformed members of the Armed Forces to: (1) operate, or order the operation of, an armed UAV; or (2) operate or fire, or order the operation or firing of, any weapon or other munition carried on an armed UAV.</p> <p>Subjects the operation and use of armed UAVs to the requirements of laws applicable to the Armed Forces.</p> <p>Prohibits this Act from being construed to: (1) limit or expand the authority of a component of the federal government to provide intelligence to the DOD, or (2) create or expand any authority for the federal government to kill any person.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-06-25T20:18:58Z</lastSummaryUpdateDate>
+          <updateDate>2015-05-22T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2115</lisID>
+          <gpoId />
+          <bioguideId>Y000065</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <bioguideId>Y000065</bioguideId>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <firstName>Ted</firstName>
+        <state>FL</state>
+        <middleName>S.</middleName>
+        <byRequestType />
+        <lastName>Yoho</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to House Intelligence (Permanent)</text>
+      <actionDate>2015-05-22</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. YOHO:H.R. 2569.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 14 of the Constitution of theUnited States, which grants Congress the Power ``To makeRules for the Government and Regulation of the land and navalForces.''[Page H3574]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <firstName>BARBARA</firstName>
+        <middleName />
+        <state>CA</state>
+        <district>13</district>
+        <lastName>LEE</lastName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000551</bioguideId>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2094</lisID>
+          <bioguideId>M001184</bioguideId>
+          <gpoId>8371</gpoId>
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <middleName />
+        <state>KY</state>
+        <district>4</district>
+        <lastName>Massie</lastName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001184</bioguideId>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <firstName>WALTER</firstName>
+        <middleName>B.</middleName>
+        <state>NC</state>
+        <district>3</district>
+        <lastName>JONES</lastName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000255</bioguideId>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2029</lisID>
+          <gpoId>7988</gpoId>
+          <bioguideId>A000367</bioguideId>
+        </identifiers>
+        <firstName>Justin</firstName>
+        <middleName />
+        <state>MI</state>
+        <district>3</district>
+        <lastName>Amash</lastName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000367</bioguideId>
+        <fullName>Rep. Amash, Justin [R-MI-3]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>229</lisID>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <middleName />
+        <state>MI</state>
+        <district>13</district>
+        <lastName>CONYERS</lastName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000714</bioguideId>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2059</lisID>
+          <gpoId>8145</gpoId>
+          <bioguideId>M001182</bioguideId>
+        </identifiers>
+        <firstName>Mick</firstName>
+        <middleName />
+        <state>SC</state>
+        <district>5</district>
+        <lastName>Mulvaney</lastName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001182</bioguideId>
+        <fullName>Rep. Mulvaney, Mick [R-SC-5]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2011</lisID>
+          <bioguideId>L000573</bioguideId>
+          <gpoId>7919</gpoId>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <middleName>R.</middleName>
+        <state>ID</state>
+        <district>1</district>
+        <lastName>Labrador</lastName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000573</bioguideId>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2133</lisID>
+          <bioguideId>D000620</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>John</firstName>
+        <middleName>K.</middleName>
+        <state>MD</state>
+        <district>6</district>
+        <lastName>Delaney</lastName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000620</bioguideId>
+        <fullName>Rep. Delaney, John K. [D-MD-6]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1914</lisID>
+          <bioguideId>G000556</bioguideId>
+          <gpoId>7302</gpoId>
+        </identifiers>
+        <firstName>Alan</firstName>
+        <middleName />
+        <state>FL</state>
+        <district>9</district>
+        <lastName>Grayson</lastName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000556</bioguideId>
+        <fullName>Rep. Grayson, Alan [D-FL-9]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Military command and structure</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-05-23T08:46:01Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

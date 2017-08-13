@@ -1,0 +1,93 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-03-01T17:10:17-05:00", 
+      "action_code": "H32111", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Meadows amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-03-01T17:02:42-05:00", 
+      "action_code": "H3A100", 
+      "references": [
+        {
+          "reference": "CR H1441-1442", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1441", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Meadows.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-01", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-01T17:10:17-05:00", 
+      "action_code": "76000", 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-01T17:02:42-05:00", 
+      "action_code": "71500", 
+      "references": [], 
+      "text": "House amendment offered/reported by : Amendment (A004) offered by Mr. Meadows.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-01T17:10:17-05:00", 
+      "action_code": "72000", 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Meadows amendment (A004) Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-01", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt60-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1009-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 1009
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "Page 12, line 8, insert after \"action.\" the following: \"OIRA shall maintain a log of each agency consultation with OIRA before submitting the significant regulatory action for review under this section, including the date of the consultation, the name of each agency official involved with the consultation, and a description of the purpose of the consultation.\".    Page 22, line 19, strike \"and\". ***.", 
+  "introduced_at": "2017-03-01", 
+  "number": 60, 
+  "purpose": null, 
+  "sponsor": {
+    "bioguide_id": "M001187", 
+    "district": "11", 
+    "name": "Meadows, Mark", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2017-03-01T17:10:17-05:00", 
+  "updated_at": "2017-07-11T07:16:09Z"
+}

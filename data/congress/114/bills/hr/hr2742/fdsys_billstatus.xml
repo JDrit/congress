@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-11-23</actionDate>
+        <committee>
+          <name>Readiness Subcommittee</name>
+          <systemCode>hsas03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee />
+        <text>Sponsor introductory remarks on measure. (CR H4246)</text>
+        <type>IntroReferral</type>
+        <links>
+          <link>
+            <name>H4246</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/house-section/page/H4246</url>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-06-12</actionDate>
+      </item>
+      <item>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2015-06-11</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-06-11</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-06-11</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>1498</number>
+        <latestTitle>A bill to amend title 10, United States Code, to require that military working dogs be retired in the United States, and for other purposes.</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Armed Services. (Sponsor introductory remarks on measure: CR S3681; text of measure as introduced: CR S3681)</text>
+          <actionDate>2015-06-03</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>2742</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-06-11T14:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsas03</systemCode>
+              <name>Readiness Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-11-23T15:16:57Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-06-11</introducedDate>
+    <updateDate>2017-06-02T21:19:26Z</updateDate>
+    <title>To amend title 10, United States Code, to require that military working dogs be retired in the United States, and for other purposes.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 10, United States Code, to require that military working dogs be retired in the United States, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To amend title 10, United States Code, to require that military working dogs be retired in the United States, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-06-11T04:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill requires that a military working dog be retired in the United States, except when a U.S. citizen living abroad adopts the dog at the time of retirement.</p> <p>Amounts available to the military department concerned shall be available for such dog's transport to the United States for retirement.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-06-18T16:13:38Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-06-11</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>P000594</bioguideId>
+          <gpoId>8003</gpoId>
+          <lisID>1930</lisID>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <bioguideId>P000594</bioguideId>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <firstName>Erik</firstName>
+        <state>MN</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Paulsen</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <actionDate>2015-11-23</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PAULSEN:H.R. 2742.Congress has the power to enact this legislation pursuantto the following:Article I Section VIII of the United States Constitution.[[Page H4243]][Page H4242]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Sinema</lastName>
+        <district>9</district>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+          <lisID>2099</lisID>
+        </identifiers>
+        <state>AZ</state>
+        <firstName>Kyrsten</firstName>
+        <bioguideId>S001191</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Graham, Gwen [D-FL-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Graham</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>2234</lisID>
+          <gpoId />
+          <bioguideId>G000575</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <firstName>Gwen</firstName>
+        <bioguideId>G000575</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-06-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Knight</lastName>
+        <district>25</district>
+        <identifiers>
+          <lisID>2228</lisID>
+          <gpoId />
+          <bioguideId>K000387</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Stephen</firstName>
+        <bioguideId>K000387</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Grijalva</lastName>
+        <district>3</district>
+        <identifiers>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <state>AZ</state>
+        <firstName>Raul</firstName>
+        <bioguideId>G000551</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>NOLAN</lastName>
+        <district>8</district>
+        <identifiers>
+          <lisID>867</lisID>
+          <bioguideId>N000127</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>MN</state>
+        <firstName>RICHARD</firstName>
+        <bioguideId>N000127</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>COOPER</lastName>
+        <district>5</district>
+        <identifiers>
+          <lisID>231</lisID>
+          <gpoId>8152</gpoId>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+        <state>TN</state>
+        <firstName>JAMES</firstName>
+        <bioguideId>C000754</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>H.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-06-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cramer</lastName>
+        <district>0</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+        </identifiers>
+        <state>ND</state>
+        <firstName>Kevin</firstName>
+        <bioguideId>C001096</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <district>0</district>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>HOLMES</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-06-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>JONES</lastName>
+        <district>3</district>
+        <identifiers>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+        </identifiers>
+        <state>NC</state>
+        <firstName>WALTER</firstName>
+        <bioguideId>J000255</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-06-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lance</lastName>
+        <district>7</district>
+        <identifiers>
+          <lisID>1936</lisID>
+          <bioguideId>L000567</bioguideId>
+          <gpoId>8049</gpoId>
+        </identifiers>
+        <state>NJ</state>
+        <firstName>Leonard</firstName>
+        <bioguideId>L000567</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Walz</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1856</lisID>
+          <bioguideId>W000799</bioguideId>
+          <gpoId>8001</gpoId>
+        </identifiers>
+        <state>MN</state>
+        <firstName>Timothy</firstName>
+        <bioguideId>W000799</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>RANGEL</lastName>
+        <district>13</district>
+        <identifiers>
+          <lisID>944</lisID>
+          <gpoId>8076</gpoId>
+          <bioguideId>R000053</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <firstName>CHARLES</firstName>
+        <bioguideId>R000053</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cardenas</lastName>
+        <district>29</district>
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+          <gpoId />
+          <lisID>2107</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Tony</firstName>
+        <bioguideId>C001097</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Titus</lastName>
+        <district>1</district>
+        <identifiers>
+          <lisID>1940</lisID>
+          <bioguideId>T000468</bioguideId>
+          <gpoId>7493</gpoId>
+        </identifiers>
+        <state>NV</state>
+        <firstName>Dina</firstName>
+        <bioguideId>T000468</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Quigley</lastName>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <gpoId>7925</gpoId>
+          <lisID>1967</lisID>
+        </identifiers>
+        <state>IL</state>
+        <firstName>Mike</firstName>
+        <bioguideId>Q000023</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-06-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>McSally</lastName>
+        <district>2</district>
+        <identifiers>
+          <lisID>2225</lisID>
+          <gpoId />
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <state>AZ</state>
+        <firstName>Martha</firstName>
+        <bioguideId>M001197</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-06-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Swalwell</lastName>
+        <district>15</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Eric</firstName>
+        <bioguideId>S001193</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Moore</lastName>
+        <district>4</district>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <state>WI</state>
+        <firstName>Gwen</firstName>
+        <bioguideId>M001160</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Takano</lastName>
+        <district>41</district>
+        <identifiers>
+          <lisID>2110</lisID>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Mark</firstName>
+        <bioguideId>T000472</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pocan</lastName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+          <lisID>2171</lisID>
+        </identifiers>
+        <state>WI</state>
+        <firstName>Mark</firstName>
+        <bioguideId>P000607</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Beyer</lastName>
+        <district>8</district>
+        <identifiers>
+          <lisID>2272</lisID>
+          <bioguideId>B001292</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>VA</state>
+        <firstName>Donald</firstName>
+        <bioguideId>B001292</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>S.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>PETERSON</lastName>
+        <district>7</district>
+        <identifiers>
+          <lisID>910</lisID>
+          <gpoId>8007</gpoId>
+          <bioguideId>P000258</bioguideId>
+        </identifiers>
+        <state>MN</state>
+        <firstName>COLLIN</firstName>
+        <bioguideId>P000258</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>C.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-07-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bishop</lastName>
+        <district>8</district>
+        <identifiers>
+          <bioguideId>B001293</bioguideId>
+          <gpoId />
+          <lisID>2249</lisID>
+        </identifiers>
+        <state>MI</state>
+        <firstName>Mike</firstName>
+        <bioguideId>B001293</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>SLAUGHTER</lastName>
+        <district>25</district>
+        <identifiers>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+          <lisID>1069</lisID>
+        </identifiers>
+        <state>NY</state>
+        <firstName>LOUISE</firstName>
+        <bioguideId>S000480</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ruiz</lastName>
+        <district>36</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Raul</firstName>
+        <bioguideId>R000599</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Service animals</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-06-12T13:32:04Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

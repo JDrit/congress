@@ -1,0 +1,42 @@
+<bill session="115" type="h" number="2661" updated="2017-06-21T07:16:44Z">
+  <state datetime="2017-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-25"/>
+  </status>
+  <introduced datetime="2017-05-25"/>
+  <titles>
+    <title type="short" as="introduced">State Mineral Revenue Protection Act</title>
+    <title type="short" as="introduced">State Mineral Revenue Protection Act</title>
+    <title type="official" as="introduced">To amend the Mineral Leasing Act to require the Secretary of the Interior to convey to a State all right, title, and interest in and to a percentage of the amount of royalties and other amounts required to be paid to the State under that Act with respect to public land and deposits in the State, and for other purposes.</title>
+    <title type="display">State Mineral Revenue Protection Act</title>
+  </titles>
+  <sponsor id="412732"/>
+  <cosponsors>
+    <cosponsor id="412558" joined="2017-06-20"/>
+    <cosponsor id="412293" joined="2017-06-20"/>
+    <cosponsor id="400313" joined="2017-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-25" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-06-08">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="115" type="s" number="1267"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

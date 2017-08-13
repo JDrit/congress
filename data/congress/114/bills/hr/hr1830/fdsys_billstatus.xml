@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <item>
+        <actionDate>2015-05-07</actionDate>
+        <committee>
+          <name>Water, Power and Oceans Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-05-05</actionDate>
+        <committee>
+          <name>Conservation and Forestry Subcommittee</name>
+          <systemCode>hsag15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Agriculture</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-04-16</actionDate>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Natural Resources</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-04-16</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <links />
+        <actionDate>2015-04-16</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2015-04-16</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2015-04-16</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 114-399.</text>
+          <actionDate>2015-06-18</actionDate>
+        </latestAction>
+        <latestTitle>Water Rights Protection Act</latestTitle>
+        <number>982</number>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <text>Committee on Energy and Natural Resources. Hearings held.</text>
+          <actionDate>2015-10-08</actionDate>
+        </latestAction>
+        <latestTitle>Western Water and American Food Security Act of 2015</latestTitle>
+        <number>2898</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>1830</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Water, Power and Oceans Subcommittee</name>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <date>2015-05-07T17:23:16Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2015-04-16T13:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsag00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Conservation and Forestry Subcommittee</name>
+              <systemCode>hsag15</systemCode>
+              <activities>
+                <item>
+                  <date>2015-05-05T14:24:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Agriculture Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2015-04-16T13:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-04-16</introducedDate>
+    <updateDate>2017-06-02T20:46:21Z</updateDate>
+    <title>Water Rights Protection Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Water Rights Protection Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To prohibit the conditioning of any permit, lease, or other use agreement on the transfer of any water right to the United States by the Secretaries of the Interior and Agriculture, and to require the Secretaries of the Interior and Agriculture to develop water planning instruments consistent with State law.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Water Rights Protection Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-04-16</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Water Rights Protection Act</b></p> <p> Prohibits the Department of the Interior and the Department of Agriculture from:</p> <ul> <li>conditioning or withholding the issuance, renewal, amendment, or extension of any permit, approval, license, lease, allotment, easement, right-of-way, or other land use or occupancy agreement (permit) on the limitation or encumbrance of any water right or the transfer of any water right to the United States or any other designee, or any other impairment of any water right under state law by federal or state action;</li> <li>requiring any water user (including a federally recognized Indian tribe) to apply for or acquire a water right in the name of the United States under state law as a condition of such a permit;</li> <li>asserting jurisdiction over groundwater withdrawals or impacts on groundwater resources, unless consistent with state groundwater resource laws, regulations, and policies; or</li> <li>infringing on the rights and obligations of a state in evaluating, allocating, and adjudicating state waters originating on or under, or flowing from, land owned or managed by the federal government.</li> </ul>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-06-23T15:44:53Z</lastSummaryUpdateDate>
+          <updateDate>2015-04-16T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1997</lisID>
+          <gpoId>7861</gpoId>
+          <bioguideId>T000470</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <bioguideId>T000470</bioguideId>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <firstName>Scott</firstName>
+        <state>CO</state>
+        <middleName>R.</middleName>
+        <byRequestType />
+        <lastName>Tipton</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+      <actionDate>2015-05-07</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TIPTON:H.R. 1830.Congress has the power to enact this legislation pursuantto the following:The constitutional authority of Congress to enact thislegislation is provided by Article 4 Section 3 Clause 2 ofthe United States Constitution, which states the Congressshall have Power to dispose of and make all needful Rules andRegulations respecting the Territory or other Propertybelonging to the United States; and nothing in thisConstitution shall be so construed as to Prejudice any Claimsof the United States, or of any particular State.[Page H2308]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <state>NV</state>
+        <identifiers>
+          <lisID>2090</lisID>
+          <bioguideId>A000369</bioguideId>
+          <gpoId>8366</gpoId>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>2</district>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Amodei</lastName>
+        <bioguideId>A000369</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>B001297</bioguideId>
+          <gpoId />
+          <lisID>2233</lisID>
+        </identifiers>
+        <firstName>Ken</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Buck, Ken [R-CO-4]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>4</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Buck</lastName>
+        <bioguideId>B001297</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>UT</state>
+        <identifiers>
+          <lisID>1956</lisID>
+          <bioguideId>C001076</bioguideId>
+          <gpoId>8191</gpoId>
+        </identifiers>
+        <firstName>Jason</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Chaffetz, Jason [R-UT-3]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>3</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Chaffetz</lastName>
+        <bioguideId>C001076</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>6</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Coffman</lastName>
+        <bioguideId>C001077</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>4</district>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gosar</lastName>
+        <bioguideId>G000565</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2051</lisID>
+          <gpoId>8708</gpoId>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>3</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Kelly</lastName>
+        <bioguideId>K000376</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>ID</state>
+        <identifiers>
+          <lisID>2011</lisID>
+          <gpoId>7919</gpoId>
+          <bioguideId>L000573</bioguideId>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>1</district>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Labrador</lastName>
+        <bioguideId>L000573</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000578</bioguideId>
+          <lisID>2100</lisID>
+        </identifiers>
+        <firstName>Doug</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>1</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>LaMalfa</lastName>
+        <bioguideId>L000578</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>L000584</bioguideId>
+          <gpoId />
+          <lisID>2271</lisID>
+        </identifiers>
+        <firstName>Mia</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Love, Mia B. [R-UT-4]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>4</district>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Love</lastName>
+        <bioguideId>L000584</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1834</lisID>
+          <gpoId>7863</gpoId>
+          <bioguideId>L000564</bioguideId>
+        </identifiers>
+        <firstName>Doug</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>5</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Lamborn</lastName>
+        <bioguideId>L000564</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>WY</state>
+        <identifiers>
+          <lisID>1960</lisID>
+          <bioguideId>L000571</bioguideId>
+          <gpoId>8225</gpoId>
+        </identifiers>
+        <firstName>Cynthia</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lummis, Cynthia M. [R-WY-At Large]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>0</district>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lummis</lastName>
+        <bioguideId>L000571</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>M001177</bioguideId>
+          <gpoId>7809</gpoId>
+          <lisID>1908</lisID>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>4</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>McClintock</lastName>
+        <bioguideId>M001177</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>NM</state>
+        <identifiers>
+          <lisID>1738</lisID>
+          <gpoId>8057</gpoId>
+          <bioguideId>P000588</bioguideId>
+        </identifiers>
+        <firstName>Stevan</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>2</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Pearce</lastName>
+        <bioguideId>P000588</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+          <bioguideId>R000585</bioguideId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>23</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Reed</lastName>
+        <bioguideId>R000585</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>WI</state>
+        <identifiers>
+          <gpoId>8221</gpoId>
+          <bioguideId>R000587</bioguideId>
+          <lisID>2073</lisID>
+        </identifiers>
+        <firstName>Reid</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Ribble, Reid J. [R-WI-8]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>8</district>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ribble</lastName>
+        <bioguideId>R000587</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>ID</state>
+        <identifiers>
+          <lisID>1590</lisID>
+          <gpoId>7920</gpoId>
+          <bioguideId>S001148</bioguideId>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>2</district>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>SIMPSON</lastName>
+        <bioguideId>S001148</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1075</lisID>
+          <bioguideId>S000583</bioguideId>
+          <gpoId>8177</gpoId>
+        </identifiers>
+        <firstName>LAMAR</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>21</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>SMITH</lastName>
+        <bioguideId>S000583</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>S001192</bioguideId>
+          <gpoId />
+          <lisID>2168</lisID>
+        </identifiers>
+        <firstName>Chris</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>2</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Stewart</lastName>
+        <bioguideId>S001192</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>PA</state>
+        <identifiers>
+          <lisID>1952</lisID>
+          <gpoId>8123</gpoId>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+        <firstName>Glenn</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>5</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Thompson</lastName>
+        <bioguideId>T000467</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>AR</state>
+        <identifiers>
+          <lisID>2224</lisID>
+          <gpoId />
+          <bioguideId>W000821</bioguideId>
+        </identifiers>
+        <firstName>Bruce</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>4</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Westerman</lastName>
+        <bioguideId>W000821</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MT</state>
+        <identifiers>
+          <lisID>2254</lisID>
+          <bioguideId>Z000018</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Ryan</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Zinke, Ryan K. [R-MT-At Large]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>0</district>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Zinke</lastName>
+        <bioguideId>Z000018</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>F000448</bioguideId>
+          <gpoId>7799</gpoId>
+          <lisID>1707</lisID>
+        </identifiers>
+        <firstName>Trent</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <district>8</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Franks</lastName>
+        <bioguideId>F000448</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>N000189</bioguideId>
+          <gpoId />
+          <lisID>2275</lisID>
+        </identifiers>
+        <firstName>Dan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <sponsorshipDate>2015-05-21</sponsorshipDate>
+        <district>4</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Newhouse</lastName>
+        <bioguideId>N000189</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2270</lisID>
+          <gpoId />
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <sponsorshipDate>2015-06-03</sponsorshipDate>
+        <district>36</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Babin</lastName>
+        <bioguideId>B001291</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>H001070</bioguideId>
+          <gpoId />
+          <lisID>2260</lisID>
+        </identifiers>
+        <firstName>Cresent</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Hardy, Cresent [R-NV-4]</fullName>
+        <sponsorshipDate>2015-06-03</sponsorshipDate>
+        <district>4</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Hardy</lastName>
+        <bioguideId>H001070</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>1994</lisID>
+          <gpoId>7802</gpoId>
+          <bioguideId>S001183</bioguideId>
+        </identifiers>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <sponsorshipDate>2015-07-23</sponsorshipDate>
+        <district>6</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Schweikert</lastName>
+        <bioguideId>S001183</bioguideId>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-04-17T09:01:57Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

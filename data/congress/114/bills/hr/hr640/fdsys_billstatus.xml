@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <item>
+        <type>Calendars</type>
+        <text>Placed on the Union Calendar, Calendar No. 13.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H12410</actionCode>
+        <links />
+        <actionDate>2015-02-09</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>Discharge</type>
+        <text>Committee on the Budget discharged.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H12300</actionCode>
+        <links />
+        <actionDate>2015-02-09</actionDate>
+        <committee>
+          <name>Budget Committee</name>
+          <systemCode>hsbu00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>Committee</type>
+        <text>Committee on the Budget discharged.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>5500</actionCode>
+        <links />
+        <actionDate>2015-02-09</actionDate>
+        <committee>
+          <name>Budget Committee</name>
+          <systemCode>hsbu00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>Committee</type>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-19, Part I.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H12200</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 114-19</name>
+            <url>https://www.congress.gov/congressional-report/114th-congress/house-report/19</url>
+          </link>
+        </links>
+        <actionDate>2015-02-09</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>Committee</type>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-19, Part I.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 114-19</name>
+            <url>http://tntwxavlp01.loc.gov/congressional-report/114th-congress/house-report/19</url>
+          </link>
+        </links>
+        <actionDate>2015-02-09</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2015-02-04</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 14.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Budget</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-02-02</actionDate>
+        <committee>
+          <name>Budget Committee</name>
+          <systemCode>hsbu00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to House Ways and Means</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-02-02</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <links />
+        <actionDate>2015-02-02</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2015-02-02</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2015-02-02</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <committeeDischarged>1</committeeDischarged>
+        <billReferrals>2</billReferrals>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2016-04-06</actionDate>
+        </latestAction>
+        <latestTitle>Charities Helping Americans Regularly Throughout the Year Act</latestTitle>
+        <number>2750</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>640</billNumber>
+    <recordedVotes />
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00013</calendar>
+      </item>
+    </calendarNumbers>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2015-02-09T18:54:35Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2015-02-02T17:01:30Z</date>
+            </item>
+          </activities>
+          <systemCode>hsbu00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Budget Committee</name>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2015-02-09T18:54:18Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2015-02-02T17:01:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-02-02</introducedDate>
+    <updateDate>2017-06-02T20:02:56Z</updateDate>
+    <title>Private Foundation Excise Tax Simplification Act of 2015</title>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2015-02-06T23:06:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/49934</url>
+        <title>H.R. 640, Private Foundation Excise Tax Simplification Act of 2015</title>
+      </item>
+    </cboCostEstimates>
+    <titles>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <title>Private Foundation Excise Tax Simplification Act of 2015</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to modify the tax rate for excise tax on investment income of private foundations.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Private Foundation Excise Tax Simplification Act of 2015</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-02-02</actionDate>
+          <updateDate>2015-02-02T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-02-18T18:51:15Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Amends the Internal Revenue Code to: (1) reduce from 2% to 1% the excise tax rate on the net investment income of tax-exempt private foundations, and (2) repeal the 1% reduction in such tax rate for private foundations that meet certain distribution requirements. Excludes the budgetary effects of this Act from PAYGO scorecards.</p>]]></text>
+        </item>
+        <item>
+          <versionCode>18</versionCode>
+          <actionDate>2015-02-09</actionDate>
+          <updateDate>2015-02-09T13:39:32Z</updateDate>
+          <lastSummaryUpdateDate>2015-02-24T15:43:13Z</lastSummaryUpdateDate>
+          <actionDesc>Reported to House amended, Part I</actionDesc>
+          <name>Reported to House amended, Part I</name>
+          <text><![CDATA[<p><strong>Private Foundation Excise Tax Simplification Act of 2015</strong></p> <p>(Sec. 2) Amends the Internal Revenue Code to: (1) reduce from 2% to 1% the excise tax rate on the net investment income of tax-exempt private foundations, and (2) repeal the 1% reduction in such tax rate for private foundations that meet certain distribution requirements. </p> <p>(Sec. 3) Excludes the budgetary effects of this Act from PAYGO scorecards.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8003</gpoId>
+          <bioguideId>P000594</bioguideId>
+          <lisID>1930</lisID>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <bioguideId>P000594</bioguideId>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <firstName>Erik</firstName>
+        <state>MN</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Paulsen</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Placed on the Union Calendar, Calendar No. 13.</text>
+      <actionDate>2015-02-09</actionDate>
+    </latestAction>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 114-19</citation>
+      </committeeReport>
+    </committeeReports>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PAULSEN:H.R. 640.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1 of the United StatesConstitution[Page H704]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2015-02-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>DAVIS</lastName>
+        <district>7</district>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <gpoId>7927</gpoId>
+          <lisID>1477</lisID>
+        </identifiers>
+        <state>IL</state>
+        <firstName>DANNY</firstName>
+        <bioguideId>D000096</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-02-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Reed</lastName>
+        <district>23</district>
+        <identifiers>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+          <bioguideId>R000585</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <firstName>Tom</firstName>
+        <bioguideId>R000585</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2015-02-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Costello</lastName>
+        <district>6</district>
+        <identifiers>
+          <lisID>2266</lisID>
+          <gpoId />
+          <bioguideId>C001106</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <firstName>Ryan</firstName>
+        <bioguideId>C001106</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>Tax-exempt organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-02-03T07:01:19Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

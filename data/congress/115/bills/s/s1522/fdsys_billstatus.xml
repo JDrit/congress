@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cboCostEstimates />
+    <laws />
+    <calendarNumbers />
+    <congress>115</congress>
+    <createDate>2017-07-11T00:26:35Z</createDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Every Kid Outdoors Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to establish an Every Kid Outdoors program, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Every Kid Outdoors Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Every Kid Outdoors Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>sseg04</systemCode>
+          <name>National Parks Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-10</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-07-10</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>Every Kid Outdoors Act</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+          <actionDate>2017-07-24</actionDate>
+        </latestAction>
+        <number>3186</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-07-10T21:33:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-07-19T14:15:10Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <name>National Parks Subcommittee</name>
+              <systemCode>sseg04</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <updateDate>2017-08-02T11:45:49Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2017-07-19</actionDate>
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+    </latestAction>
+    <cosponsors>
+      <item>
+        <lastName>Alexander</lastName>
+        <bioguideId>A000360</bioguideId>
+        <middleName />
+        <firstName>Lamar</firstName>
+        <party>R</party>
+        <state>TN</state>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>A000360</bioguideId>
+          <gpoId>8304</gpoId>
+          <lisID>1695</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>UDALL</lastName>
+        <bioguideId>U000039</bioguideId>
+        <middleName />
+        <firstName>TOM</firstName>
+        <party>D</party>
+        <state>NM</state>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>COLLINS</lastName>
+        <bioguideId>C001035</bioguideId>
+        <middleName>MARGARET</middleName>
+        <firstName>SUSAN</firstName>
+        <party>R</party>
+        <state>ME</state>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <identifiers>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8056</gpoId>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <lastName>Heinrich</lastName>
+        <byRequestType />
+        <state>NM</state>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <bioguideId>H001046</bioguideId>
+        <firstName>Martin</firstName>
+      </item>
+    </sponsors>
+    <introducedDate>2017-07-10</introducedDate>
+    <billNumber>1522</billNumber>
+    <title>Every Kid Outdoors Act</title>
+    <version>1.0.0</version>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

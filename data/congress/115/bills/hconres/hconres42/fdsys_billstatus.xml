@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <congress>115</congress>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <createDate>2017-03-30T04:33:00Z</createDate>
+    <sponsors>
+      <item>
+        <bioguideId>K000009</bioguideId>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <district>9</district>
+        <identifiers>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+        </identifiers>
+        <state>OH</state>
+        <party>D</party>
+        <middleName />
+        <firstName>MARCY</firstName>
+        <byRequestType />
+        <lastName>KAPTUR</lastName>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/extensions-of-remarks-section/page/E411</url>
+            <name>E411</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2550</url>
+            <name>H2550</name>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <actionDate>2017-03-29</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Sponsor introductory remarks on measure. (CR H2550, E411)</text>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-03-29</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-03-29</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HCONRES</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-05-02T15:19:07Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-29T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Expresses the sense of Congress that the Supreme Court misinterpreted the First Amendment in the case of <i>Buckley v. Valeo</i> because the decision failed to recognize: (1) that the unlimited spending of large amounts of money on elections has a corrosive effect on the electoral process not simply because of direct transactions between those who give large amounts of money and candidates and elected officials but because the presence of unlimited amounts of money corrupts the process on a more fundamental level; and (2) other legitimate state interests which justify limiting money in campaigns, including the need to preserve the integrity of our republican form of government, restore public confidence in government, and ensure all citizens a more equal opportunity to participate in the political process.<br> </p>]]></text>
+          <actionDate>2017-03-29</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <title>Expressing the sense of Congress that the Supreme Court misinterpreted the First Amendment to the Constitution in the case of Buckley v. Valeo.</title>
+    <cboCostEstimates />
+    <introducedDate>2017-03-29</introducedDate>
+    <billNumber>42</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-29T12:01:35Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-29T20:18:54Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills />
+    <titles>
+      <item>
+        <chamberName />
+        <title>Expressing the sense of Congress that the Supreme Court misinterpreted the First Amendment to the Constitution in the case of Buckley v. Valeo.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Expressing the sense of Congress that the Supreme Court misinterpreted the First Amendment to the Constitution in the case of Buckley v. Valeo.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <lastName>GREEN</lastName>
+        <identifiers>
+          <lisID>462</lisID>
+          <gpoId>8185</gpoId>
+          <bioguideId>G000410</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <district>29</district>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000410</bioguideId>
+        <party>D</party>
+        <firstName>GENE</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>NORTON</lastName>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <state>DC</state>
+        <district>0</district>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>HOLMES</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Maloney</lastName>
+        <identifiers>
+          <lisID>2150</lisID>
+          <gpoId />
+          <bioguideId>M001185</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <district>18</district>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Patrick</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001185</bioguideId>
+        <party>D</party>
+        <firstName>Sean</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>CONYERS</lastName>
+        <identifiers>
+          <lisID>229</lisID>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+        </identifiers>
+        <state>MI</state>
+        <district>13</district>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000714</bioguideId>
+        <party>D</party>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Higgins</lastName>
+        <identifiers>
+          <lisID>1794</lisID>
+          <gpoId>8088</gpoId>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <district>26</district>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001038</bioguideId>
+        <party>D</party>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>SCHAKOWSKY</lastName>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <district>9</district>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001145</bioguideId>
+        <party>D</party>
+        <firstName>JANICE</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>DEFAZIO</lastName>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <state>OR</state>
+        <district>4</district>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000191</bioguideId>
+        <party>D</party>
+        <firstName>PETER</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Soto</lastName>
+        <identifiers>
+          <lisID>2319</lisID>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <district>9</district>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001200</bioguideId>
+        <party>D</party>
+        <firstName>Darren</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>BLUMENAUER</lastName>
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <state>OR</state>
+        <district>3</district>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000574</bioguideId>
+        <party>D</party>
+        <firstName>EARL</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>SLAUGHTER</lastName>
+        <identifiers>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <district>25</district>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000480</bioguideId>
+        <party>D</party>
+        <firstName>LOUISE</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Raskin</lastName>
+        <identifiers>
+          <lisID>2332</lisID>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <state>MD</state>
+        <district>8</district>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000606</bioguideId>
+        <party>D</party>
+        <firstName>Jamie</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <updateDate>2017-05-16T18:46:28Z</updateDate>
+    <latestAction>
+      <actionDate>2017-03-29</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

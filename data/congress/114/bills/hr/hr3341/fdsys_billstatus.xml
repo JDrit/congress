@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-11-23</actionDate>
+        <committee>
+          <systemCode>hsas03</systemCode>
+          <name>Readiness Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2015-07-29</actionDate>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2015-07-29</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2015-07-29</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2016-05-26</actionDate>
+          <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 502.</text>
+        </latestAction>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>4909</number>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>3341</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-07-29T14:04:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsas03</systemCode>
+              <name>Readiness Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-11-23T15:40:15Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-07-29</introducedDate>
+    <updateDate>2017-06-02T21:29:57Z</updateDate>
+    <title>To designate the portion of Moffett Federal Airfield, California, containing the 129th Rescue Wing of the California Air National Guard as Moffett Air National Guard Base.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To designate the portion of Moffett Federal Airfield, California, containing the 129th Rescue Wing of the California Air National Guard as Moffett Air National Guard Base.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To designate the portion of Moffett Federal Airfield, California, containing the 129th Rescue Wing of the California Air National Guard as Moffett Air National Guard Base.</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-07-29</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>This bill designates the portion of Moffett Federal Airfield, California, containing the 129th Rescue Wing of the California Air National Guard, as Moffett Air National Guard Base. </p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-09-08T20:28:52Z</lastSummaryUpdateDate>
+          <updateDate>2015-07-29T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+        </identifiers>
+        <district>18</district>
+        <party>D</party>
+        <bioguideId>E000215</bioguideId>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <firstName>ANNA</firstName>
+        <state>CA</state>
+        <middleName>G.</middleName>
+        <byRequestType />
+        <lastName>ESHOO</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <actionDate>2015-11-23</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ESHOO:H.R. 3341.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clauses 1 and 18[Page H5772]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>H001034</bioguideId>
+        <lastName>HONDA</lastName>
+        <state>CA</state>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipDate>2015-09-08</sponsorshipDate>
+        <identifiers>
+          <lisID>1634</lisID>
+          <bioguideId>H001034</bioguideId>
+          <gpoId>7820</gpoId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <fullName>Rep. Honda, Michael M. [D-CA-17]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>G000559</bioguideId>
+        <lastName>Garamendi</lastName>
+        <state>CA</state>
+        <firstName>John</firstName>
+        <sponsorshipDate>2015-09-08</sponsorshipDate>
+        <identifiers>
+          <gpoId>7815</gpoId>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>L000397</bioguideId>
+        <lastName>LOFGREN</lastName>
+        <state>CA</state>
+        <firstName>ZOE</firstName>
+        <sponsorshipDate>2015-09-08</sponsorshipDate>
+        <identifiers>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <district>19</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>P000197</bioguideId>
+        <lastName>PELOSI</lastName>
+        <state>CA</state>
+        <firstName>NANCY</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000197</bioguideId>
+          <gpoId>7813</gpoId>
+          <lisID>905</lisID>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Pelosi, Nancy [D-CA-12]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>S001175</bioguideId>
+        <lastName>Speier</lastName>
+        <state>CA</state>
+        <firstName>Jackie</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>M001163</bioguideId>
+        <lastName>Matsui</lastName>
+        <state>CA</state>
+        <firstName>Doris</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <lisID>1814</lisID>
+          <bioguideId>M001163</bioguideId>
+          <gpoId>7810</gpoId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>O.</middleName>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001036</bioguideId>
+        <lastName>CAPPS</lastName>
+        <state>CA</state>
+        <firstName>LOIS</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <gpoId>7828</gpoId>
+          <bioguideId>C001036</bioguideId>
+          <lisID>1471</lisID>
+        </identifiers>
+        <district>24</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Capps, Lois [D-CA-24]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>H001063</bioguideId>
+        <lastName>Hahn</lastName>
+        <state>CA</state>
+        <firstName>Janice</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001063</bioguideId>
+          <gpoId>8360</gpoId>
+          <lisID>2089</lisID>
+        </identifiers>
+        <district>44</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Hahn, Janice [D-CA-44]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>D000598</bioguideId>
+        <lastName>DAVIS</lastName>
+        <state>CA</state>
+        <firstName>SUSAN</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <gpoId>7858</gpoId>
+          <bioguideId>D000598</bioguideId>
+          <lisID>1641</lisID>
+        </identifiers>
+        <district>53</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>P000608</bioguideId>
+        <lastName>Peters</lastName>
+        <state>CA</state>
+        <firstName>Scott</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>52</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>H.</middleName>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>S001193</bioguideId>
+        <lastName>Swalwell</lastName>
+        <state>CA</state>
+        <firstName>Eric</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <lisID>2104</lisID>
+          <gpoId />
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>A000371</bioguideId>
+        <lastName>Aguilar</lastName>
+        <state>CA</state>
+        <firstName>Pete</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>A000371</bioguideId>
+          <gpoId />
+          <lisID>2229</lisID>
+        </identifiers>
+        <district>31</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>F000030</bioguideId>
+        <lastName>FARR</lastName>
+        <state>CA</state>
+        <firstName>SAM</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <lisID>368</lisID>
+          <bioguideId>F000030</bioguideId>
+          <gpoId>7822</gpoId>
+        </identifiers>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Farr, Sam [D-CA-20]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>T000472</bioguideId>
+        <lastName>Takano</lastName>
+        <state>CA</state>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <lisID>2110</lisID>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <district>41</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>B000287</bioguideId>
+        <lastName>BECERRA</lastName>
+        <state>CA</state>
+        <firstName>XAVIER</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B000287</bioguideId>
+          <gpoId>7836</gpoId>
+          <lisID>70</lisID>
+        </identifiers>
+        <district>34</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Becerra, Xavier [D-CA-34]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>D000623</bioguideId>
+        <lastName>DeSaulnier</lastName>
+        <state>CA</state>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <lisID>2227</lisID>
+          <bioguideId>D000623</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>T000460</bioguideId>
+        <lastName>THOMPSON</lastName>
+        <state>CA</state>
+        <firstName>MIKE</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <gpoId>7806</gpoId>
+          <lisID>1593</lisID>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>S000344</bioguideId>
+        <lastName>SHERMAN</lastName>
+        <state>CA</state>
+        <firstName>BRAD</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <district>30</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>S001150</bioguideId>
+        <lastName>SCHIFF</lastName>
+        <state>CA</state>
+        <firstName>ADAM</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+          <lisID>1635</lisID>
+        </identifiers>
+        <district>28</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001059</bioguideId>
+        <lastName>Costa</lastName>
+        <state>CA</state>
+        <firstName>Jim</firstName>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <identifiers>
+          <lisID>1774</lisID>
+          <bioguideId>C001059</bioguideId>
+          <gpoId>7825</gpoId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>H001068</bioguideId>
+        <lastName>Huffman</lastName>
+        <state>CA</state>
+        <firstName>Jared</firstName>
+        <sponsorshipDate>2015-09-11</sponsorshipDate>
+        <identifiers>
+          <lisID>2101</lisID>
+          <bioguideId>H001068</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>T000474</bioguideId>
+        <lastName>Torres</lastName>
+        <state>CA</state>
+        <firstName>Norma</firstName>
+        <sponsorshipDate>2015-09-22</sponsorshipDate>
+        <identifiers>
+          <lisID>2231</lisID>
+          <bioguideId>T000474</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>35</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-07-30T08:30:33Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

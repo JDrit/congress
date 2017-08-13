@@ -1,0 +1,59 @@
+<bill session="115" type="h" number="1954" updated="2017-06-19T21:45:12Z">
+  <state datetime="2017-04-05">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-05"/>
+  </status>
+  <introduced datetime="2017-04-05"/>
+  <titles>
+    <title type="short" as="introduced">Servicemembers and Veterans Empowerment and Support Act of 2017</title>
+    <title type="short" as="introduced">Servicemembers and Veterans Empowerment and Support Act of 2017</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to expand health care and benefits from the Department of Veterans Affairs for military sexual trauma, and for other purposes.</title>
+    <title type="display">Servicemembers and Veterans Empowerment and Support Act of 2017</title>
+  </titles>
+  <sponsor id="412307"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2017-04-05"/>
+    <cosponsor id="400103" joined="2017-04-05"/>
+    <cosponsor id="412524" joined="2017-04-05"/>
+    <cosponsor id="412523" joined="2017-04-05"/>
+    <cosponsor id="400350" joined="2017-04-05"/>
+    <cosponsor id="412312" joined="2017-04-05"/>
+    <cosponsor id="412520" joined="2017-04-05"/>
+    <cosponsor id="412318" joined="2017-04-05"/>
+    <cosponsor id="412254" joined="2017-04-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-05">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-05" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-04-05">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2017-04-05">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2017-04-06">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2017-04-24">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="115" type="s" number="833"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

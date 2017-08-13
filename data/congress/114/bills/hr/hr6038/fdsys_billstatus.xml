@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <updateDate>2017-06-02T22:15:27Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <laws />
+    <version>1.0.0</version>
+    <amendments />
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>National Veterans Memorial and Museum Act</latestTitle>
+        <number>3342</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2016-09-15</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <introducedDate>2016-09-15</introducedDate>
+    <notes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+      <actionDate>2016-09-20</actionDate>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Stivers</lastName>
+        <identifiers>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <bioguideId>S001187</bioguideId>
+        <middleName />
+        <byRequestType />
+        <state>OH</state>
+        <district>15</district>
+        <party>R</party>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <billNumber>6038</billNumber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>National Veterans Memorial and Museum Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To designate the Veterans Memorial and Museum in Columbus, Ohio, as the National Veterans Memorial and Museum, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>National Veterans Memorial and Museum Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2016-09-15T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>National Veterans Memorial and Museum Act</strong></p> <p>This bill designates the Veterans Memorial and Museum currently being consturcted in Columbus, Ohio, as the National Veterans Memorial and Museum.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2016-11-23T21:58:30Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2016-09-15</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <committeeReports />
+    <title>National Veterans Memorial and Museum Act</title>
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-09-20</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-09-15</actionDate>
+        <committee>
+          <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+          <systemCode>hsvr09</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-09-15</actionDate>
+        <text>Referred to House Natural Resources</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-09-15</actionDate>
+        <text>Referred to House Veterans' Affairs</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-09-15</actionDate>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-09-15</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-09-15</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2016-09-16T05:18:57Z</createDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2153</lisID>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <party>D</party>
+        <lastName>Beatty</lastName>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>OH</state>
+        <firstName>Joyce</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001281</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8102</gpoId>
+          <bioguideId>T000462</bioguideId>
+          <lisID>1664</lisID>
+        </identifiers>
+        <district>12</district>
+        <party>R</party>
+        <lastName>TIBERI</lastName>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>OH</state>
+        <firstName>PATRICK</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000462</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+          <lisID>186</lisID>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <lastName>CHABOT</lastName>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>OH</state>
+        <firstName>STEVE</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000266</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000563</bioguideId>
+          <gpoId>8108</gpoId>
+          <lisID>2049</lisID>
+        </identifiers>
+        <district>7</district>
+        <party>R</party>
+        <lastName>Gibbs</lastName>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>OH</state>
+        <firstName>Bob</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000563</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+        </identifiers>
+        <district>13</district>
+        <party>D</party>
+        <lastName>RYAN</lastName>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>OH</state>
+        <firstName>TIM</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000577</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8106</gpoId>
+          <bioguideId>R000586</bioguideId>
+          <lisID>2048</lisID>
+        </identifiers>
+        <district>16</district>
+        <party>R</party>
+        <lastName>Renacci</lastName>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>OH</state>
+        <firstName>James</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000586</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>616</lisID>
+          <bioguideId>K000009</bioguideId>
+          <gpoId>8099</gpoId>
+        </identifiers>
+        <district>9</district>
+        <party>D</party>
+        <lastName>KAPTUR</lastName>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>OH</state>
+        <firstName>MARCY</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000009</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1885</lisID>
+          <gpoId>8095</gpoId>
+          <bioguideId>L000566</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <party>R</party>
+        <lastName>Latta</lastName>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>OH</state>
+        <firstName>Robert</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000566</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>T000463</bioguideId>
+          <gpoId>8093</gpoId>
+          <lisID>1741</lisID>
+        </identifiers>
+        <district>10</district>
+        <party>R</party>
+        <lastName>Turner</lastName>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>OH</state>
+        <firstName>Michael</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000463</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2046</lisID>
+          <bioguideId>J000292</bioguideId>
+          <gpoId>8096</gpoId>
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <lastName>Johnson</lastName>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>OH</state>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000292</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>J000295</bioguideId>
+          <gpoId />
+          <lisID>2154</lisID>
+        </identifiers>
+        <district>14</district>
+        <party>R</party>
+        <lastName>Joyce</lastName>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>OH</state>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000295</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2152</lisID>
+          <gpoId />
+          <bioguideId>W000815</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <lastName>Wenstrup</lastName>
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>OH</state>
+        <firstName>Brad</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000815</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <district>32</district>
+        <party>R</party>
+        <lastName>SESSIONS</lastName>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>TX</state>
+        <firstName>PETE</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000250</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2064</lisID>
+          <gpoId>8741</gpoId>
+          <bioguideId>F000458</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <lastName>Fincher</lastName>
+        <fullName>Rep. Fincher, Stephen Lee [R-TN-8]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <state>TN</state>
+        <firstName>Stephen</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>Lee</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000458</bioguideId>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-09-15T13:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2016-09-20T18:57:26Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-09-15T13:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr09</systemCode>
+              <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2016-09-15T19:01:47Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. STIVERS:H.R. 6038.Congress has the power to enact this legislation pursuantto the following:The constitutional authority of Congress to enact thislegislation is provided by Article I, section 8 of the UnitedStates Constitution, specifically clause 18 (relating to thepower to make all laws necessary and proper for carrying outthe powers vested in Congress).[Page H5524]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

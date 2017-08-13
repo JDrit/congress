@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-04-06T02:11:54Z</createDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1953</number>
+        <latestTitle>Treat and Reduce Obesity Act of 2017</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-04-07</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-05</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <cosponsors>
+      <item>
+        <bioguideId>C000174</bioguideId>
+        <lastName>CARPER</lastName>
+        <firstName>THOMAS</firstName>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+          <lisID>179</lisID>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>DE</state>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <lastName>GRASSLEY</lastName>
+        <firstName>CHARLES</firstName>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <middleName>ERNEST</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>IA</state>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <lastName>Coons</lastName>
+        <firstName>Christopher</firstName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>DE</state>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <lastName>Murkowski</lastName>
+        <firstName>Lisa</firstName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>AK</state>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <lastName>Heinrich</lastName>
+        <firstName>Martin</firstName>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>NM</state>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>C001047</bioguideId>
+        <lastName>CAPITO</lastName>
+        <firstName>SHELLEY</firstName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <middleName>MOORE</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>WV</state>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <lastName>Klobuchar</lastName>
+        <firstName>Amy</firstName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <state>MN</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-04-05</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>C001075</bioguideId>
+        <lastName>Cassidy</lastName>
+        <firstName>Bill</firstName>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <lisID>1925</lisID>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <byRequestType />
+        <state>LA</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Treat and Reduce Obesity Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Treat and Reduce Obesity Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>A bill to amend title XVIII of the Social Security Act to provide for the coordination of programs to prevent and treat obesity, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Treat and Reduce Obesity Act of 2017</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <congress>115</congress>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T16:59:24Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+          <item>
+            <name>Physical fitness and lifestyle</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <billNumber>830</billNumber>
+    <title>Treat and Reduce Obesity Act of 2017</title>
+    <updateDate>2017-06-19T21:45:13Z</updateDate>
+    <billType>S</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-04-05</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

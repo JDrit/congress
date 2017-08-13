@@ -1,0 +1,54 @@
+<bill session="115" type="h" number="1110" updated="2017-06-22T07:15:49Z">
+  <state datetime="2017-02-16">REFERRED</state>
+  <status>
+    <introduced datetime="2017-02-16"/>
+  </status>
+  <introduced datetime="2017-02-16"/>
+  <titles>
+    <title type="short" as="introduced">Stopping Mass Hacking Act</title>
+    <title type="short" as="introduced">Stopping Mass Hacking Act</title>
+    <title type="official" as="introduced">To repeal certain amendments made to rule 41 of the Federal Rules of Criminal Procedure.</title>
+    <title type="display">Stopping Mass Hacking Act</title>
+  </titles>
+  <sponsor id="400652"/>
+  <cosponsors>
+    <cosponsor id="412438" joined="2017-02-16"/>
+    <cosponsor id="400080" joined="2017-02-16"/>
+    <cosponsor id="400100" joined="2017-06-21"/>
+    <cosponsor id="412505" joined="2017-02-16"/>
+    <cosponsor id="400245" joined="2017-02-16"/>
+    <cosponsor id="400365" joined="2017-02-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-02-16">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-02-16" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-03-06">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="115" type="s" number="406"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Computers and information technology"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Digital media"/>
+    <term name="Jurisdiction and venue"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-02-16T05:00:00Z" status="Introduced in House">Stopping Mass Hacking Act
+
+ This bill repeals an amendment to rule 41 (Search and Seizure) of the Federal Rules of Criminal Procedure that took effect on December 1, 2016. The amendment allows a federal magistrate judge to issue a warrant to use remote access to search computers and seize electronically stored information located inside or outside that judge's district in specific circumstances.</summary>
+  <committee-reports/>
+</bill>

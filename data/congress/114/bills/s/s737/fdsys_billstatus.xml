@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-03-12</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-03-12</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2015-05-15</actionDate>
+        </latestAction>
+        <latestTitle>Ensuring Access to Primary Care for Women &amp; Children Act</latestTitle>
+        <number>2253</number>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2015-10-01</actionDate>
+        </latestAction>
+        <latestTitle>Ensuring Enhanced Access to Primary Care Act</latestTitle>
+        <number>2118</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>737</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-03-12T22:06:58Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-03-12</introducedDate>
+    <updateDate>2017-06-02T22:57:53Z</updateDate>
+    <title>Ensuring Access to Primary Care for Women &amp; Children Act</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Ensuring Access to Primary Care for Women &amp; Children Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend title XIX of the Social Security Act to extend the application of the Medicare payment rate floor to primary care services furnished under Medicaid and to apply the rate floor to additional providers of primary care services.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Ensuring Access to Primary Care for Women &amp; Children Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-03-12T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Ensuring Access to Primary Care for Women &amp; Children Act</b></p> <p>Amends title XIX (Medicaid) of the Social Security Act (SSAct) to require that the primary care services furnished in the two years after enactment of this Act by a physician with a primary specialty designation of family medicine, general internal medicine, or pediatric medicine be paid at a rate that is not less than 100% of the payment rate that applies under Medicare part B (Supplementary Medical Insurance), but only if the physician self-attests as being Board certified in those areas.</p> <p>Extends this 100% of Medicare payment floor, subject to certain conditions, to the following providers: (1) physicians with a primary specialty designation of obstetrics and gynecology, and self-attesting they are Board certified; (2) advanced practice clinicians; (3) rural health clinics, federally-qualified health centers, or other specified health clinics; and (4) nurse practitioners, physician assistants, or certified nurse-midwives. </p> <p>Excludes from coverage of primary care services any such services provided in an emergency department of a hospital.</p> <p>Prescribes additional requirements for any contract between a state and a Medicaid managed care organization.</p> <p>Directs the Government Accountability Office to examine the use of alternative payment models in state Medicaid programs and identify opportunities for disseminating successful payment models among them.</p> <p>Amends SSAct title XI to: (1) extend funding for development of adult health quality measures; and (2) direct the Administrator for the Centers for Medicaid and Medicaid Services and the Director of the Agency for Healthcare Research and Quality to develop such measures specific to adult individuals with disabilities and include them in the Medicaid Quality Measurement Program.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-07-08T22:01:09Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-03-12</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <firstName>SHERROD</firstName>
+        <party>D</party>
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <state>OH</state>
+        <middleName />
+        <byRequestType />
+        <lastName>BROWN</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2015-03-12</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2015-03-12</sponsorshipDate>
+        <state>WA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>PATTY</firstName>
+        <lastName>MURRAY</lastName>
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <bioguideId>M001111</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-12</sponsorshipDate>
+        <state>NM</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Martin</firstName>
+        <lastName>Heinrich</lastName>
+        <identifiers>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <bioguideId>H001046</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-12</sponsorshipDate>
+        <state>HI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+        <lastName>Schatz</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+        </identifiers>
+        <bioguideId>S001194</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-12</sponsorshipDate>
+        <state>WI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>TAMMY</firstName>
+        <lastName>BALDWIN</lastName>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <bioguideId>B001230</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-12</sponsorshipDate>
+        <state>VT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>BERNARD</firstName>
+        <lastName>SANDERS</lastName>
+        <identifiers>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+        </identifiers>
+        <bioguideId>S000033</bioguideId>
+        <party>I</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-12</sponsorshipDate>
+        <state>MI</state>
+        <middleName>ANN</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>DEBORAH</firstName>
+        <lastName>STABENOW</lastName>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+        </identifiers>
+        <bioguideId>S000770</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-12</sponsorshipDate>
+        <state>MN</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Al</firstName>
+        <lastName>Franken</lastName>
+        <identifiers>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <bioguideId>F000457</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-12</sponsorshipDate>
+        <state>CT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <bioguideId>B001277</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-12</sponsorshipDate>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>BARBARA</firstName>
+        <lastName>BOXER</lastName>
+        <identifiers>
+          <lisID>116</lisID>
+          <bioguideId>B000711</bioguideId>
+          <gpoId>8306</gpoId>
+        </identifiers>
+        <bioguideId>B000711</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-12</sponsorshipDate>
+        <state>VT</state>
+        <middleName>JOSEPH</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>PATRICK</firstName>
+        <lastName>LEAHY</lastName>
+        <identifiers>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+          <lisID>1383</lisID>
+        </identifiers>
+        <bioguideId>L000174</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-12</sponsorshipDate>
+        <state>HI</state>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mazie</firstName>
+        <lastName>Hirono</lastName>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <bioguideId>H001042</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-12</sponsorshipDate>
+        <state>CT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Christopher</firstName>
+        <lastName>Murphy</lastName>
+        <identifiers>
+          <gpoId>7870</gpoId>
+          <bioguideId>M001169</bioguideId>
+          <lisID>1837</lisID>
+        </identifiers>
+        <bioguideId>M001169</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>OR</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <bioguideId>M001176</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2015-12-02</sponsorshipDate>
+        <state>MA</state>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Elizabeth</firstName>
+        <lastName>Warren</lastName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <bioguideId>W000817</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-03-13T05:51:11Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

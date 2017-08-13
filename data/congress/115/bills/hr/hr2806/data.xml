@@ -1,0 +1,52 @@
+<bill session="115" type="h" number="2806" updated="2017-07-28T07:16:42Z">
+  <state datetime="2017-06-07">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-07"/>
+  </status>
+  <introduced datetime="2017-06-07"/>
+  <titles>
+    <title type="short" as="introduced">Soo Locks Modernization Act</title>
+    <title type="short" as="introduced">Soo Locks Modernization Act</title>
+    <title type="official" as="introduced">To increase authorized funding for the Soo Locks.</title>
+    <title type="display">Soo Locks Modernization Act</title>
+  </titles>
+  <sponsor id="412709"/>
+  <cosponsors>
+    <cosponsor id="412635" joined="2017-06-07"/>
+    <cosponsor id="412637" joined="2017-06-07"/>
+    <cosponsor id="412437" joined="2017-06-07"/>
+    <cosponsor id="400211" joined="2017-06-28"/>
+    <cosponsor id="412546" joined="2017-06-07"/>
+    <cosponsor id="412638" joined="2017-06-07"/>
+    <cosponsor id="400238" joined="2017-06-07"/>
+    <cosponsor id="412710" joined="2017-06-07"/>
+    <cosponsor id="412634" joined="2017-06-07"/>
+    <cosponsor id="408211" joined="2017-07-27"/>
+    <cosponsor id="412636" joined="2017-06-07"/>
+    <cosponsor id="400414" joined="2017-06-07"/>
+    <cosponsor id="412213" joined="2017-06-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-07">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-07" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2017-06-08">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="115" type="s" number="1308"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

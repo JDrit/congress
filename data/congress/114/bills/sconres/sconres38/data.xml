@@ -1,0 +1,72 @@
+<bill session="114" type="sc" number="38" updated="2017-06-02T22:37:06Z">
+  <state datetime="2016-07-06">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2016-07-06"/>
+  </status>
+  <introduced datetime="2016-05-19"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution reaffirming the Taiwan Relations Act and the Six Assurances as cornerstones of United States-Taiwan relations.</title>
+    <title type="display">A concurrent resolution reaffirming the Taiwan Relations Act and the Six Assurances as cornerstones of United States-Taiwan relations.</title>
+  </titles>
+  <sponsor id="412491"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2016-05-19"/>
+    <cosponsor id="412406" joined="2016-05-19"/>
+    <cosponsor id="300055" joined="2016-05-19"/>
+    <cosponsor id="400272" joined="2016-05-19"/>
+    <cosponsor id="412666" joined="2016-06-21"/>
+    <cosponsor id="300088" joined="2016-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2016-05-19">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2016-05-19" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S3033-3034" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2016-06-23" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2016-06-28">
+      <text>Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2016-06-28" calendar="Senate Legislative" under="General Orders" number="535">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 535.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2016-07-06" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S4837" label="consideration"/>
+    </vote>
+    <action datetime="2016-07-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2016-07-07T12:37:08-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2016-07-07T19:52:18-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="hc" number="88"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="China"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Taiwan"/>
+  </subjects>
+  <amendments/>
+  <summary date="2016-07-06T13:42:01Z" status="Passed Senate without amendment">(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+Affirms that the Taiwan Relations Act and the Six Assurances are both cornerstones of U.S.-Taiwan relations.
+
+Urges the President and Department of State to publicly, proactively, and consistently affirm the Six Assurances as a cornerstone of U.S.-Taiwan relations.</summary>
+  <committee-reports/>
+</bill>

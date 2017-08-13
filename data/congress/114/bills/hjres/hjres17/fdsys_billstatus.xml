@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-01-22</actionDate>
+        <committee>
+          <name>Constitution and Civil Justice Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-01-12</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-01-12</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-01-12</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HJRES</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+          <actionDate>2015-01-12</actionDate>
+        </latestAction>
+        <latestTitle>Proposing an amendment to the Constitution of the United States relative to balancing the budget.</latestTitle>
+        <number>4</number>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HJRES</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+          <actionDate>2015-01-12</actionDate>
+        </latestAction>
+        <latestTitle>Proposing a balanced budget amendment to the Constitution of the United States.</latestTitle>
+        <number>12</number>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HJRES</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+          <actionDate>2015-01-22</actionDate>
+        </latestAction>
+        <latestTitle>Proposing an amendment to the Constitution of the United States relative to balancing the budget.</latestTitle>
+        <number>17</number>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>SJRES</type>
+        <latestAction>
+          <text>Committee on the Judiciary. Hearings held.</text>
+          <actionDate>2016-03-16</actionDate>
+        </latestAction>
+        <latestTitle>A joint resolution proposing an amendment to the Constitution of the United States relative to balancing the budget.</latestTitle>
+        <number>6</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>17</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-01-22T22:27:57Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-12T17:01:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-01-12</introducedDate>
+    <updateDate>2017-06-02T19:35:56Z</updateDate>
+    <title>Proposing an amendment to the Constitution of the United States relative to balancing the budget.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Proposing an amendment to the Constitution of the United States relative to balancing the budget.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Proposing an amendment to the Constitution of the United States relative to balancing the budget.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-01-12</actionDate>
+          <updateDate>2015-01-12T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-02-18T18:41:31Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Constitutional Amendment </b></p> <p>This joint resolution proposes a constitutional amendment prohibiting total outlays for a fiscal year from exceeding total receipts for that fiscal year unless Congress authorizes the excess by a two-thirds vote of each chamber. The prohibition excludes outlays for repayment of debt principal and receipts derived from borrowing. </p> <p>The amendment prohibits total outlays for any fiscal year from exceeding 18% of the gross domestic product of the United States, unless two-thirds of each house of Congress provides for a specific increase above this amount. </p> <p>The amendment requires a two-thirds vote of each chamber of Congress to impose a new tax, increase the statutory rate of any tax, or increase the aggregate amount of revenue. It requires a three-fifths vote of each chamber to increase the limit on the debt of the United States. </p> <p>The President is required to submit an annual budget in which total outlays do not exceed total receipts and 18% of the gross domestic product of the United States. </p> <p>The amendment prohibits a court from ordering a revenue increase to enforce the requirements. </p> <p>Congress is authorized to waive specified requirements when a declaration of war is in effect or the United States is engaged in a military conflict which causes an imminent and serious military threat to national security. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>7885</gpoId>
+          <bioguideId>B001260</bioguideId>
+          <lisID>1840</lisID>
+        </identifiers>
+        <district>16</district>
+        <party>R</party>
+        <bioguideId>B001260</bioguideId>
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <firstName>Vern</firstName>
+        <state>FL</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Buchanan</lastName>
+      </item>
+    </sponsors>
+    <billType>HJRES</billType>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <actionDate>2015-01-22</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BUCHANAN:H.J. Res. 17.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this joint resolutionrests is the power of Congress as enumerated in Article V ofthe United States Constitution.[Page H225]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>L000576</bioguideId>
+          <gpoId>8015</gpoId>
+          <lisID>2033</lisID>
+        </identifiers>
+        <district>7</district>
+        <party>R</party>
+        <lastName>Long</lastName>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <sponsorshipDate>2015-01-12</sponsorshipDate>
+        <state>MO</state>
+        <firstName>Billy</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000576</bioguideId>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Income tax rates</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-01-13T04:55:51Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

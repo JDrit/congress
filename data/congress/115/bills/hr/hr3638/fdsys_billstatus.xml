@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Athletes</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Florida</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>Professional sports</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <congress>115</congress>
+    <relatedBills />
+    <version>1.0.0</version>
+    <notes />
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2017-08-01</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>Lawson</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000586</bioguideId>
+          <gpoId />
+          <lisID>2317</lisID>
+        </identifiers>
+        <bioguideId>L000586</bioguideId>
+        <state>FL</state>
+        <middleName />
+        <firstName>Al</firstName>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <byRequestType />
+        <district>5</district>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-08-01T15:00:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-08-02T03:06:13Z</createDate>
+    <updateDate>2017-08-04T19:30:24Z</updateDate>
+    <introducedDate>2017-08-01</introducedDate>
+    <recordedVotes />
+    <actions>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <actionDate>2017-08-01</actionDate>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-08-01</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-08-01</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Designates the facility of the United States Postal Service located at 1100 Kings Road in Jacksonville, Florida, as the "Rutledge Pearson Post Office Building."]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-08-01T04:00:00Z</updateDate>
+          <actionDate>2017-08-01</actionDate>
+          <lastSummaryUpdateDate>2017-08-02T08:05:59Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>3638</billNumber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1717</lisID>
+          <bioguideId>D000600</bioguideId>
+          <gpoId>7893</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Diaz-Balart</lastName>
+        <middleName />
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>25</district>
+        <bioguideId>D000600</bioguideId>
+        <party>R</party>
+        <firstName>Mario</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000621</bioguideId>
+          <gpoId />
+          <lisID>2116</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>DeSantis</lastName>
+        <middleName />
+        <fullName>Rep. DeSantis, Ron [R-FL-6]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <bioguideId>D000621</bioguideId>
+        <party>R</party>
+        <firstName>Ron</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000609</bioguideId>
+          <lisID>2316</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Rutherford</lastName>
+        <middleName>H.</middleName>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <bioguideId>R000609</bioguideId>
+        <party>R</party>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Soto</lastName>
+        <middleName />
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <bioguideId>S001200</bioguideId>
+        <party>D</party>
+        <firstName>Darren</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001111</bioguideId>
+          <lisID>2321</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Crist</lastName>
+        <middleName />
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <bioguideId>C001111</bioguideId>
+        <party>D</party>
+        <firstName>Charlie</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000435</bioguideId>
+          <gpoId>7890</gpoId>
+          <lisID>985</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>ROS-LEHTINEN</lastName>
+        <middleName />
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>27</district>
+        <bioguideId>R000435</bioguideId>
+        <party>R</party>
+        <firstName>ILEANA</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2004</lisID>
+          <bioguideId>W000808</bioguideId>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Wilson</lastName>
+        <middleName>S.</middleName>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>24</district>
+        <bioguideId>W000808</bioguideId>
+        <party>D</party>
+        <firstName>Frederica</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1976</lisID>
+          <bioguideId>D000610</bioguideId>
+          <gpoId>7891</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Deutch</lastName>
+        <middleName>E.</middleName>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>22</district>
+        <bioguideId>D000610</bioguideId>
+        <party>D</party>
+        <firstName>Theodore</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001202</bioguideId>
+          <gpoId />
+          <lisID>2318</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Murphy</lastName>
+        <middleName>N.</middleName>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <bioguideId>M001202</bioguideId>
+        <party>D</party>
+        <firstName>Stephanie</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2315</lisID>
+          <bioguideId>D000628</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Dunn</lastName>
+        <middleName>P.</middleName>
+        <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <bioguideId>D000628</bioguideId>
+        <party>R</party>
+        <firstName>Neal</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001066</bioguideId>
+          <gpoId>7883</gpoId>
+          <lisID>1839</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Castor</lastName>
+        <middleName />
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <bioguideId>C001066</bioguideId>
+        <party>D</party>
+        <firstName>Kathy</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2003</lisID>
+          <bioguideId>R000593</bioguideId>
+          <gpoId>7884</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Ross</lastName>
+        <middleName>A.</middleName>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>15</district>
+        <bioguideId>R000593</bioguideId>
+        <party>R</party>
+        <firstName>Dennis</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <gpoId>7892</gpoId>
+          <lisID>1777</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Wasserman Schultz</lastName>
+        <middleName />
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>23</district>
+        <bioguideId>W000797</bioguideId>
+        <party>D</party>
+        <firstName>Debbie</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000607</bioguideId>
+          <gpoId />
+          <lisID>2323</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Rooney</lastName>
+        <middleName />
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>19</district>
+        <bioguideId>R000607</bioguideId>
+        <party>R</party>
+        <firstName>Francis</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001257</bioguideId>
+          <gpoId>7881</gpoId>
+          <lisID>1838</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Bilirakis</lastName>
+        <middleName>M.</middleName>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>12</district>
+        <bioguideId>B001257</bioguideId>
+        <party>R</party>
+        <firstName>Gus</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2320</lisID>
+          <bioguideId>D000627</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Demings</lastName>
+        <middleName>Butler</middleName>
+        <fullName>Rep. Demings, Val Butler [D-FL-10]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <bioguideId>D000627</bioguideId>
+        <party>D</party>
+        <firstName>Val</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2235</lisID>
+          <bioguideId>C001107</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Curbelo</lastName>
+        <middleName />
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>26</district>
+        <bioguideId>C001107</bioguideId>
+        <party>R</party>
+        <firstName>Carlos</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1916</lisID>
+          <bioguideId>R000583</bioguideId>
+          <gpoId>7888</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Rooney</lastName>
+        <middleName>J.</middleName>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>17</district>
+        <bioguideId>R000583</bioguideId>
+        <party>R</party>
+        <firstName>Thomas</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>Posey</lastName>
+        <middleName />
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <bioguideId>P000599</bioguideId>
+        <party>R</party>
+        <firstName>Bill</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <lastName>HASTINGS</lastName>
+        <middleName>L.</middleName>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>20</district>
+        <bioguideId>H000324</bioguideId>
+        <party>D</party>
+        <firstName>ALCEE</firstName>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <title>To designate the facility of the United States Postal Service located at 1100 Kings Road in Jacksonville, Florida, as the "Rutledge Pearson Post Office Building".</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To designate the facility of the United States Postal Service located at 1100 Kings Road in Jacksonville, Florida, as the "Rutledge Pearson Post Office Building".</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <title>To designate the facility of the United States Postal Service located at 1100 Kings Road in Jacksonville, Florida, as the "Rutledge Pearson Post Office Building".</title>
+    <calendarNumbers />
+    <committeeReports />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

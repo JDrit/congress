@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors />
+    <actions>
+      <item>
+        <actionDate>2014-12-17</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-12-16</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6930</url>
+            <name>S6930</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Voice Vote. (consideration: CR S6930; text as passed Senate: CR S6930)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2014-12-16</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Voice Vote.(consideration: CR S6930; text as passed Senate: CR S6930)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6930</url>
+            <name>S6930</name>
+          </link>
+        </links>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2014-12-12</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2014-12-12</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>15:08:29</actionTime>
+        <links />
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2014-12-12</actionDate>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H10315)</text>
+        <actionTime>15:08:23</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H10315</url>
+            <name>H10315</name>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2014-12-12</actionDate>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10315)</text>
+        <actionTime>15:08:23</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H10315</url>
+            <name>H10315</name>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2014-12-12</actionDate>
+        <text>Considered as privileged matter. (consideration: CR H10315)</text>
+        <actionTime>15:06:10</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/house-section/page/H10315</url>
+            <name>H10315</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-12-12</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2014-12-12</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <agreedToInSenate>1</agreedToInSenate>
+        <sentToHouse>1</sentToHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <billType>HCONRES</billType>
+    <title>Providing for the sine die adjournment of the second session of the One Hundred Thirteenth Congress.</title>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Declares that when the House adjourns on: (1) any legislative day from Friday, December 12, 2014, through Wednesday, December 31, 2014, it stand adjourned until 1 p.m. on Friday, January 2, 2015; and (2) the legislative day of Friday, January 2, 2015, it stand adjourned sine die.</p> <p> Declares that when the Senate recesses or adjourns on any day from Friday, December 12, 2014, through Friday, January 2, 2015, it stand adjourned sine die.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2014-12-15T22:26:19Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2014-12-12</actionDate>
+          <updateDate>2014-12-12T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Declares that when the House adjourns on: (1) any legislative day from Friday, December 12, 2014, through Wednesday, December 31, 2014, it stand adjourned until 1 p.m. on Friday, January 2, 2015; and (2) the legislative day of Friday, January 2, 2015, it stand adjourned sine die.</p> <p> Declares that when the Senate recesses or adjourns on any day from Friday, December 12, 2014, through Friday, January 2, 2015, it stand adjourned sine die.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2014-12-17T15:38:52Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <actionDate>2014-12-16</actionDate>
+          <updateDate>2014-12-16T11:53:14Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>125</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <titles>
+      <item>
+        <title>Providing for the sine die adjournment of the second session of the One Hundred Thirteenth Congress.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Providing for the sine die adjournment of the second session of the One Hundred Thirteenth Congress.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <middleName />
+        <lastName>Flores</lastName>
+        <firstName>Bill</firstName>
+        <byRequestType />
+        <bioguideId>F000461</bioguideId>
+        <identifiers>
+          <bioguideId>F000461</bioguideId>
+          <lisID>2065</lisID>
+          <gpoId>8173</gpoId>
+        </identifiers>
+        <party>R</party>
+        <district>17</district>
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <updateDate>2016-10-25T15:54:16Z</updateDate>
+    <relatedBills />
+    <notes />
+    <amendments />
+    <createDate>2014-12-13T04:47:32Z</createDate>
+    <introducedDate>2014-12-12</introducedDate>
+    <committees>
+      <billCommittees />
+    </committees>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2014-12-17</actionDate>
+      <links />
+      <text>Message on Senate action sent to the House.</text>
+    </latestAction>
+    <congress>113</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-03-10</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S1386-1387</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S1386-1387</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S1386-1387)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-03-10</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2015-02-27</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>1182</number>
+        <latestTitle>To amend the Internal Revenue Code of 1986 to prevent retroactive claims of the earned income tax credit by individuals receiving work authorizations pursuant to certain deferred action programs.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2015-03-04</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>1249</number>
+        <latestTitle>No Free Rides Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2015-05-15</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>2389</number>
+        <latestTitle>To amend the Internal Revenue Code of 1986 to provide a limitation on certain aliens from claiming the earned income tax credit.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>686</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-03-10T15:18:07Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-03-10</introducedDate>
+    <updateDate>2017-06-02T22:57:15Z</updateDate>
+    <title>A bill to amend the Internal Revenue Code of 1986 to provide a limitation on certain aliens from claiming the earned income tax credit.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to provide a limitation on certain aliens from claiming the earned income tax credit.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to provide a limitation on certain aliens from claiming the earned income tax credit.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-05-12T21:46:16Z</lastSummaryUpdateDate>
+          <updateDate>2015-03-10T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2015-03-10</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>This bill amends the Internal Revenue Code to deny the earned income tax credit to an alien who has been granted deferred action from removal in any taxable year in which such alien was not lawfully present in the United States or not authorized to work. The bill requires the Commissioner of Social Security to provide the Internal Revenue Service with information on social security account numbers granted to aliens under the deferred action from removal program. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+          <lisID>457</lisID>
+        </identifiers>
+        <firstName>CHARLES</firstName>
+        <party>R</party>
+        <bioguideId>G000386</bioguideId>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <state>IA</state>
+        <middleName>ERNEST</middleName>
+        <byRequestType />
+        <lastName>GRASSLEY</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S1386-1387)</text>
+      <actionDate>2015-03-10</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1542</lisID>
+          <gpoId>8328</gpoId>
+          <bioguideId>E000285</bioguideId>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+        <party>R</party>
+        <bioguideId>E000285</bioguideId>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WY</state>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <lastName>ENZI</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+          <lisID>250</lisID>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+        <party>R</party>
+        <bioguideId>C000880</bioguideId>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ID</state>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <lastName>CRAPO</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <firstName>JIM</firstName>
+        <party>R</party>
+        <bioguideId>I000024</bioguideId>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OK</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <lastName>INHOFE</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000612</bioguideId>
+          <lisID>2286</lisID>
+        </identifiers>
+        <firstName>David</firstName>
+        <party>R</party>
+        <bioguideId>P000612</bioguideId>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>GA</state>
+        <middleName>Alfred</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <lastName>Perdue</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2056</lisID>
+          <gpoId>8141</gpoId>
+          <bioguideId>S001184</bioguideId>
+        </identifiers>
+        <firstName>Tim</firstName>
+        <party>R</party>
+        <bioguideId>S001184</bioguideId>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>SC</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <lastName>Scott</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+          <lisID>968</lisID>
+        </identifiers>
+        <firstName>PAT</firstName>
+        <party>R</party>
+        <bioguideId>R000307</bioguideId>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>KS</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <lastName>ROBERTS</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+        <firstName>Johnny</firstName>
+        <party>R</party>
+        <bioguideId>I000055</bioguideId>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>GA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <lastName>Isakson</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <firstName>James</firstName>
+        <party>R</party>
+        <bioguideId>R000584</bioguideId>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ID</state>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <lastName>Risch</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+        <party>R</party>
+        <bioguideId>B001236</bioguideId>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AR</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <lastName>Boozman</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+        <party>R</party>
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <lastName>Cornyn</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2086</lisID>
+          <gpoId>8355</gpoId>
+          <bioguideId>J000293</bioguideId>
+        </identifiers>
+        <firstName>Ron</firstName>
+        <party>R</party>
+        <bioguideId>J000293</bioguideId>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <lastName>Johnson</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C000542</bioguideId>
+          <gpoId>8299</gpoId>
+          <lisID>209</lisID>
+        </identifiers>
+        <firstName>DANIEL</firstName>
+        <party>R</party>
+        <bioguideId>C000542</bioguideId>
+        <fullName>Sen. Coats, Daniel [R-IN]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+        <middleName>RAY</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-11</sponsorshipDate>
+        <lastName>COATS</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <bioguideId>C001095</bioguideId>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AR</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-18</sponsorshipDate>
+        <lastName>Cotton</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Marriage and family status</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>Tax treatment of families</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-03-11T04:46:16Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-04T07:01:11Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-19</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-01-03</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. BROWNLEY of California:H.R. 103.Congress has the power to enact this legislation pursuantto the following:Article I, Section VIII of the U.S. Constitution[Page H49]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <title>Chiropractic Care Available to All Veterans Act</title>
+    <laws />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <district>26</district>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001285</bioguideId>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <firstName>Julia</firstName>
+        <party>D</party>
+        <lastName>Brownley</lastName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2017-01-19</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsvr00</systemCode>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr03</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-01-19T20:15:12Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-03T17:24:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-01-03</actionDate>
+          <text><![CDATA[<p><strong>Chiropractic Care Available to All Veterans Act</strong></p> <p>This bill amends the Department of Veterans Affairs Health Care Programs Enhancement Act of 2001 to require a program under which the Secretary of Veterans Affairs provides chiropractic care and services to veterans through Department of Veterans Affairs (VA) medical centers and clinics to be carried out at: (1) no fewer than 75 medical centers by December 31, 2017, and (2) all medical centers by December 31, 2019.</p> <p>Chiropractic examinations and services are included within required VA medical, rehabilitative, and preventive health care services.</p>]]></text>
+          <lastSummaryUpdateDate>2017-01-12T23:11:07Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <congress>115</congress>
+    <billNumber>103</billNumber>
+    <calendarNumbers />
+    <amendments />
+    <introducedDate>2017-01-03</introducedDate>
+    <updateDate>2017-06-19T20:30:31Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative treatments</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Musculoskeletal and skin diseases</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>2251</number>
+        <latestTitle>Chiropractic Care Available to All Veterans Act</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-04-28</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <type>HR</type>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>609</number>
+        <latestTitle>Chiropractic Care Available to All Veterans Act of 2017</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-05-17</actionDate>
+          <text>Committee on Veterans' Affairs. Hearings held.</text>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <notes />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <bioguideId>P000607</bioguideId>
+        <lastName>Pocan</lastName>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-03-17</sponsorshipDate>
+        <firstName>David</firstName>
+        <bioguideId>L000565</bioguideId>
+        <lastName>Loebsack</lastName>
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <firstName>Ed</firstName>
+        <bioguideId>P000593</bioguideId>
+        <lastName>Perlmutter</lastName>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000593</bioguideId>
+          <lisID>1835</lisID>
+          <gpoId>7865</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>46</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <middleName>Luis</middleName>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <firstName>J.</firstName>
+        <bioguideId>C001110</bioguideId>
+        <lastName>Correa</lastName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2312</lisID>
+          <gpoId />
+          <bioguideId>C001110</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <firstName>WALTER</firstName>
+        <bioguideId>J000255</bioguideId>
+        <lastName>JONES</lastName>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <firstName>RICHARD</firstName>
+        <bioguideId>N000127</bioguideId>
+        <lastName>NOLAN</lastName>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000127</bioguideId>
+          <lisID>867</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-04-14</sponsorshipDate>
+        <firstName>Carol</firstName>
+        <bioguideId>S001170</bioguideId>
+        <lastName>Shea-Porter</lastName>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <firstName>Andre</firstName>
+        <bioguideId>C001072</bioguideId>
+        <lastName>Carson</lastName>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001072</bioguideId>
+          <lisID>1889</lisID>
+          <gpoId>7946</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>18</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <firstName>Brian</firstName>
+        <bioguideId>M001199</bioguideId>
+        <lastName>Mast</lastName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001199</bioguideId>
+          <lisID>2322</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <firstName>Joyce</firstName>
+        <bioguideId>B001281</bioguideId>
+        <lastName>Beatty</lastName>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001281</bioguideId>
+          <lisID>2153</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Chiropractic Care Available to All Veterans Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Chiropractic Care Available to All Veterans Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend the Department of Veterans Affairs Health Care Programs Enhancement Act of 2001 and title 38, United States Code, to require the provision of chiropractic care and services to veterans at all Department of Veterans Affairs medical centers and to expand access to such care and services.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Chiropractic Care Available to All Veterans Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

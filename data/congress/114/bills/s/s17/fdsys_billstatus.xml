@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-01-06T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Amends the Legislative Reorganization Act of 1946 to eliminate automatic pay adjustments for Members of Congress.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-01-20T22:32:25Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-01-06</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A bill to repeal the provision of law that provides automatic pay adjustments for Members of Congress.</title>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2015-01-06</sponsorshipDate>
+        <bioguideId>M001170</bioguideId>
+        <state>MO</state>
+        <lastName>McCaskill</lastName>
+        <identifiers>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+        </identifiers>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Claire</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <bioguideId>B001135</bioguideId>
+        <state>NC</state>
+        <lastName>BURR</lastName>
+        <identifiers>
+          <gpoId>8286</gpoId>
+          <bioguideId>B001135</bioguideId>
+          <lisID>153</lisID>
+        </identifiers>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>RICHARD</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <bioguideId>T000464</bioguideId>
+        <state>MT</state>
+        <lastName>Tester</lastName>
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+        </identifiers>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <firstName>Jon</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <createDate>2015-01-07T08:31:10Z</createDate>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to House Oversight and Government Reform</text>
+          <actionDate>2015-01-22</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>513</number>
+        <latestTitle>No Raise for Congress Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to House Oversight and Government Reform</text>
+          <actionDate>2015-03-24</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <number>1585</number>
+        <latestTitle>To eliminate automatic pay adjustments for Members of Congress, and for other purposes.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <congress>114</congress>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <firstName>David</firstName>
+        <party>R</party>
+        <lastName>Vitter</lastName>
+        <bioguideId>V000127</bioguideId>
+        <byRequestType />
+        <middleName />
+        <state>LA</state>
+        <identifiers>
+          <lisID>1609</lisID>
+          <bioguideId>V000127</bioguideId>
+          <gpoId>8267</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <actions>
+      <item>
+        <actionDate>2015-01-06</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2015-01-06</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2015-01-06</introducedDate>
+    <laws />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2015-01-06T19:34:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2015-01-06</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+    <billNumber>17</billNumber>
+    <calendarNumbers />
+    <updateDate>2017-06-02T22:46:09Z</updateDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to repeal the provision of law that provides automatic pay adjustments for Members of Congress.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to repeal the provision of law that provides automatic pay adjustments for Members of Congress.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

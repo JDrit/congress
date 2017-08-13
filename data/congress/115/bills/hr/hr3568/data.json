@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3568-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S000244", 
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-07-28", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-07-28", 
+  "number": "3568", 
+  "official_title": "To require manufacturers to disclose to consumers the presence of event data recorders, or \"black boxes\", on new automobiles, motorcycles, and autocycles, and to require manufacturers to provide the consumer with the option to enable and disable such devices on future automobiles, motorcycles, and autocycles.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "C001037", 
+    "district": "7", 
+    "name": "Capuano, Michael E.", 
+    "state": "MA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-07-28", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require manufacturers to disclose to consumers the presence of event data recorders, or \"black boxes\", on new automobiles, motorcycles, and autocycles, and to require manufacturers to provide the consumer with the option to enable and disable such devices on future automobiles, motorcycles, and autocycles.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To require manufacturers to disclose to consumers the presence of event data recorders, or \"black boxes\", on new automobiles, motorcycles, and autocycles, and to require manufacturers to provide the consumer with the option to enable and disable such devices on future automobiles, motorcycles, and autocycles.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-29T07:33:06Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr3568.xml"
+}

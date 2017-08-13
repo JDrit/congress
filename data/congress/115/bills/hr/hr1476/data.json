@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-03-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1476-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-03-09", 
+  "number": "1476", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to permit individuals eligible for Indian Health Service assistance to qualify for health savings accounts.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s403-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Native American Health Savings Improvement Act", 
+  "sponsor": {
+    "bioguide_id": "M001194", 
+    "district": "4", 
+    "name": "Moolenaar, John R.", 
+    "state": "MI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-03-09", 
+  "subjects": [
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Hospital care", 
+    "Income tax deductions", 
+    "Indian social and development programs", 
+    "Minority health", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-03-09T05:00:00Z", 
+    "text": "Native American Health Savings Improvement Act\n\n This bill amends the Internal Revenue Code to specify that receiving hospital care or medical services under a medical care program of the Indian Health Service or a tribal organization does not disqualify an individual from being eligible for a health savings account."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Native American Health Savings Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Native American Health Savings Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to permit individuals eligible for Indian Health Service assistance to qualify for health savings accounts.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Native American Health Savings Improvement Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-19T21:30:30Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr1476.xml"
+}

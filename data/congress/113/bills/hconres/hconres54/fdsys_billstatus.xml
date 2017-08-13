@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Graves, Tom [R-GA-14]</fullName>
+        <state>GA</state>
+        <identifiers>
+          <lisID>1979</lisID>
+          <gpoId>7906</gpoId>
+          <bioguideId>G000560</bioguideId>
+        </identifiers>
+        <middleName />
+        <lastName>Graves</lastName>
+        <district>14</district>
+        <bioguideId>G000560</bioguideId>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <createDate>2013-09-17T07:01:06Z</createDate>
+    <updateDate>2016-10-25T15:54:05Z</updateDate>
+    <billType>HCONRES</billType>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2013-09-16</introducedDate>
+    <title>Directing the Clerk of the House of Representatives to make corrections in the enrollment of H.J. Res. 62.</title>
+    <cosponsors />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2013-09-16</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Directs the Clerk of the House of Representatives to correct the enrollment of H.J. Res. 62 (Stability, Security, and Fairness Resolution of 2013).</p>]]></text>
+          <updateDate>2013-09-16T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-09-20T18:21:57Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Directing the Clerk of the House of Representatives to make corrections in the enrollment of H.J. Res. 62.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Directing the Clerk of the House of Representatives to make corrections in the enrollment of H.J. Res. 62.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>113</congress>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>House Administration Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-09-16T18:00:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Appropriations Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsap00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-09-16T18:00:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2013-09-16</actionDate>
+      <text>Referred to House Administration</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to House Administration</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-09-16</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Appropriations, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <actionDate>2013-09-16</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to House Appropriations</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2013-09-16</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2013-09-16</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2013-09-16</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestTitle>Stability, Security, and Fairness Resolution of 2013</latestTitle>
+        <type>HJRES</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>62</number>
+        <latestAction>
+          <actionDate>2013-09-12</actionDate>
+          <text>Referred to House Ways and Means</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billNumber>54</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

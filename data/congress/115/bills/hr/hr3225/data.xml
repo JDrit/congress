@@ -1,0 +1,39 @@
+<bill session="115" type="h" number="3225" updated="2017-08-04T20:00:15Z">
+  <state datetime="2017-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2017-07-13"/>
+  </status>
+  <introduced datetime="2017-07-13"/>
+  <titles>
+    <title type="short" as="introduced">Oregon Tribal Economic Development Act</title>
+    <title type="official" as="introduced">To allow the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians, the Confederated Tribes of the Grand Ronde Community of Oregon, the Confederated Tribes of Siletz Indians of Oregon, the Confederated Tribes of Warm Springs, and the Cow Creek Band of Umpqua Tribe of Indians to lease or transfer certain lands.</title>
+    <title type="display">Oregon Tribal Economic Development Act</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="400419" joined="2017-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-07-13">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-07-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2017-07-25">
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian, Insular and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="115" type="s" number="1285"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

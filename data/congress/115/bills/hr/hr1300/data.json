@@ -1,0 +1,353 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-03-02", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-02", 
+      "action_code": "H11100-A", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Armed Services, Oversight and Government Reform, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to House Armed Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to House Education and the Workforce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-17", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Digital Commerce and Consumer Protection.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1300-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001300", 
+      "district": "44", 
+      "name": "Barragan, Nanette Diaz", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-04-04", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001037", 
+      "district": "7", 
+      "name": "Capuano, Michael E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-05-22", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001111", 
+      "district": "13", 
+      "name": "Crist, Charlie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-05-17", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000625", 
+      "district": "11", 
+      "name": "Donovan, Daniel M., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-06", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "8", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-05-24", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000449", 
+      "district": "1", 
+      "name": "Fortenberry, Jeff", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-06-06", 
+      "state": "NE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000553", 
+      "district": "9", 
+      "name": "Green, Al", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-04-26", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000410", 
+      "district": "29", 
+      "name": "Green, Gene", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-02", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001038", 
+      "district": "26", 
+      "name": "Higgins, Brian", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-25", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000294", 
+      "district": "8", 
+      "name": "Jeffries, Hakeem S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-06", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000554", 
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-04-26", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000312", 
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-05-22", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000480", 
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001200", 
+      "district": "9", 
+      "name": "Soto, Darren", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-18", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000465", 
+      "district": "3", 
+      "name": "Tsongas, Niki", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-12", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000081", 
+      "district": "7", 
+      "name": "Velazquez, Nydia M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2017-07-12", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-03-02", 
+  "number": "1300", 
+  "official_title": "To require the Secretary of Labor to maintain a publicly available list of all employers that relocate a call center overseas, to make such companies ineligible for Federal grants or guaranteed loans, and to require disclosure of the physical location of business agents engaging in customer service communications, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s515-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "United States Call Center Worker and Consumer Protection Act of 2017", 
+  "sponsor": {
+    "bioguide_id": "M001180", 
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-03-02", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business records", 
+    "Commerce", 
+    "Consumer affairs", 
+    "Federal Trade Commission (FTC)", 
+    "Government information and archives", 
+    "Government lending and loan guarantees", 
+    "Military procurement, research, weapons development", 
+    "Public contracts and procurement", 
+    "Telephone and wireless communication", 
+    "Unemployment"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-03-02T05:00:00Z", 
+    "text": "United States Call Center Worker and Consumer Protection Act of 2017\n\nThis bill requires a business that employs 50 or more call center employees, excluding part-time employees, or 50 or more call center employees who in the aggregate work at least 1,500 hours per week, exclusive of overtime, to notify the Department of Labor at least 120 days before relocating such center outside of the United States. Violators are subject to a civil penalty of up to $10,000 per day.\n\nLabor must make publicly available a list of all such employers that relocate a call center. It may remove from the list an employer that has relocated the call center from a location outside the United States to a location inside the United States.\n\nEmployers must remain on the list for up to three years after each relocation. An employer is ineligible for federal grants or federal guaranteed loans for five years after being added to the list, except where the employer demonstrates that a lack of such loan or grant would threaten national security, result in substantial job loss in the United States, or harm the environment. Federal or state executive agencies or military departments, when awarding a civilian or defense-related contract, must give preference to a U.S. employer that does not appear on the list.\n\nBusinesses that initiate or receive a customer service communication must require each of their employees or agents participating in the communication to disclose their physical location at the beginning of each such communication unless all involved employees or agents are located in the United States. The bill exempts any communication: (1) initiated by a consumer if the consumer knows or reasonably should know that the employee or agent is located outside the United States, or (2) related to the provision of emergency services. Upon request, businesses must transfer a customer to a customer service agent who is physically located in the United States.\n\nThe Federal Trade Commission (FTC) may exclude certain classes or types of business entities or customer service communications from the requirements of this bill under exceptionally compelling circumstances. The bill sets forth authority for the FTC to enforce against violations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "United States Call Center Worker and Consumer Protection Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "United States Call Center Worker and Consumer Protection Act of 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Labor to maintain a publicly available list of all employers that relocate a call center overseas, to make such companies ineligible for Federal grants or guaranteed loans, and to require disclosure of the physical location of business agents engaging in customer service communications, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "United States Call Center Worker and Consumer Protection Act of 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-26T07:15:49Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr1300.xml"
+}

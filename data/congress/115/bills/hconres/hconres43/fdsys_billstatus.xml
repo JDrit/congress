@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2017-04-12</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-04</actionDate>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-04</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-04</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>SRES</type>
+        <latestTitle>A resolution recognizing the 11 African-American soldiers of the 333rd Field Artillery Battalion who were massacred in Wereth, Belgium, during the Battle of the Bulge in December 1944.</latestTitle>
+        <latestAction>
+          <actionDate>2017-03-27</actionDate>
+          <text>Referred to the Committee on Armed Services. (text of measure as introduced: CR S2000)</text>
+        </latestAction>
+        <number>99</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Belgium</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Germany</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Military history</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Senate Committee on Armed Services</name>
+          </item>
+          <item>
+            <name>War crimes, genocide, crimes against humanity</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-04-04T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-04-08T12:41:55Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2017-04-04</actionDate>
+          <text><![CDATA[<p>Recognizes the dedicated service and ultimate sacrifice on behalf of the United States of the 11 African-American soldiers of the 333rd Field Artillery Battalion of the United States Army who were massacred in Wereth, Belgium, during the Battle of the Bulge on December 17, 1944. </p> <p>Calls on the Senate Armed Services Committee to correct the omission of such massacre in the 1949 report of its subcommittee and appropriately recognize the Wereth 11.</p> <UL> </UL>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2017-04-05T03:11:44Z</createDate>
+    <congress>115</congress>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <title>Providing official recognition of the massacre of 11 African-American soldiers of the 333rd Field Artillery Battalion of the United States Army who had been captured in Wereth, Belgium, during the Battle of the Bulge on December 17, 1944.</title>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing official recognition of the massacre of 11 African-American soldiers of the 333rd Field Artillery Battalion of the United States Army who had been captured in Wereth, Belgium, during the Battle of the Bulge on December 17, 1944.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing official recognition of the massacre of 11 African-American soldiers of the 333rd Field Artillery Battalion of the United States Army who had been captured in Wereth, Belgium, during the Battle of the Bulge on December 17, 1944.</title>
+      </item>
+    </titles>
+    <billNumber>43</billNumber>
+    <billType>HCONRES</billType>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2017-04-12</actionDate>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </latestAction>
+    <updateDate>2017-05-25T07:15:17Z</updateDate>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <firstName>BOBBY</firstName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <bioguideId>R000515</bioguideId>
+        <identifiers>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <district>1</district>
+        <lastName>RUSH</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <firstName>WM.</firstName>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <bioguideId>C001049</bioguideId>
+        <identifiers>
+          <bioguideId>C001049</bioguideId>
+          <lisID>1654</lisID>
+          <gpoId>8009</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>LACY</middleName>
+        <district>1</district>
+        <lastName>CLAY</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <firstName>Joyce</firstName>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <bioguideId>B001281</bioguideId>
+        <identifiers>
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>3</district>
+        <lastName>Beatty</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <firstName>ROBERT</firstName>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <bioguideId>B001227</bioguideId>
+        <identifiers>
+          <bioguideId>B001227</bioguideId>
+          <gpoId>8119</gpoId>
+          <lisID>1469</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <district>1</district>
+        <lastName>BRADY</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <firstName>Andre</firstName>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <bioguideId>C001072</bioguideId>
+        <identifiers>
+          <lisID>1889</lisID>
+          <gpoId>7946</gpoId>
+          <bioguideId>C001072</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>7</district>
+        <lastName>Carson</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <firstName>WALTER</firstName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <bioguideId>J000255</bioguideId>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <district>3</district>
+        <lastName>JONES</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <firstName>Trent</firstName>
+        <fullName>Rep. Kelly, Trent [R-MS-1]</fullName>
+        <bioguideId>K000388</bioguideId>
+        <identifiers>
+          <bioguideId>K000388</bioguideId>
+          <lisID>2294</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>1</district>
+        <lastName>Kelly</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <firstName>Dwight</firstName>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <bioguideId>E000296</bioguideId>
+        <identifiers>
+          <lisID>2298</lisID>
+          <bioguideId>E000296</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>2</district>
+        <lastName>Evans</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <firstName>Debbie</firstName>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <bioguideId>D000624</bioguideId>
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+          <lisID>2251</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <district>12</district>
+        <lastName>Dingell</lastName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <introducedDate>2017-04-04</introducedDate>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <identifiers>
+          <lisID>2074</lisID>
+          <bioguideId>M001180</bioguideId>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <district>1</district>
+        <firstName>David</firstName>
+        <bioguideId>M001180</bioguideId>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <lastName>McKinley</lastName>
+        <state>WV</state>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-12T17:06:47Z</date>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+              <systemCode>hsas02</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-04T14:02:00Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-03-17</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-03-17</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2016-07-13</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <latestTitle>Separation of Powers Restoration Act of 2016</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>4768</number>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>2724</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2016-03-17T18:52:59Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-03-17</introducedDate>
+    <updateDate>2017-06-02T23:40:10Z</updateDate>
+    <title>Separation of Powers Restoration Act of 2016</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Separation of Powers Restoration Act of 2016</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend title 5, United States Code, with respect to the judicial review of agency interpretations of statutory and regulatory provisions.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Separation of Powers Restoration Act of 2016</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2016-03-17T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Separation of Powers Restoration Act of 2016</strong></p> <p>This bill modifies the scope of judicial review of agency actions to authorize courts reviewing agency actions to decide de novo all relevant questions of law, including the interpretation of constitutional and statutory provisions and rules. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2016-04-05T19:09:16Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2016-03-17</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+          <lisID>1351</lisID>
+        </identifiers>
+        <firstName>ORRIN</firstName>
+        <party>R</party>
+        <bioguideId>H000338</bioguideId>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <state>UT</state>
+        <middleName>GRANT</middleName>
+        <byRequestType />
+        <lastName>HATCH</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2016-03-17</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>GRASSLEY</lastName>
+        <identifiers>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+        </identifiers>
+        <firstName>CHARLES</firstName>
+        <bioguideId>G000386</bioguideId>
+        <middleName>ERNEST</middleName>
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lee</lastName>
+        <identifiers>
+          <lisID>2080</lisID>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <bioguideId>L000577</bioguideId>
+        <middleName />
+        <state>UT</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lankford</lastName>
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+          <lisID>2050</lisID>
+        </identifiers>
+        <firstName>James</firstName>
+        <bioguideId>L000575</bioguideId>
+        <middleName />
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>FLAKE</lastName>
+        <identifiers>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+        <firstName>JEFF</firstName>
+        <bioguideId>F000444</bioguideId>
+        <middleName />
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Tillis</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <bioguideId>T000476</bioguideId>
+        <middleName>Roland</middleName>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cruz</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <bioguideId>C001098</bioguideId>
+        <middleName />
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Sasse</lastName>
+        <identifiers>
+          <lisID>2289</lisID>
+          <gpoId />
+          <bioguideId>S001197</bioguideId>
+        </identifiers>
+        <firstName>Ben</firstName>
+        <bioguideId>S001197</bioguideId>
+        <middleName />
+        <state>NE</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cornyn</lastName>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+        <bioguideId>C001056</bioguideId>
+        <middleName />
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Sullivan</lastName>
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Dan</firstName>
+        <bioguideId>S001198</bioguideId>
+        <middleName />
+        <state>AK</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>INHOFE</lastName>
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <firstName>JIM</firstName>
+        <bioguideId>I000024</bioguideId>
+        <middleName />
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Perdue</lastName>
+        <identifiers>
+          <lisID>2286</lisID>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>David</firstName>
+        <bioguideId>P000612</bioguideId>
+        <middleName>Alfred</middleName>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-04-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Paul</lastName>
+        <identifiers>
+          <lisID>2082</lisID>
+          <gpoId>8308</gpoId>
+          <bioguideId>P000603</bioguideId>
+        </identifiers>
+        <firstName>Rand</firstName>
+        <bioguideId>P000603</bioguideId>
+        <middleName />
+        <state>KY</state>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2016-03-18T05:09:39Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

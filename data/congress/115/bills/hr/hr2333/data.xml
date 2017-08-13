@@ -1,0 +1,77 @@
+<bill session="115" type="h" number="2333" updated="2017-07-29T04:28:44Z">
+  <state datetime="2017-07-24T16:26:09-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-07-24T16:26:09-04:00"/>
+  </status>
+  <introduced datetime="2017-05-03"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Investment Opportunity Act of 2017</title>
+    <title type="short" as="introduced">Small Business Investment Opportunity Act of 2017</title>
+    <title type="short" as="reported to house">Small Business Investment Opportunity Act of 2017</title>
+    <title type="short" as="reported to house">Small Business Investment Opportunity Act of 2017</title>
+    <title type="short" as="passed house">Small Business Investment Opportunity Act of 2017</title>
+    <title type="short" as="passed house">Small Business Investment Opportunity Act of 2017</title>
+    <title type="official" as="introduced">To amend the Small Business Investment Act of 1958 to increase the amount of leverage made available to small business investment companies.</title>
+    <title type="display">Small Business Investment Opportunity Act of 2017</title>
+  </titles>
+  <sponsor id="412614"/>
+  <cosponsors>
+    <cosponsor id="412379" joined="2017-05-03"/>
+    <cosponsor id="412621" joined="2017-05-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-03" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2017-06-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-06-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="2017-07-12">
+      <text>Reported (Amended) by the Committee on Small Business. H. Rept. 115-215.</text>
+    </action>
+    <calendar datetime="2017-07-12" calendar="Union" number="151">
+      <text>Placed on the Union Calendar, Calendar No. 151.</text>
+    </calendar>
+    <action datetime="2017-07-24T16:13:38-04:00">
+      <text>Mr. Chabot moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-07-24T16:13:53-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6178-6179" label="consideration"/>
+    </action>
+    <action datetime="2017-07-24T16:13:59-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2333.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-07-24T16:26:09-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6178" label="text"/>
+    </vote>
+    <action datetime="2017-07-24T16:26:11-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-07-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+    <committee code="HSSM" name="House Small Business" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-07-12T15:07:40Z" status="Reported to House with amendment(s)">Small Business Investment Opportunity Act of 2017
+
+(Sec. 2) This bill amends the Small Business Investment Act of 1958 to increase the maximum amount of outstanding leverage (i.e., borrowing power) made available to any licensed small business investment company from $150 million to $175 million.</summary>
+  <committee-reports>
+    <report>H. Rept. 115-215</report>
+  </committee-reports>
+</bill>

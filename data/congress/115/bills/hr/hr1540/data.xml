@@ -1,0 +1,53 @@
+<bill session="115" type="h" number="1540" updated="2017-06-19T21:30:23Z">
+  <state datetime="2017-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2017-03-15"/>
+  </status>
+  <introduced datetime="2017-03-15"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Disability Insurance Return to Work Act</title>
+    <title type="short" as="introduced">Social Security Disability Insurance Return to Work Act</title>
+    <title type="official" as="introduced">To help individuals receiving disability insurance benefits under title II of the Social Security Act obtain rehabilitative services and return to the workforce, and for other purposes.</title>
+    <title type="display">Social Security Disability Insurance Return to Work Act</title>
+  </titles>
+  <sponsor id="412609"/>
+  <cosponsors>
+    <cosponsor id="412625" joined="2017-06-07"/>
+    <cosponsor id="412726" joined="2017-04-06"/>
+    <cosponsor id="412541" joined="2017-03-23"/>
+    <cosponsor id="400032" joined="2017-03-23"/>
+    <cosponsor id="412661" joined="2017-03-23"/>
+    <cosponsor id="400196" joined="2017-03-23"/>
+    <cosponsor id="412551" joined="2017-03-15"/>
+    <cosponsor id="412641" joined="2017-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-03-15">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-03-15" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2017-03-23">
+      <text>Referred to the Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="115" type="s" number="656"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Disability assistance"/>
+    <term name="Government trust funds"/>
+    <term name="Health information and medical records"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Social Security Administration"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

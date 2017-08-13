@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Veterans' Affairs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <constitutionalAuthorityStatementText />
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2017-02-07</actionDate>
+        <text>Referred to the House Committee on House Administration.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-02-07</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-02-07</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-02-07</introducedDate>
+    <createDate>2017-02-08T04:45:55Z</createDate>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-02-07T15:04:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <subcommittees />
+          <name>House Administration Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <billNumber>107</billNumber>
+    <calendarNumbers />
+    <title>Providing amounts for the expenses of the Committee on Veterans' Affairs in the One Hundred Fifteenth Congress.</title>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Providing amounts for the expenses of the Committee on Veterans' Affairs in the One Hundred Fifteenth Congress.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Providing amounts for the expenses of the Committee on Veterans' Affairs in the One Hundred Fifteenth Congress.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-03-11T17:07:06Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-07</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Provides amounts for the expenses of the House Committee on Veterans' Affairs for the 115th Congress.</p>]]></text>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <actionDate>2017-02-07</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <state>MN</state>
+        <lastName>Walz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <party>D</party>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Timothy</firstName>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <bioguideId>W000799</bioguideId>
+        <identifiers>
+          <gpoId>8001</gpoId>
+          <bioguideId>W000799</bioguideId>
+          <lisID>1856</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <bioguideId>R000582</bioguideId>
+        <identifiers>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+        </identifiers>
+        <middleName>P.</middleName>
+        <firstName>David</firstName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Roe</lastName>
+        <state>TN</state>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <updateDate>2017-05-03T23:48:14Z</updateDate>
+    <congress>115</congress>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

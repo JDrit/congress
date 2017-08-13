@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <placedOnCalendarSection>2</placedOnCalendarSection>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-10-19</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 270.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2015-10-08</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-10-08</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 10.</text>
+          <actionDate>2015-02-03</actionDate>
+        </latestAction>
+        <latestTitle>A bill to permanently reauthorize the Land and Water Conservation Fund.</latestTitle>
+        <number>338</number>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 271.</text>
+          <actionDate>2015-10-19</actionDate>
+        </latestAction>
+        <latestTitle>A bill to amend title 54, United States Code, to extend the Land and Water Conservation Fund.</latestTitle>
+        <number>2169</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>2165</billNumber>
+    <recordedVotes />
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+      <item>
+        <number>0270</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <committees>
+      <billCommittees />
+    </committees>
+    <introducedDate>2015-10-08</introducedDate>
+    <updateDate>2017-06-02T23:31:19Z</updateDate>
+    <title>A bill to amend title 54, United States Code, to permanently authorize the Land and Water Conservation Fund.</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend title 54, United States Code, to permanently authorize the Land and Water Conservation Fund.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to amend title 54, United States Code, to permanently authorize the Land and Water Conservation Fund.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-10-08T04:00:00Z</updateDate>
+          <text><![CDATA[<p> Amends the Land and Water Conservation Fund Act of 1965 to make permanent the authorization for the Land and Water Conservation Fund. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2015-10-29T21:39:38Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2015-10-08</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>172</lisID>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <firstName>MARIA</firstName>
+        <party>D</party>
+        <bioguideId>C000127</bioguideId>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <state>WA</state>
+        <middleName />
+        <byRequestType />
+        <lastName>CANTWELL</lastName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 270.</text>
+      <actionDate>2015-10-19</actionDate>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <firstName>Jon</firstName>
+        <party>D</party>
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-10-08</sponsorshipDate>
+        <lastName>Tester</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+          <lisID>1937</lisID>
+        </identifiers>
+        <firstName>Martin</firstName>
+        <party>D</party>
+        <bioguideId>H001046</bioguideId>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NM</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-10-08</sponsorshipDate>
+        <lastName>Heinrich</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <firstName>Jeanne</firstName>
+        <party>D</party>
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NH</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-10-08</sponsorshipDate>
+        <lastName>Shaheen</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8302</gpoId>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <party>D</party>
+        <bioguideId>B001267</bioguideId>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CO</state>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-10-08</sponsorshipDate>
+        <lastName>Bennet</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+        </identifiers>
+        <firstName>PATRICK</firstName>
+        <party>D</party>
+        <bioguideId>L000174</bioguideId>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VT</state>
+        <middleName>JOSEPH</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-10-08</sponsorshipDate>
+        <lastName>LEAHY</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+        </identifiers>
+        <firstName>RON</firstName>
+        <party>D</party>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-10-08</sponsorshipDate>
+        <lastName>WYDEN</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <firstName>PATTY</firstName>
+        <party>D</party>
+        <bioguideId>M001111</bioguideId>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-10-08</sponsorshipDate>
+        <lastName>MURRAY</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Outdoor recreation</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-10-09T09:25:59Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

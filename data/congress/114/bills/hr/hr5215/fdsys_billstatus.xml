@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-05-20</actionDate>
+        <committee>
+          <name>Nutrition Subcommittee</name>
+          <systemCode>hsag03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-05-12</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-05-12</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-05-12</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>1025</number>
+        <latestTitle>SNAP Work Opportunities Act of 2015</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Nutrition.</text>
+          <actionDate>2015-03-09</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>3657</number>
+        <latestTitle>Food Security Improvement Act of 2015</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Nutrition.</text>
+          <actionDate>2015-10-15</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>5215</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-05-12T14:03:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsag00</systemCode>
+          <chamber>House</chamber>
+          <name>Agriculture Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsag03</systemCode>
+              <name>Nutrition Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2016-05-20T16:21:25Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-05-12</introducedDate>
+    <updateDate>2017-06-02T21:57:49Z</updateDate>
+    <title>Closing the Meal Gap Act of 2016</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Closing the Meal Gap Act of 2016</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Food and Nutrition Act of 2008 to require that supplemental nutrition assistance program benefits be calculated with reference to the cost of the low-cost food plan as determined by the Secretary of Agriculture, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Closing the Meal Gap Act of 2016</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2016-05-12T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Closing the Meal Gap Act of 2016 </b></p> <p>This bill amends the Food and Nutrition Act of 2008 to revise the requirements for calculating Supplemental Nutrition Assistance Program (SNAP, formerly known as the food stamp program) benefits. </p> <p>The bill increases the minimum SNAP benefit and requires benefits to be calculated using a low-cost food plan. The Department of Agriculture (USDA) must determine the requirements for the low-cost food plan, which is the diet required to feed a family of four, consisting of:</p> <ul> <li>a man and a woman 19-50 years of age, </li> <li>a child 6-8 years of age, and </li> <li>a child 9-11 years of age. </li> </ul> <p>USDA must make adjustments to the plan to account for household size, changes in the cost of the diet, and the costs of food in specified areas. </p> <p>The bill revises the amounts authorized for nutrition assistance block grants for Puerto Rico and American Samoa and requires the amounts to be modified based on adjustments to the low-cost food plan. </p> <p>The bill modifies the requirements for calculating household income to determine SNAP eligibility by: (1) authorizing a standard medical expense deduction for households containing an elderly or disabled member, and (2) eliminating the cap on the deduction for excess shelter expenses. </p> <p>The bill exempts from SNAP work requirements able-bodied adults without dependents who are not offered a position in a SNAP Employment and Training Program. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2016-09-09T21:04:31Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2016-05-12</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2201</lisID>
+          <gpoId />
+          <bioguideId>A000370</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <party>D</party>
+        <bioguideId>A000370</bioguideId>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <firstName>Alma</firstName>
+        <state>NC</state>
+        <middleName>S.</middleName>
+        <byRequestType />
+        <lastName>Adams</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Nutrition.</text>
+      <actionDate>2016-05-20</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ADAMS:H.R. 5215.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, to regulate the commerce with foreignNations, and among the several States, and with the IndianTribes.[Page H2342]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <district>2</district>
+        <party>D</party>
+        <lastName>MCGOVERN</lastName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipDate>2016-05-12</sponsorshipDate>
+        <state>MA</state>
+        <firstName>JAMES</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000312</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>F000455</bioguideId>
+          <gpoId>8101</gpoId>
+          <lisID>1895</lisID>
+        </identifiers>
+        <district>11</district>
+        <party>D</party>
+        <lastName>Fudge</lastName>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+        <sponsorshipDate>2016-05-12</sponsorshipDate>
+        <state>OH</state>
+        <firstName>Marcia</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000455</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7868</gpoId>
+          <bioguideId>D000216</bioguideId>
+          <lisID>281</lisID>
+        </identifiers>
+        <district>3</district>
+        <party>D</party>
+        <lastName>DELAURO</lastName>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <sponsorshipDate>2016-05-12</sponsorshipDate>
+        <state>CT</state>
+        <firstName>ROSA</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000216</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <district>13</district>
+        <party>D</party>
+        <lastName>CONYERS</lastName>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <sponsorshipDate>2016-05-12</sponsorshipDate>
+        <state>MI</state>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000714</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <party>D</party>
+        <lastName>Moore</lastName>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <sponsorshipDate>2016-05-12</sponsorshipDate>
+        <state>WI</state>
+        <firstName>Gwen</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001160</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2274</lisID>
+          <gpoId />
+          <bioguideId>P000610</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <party>D</party>
+        <lastName>Plaskett</lastName>
+        <fullName>Rep. Plaskett, Stacey E. [D-VI-At Large]</fullName>
+        <sponsorshipDate>2016-05-12</sponsorshipDate>
+        <state>VI</state>
+        <firstName>Stacey</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000610</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2150</lisID>
+          <gpoId />
+          <bioguideId>M001185</bioguideId>
+        </identifiers>
+        <district>18</district>
+        <party>D</party>
+        <lastName>Maloney</lastName>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <sponsorshipDate>2016-05-12</sponsorshipDate>
+        <state>NY</state>
+        <firstName>Sean</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>Patrick</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001185</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001191</bioguideId>
+          <gpoId />
+          <lisID>2117</lisID>
+        </identifiers>
+        <district>18</district>
+        <party>D</party>
+        <lastName>Murphy</lastName>
+        <fullName>Rep. Murphy, Patrick [D-FL-18]</fullName>
+        <sponsorshipDate>2016-05-12</sponsorshipDate>
+        <state>FL</state>
+        <firstName>Patrick</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001191</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <party>D</party>
+        <lastName>LEE</lastName>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <state>CA</state>
+        <firstName>BARBARA</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000551</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H000636</bioguideId>
+          <gpoId>8171</gpoId>
+          <lisID>1490</lisID>
+        </identifiers>
+        <district>15</district>
+        <party>D</party>
+        <lastName>HINOJOSA</lastName>
+        <fullName>Rep. Hinojosa, Ruben [D-TX-15]</fullName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <state>TX</state>
+        <firstName>RUBEN</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H000636</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2096</lisID>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <party>D</party>
+        <lastName>DelBene</lastName>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <state>WA</state>
+        <firstName>Suzan</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000617</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2101</lisID>
+          <gpoId />
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <party>D</party>
+        <lastName>Huffman</lastName>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <sponsorshipDate>2016-09-09</sponsorshipDate>
+        <state>CA</state>
+        <firstName>Jared</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001068</bioguideId>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alaska</name>
+          </item>
+          <item>
+            <name>American Samoa</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Guam</name>
+          </item>
+          <item>
+            <name>Hawaii</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Puerto Rico</name>
+          </item>
+          <item>
+            <name>U.S. territories and protectorates</name>
+          </item>
+          <item>
+            <name>Virgin Islands</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2016-05-13T05:18:13Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

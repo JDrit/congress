@@ -1,0 +1,40 @@
+<bill session="115" type="h" number="2389" updated="2017-06-13T07:12:51Z">
+  <state datetime="2017-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-04"/>
+  </status>
+  <introduced datetime="2017-05-04"/>
+  <titles>
+    <title type="official" as="introduced">To reauthorize the West Valley demonstration project, and for other purposes.</title>
+    <title type="display">To reauthorize the West Valley demonstration project, and for other purposes.</title>
+  </titles>
+  <sponsor id="412393"/>
+  <cosponsors>
+    <cosponsor id="412672" joined="2017-05-16"/>
+    <cosponsor id="400641" joined="2017-05-04"/>
+    <cosponsor id="400246" joined="2017-05-18"/>
+    <cosponsor id="400289" joined="2017-05-04"/>
+    <cosponsor id="400378" joined="2017-05-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-04">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-04" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2017-05-05">
+      <text>Referred to the Subcommittee on Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-06-08</actionDate>
+        <committee>
+          <name>Nutrition Subcommittee</name>
+          <systemCode>hsag03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2015-05-15</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-05-15</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2015-05-15</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2016-06-10</actionDate>
+          <text>Referred to the Subcommittee on Nutrition.</text>
+        </latestAction>
+        <latestTitle>Welfare Reform and Upward Mobility Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>5360</number>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>2383</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Nutrition Subcommittee</name>
+              <systemCode>hsag03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-06-08T15:33:29Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-05-15T13:04:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-05-15</introducedDate>
+    <updateDate>2017-06-02T21:03:05Z</updateDate>
+    <title>Nutritious Options for Meals Act of 2015</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Nutritious Options for Meals Act of 2015</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Food and Nutrition Act of 2008 to change the eligible foods allowed for purchase under the Supplemental Nutrition Assistance Program (commonly known as SNAP).</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Nutritious Options for Meals Act of 2015</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-05-15T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Nutritious Options for Meals Act of 2015 </b></p> <p>This bill amends the Food and Nutrition Act of 2008 to apply nutritional standards for the Department of Agriculture's (USDA's) Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) to foods purchased for USDA's Supplemental Nutrition Assistance Program (SNAP, formerly known as the food stamp program), with the addition of lean meat and poultry. </p> <p>Foods purchased for SNAP must be of the kind prescribed by USDA in implementing WIC requirements that: (1) food contain nutrients determined by nutritional research to be lacking in the diets of pregnant, breastfeeding, and postpartum women, infants, or children; or (2) food promote the health of the population served by the program. Examples of foods acceptable under the bill include vegetables, fruits, milk, juice, breakfast cereal, cheese, eggs, yogurt, peanut butter, legumes, whole grain bread, and lean meat or poultry. </p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-08-17T16:42:50Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-05-15</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2160</lisID>
+          <gpoId />
+          <bioguideId>R000597</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <party>R</party>
+        <bioguideId>R000597</bioguideId>
+        <fullName>Rep. Rice, Tom [R-SC-7]</fullName>
+        <firstName>Tom</firstName>
+        <state>SC</state>
+        <middleName />
+        <byRequestType />
+        <lastName>Rice</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Nutrition.</text>
+      <actionDate>2015-06-08</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RICE of South Carolina:H.R. 2383.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution[Page H3253]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>M001177</bioguideId>
+        <lastName>McClintock</lastName>
+        <state>CA</state>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2015-05-15</sponsorshipDate>
+        <identifiers>
+          <gpoId>7809</gpoId>
+          <bioguideId>M001177</bioguideId>
+          <lisID>1908</lisID>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>B001294</bioguideId>
+        <lastName>Blum</lastName>
+        <state>IA</state>
+        <firstName>Rod</firstName>
+        <sponsorshipDate>2015-05-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2241</lisID>
+          <gpoId />
+          <bioguideId>B001294</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Blum, Rod [R-IA-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>J000255</bioguideId>
+        <lastName>JONES</lastName>
+        <state>NC</state>
+        <firstName>WALTER</firstName>
+        <sponsorshipDate>2015-05-15</sponsorshipDate>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>M001150</bioguideId>
+        <lastName>Miller</lastName>
+        <state>MI</state>
+        <firstName>Candice</firstName>
+        <sponsorshipDate>2015-05-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001150</bioguideId>
+          <gpoId>8589</gpoId>
+          <lisID>1731</lisID>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>S.</middleName>
+        <fullName>Rep. Miller, Candice S. [R-MI-10]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>B001289</bioguideId>
+        <lastName>Byrne</lastName>
+        <state>AL</state>
+        <firstName>Bradley</firstName>
+        <sponsorshipDate>2015-05-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2197</lisID>
+          <gpoId />
+          <bioguideId>B001289</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>W000814</bioguideId>
+        <lastName>Weber</lastName>
+        <state>TX</state>
+        <firstName>Randy</firstName>
+        <sponsorshipDate>2015-05-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2161</lisID>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>C001094</bioguideId>
+        <lastName>Cook</lastName>
+        <state>CA</state>
+        <firstName>Paul</firstName>
+        <sponsorshipDate>2015-05-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>R000409</bioguideId>
+        <lastName>ROHRABACHER</lastName>
+        <state>CA</state>
+        <firstName>DANA</firstName>
+        <sponsorshipDate>2015-05-15</sponsorshipDate>
+        <identifiers>
+          <lisID>979</lisID>
+          <gpoId>7851</gpoId>
+          <bioguideId>R000409</bioguideId>
+        </identifiers>
+        <district>48</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Rohrabacher, Dana [R-CA-48]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>M001195</bioguideId>
+        <lastName>Mooney</lastName>
+        <state>WV</state>
+        <firstName>Alexander</firstName>
+        <sponsorshipDate>2015-05-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2277</lisID>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>X.</middleName>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>B001290</bioguideId>
+        <lastName>Brat</lastName>
+        <state>VA</state>
+        <firstName>Dave</firstName>
+        <sponsorshipDate>2015-05-18</sponsorshipDate>
+        <identifiers>
+          <lisID>2203</lisID>
+          <bioguideId>B001290</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Brat, Dave [R-VA-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>P000606</bioguideId>
+        <lastName>Pittenger</lastName>
+        <state>NC</state>
+        <firstName>Robert</firstName>
+        <sponsorshipDate>2015-05-18</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000606</bioguideId>
+          <lisID>2141</lisID>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate>2015-06-09</sponsorshipWithdrawnDate>
+        <middleName />
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>L000578</bioguideId>
+        <lastName>LaMalfa</lastName>
+        <state>CA</state>
+        <firstName>Doug</firstName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+          <gpoId />
+          <lisID>2100</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>R000580</bioguideId>
+        <lastName>Roskam</lastName>
+        <state>IL</state>
+        <firstName>Peter</firstName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <identifiers>
+          <lisID>1848</lisID>
+          <gpoId>7926</gpoId>
+          <bioguideId>R000580</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>S001183</bioguideId>
+        <lastName>Schweikert</lastName>
+        <state>AZ</state>
+        <firstName>David</firstName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <identifiers>
+          <lisID>1994</lisID>
+          <gpoId>7802</gpoId>
+          <bioguideId>S001183</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>B001291</bioguideId>
+        <lastName>Babin</lastName>
+        <state>TX</state>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <identifiers>
+          <lisID>2270</lisID>
+          <bioguideId>B001291</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>36</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>W000795</bioguideId>
+        <lastName>Wilson</lastName>
+        <state>SC</state>
+        <firstName>Joe</firstName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <identifiers>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+          <lisID>1688</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>P000599</bioguideId>
+        <lastName>Posey</lastName>
+        <state>FL</state>
+        <firstName>Bill</firstName>
+        <sponsorshipDate>2015-05-22</sponsorshipDate>
+        <identifiers>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2015-05-16T08:46:38Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

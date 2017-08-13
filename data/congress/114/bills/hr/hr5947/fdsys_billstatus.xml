@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2016-09-07</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Sponsor introductory remarks on measure. (CR: E1214)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>B00100</actionCode>
+        <links>
+          <link>
+            <name>E1214</name>
+            <url>https://www.congress.gov/congressional-record/volume-162/extensions-of-remarks-section/page/E1214</url>
+          </link>
+        </links>
+        <actionDate>2016-09-07</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2016-09-07</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2016-09-07</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>3409</number>
+        <latestTitle>Improved Employment Outcomes for Foster Youth Act of 2016</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2016-09-28</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>5947</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-09-07T14:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-09-07</introducedDate>
+    <updateDate>2017-06-02T22:14:53Z</updateDate>
+    <title>Improved Employment Outcomes for Foster Youth Act of 2016</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Improved Employment Outcomes for Foster Youth Act of 2016</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to include foster care transition youth as members of targeted groups for purposes of the work opportunity credit.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Improved Employment Outcomes for Foster Youth Act of 2016</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2016-09-07T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Improved Employment Outcomes for Foster Youth Act of 2016 </b></p> <p>This bill amends the Internal Revenue Code to expand the Work Opportunity Tax Credit (WOTC) to include the hiring of qualified foster care transition youth.</p> <p>(The WOTC permits employers who hire individuals who are members of a targeted group (e.g., qualified veterans, ex-felons, SSI recipients) to claim a tax credit equal to a portion of the wages paid to those individuals.) </p> <p>A &quot;qualified foster care transition youth&quot; is any individual who is certified by the designated local agency as: (1) not having attained age 27 as of the hiring date, and (2) as having been in foster care after attaining the younger of age 16 or the age specified in provisions of the Social Security Act related to the John H. Chafee Foster Care Independence Program. </p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2016-09-14T16:22:20Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2016-09-07</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>766</lisID>
+          <gpoId>8211</gpoId>
+          <bioguideId>M000404</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <party>D</party>
+        <bioguideId>M000404</bioguideId>
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+        <firstName>JIM</firstName>
+        <state>WA</state>
+        <middleName />
+        <byRequestType />
+        <lastName>MCDERMOTT</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2016-09-07</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McDERMOTT:H.R. 5947.Congress has the power to enact this legislation pursuantto the following:Clause 1 of Section 8 of Article 1 of the United StatesConstitution[Page H5162]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>R000578</bioguideId>
+        <lastName>Reichert</lastName>
+        <state>WA</state>
+        <firstName>David</firstName>
+        <sponsorshipDate>2016-09-07</sponsorshipDate>
+        <identifiers>
+          <lisID>1810</lisID>
+          <gpoId>8212</gpoId>
+          <bioguideId>R000578</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>G.</middleName>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>D000399</bioguideId>
+        <lastName>DOGGETT</lastName>
+        <state>TX</state>
+        <firstName>LLOYD</firstName>
+        <sponsorshipDate>2016-09-07</sponsorshipDate>
+        <identifiers>
+          <lisID>303</lisID>
+          <gpoId>8181</gpoId>
+          <bioguideId>D000399</bioguideId>
+        </identifiers>
+        <district>35</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>D000096</bioguideId>
+        <lastName>DAVIS</lastName>
+        <state>IL</state>
+        <firstName>DANNY</firstName>
+        <sponsorshipDate>2016-09-07</sponsorshipDate>
+        <identifiers>
+          <lisID>1477</lisID>
+          <bioguideId>D000096</bioguideId>
+          <gpoId>7927</gpoId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>R000585</bioguideId>
+        <lastName>Reed</lastName>
+        <state>NY</state>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2016-09-07</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000585</bioguideId>
+          <gpoId>8090</gpoId>
+          <lisID>1982</lisID>
+        </identifiers>
+        <district>23</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>B001270</bioguideId>
+        <lastName>Bass</lastName>
+        <state>CA</state>
+        <firstName>Karen</firstName>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <identifiers>
+          <lisID>1996</lisID>
+          <gpoId>7838</gpoId>
+          <bioguideId>B001270</bioguideId>
+        </identifiers>
+        <district>37</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001068</bioguideId>
+        <lastName>Cohen</lastName>
+        <state>TN</state>
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2016-12-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2016-09-08T05:18:33Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

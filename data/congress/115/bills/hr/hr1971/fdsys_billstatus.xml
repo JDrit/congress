@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <billNumber>1971</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Water Infrastructure Flexibility Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Water Infrastructure Flexibility Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To provide for integrated plan permits, to establish an Office of the Municipal Ombudsman, to promote green infrastructure, and to require the revision of financial capability guidance.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Water Infrastructure Flexibility Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-04-07T17:52:03Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hspw02</systemCode>
+              <name>Water Resources and Environment Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <date>2017-04-06T13:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-04-07T14:45:12Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif18</systemCode>
+              <name>Environment and the Economy Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2017-04-06T13:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-04-07T03:11:56Z</createDate>
+    <cosponsors>
+      <item>
+        <bioguideId>L000566</bioguideId>
+        <firstName>Robert</firstName>
+        <lastName>Latta</lastName>
+        <district>5</district>
+        <state>OH</state>
+        <middleName>E.</middleName>
+        <party>R</party>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8095</gpoId>
+          <bioguideId>L000566</bioguideId>
+          <lisID>1885</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-13T13:25:57Z</updateDate>
+    <sponsors>
+      <item>
+        <firstName>Lloyd</firstName>
+        <middleName />
+        <state>PA</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2346</lisID>
+          <gpoId />
+          <bioguideId>S001199</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Smucker, Lloyd [R-PA-16]</fullName>
+        <district>16</district>
+        <bioguideId>S001199</bioguideId>
+        <lastName>Smucker</lastName>
+      </item>
+    </sponsors>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-04-07</actionDate>
+        <committee>
+          <systemCode>hspw02</systemCode>
+          <name>Water Resources and Environment Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-07</actionDate>
+        <committee>
+          <systemCode>hsif18</systemCode>
+          <name>Environment and the Economy Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to House Energy and Commerce</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-04-06</actionDate>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to House Transportation and Infrastructure</text>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-04-06</actionDate>
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-04-06</actionDate>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-04-06</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-04-06</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <notes />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <laws />
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Environment.</text>
+          <actionDate>2017-05-05</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>Water Infrastructure Flexibility Act</latestTitle>
+        <number>2355</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <text>An errata sheet on written report No. 115-87 was printed.</text>
+          <actionDate>2017-05-25</actionDate>
+        </latestAction>
+        <type>S</type>
+        <latestTitle>Water Infrastructure Flexibility Act</latestTitle>
+        <number>692</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <originChamber>House</originChamber>
+    <title>Water Infrastructure Flexibility Act</title>
+    <calendarNumbers />
+    <amendments />
+    <introducedDate>2017-04-06</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SMUCKER:H.R. 1971.Congress has the power to enact this legislation pursuantto the following:Clause 3 of section 8 of Article I of the Constitution[Page H2789]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <actionDate>2017-04-07</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Environmental Protection Agency (EPA)</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Public utilities and utility rates</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,48 @@
+<bill session="115" type="h" number="3151" updated="2017-07-25T07:13:09Z">
+  <state datetime="2017-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-29"/>
+  </status>
+  <introduced datetime="2017-06-29"/>
+  <titles>
+    <title type="short" as="introduced">Food Stamp Integrity Act of 2017</title>
+    <title type="short" as="introduced">Food Stamp Integrity Act of 2017</title>
+    <title type="official" as="introduced">To amend the Food and Nutrition Act of 2008 to reduce waste, fraud, and abuse in the supplemental nutrition assistance program.</title>
+    <title type="display">Food Stamp Integrity Act of 2017</title>
+  </titles>
+  <sponsor id="412633"/>
+  <cosponsors>
+    <cosponsor id="412655" joined="2017-07-24"/>
+    <cosponsor id="412690" joined="2017-07-24"/>
+    <cosponsor id="400220" joined="2017-07-24"/>
+    <cosponsor id="412551" joined="2017-07-24"/>
+    <cosponsor id="412641" joined="2017-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-29">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-29" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2017-07-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5988"/>
+    </action>
+    <action datetime="2017-07-24">
+      <text>Referred to the Subcommittee on Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Nutrition" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Food assistance and relief"/>
+    <term name="Fraud offenses and financial crimes"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

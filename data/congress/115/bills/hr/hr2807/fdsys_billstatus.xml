@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>2807</billNumber>
+    <cosponsors>
+      <item>
+        <district>9</district>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>S000510</bioguideId>
+        <lastName>SMITH</lastName>
+        <firstName>ADAM</firstName>
+        <identifiers>
+          <lisID>1528</lisID>
+          <bioguideId>S000510</bioguideId>
+          <gpoId>8213</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <district>21</district>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <bioguideId>S001196</bioguideId>
+        <lastName>Stefanik</lastName>
+        <firstName>Elise</firstName>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <lisID>2263</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <party>R</party>
+      </item>
+      <item>
+        <district>2</district>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <bioguideId>L000559</bioguideId>
+        <lastName>LANGEVIN</lastName>
+        <firstName>JAMES</firstName>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+          <lisID>1668</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>RI</state>
+        <party>D</party>
+      </item>
+      <item>
+        <district>13</district>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>R000577</bioguideId>
+        <lastName>RYAN</lastName>
+        <firstName>TIM</firstName>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <party>D</party>
+      </item>
+      <item>
+        <district>3</district>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>R000608</bioguideId>
+        <lastName>Rosen</lastName>
+        <firstName>Jacky</firstName>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <lisID>2339</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NV</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-07T14:03:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsas00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-06-07</introducedDate>
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-06-07</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-06-07</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-06-07</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Rep. Thornberry, Mac [R-TX-13]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>T000238</bioguideId>
+          <lisID>1155</lisID>
+          <gpoId>8755</gpoId>
+        </identifiers>
+        <bioguideId>T000238</bioguideId>
+        <firstName>WILLIAM</firstName>
+        <middleName>M.</middleName>
+        <lastName>THORNBERRY</lastName>
+        <district>13</district>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <updateDate>2017-06-28T07:16:33Z</updateDate>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <relatedBills />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. THORNBERRY:H.R. 2807.Congress has the power to enact this legislation pursuantto the following:The constitutional authority on which this bill rests isthe power of Congress ``to provide for the common Defence'',``to raise and support Armies'', ``to provide and maintain aNavy'' and ``to make Rules for the Government and Regulationof the land and naval Forces'' as enumerated in Article I,section 8 of the United States Constitution.[Page H4701]</pre>]]></constitutionalAuthorityStatementText>
+    <title>To amend title 10, United States Code, to require congressional notification concerning sensitive military cyber operations and cyber weapons, and for other purposes.</title>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <createDate>2017-06-08T03:11:41Z</createDate>
+    <latestAction>
+      <text>Referred to the House Committee on Armed Services.</text>
+      <links />
+      <actionDate>2017-06-07</actionDate>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 10, United States Code, to require congressional notification concerning sensitive military cyber operations and cyber weapons, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To amend title 10, United States Code, to require congressional notification concerning sensitive military cyber operations and cyber weapons, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <billType>HR</billType>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

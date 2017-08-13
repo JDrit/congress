@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <laws />
+    <committeeReports />
+    <billType>S</billType>
+    <introducedDate>2017-06-08</introducedDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>T000464</bioguideId>
+        <lastName>Tester</lastName>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <state>MT</state>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <actions>
+      <item>
+        <actionDate>2017-07-11</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-06-08</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>1325</billNumber>
+    <congress>115</congress>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2017-07-21T18:00:12Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Oversight and Government Reform, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Better Workforce for Veterans Act of 2017</latestTitle>
+        <number>3158</number>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <title>Better Workforce for Veterans Act of 2017</title>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Better Workforce for Veterans Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Better Workforce for Veterans Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend title 38, United States Code, to improve the authorities of the Secretary of Veterans Affairs to hire, recruit, and train employees of the Department of Veterans Affairs, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Better Workforce for Veterans Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-07-11T18:30:44Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-08T19:17:37Z</date>
+            </item>
+          </activities>
+          <systemCode>ssva00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000934</bioguideId>
+        <lastName>MORAN</lastName>
+        <firstName>JERRY</firstName>
+        <identifiers>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <state>KS</state>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001170</bioguideId>
+        <lastName>McCaskill</lastName>
+        <firstName>Claire</firstName>
+        <identifiers>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+          <lisID>1820</lisID>
+        </identifiers>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <state>MO</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000384</bioguideId>
+        <lastName>Kaine</lastName>
+        <firstName>Timothy</firstName>
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+          <lisID>2176</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <state>VA</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>Wood</middleName>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001076</bioguideId>
+        <lastName>Hassan</lastName>
+        <firstName>Margaret</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <state>NH</state>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000880</bioguideId>
+        <lastName>CRAPO</lastName>
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <lisID>250</lisID>
+          <gpoId>8289</gpoId>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <state>ID</state>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName>WILLIAM</middleName>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000032</bioguideId>
+        <lastName>NELSON</lastName>
+        <firstName>CLARENCE</firstName>
+        <identifiers>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+        </identifiers>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <state>FL</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <createDate>2017-06-09T00:26:37Z</createDate>
+    <latestAction>
+      <links />
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <actionDate>2017-07-11</actionDate>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

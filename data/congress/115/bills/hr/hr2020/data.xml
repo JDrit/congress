@@ -1,0 +1,53 @@
+<bill session="115" type="h" number="2020" updated="2017-07-28T07:16:21Z">
+  <state datetime="2017-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="2017-04-06"/>
+  </status>
+  <introduced datetime="2017-04-06"/>
+  <titles>
+    <title type="official" as="introduced">To provide for the rescheduling of marijuana into schedule III of the Controlled Substances Act.</title>
+    <title type="display">To provide for the rescheduling of marijuana into schedule III of the Controlled Substances Act.</title>
+  </titles>
+  <sponsor id="412690"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2017-07-27"/>
+    <cosponsor id="400343" joined="2017-05-24"/>
+    <cosponsor id="412695" joined="2017-04-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2769"/>
+    </action>
+    <action datetime="2017-04-06" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2017-04-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2017-04-06">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2017-04-06">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2017-04-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Political Intelligence Transparency Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-07-12T21:23:51Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-06-07T14:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-12</actionDate>
+        <committee>
+          <name>Constitution and Civil Justice Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2017-06-07</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-06-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-06-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <recordedVotes />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <notes />
+    <createDate>2017-06-08T03:11:42Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <identifiers>
+          <lisID>322</lisID>
+          <gpoId>8149</gpoId>
+          <bioguideId>D000533</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <middleName>J.</middleName>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>DUNCAN</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <bioguideId>D000533</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <identifiers>
+          <gpoId>8001</gpoId>
+          <bioguideId>W000799</bioguideId>
+          <lisID>1856</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Timothy</firstName>
+        <middleName>J.</middleName>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Walz</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <bioguideId>W000799</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>EARL</firstName>
+        <middleName />
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BLUMENAUER</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <bioguideId>B000574</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001290</bioguideId>
+          <lisID>2203</lisID>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dave</firstName>
+        <middleName />
+        <fullName>Rep. Brat, Dave [R-VA-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Brat</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <bioguideId>B001290</bioguideId>
+      </item>
+    </cosponsors>
+    <updateDate>2017-07-26T07:16:17Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>S000480</bioguideId>
+        <byRequestType />
+        <district>25</district>
+        <party>D</party>
+        <lastName>SLAUGHTER</lastName>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <firstName>LOUISE</firstName>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>S000480</bioguideId>
+          <gpoId>8089</gpoId>
+          <lisID>1069</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>Political Intelligence Transparency Act of 2017</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Political Intelligence Transparency Act of 2017</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To amend the Lobbying Disclosure Act of 1995 to require the disclosure of political intelligence activities, to amend title 18, United States Code, to provide for restrictions on former officers, employees, and elected officials of the executive and legislative branches regarding political intelligence contacts, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Political Intelligence Transparency Act of 2017</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commodities markets</name>
+          </item>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Public participation and lobbying</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-06T15:15:41Z</lastSummaryUpdateDate>
+          <updateDate>2017-06-07T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Political Intelligence Transparency Act of 2017</b></p> <p>This bill amends the Lobbying Disclosure Act of 1995 (LDA) to require the disclosure of political intelligence activities, particularly relating to information useful for analyzing securities or commodities markets.</p> <p>Political intelligence consultants or their employing organizations must register with the Secretary of the Senate and the Clerk of the House of Representatives and make quarterly reports on political intelligence activities.</p> <p>Persons or entities that make an oral or written political intelligence contact with a covered legislative branch or executive branch official must, on the official's request: (1) state whether such person or entity is registered under the LDA, (2) identify the client on behalf of whom the contact is made, and (3) state whether such client is a foreign entity and make any related disclosures.</p> <p>The federal criminal code is amended to subject to a fine and/or imprisonment certain former officers, employees, and elected officials of the executive and legislative branches who knowingly make any communication to, or appearance before, any officer or employee of a federal or District of Columbia agency or court in violation of certain permanent or temporary restrictions and with the intent to gain information for use in: (1) analyzing securities or commodities markets, or (2) informing investment decisions in those markets.</p> <p>The bill excludes from such prohibition any communication made by a representative of a media organization to gather and disseminate news and information to the public.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-06-07</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <introducedDate>2017-06-07</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SLAUGHTER:H.R. 2819.Congress has the power to enact this legislation pursuantto the following:Article I of the Constitution[Page H4702]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-07-12</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <billNumber>2819</billNumber>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

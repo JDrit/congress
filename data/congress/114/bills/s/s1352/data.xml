@@ -1,0 +1,82 @@
+<bill session="114" type="s" number="1352" updated="2017-06-02T23:08:47Z">
+  <state datetime="2016-05-10">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2016-05-10"/>
+  </status>
+  <introduced datetime="2015-05-14"/>
+  <titles>
+    <title type="short" as="introduced">Children of Fallen Heroes Scholarship Act</title>
+    <title type="short" as="passed senate">Children of Fallen Heroes Scholarship Act</title>
+    <title type="official" as="introduced">A bill to increase Federal Pell Grants for the children of fallen public safety officers, and for other purposes.</title>
+    <title type="display">Children of Fallen Heroes Scholarship Act</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2015-05-14"/>
+    <cosponsor id="412205" joined="2015-05-14"/>
+    <cosponsor id="412244" joined="2016-05-09"/>
+    <cosponsor id="400408" joined="2015-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-05-14">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2015-05-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2016-05-10">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+      <reference ref="CR S2673" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2016-05-10" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2673" label="text"/>
+    </vote>
+    <action datetime="2016-05-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2016-05-11T12:25:05-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2016-05-11">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on the Budget, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2016-05-11">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2016-05-11">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2016-05-11">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2016-05-17">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2350"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Fires"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Higher education"/>
+    <term name="Law enforcement officers"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary date="2016-05-10T14:01:43Z" status="Passed Senate without amendment">(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)
+
+Children of Fallen Heroes Scholarship Act
+
+(Sec. 2) This bill amends the Higher Education Act of 1965 to eliminate the expected family contribution (EFC) used to determine financial need in the case of a Pell Grant-eligible student whose parent or guardian died in the line of duty as a police officer, firefighter, or other public safety officer. Such student is eligible to receive an automatic zero EFC and qualify for the maximum Pell Grant award if the student was less than 24 years old or enrolled at an institution of higher education at the time of the parent or guardian's death. (Sec. 4) It specifies procedures for determining the budgetary effects of this bill for compliance with the Statutory Pay-As-You-Go (PAYGO) Act of 2010.</summary>
+  <committee-reports/>
+</bill>

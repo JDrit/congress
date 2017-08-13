@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>3</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-05-25</actionDate>
+        <committee>
+          <name>Water Resources and Environment Subcommittee</name>
+          <systemCode>hspw02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-05-24</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-05-24</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-05-24</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Transportation and Infrastructure</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-05-24</actionDate>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Ways and Means, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-05-24</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-05-24</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestTitle>Putting America First Corporate Tax Act</latestTitle>
+        <number>3935</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2015-11-05</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <billNumber>5313</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-05-24T14:01:45Z</date>
+            </item>
+          </activities>
+          <systemCode>hspw00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Water Resources and Environment Subcommittee</name>
+              <systemCode>hspw02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-05-25T16:09:25Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-05-24T14:02:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-05-24T14:01:50Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-05-24</introducedDate>
+    <updateDate>2017-06-02T22:00:54Z</updateDate>
+    <title>Water Affordability, Transparency, Equity, and Reliability Act of 2016</title>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Water Affordability, Transparency, Equity, and Reliability Act of 2016</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish a trust fund to provide for adequate funding for water and sewer infrastructure.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Water Affordability, Transparency, Equity, and Reliability Act of 2016</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2016-05-24</actionDate>
+          <updateDate>2016-05-24T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-01-12T15:56:56Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Water Affordability, Transparency, Equity, and Reliability Act of 2016</b></p> <p>This bill amends the Internal Revenue Code to: (1) establish a Water Affordability, Transparency, Equity, and Reliability Trust Fund; (2) modify the definition of subpart F income (i.e., income of a controlled foreign corporation earned outside the United States that is not tax-deferred) to include income of a controlled foreign corporation derived from a foreign country; and (3) transfer that income to the fund.</p> <p>The Environmental Protection Agency (EPA) must allocate funds from the trust fund to specified clean water programs and drinking water programs, including the grant programs authorized or established by this bill.</p> <p>The bill amends Federal Water Pollution Control Act (commonly known as the Clean Water Act) by authorizing the EPA to make grants for providing technical assistance concerning water and sanitation infrastructure and drinking water systems to rural and small municipalities and tribal governments. The EPA must establish a grant program for repairing, replacing, or upgrading septic tanks and drainage fields.</p> <p>The bill revises requirements concerning the clean water state revolving fund (SRF) and the drinking water SRF.</p> <p>The bill revises the Safe Drinking Water Act by requiring the EPA to establish a program to make grants to local educational agencies for: (1) installing, repairing, or replacing the infrastructure necessary for drinking water coolers, drinking water fountains, or bottle filling station; and (2) testing the quality of drinking water at schools in such local education agency.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+          <lisID>229</lisID>
+        </identifiers>
+        <district>13</district>
+        <party>D</party>
+        <bioguideId>C000714</bioguideId>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <firstName>JOHN</firstName>
+        <state>MI</state>
+        <middleName />
+        <byRequestType />
+        <lastName>CONYERS</lastName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <actionDate>2016-05-25</actionDate>
+    </latestAction>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CONYERS:H.R. 5313.Congress has the power to enact this legislation pursuantto the following:The principal constitutional authority for thislegislation is clause 7 of section 9 of Article I of theConstitution of the United States which states, ``No Moneyshall be drawn from the Treasury, but in Consequence ofAppropriations made by Law . . .'' and clause 3 of section 8of Article I, which provides that, Congress shall have powerto ``regulate Commerce with foreign Nations, and amongseveral States, and with the Indian Tribes.'' In addition,clause 1 of section 8 of Article I provides that ``Congressshall have the Power . . . to pay the Debts and provide forthe common Defense and general Welfare of the United States .. .'' and clause 18 of section 8 of Article I that statesthat Congress shall have power to ``make all Laws which shallbe necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States . . .''Together, these specific constitutional provisions establishthe congressional power to establish and appropriate funds,to determine its purpose, amount, period of availability,means of access, and to set forth terms and conditionsgoverning its use.[Page H3094]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2252</lisID>
+          <gpoId />
+          <bioguideId>L000581</bioguideId>
+        </identifiers>
+        <firstName>Brenda</firstName>
+        <middleName>L.</middleName>
+        <state>MI</state>
+        <district>14</district>
+        <lastName>Lawrence</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000581</bioguideId>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <firstName>Gwen</firstName>
+        <middleName />
+        <state>WI</state>
+        <district>4</district>
+        <lastName>Moore</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001160</bioguideId>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001286</bioguideId>
+          <gpoId />
+          <lisID>2127</lisID>
+        </identifiers>
+        <firstName>Cheri</firstName>
+        <middleName />
+        <state>IL</state>
+        <district>17</district>
+        <lastName>Bustos</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001286</bioguideId>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <middleName>M.</middleName>
+        <state>AZ</state>
+        <district>3</district>
+        <lastName>Grijalva</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <firstName>Henry</firstName>
+        <middleName>C. "Hank"</middleName>
+        <state>GA</state>
+        <district>4</district>
+        <lastName>Johnson</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000288</bioguideId>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <middleName />
+        <state>WI</state>
+        <district>2</district>
+        <lastName>Pocan</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000607</bioguideId>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+          <lisID>1588</lisID>
+        </identifiers>
+        <firstName>JANICE</firstName>
+        <middleName>D.</middleName>
+        <state>IL</state>
+        <district>9</district>
+        <lastName>SCHAKOWSKY</lastName>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001145</bioguideId>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <firstName>Keith</firstName>
+        <middleName />
+        <state>MN</state>
+        <district>5</district>
+        <lastName>Ellison</lastName>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000288</bioguideId>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <firstName>ZOE</firstName>
+        <middleName />
+        <state>CA</state>
+        <district>19</district>
+        <lastName>LOFGREN</lastName>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000397</bioguideId>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <gpoId>7843</gpoId>
+          <lisID>1602</lisID>
+        </identifiers>
+        <firstName>GRACE</firstName>
+        <middleName>F.</middleName>
+        <state>CA</state>
+        <district>32</district>
+        <lastName>NAPOLITANO</lastName>
+        <sponsorshipDate>2016-06-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000179</bioguideId>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2111</lisID>
+          <gpoId />
+          <bioguideId>L000579</bioguideId>
+        </identifiers>
+        <firstName>Alan</firstName>
+        <middleName>S.</middleName>
+        <state>CA</state>
+        <district>47</district>
+        <lastName>Lowenthal</lastName>
+        <sponsorshipDate>2016-06-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000579</bioguideId>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <firstName>ELEANOR</firstName>
+        <middleName>HOLMES</middleName>
+        <state>DC</state>
+        <district>0</district>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2016-09-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000147</bioguideId>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <district>2</district>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipDate>2016-09-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+        </identifiers>
+        <firstName>BETTY</firstName>
+        <middleName />
+        <state>MN</state>
+        <district>4</district>
+        <lastName>MCCOLLUM</lastName>
+        <sponsorshipDate>2016-09-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001143</bioguideId>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8058</gpoId>
+          <bioguideId>L000570</bioguideId>
+          <lisID>1939</lisID>
+        </identifiers>
+        <firstName>Ben</firstName>
+        <middleName>Ray</middleName>
+        <state>NM</state>
+        <district>3</district>
+        <lastName>Lujan</lastName>
+        <sponsorshipDate>2016-09-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000570</bioguideId>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2146</lisID>
+          <bioguideId>L000580</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Michelle</firstName>
+        <middleName />
+        <state>NM</state>
+        <district>1</district>
+        <lastName>Lujan Grisham</lastName>
+        <sponsorshipDate>2016-09-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000580</bioguideId>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Foreign and international corporations</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Public utilities and utility rates</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>Taxation of foreign income</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <createDate>2016-05-25T05:16:53Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

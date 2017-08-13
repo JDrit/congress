@@ -1,0 +1,93 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-24T21:54:48-04:00", 
+      "action_code": "H32111", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Burgess amendment (A031) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-05-24T21:46:44-04:00", 
+      "action_code": "H3A100", 
+      "references": [
+        {
+          "reference": "CR H3090-3091", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3090", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A031) offered by Mr. Burgess.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-24", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-24T21:46:44-04:00", 
+      "action_code": "71500", 
+      "references": [], 
+      "text": "House amendment offered/reported by : Amendment (A031) offered by Mr. Burgess.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-24T21:54:48-04:00", 
+      "action_code": "76000", 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-24T21:54:48-04:00", 
+      "action_code": "72000", 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Burgess amendment (A031) Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-24", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1111-114", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5055-114", 
+    "bill_type": "hr", 
+    "congress": 114, 
+    "number": 5055
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "114", 
+  "description": "At the end of the bill, before the short title, insert the following new section:    SEC.___. None of the funds made available in this Act may be used--    (1) to implement or enforce section 430.32(x) of title 10, Code of Federal Regulations; or    (2) to implement or enforce the standards established by the tables contained in section 325(i)(1)(B) of the Energy Policy and Conservation Act (42 U.S.C. 6295(i)(1)(B)), or to implement or enforce section 430.32(n) of title 10, Code of Federal Regulations, with respect to BPAR incandescent reflector lamps, BR incandescent reflector lamps, and ER incandescent reflector lamps.", 
+  "introduced_at": "2016-05-24", 
+  "number": 1111, 
+  "purpose": "An amendment to prohibit the enforcement for the use of funds for certain type of light bulbs.", 
+  "sponsor": {
+    "bioguide_id": "B001248", 
+    "district": "26", 
+    "name": "Burgess, Michael C.", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2016-05-24T21:54:48-04:00", 
+  "updated_at": "2017-06-02T21:55:39Z"
+}

@@ -1,0 +1,50 @@
+<bill session="114" type="hc" number="99" updated="2017-06-02T19:26:08Z">
+  <state datetime="2015-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="2015-11-19"/>
+  </status>
+  <introduced datetime="2015-11-19"/>
+  <titles>
+    <title type="official" as="introduced">Commemorating the 100th anniversary of the United States Army Reserve Officers' Training Corps.</title>
+    <title type="display">Commemorating the 100th anniversary of the United States Army Reserve Officers' Training Corps.</title>
+  </titles>
+  <sponsor id="412649"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2015-12-08"/>
+    <cosponsor id="400636" joined="2015-12-08"/>
+    <cosponsor id="412563" joined="2015-11-19"/>
+    <cosponsor id="412453" joined="2015-11-19"/>
+    <cosponsor id="412647" joined="2015-11-19"/>
+    <cosponsor id="412239" joined="2016-02-01"/>
+    <cosponsor id="412646" joined="2016-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-11-19">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2015-11-19" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2015-11-30">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="114" type="sr" number="487"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Higher education"/>
+    <term name="Military education and training"/>
+    <term name="National Guard and reserves"/>
+  </subjects>
+  <amendments/>
+  <summary date="2015-11-19T05:00:00Z" status="Introduced in House">Expresses the sense of Congress that:
+
+ the Army Reserve Officers' Training Corps (ROTC) continues to train the next generation of military leaders who are well equipped to defeat today's and future enemies, Congress is encouraged by the quality of leaders that Army ROTC has and will continue to produce, and Army ROTC produces more Army officers than any other source.</summary>
+  <committee-reports/>
+</bill>

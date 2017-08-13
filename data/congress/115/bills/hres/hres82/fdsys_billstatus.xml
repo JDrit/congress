@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Joint Committee on Printing</name>
+          </item>
+          <item>
+            <name>Joint Committee on the Library</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <constitutionalAuthorityStatementText />
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:08:49</actionTime>
+        <links />
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H917)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:08:47</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H917</url>
+            <name>H917</name>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H917)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionTime>16:08:47</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H917</url>
+            <name>H917</name>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <text>Considered by unanimous consent. (consideration: CR H917)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:08:45</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H917</url>
+            <name>H917</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <text>Committee on House Administration discharged.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H12300</actionCode>
+        <type>Discharge</type>
+        <links />
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <text>Committee on House Administration discharged.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>5500</actionCode>
+        <type>Committee</type>
+        <links />
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <text>Mr. Harper asked unanimous consent to discharge from committee and consider.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:08:19</actionTime>
+        <links />
+        <actionCode>H30200</actionCode>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <text>Referred to the House Committee on House Administration.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <committeeDischarged>1</committeeDischarged>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <billReferrals>1</billReferrals>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-02-02</introducedDate>
+    <createDate>2017-02-03T05:17:27Z</createDate>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-02-02T21:08:24Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-02-02T21:07:22Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <subcommittees />
+          <name>House Administration Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <billNumber>82</billNumber>
+    <calendarNumbers />
+    <title>Electing Members to the Joint Committee of Congress on the Library and the Joint Committee on Printing.</title>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Electing Members to the Joint Committee of Congress on the Library and the Joint Committee on Printing.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Electing Members to the Joint Committee of Congress on the Library and the Joint Committee on Printing.</title>
+      </item>
+    </titles>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-03-03T23:48:04Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-02</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Elects members to the Joint Committee of Congress on the Library and the Joint Committee on Printing. </p>]]></text>
+          <updateDate>2017-02-02T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-03-03T23:48:23Z</lastSummaryUpdateDate>
+          <versionCode>81</versionCode>
+          <actionDate>2017-02-02</actionDate>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Elects members to the Joint Committee of Congress on the Library and the Joint Committee on Printing. </p>]]></text>
+          <updateDate>2017-02-02T13:00:18Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <actionDate>2017-02-02</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>16:08:49</actionTime>
+      <links />
+    </latestAction>
+    <cosponsors />
+    <sponsors>
+      <item>
+        <bioguideId>H001045</bioguideId>
+        <identifiers>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+          <bioguideId>H001045</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>Gregg</firstName>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Harper</lastName>
+        <state>MS</state>
+        <district>3</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <updateDate>2017-05-03T23:48:01Z</updateDate>
+    <congress>115</congress>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

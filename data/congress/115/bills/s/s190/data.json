@@ -1,0 +1,225 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-23", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-23", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-30", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2017-05-24", 
+      "action_code": "", 
+      "committee": "Energy and Natural Resources", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-76.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2017-05-24", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "95", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2017-08-01", 
+      "action_code": "", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S4681", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4681", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2017-08-02", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-08-04T13:04:46-04:00", 
+      "action_code": "H14000", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-08-04T14:31:11-04:00", 
+      "action_code": "H15000", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s190-115", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [
+    "S. Rept. 115-76"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000127", 
+      "district": null, 
+      "name": "Cantwell, Maria", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-01-23", 
+      "state": "WA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2017-05-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2017-08-01", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-01-23", 
+  "number": "190", 
+  "official_title": "A bill to provide for consideration of the extension under the Energy Policy and Conservation Act of nonapplication of No-Load Mode energy efficiency standards to certain security or life safety alarms or surveillance systems, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr511-115", 
+      "identified_by": "House", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Power And Security Systems (PASS) Act", 
+  "sponsor": {
+    "bioguide_id": "G000562", 
+    "district": null, 
+    "name": "Gardner, Cory", 
+    "state": "CO", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2017-08-01", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Consumer affairs", 
+    "Crimes against property", 
+    "Department of Energy", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Energy storage, supplies, demand", 
+    "Fires", 
+    "Floods and storm protection"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Power And Security Systems (PASS) Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Power And Security Systems (PASS) Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Power And Security Systems (PASS) Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Power And Security Systems (PASS) Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Power And Security Systems (PASS) Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Power And Security Systems (PASS) Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide for consideration of the extension under the Energy Policy and Conservation Act of nonapplication of No-Load Mode energy efficiency standards to certain security or life safety alarms or surveillance systems, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Power And Security Systems (PASS) Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-08-05T07:44:48Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/s/BILLSTATUS-115s190.xml"
+}

@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Bob</firstName>
+        <bioguideId>C001071</bioguideId>
+        <party>R</party>
+        <fullName>Sen. Corker, Bob [R-TN]</fullName>
+        <byRequestType />
+        <state>TN</state>
+        <lastName>Corker</lastName>
+        <identifiers>
+          <lisID>1825</lisID>
+          <bioguideId>C001071</bioguideId>
+          <gpoId>8294</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInSenate>1</introducedInSenate>
+        <messageOnHouseAction>1</messageOnHouseAction>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <committeeDischarged>2</committeeDischarged>
+        <actionStageOverride>1</actionStageOverride>
+        <billReferrals>1</billReferrals>
+        <sentToHouse>1</sentToHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <considerationByHouse>1</considerationByHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>9</senate>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-31</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links />
+        <actionTime>12:56:18</actionTime>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6558-6559</url>
+            <name>H6558-6559</name>
+          </link>
+        </links>
+        <actionTime>12:56:15</actionTime>
+        <committee />
+        <actionCode>H37100</actionCode>
+        <text>On passage Passed without objection. (text: CR H6558-6559)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <links />
+        <actionTime>12:56:15</actionTime>
+        <committee />
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On passage Passed without objection.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6558-6560</url>
+            <name>H6558-6560</name>
+          </link>
+        </links>
+        <actionTime>12:55:45</actionTime>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <text>Considered by unanimous consent. (consideration: CR H6558-6560)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6558</url>
+            <name>H6558</name>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <actionCode>H12300</actionCode>
+        <text>Committee on Foreign Affairs discharged. (consideration: CR H6558)</text>
+        <type>Discharge</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <actionCode>5500</actionCode>
+        <text>Committee on Foreign Affairs discharged.</text>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <links />
+        <actionTime>12:55:30</actionTime>
+        <committee />
+        <actionCode>H30200</actionCode>
+        <text>Mr. Royce (CA) asked unanimous consent to discharge from committee and consider.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-05-25</actionDate>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-25</actionDate>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-02</actionDate>
+      </item>
+      <item>
+        <links />
+        <actionTime>13:23:45</actionTime>
+        <committee />
+        <actionCode>H14000</actionCode>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-02</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-05-02</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2653-2654</url>
+            <name>S2653-2654</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S2653-2654)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2653-2654</url>
+            <name>S2653-2654</name>
+          </link>
+        </links>
+        <committee />
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S2653-2654)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-01</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2653-2654</url>
+            <name>S2653-2654</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S2653-2654)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2653-2654</url>
+            <name>S2653-2654</name>
+          </link>
+        </links>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <actionCode>14500</actionCode>
+        <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S2653-2654)</text>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-01</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-02-14</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-14</actionDate>
+      </item>
+    </actions>
+    <relatedBills />
+    <amendments>
+      <amendment>
+        <description />
+        <congress>115</congress>
+        <type>HAMDT</type>
+        <submittedDate>2017-07-28T04:00:00Z</submittedDate>
+        <updateDate>2017-08-01T00:30:55Z</updateDate>
+        <titles />
+        <proposedDate />
+        <actions>
+          <actionTypeCounts>
+            <agreeingToTheAmendmentResults>1</agreeingToTheAmendmentResults>
+            <amendmentAgreedToByHouse>1</amendmentAgreedToByHouse>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/272</url>
+                  <name>H.Amdt.272</name>
+                </link>
+              </links>
+              <actionCode>H34111</actionCode>
+              <type>Floor</type>
+              <committee />
+              <text>On agreeing to the Royce (CA) amendment (A001) Agreed to without objection.</text>
+              <actionTime>12:56:08</actionTime>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <actionDate>2017-07-28</actionDate>
+            </item>
+            <item>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/272</url>
+                  <name>H.Amdt.272</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6559-6560</url>
+                  <name>H6559-6560</name>
+                </link>
+              </links>
+              <actionCode>H3A100</actionCode>
+              <type>Floor</type>
+              <committee />
+              <text>Amendment (A001) offered by Mr. Royce (CA). (consideration: CR H6559-6560; text: CR H6559-6560)</text>
+              <actionTime>12:56:03</actionTime>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <actionDate>2017-07-28</actionDate>
+            </item>
+            <item>
+              <actionDate>2017-07-28</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/272</url>
+                  <name>H.Amdt.272</name>
+                </link>
+              </links>
+              <actionCode>79000</actionCode>
+              <type>NotUsed</type>
+              <committee />
+              <text>Amendment agreed to by House: On agreeing to the Royce (CA) amendment (A001) Agreed to without objection.</text>
+              <actionTime>12:56:08</actionTime>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionDate>2017-07-28</actionDate>
+            </item>
+            <item>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/272</url>
+                  <name>H.Amdt.272</name>
+                </link>
+              </links>
+              <actionCode>72000</actionCode>
+              <type>Floor</type>
+              <committee />
+              <text>House amendment agreed to: On agreeing to the Royce (CA) amendment (A001) Agreed to without objection.</text>
+              <actionTime>12:56:08</actionTime>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionDate>2017-07-28</actionDate>
+            </item>
+            <item>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/272</url>
+                  <name>H.Amdt.272</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6559-6560</url>
+                  <name>H6559-6560</name>
+                </link>
+              </links>
+              <actionCode>71500</actionCode>
+              <type>NotUsed</type>
+              <committee />
+              <text>House amendment offered/reported by : Amendment (A001) offered by Mr. Royce (CA).</text>
+              <actionTime>12:56:03</actionTime>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionDate>2017-07-28</actionDate>
+            </item>
+            <item>
+              <actionCode>71000</actionCode>
+              <type>Floor</type>
+              <committee />
+              <text>House amendment offered</text>
+              <links />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionDate>2017-07-28</actionDate>
+            </item>
+          </actions>
+          <count>7</count>
+        </actions>
+        <type>HAMDT</type>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <amendedBill>
+          <originChamber>Senate</originChamber>
+          <number>371</number>
+          <type>S</type>
+          <originChamberCode>S</originChamberCode>
+          <congress>115</congress>
+          <title>Department of State Authorities Act, Fiscal Year 2017, Improvements Act</title>
+        </amendedBill>
+        <notes />
+        <purpose>An amendment to strike all after the enacting clause and insert the following new text entitled the "Department of State Authorities Act, Fiscal Year 2017, Improvements Act".</purpose>
+        <sponsors>
+          <item>
+            <lastName>ROYCE</lastName>
+            <district>39</district>
+            <bioguideId>R000487</bioguideId>
+            <firstName>ED</firstName>
+            <party>R</party>
+            <state>CA</state>
+            <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+            <identifiers>
+              <lisID>998</lisID>
+              <bioguideId>R000487</bioguideId>
+              <gpoId>7845</gpoId>
+            </identifiers>
+            <middleName />
+          </item>
+        </sponsors>
+        <links />
+        <description />
+        <version>1.0.0</version>
+        <chamber>House of Representatives</chamber>
+        <createDate>2017-07-29T07:16:22Z</createDate>
+        <congress>115</congress>
+        <amendedAmendment />
+        <number>272</number>
+        <number>272</number>
+        <latestAction>
+          <actionTime>12:56:08</actionTime>
+          <actionDate>2017-07-28</actionDate>
+          <text>On agreeing to the Royce (CA) amendment (A001) Agreed to without objection.</text>
+        </latestAction>
+        <purpose>An amendment to strike all after the enacting clause and insert the following new text entitled the "Department of State Authorities Act, Fiscal Year 2017, Improvements Act".</purpose>
+      </amendment>
+      <amendment>
+        <description />
+        <congress>115</congress>
+        <type>SAMDT</type>
+        <type>SAMDT</type>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <chamber>Senate</chamber>
+        <amendedAmendment />
+        <links />
+        <sponsors>
+          <item>
+            <identifiers>
+              <lisID>1825</lisID>
+              <bioguideId>C001071</bioguideId>
+              <gpoId>8294</gpoId>
+            </identifiers>
+            <lastName>Corker</lastName>
+            <fullName>Sen. Corker, Bob [R-TN]</fullName>
+            <bioguideId>C001071</bioguideId>
+            <middleName />
+            <firstName>Bob</firstName>
+            <state>TN</state>
+            <party>R</party>
+          </item>
+        </sponsors>
+        <version>1.0.0</version>
+        <proposedDate>2017-05-01T04:00:00Z</proposedDate>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <description />
+        <createDate>2017-05-02T19:48:06Z</createDate>
+        <notes />
+        <titles />
+        <amendedBill>
+          <type>S</type>
+          <originChamberCode>S</originChamberCode>
+          <originChamber>Senate</originChamber>
+          <congress>115</congress>
+          <title>Department of State Authorities Act, Fiscal Year 2017, Improvements Act</title>
+          <number>371</number>
+        </amendedBill>
+        <updateDate>2017-08-01T00:30:55Z</updateDate>
+        <purpose>To require that the comparative report on peacekeeping operations include an assessment of the operational, structural, and doctrinal differences between the military and civilian infrastructures of the United States and United Nations and other assumptions that impact cost estimates.</purpose>
+        <actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <amendmentProposed>1</amendmentProposed>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <actions>
+            <item>
+              <actionDate>2017-05-01</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.209</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/209</url>
+                </link>
+                <link>
+                  <name>SA 209</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/209</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 209 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-05-01</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.209</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/209</url>
+                </link>
+                <link>
+                  <name>S2653</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2653</url>
+                </link>
+                <link>
+                  <name>SA 209</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/209</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 209 proposed by Senator Cornyn for Senator Corker. (consideration: CR S2653; text: CR S2653)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-05-01</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionCode>94000</actionCode>
+              <actionDate>2017-05-01</actionDate>
+              <links>
+                <link>
+                  <name>S.Amdt.209</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/209</url>
+                </link>
+                <link>
+                  <name>SA 209</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/209</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <committee />
+              <text>Senate amendment agreed to: Amendment SA 209 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionCode>93000</actionCode>
+              <actionDate>2017-05-01</actionDate>
+              <links>
+                <link>
+                  <name>S.Amdt.209</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/209</url>
+                </link>
+                <link>
+                  <name>S2653</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2653</url>
+                </link>
+                <link>
+                  <name>SA 209</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/209</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <committee />
+              <text>Senate amendment proposed (on the floor): Amendment SA 209 proposed by Senator Cornyn for Senator Corker.(consideration: CR S2653; text: CR S2653)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionCode>91000</actionCode>
+              <actionDate>2017-05-01</actionDate>
+              <links />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <committee />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+            </item>
+          </actions>
+          <count>6</count>
+        </actions>
+        <congress>115</congress>
+        <submittedDate>2017-05-01T04:00:00Z</submittedDate>
+        <number>209</number>
+        <number>209</number>
+        <latestAction>
+          <actionDate>2017-05-01</actionDate>
+          <text>Amendment SA 209 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <purpose>To require that the comparative report on peacekeeping operations include an assessment of the operational, structural, and doctrinal differences between the military and civilian infrastructures of the United States and United Nations and other assumptions that impact cost estimates.</purpose>
+      </amendment>
+    </amendments>
+    <committeeReports />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2017-07-28T16:55:31Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-05-25T15:02:38Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-02T21:32:24Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2017-05-01T22:37:41Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-14T19:47:04Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <title>Department of State Authorities Act, Fiscal Year 2017, Improvements Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Department of State Authorities Act, Fiscal Year 2017, Improvements Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>Department of State Authorities Act, Fiscal Year 2017, Improvements Act</title>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Department of State Authorities Act, Fiscal Year 2017, Improvements Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to make technical changes and other improvements to the Department of State Authorities Act, Fiscal Year 2017.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Department of State Authorities Act, Fiscal Year 2017, Improvements Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <title>Department of State Authorities Act, Fiscal Year 2017, Improvements Act</title>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>115</congress>
+    <billType>S</billType>
+    <calendarNumbers />
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Broadcasting Board of Governors</name>
+          </item>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>China</name>
+          </item>
+          <item>
+            <name>Colombia</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Department of State</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Employee performance</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Foreign and international banking</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>House Committee on Appropriations</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>International exchange and broadcasting</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Senate Committee on Appropriations</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Tibet</name>
+          </item>
+          <item>
+            <name>United Nations</name>
+          </item>
+          <item>
+            <name>Western Hemisphere</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-06-13T19:03:03Z</pubDate>
+        <title>S. 371, Department of State Authorities Act, Fiscal Year 2017, Improvements Act</title>
+        <url>https://www.cbo.gov/publication/52804</url>
+      </item>
+    </cboCostEstimates>
+    <latestAction>
+      <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+      <links />
+      <actionDate>2017-07-31</actionDate>
+    </latestAction>
+    <updateDate>2017-08-01T04:31:36Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>371</billNumber>
+    <createDate>2017-02-15T05:13:06Z</createDate>
+    <version>1.0.0</version>
+    <introducedDate>2017-02-14</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,66 @@
+<bill session="115" type="h" number="2132" updated="2017-06-29T04:35:56Z">
+  <state datetime="2017-06-20T18:19:05-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-06-20T18:19:05-04:00"/>
+  </status>
+  <introduced datetime="2017-04-25"/>
+  <titles>
+    <title type="short" as="introduced">Traveler Redress Improvement Act of 2017</title>
+    <title type="short" as="introduced">Traveler Redress Improvement Act of 2017</title>
+    <title type="short" as="passed house">Traveler Redress Improvement Act of 2017</title>
+    <title type="short" as="passed house">Traveler Redress Improvement Act of 2017</title>
+    <title type="official" as="introduced">To require the implementation of a redress process and review of the Transportation Security Administration's intelligence-based screening rules for aviation security, and for other purposes.</title>
+    <title type="display">Traveler Redress Improvement Act of 2017</title>
+  </titles>
+  <sponsor id="412649"/>
+  <cosponsors>
+    <cosponsor id="400219" joined="2017-04-26"/>
+    <cosponsor id="400654" joined="2017-04-25"/>
+    <cosponsor id="412580" joined="2017-04-26"/>
+    <cosponsor id="412644" joined="2017-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-25" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-05-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2017-05-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2017-06-20T18:12:01-04:00">
+      <text>Mr. Katko moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2017-06-20T18:12:23-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4975-4976" label="consideration"/>
+    </action>
+    <action datetime="2017-06-20T18:12:27-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2132.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-06-20T18:19:05-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4975" label="text"/>
+    </vote>
+    <action datetime="2017-06-20T18:19:08-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-06-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

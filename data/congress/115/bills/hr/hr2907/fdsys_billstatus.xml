@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-06-16T03:11:38Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <billType>HR</billType>
+    <updateDate>2017-07-06T07:12:18Z</updateDate>
+    <introducedDate>2017-06-15</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <committee>
+          <name>Energy and Mineral Resources Subcommittee</name>
+          <systemCode>hsii06</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-06-15</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-06-15</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <congress>115</congress>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <links />
+      <actionDate>2017-06-23</actionDate>
+    </latestAction>
+    <billNumber>2907</billNumber>
+    <relatedBills />
+    <notes />
+    <recordedVotes />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <firstName>Paul</firstName>
+        <lastName>Gosar</lastName>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000565</bioguideId>
+        <state>AZ</state>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TIPTON:H.R. 2907.Congress has the power to enact this legislation pursuantto the following:Article IV Section 3 clause 2[Page H4938]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <middleName>R.</middleName>
+        <district>3</district>
+        <party>R</party>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1997</lisID>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <lastName>Tipton</lastName>
+        <byRequestType />
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <bioguideId>T000470</bioguideId>
+        <firstName>Scott</firstName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <title>Planning for American Energy Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-06-23T16:39:21Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Energy and Mineral Resources Subcommittee</name>
+              <systemCode>hsii06</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2017-06-15T14:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <title>Planning for American Energy Act of 2017</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend the Mineral Leasing Act to require the Secretary of the Interior to develop and publish an all-of-the-above quadrennial Federal onshore energy production strategy to meet domestic energy needs, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Planning for American Energy Act of 2017</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Planning for American Energy Act of 2017</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

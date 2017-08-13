@@ -1,0 +1,128 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-02-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-02-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-16", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1263-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-02-28", 
+  "number": "1263", 
+  "official_title": "To exclude from the application of Executive Order 13796 certain Iraqi and Afghani special immigrants and refugees, to render certain Afghanis eligible for Priority 2 processing under the refugee resettlement priority system, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Protecting Allies from Visa Exclusion (PAVE) Act", 
+  "sponsor": {
+    "bioguide_id": "W000800", 
+    "district": null, 
+    "name": "Welch, Peter", 
+    "state": "VT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-02-28", 
+  "subjects": [
+    "Afghanistan", 
+    "Asia", 
+    "Border security and unlawful immigration", 
+    "Foreign language and bilingual programs", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Iraq", 
+    "Middle East", 
+    "Military operations and strategy", 
+    "Military personnel and dependents", 
+    "Presidents and presidential powers, Vice Presidents", 
+    "Racial and ethnic relations", 
+    "Refugees, asylum, displaced persons", 
+    "Religion", 
+    "Travel and tourism", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting Allies from Visa Exclusion (PAVE) Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting Allies from Visa Exclusion (PAVE) Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To exclude from the application of Executive Order 13796 certain Iraqi and Afghani special immigrants and refugees, to render certain Afghanis eligible for Priority 2 processing under the refugee resettlement priority system, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Protecting Allies from Visa Exclusion (PAVE) Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-19T21:15:23Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr1263.xml"
+}

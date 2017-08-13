@@ -1,0 +1,129 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-02-10", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr219-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-01-03", 
+  "number": "219", 
+  "official_title": "To correct the Swan Lake hydroelectric project survey boundary and to provide for the conveyance of the remaining tract of land within the corrected survey boundary to the State of Alaska.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s267-115", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Swan Lake Hydroelectric Project Boundary Correction Act", 
+  "sponsor": {
+    "bioguide_id": "Y000033", 
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-01-03", 
+  "subjects": [
+    "Alaska", 
+    "Alternative and renewable resources", 
+    "Dams and canals", 
+    "Electric power generation and transmission", 
+    "Land transfers", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-01-03T05:00:00Z", 
+    "text": "Swan Lake Hydroelectric Project Boundary Correction Act\n\nThis bill directs the Department of the Interior, after consulting with the U.S. Forest Service, to modify the boundary of the Swan Lake Hydroelectric Project (FERC No. 2911) in southeast Alaska and to convey any additional land necessary for the project to the state of Alaska."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Swan Lake Hydroelectric Project Boundary Correction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Swan Lake Hydroelectric Project Boundary Correction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To correct the Swan Lake hydroelectric project survey boundary and to provide for the conveyance of the remaining tract of land within the corrected survey boundary to the State of Alaska.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Swan Lake Hydroelectric Project Boundary Correction Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-06-19T20:30:25Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr219.xml"
+}

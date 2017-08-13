@@ -1,0 +1,71 @@
+<bill session="114" type="s" number="2032" updated="2017-06-02T23:28:25Z">
+  <state datetime="2015-12-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2015-12-03"/>
+  </status>
+  <introduced datetime="2015-09-15"/>
+  <titles>
+    <title type="short" as="introduced">National Bison Legacy Act</title>
+    <title type="official" as="introduced">A bill to adopt the bison as the national mammal of the United States.</title>
+    <title type="display">National Bison Legacy Act</title>
+  </titles>
+  <sponsor id="412494"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2015-09-29"/>
+    <cosponsor id="300043" joined="2015-10-01"/>
+    <cosponsor id="300052" joined="2015-10-05"/>
+    <cosponsor id="412281" joined="2015-09-15"/>
+    <cosponsor id="412554" joined="2015-09-24"/>
+    <cosponsor id="300055" joined="2015-09-29"/>
+    <cosponsor id="400284" joined="2015-09-29"/>
+    <cosponsor id="400325" joined="2015-09-29"/>
+    <cosponsor id="412669" joined="2015-09-24"/>
+    <cosponsor id="400546" joined="2015-09-17"/>
+    <cosponsor id="400413" joined="2015-09-29"/>
+    <cosponsor id="412247" joined="2015-10-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2015-09-15">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2015-09-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2015-12-03">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S8426" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2015-12-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8426" label="text"/>
+    </vote>
+    <action datetime="2015-12-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2015-12-07T14:16:50-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2015-12-07">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="114" type="h" number="2908"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Mammals"/>
+    <term name="National symbols"/>
+  </subjects>
+  <amendments/>
+  <summary date="2015-12-03T12:12:17Z" status="Passed Senate without amendment">(This measure has not been amended since it was introduced. The summary of that version is repeated here.)
+
+National Bison Legacy Act
+
+This bill adopts the North American bison as the national mammal of the United States.</summary>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <billNumber>1692</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-08-01T18:51:01Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to authorize the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to authorize the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <createDate>2017-08-02T00:26:44Z</createDate>
+    <committeeReports />
+    <billType>S</billType>
+    <updateDate>2017-08-02T04:46:57Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-08-01</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <cosponsors>
+      <item>
+        <middleName>MOORE</middleName>
+        <firstName>SHELLEY</firstName>
+        <bioguideId>C001047</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CAPITO</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <firstName>Tom</firstName>
+        <bioguideId>C001095</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+          <lisID>2098</lisID>
+        </identifiers>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cotton</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <firstName>Bill</firstName>
+        <bioguideId>C001075</bioguideId>
+        <party>R</party>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <identifiers>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+        <state>LA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cassidy</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <firstName>Jeanne</firstName>
+        <bioguideId>S001181</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <identifiers>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <state>NH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Shaheen</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <firstName>Elizabeth</firstName>
+        <bioguideId>W000817</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+          <lisID>2182</lisID>
+        </identifiers>
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Warren</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <links />
+      <actionDate>2017-08-01</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>Coons</lastName>
+        <bioguideId>C001088</bioguideId>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <byRequestType />
+        <state>DE</state>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <middleName>A.</middleName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <title>A bill to authorize the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes.</title>
+    <policyArea />
+    <introducedDate>2017-08-01</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

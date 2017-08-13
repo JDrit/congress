@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <firstName>David</firstName>
+        <state>GA</state>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <bioguideId>P000612</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Perdue</lastName>
+        <middleName>Alfred</middleName>
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+          <lisID>2286</lisID>
+        </identifiers>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <firstName>PATRICK</firstName>
+        <state>VT</state>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <bioguideId>L000174</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEAHY</lastName>
+        <middleName>JOSEPH</middleName>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <latestTitle>Commemorating the 50th anniversary of the Smithsonian Folklife Festival.</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HRES</type>
+        <latestAction>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+          <actionDate>2017-06-26</actionDate>
+        </latestAction>
+        <number>408</number>
+      </item>
+    </relatedBills>
+    <createDate>2017-06-28T00:41:33Z</createDate>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <bioguideId>B001236</bioguideId>
+        <lastName>Boozman</lastName>
+        <firstName>John</firstName>
+        <state>AR</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <version>1.0.0</version>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-29T14:46:15Z</lastSummaryUpdateDate>
+          <actionDate>2017-06-27</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-06-27T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Recognizes Folk and Traditional Arts and Culture Week in honor of the 50th anniversary of the Smithsonian Folklife Festival. </p> <p><br> </p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S3802-3803)</text>
+      <actionDate>2017-06-27</actionDate>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A concurrent resolution commemorating the 50th anniversary of the Smithsonian Folklife Festival.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A concurrent resolution commemorating the 50th anniversary of the Smithsonian Folklife Festival.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <billType>SCONRES</billType>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <introducedDate>2017-06-27</introducedDate>
+    <title>A concurrent resolution commemorating the 50th anniversary of the Smithsonian Folklife Festival.</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-06-27T19:35:08Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Rules and Administration Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3802-3803</url>
+            <name>S3802-3803</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S3802-3803)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-06-27</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Arts, Culture, Religion</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-08-02T11:06:04Z</updateDate>
+    <billNumber>19</billNumber>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

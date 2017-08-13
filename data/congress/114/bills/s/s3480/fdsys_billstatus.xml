@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <relatedBills />
+    <congress>114</congress>
+    <amendments />
+    <policyArea />
+    <updateDate>2017-04-06T13:50:07Z</updateDate>
+    <createDate>2016-11-18T05:08:26Z</createDate>
+    <introducedDate>2016-11-17</introducedDate>
+    <latestAction>
+      <actionDate>2016-11-17</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-11-17</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2016-11-17</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <title>Secure Citizenship Act of 2016</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Secure Citizenship Act of 2016</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to make an alien who applies for naturalization using a false identity ineligible for citizenship and to require the completion of the Historical Fingerprint Enrollment Program and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Secure Citizenship Act of 2016</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <cosponsors />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-11-17T23:02:12Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>3480</billNumber>
+    <calendarNumbers />
+    <committeeReports />
+    <notes />
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Secure Citizenship Act of 2016</strong></p> <p>This bill amends the Immigration and Nationality Act to require an alien to list on his or her naturalization application such person's current legal name and date of birth and all other names used since birth.</p> <p>The bill requires the Department of Homeland Security, by May 31, 2017, to: (1) complete the digitization of fingerprints of aliens who were fugitives, convicted criminals, or subject to deportation orders or who had other derogatory information dating back to 1990 under the Historical Fingerprint Enrollment program; and (2) store such digitized fingerprints along with related biographical data in its Automated Biometric Identification system. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2016-11-17T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2016-11-17</actionDate>
+          <lastSummaryUpdateDate>2017-03-21T14:49:04Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <bioguideId>S001197</bioguideId>
+        <lastName>Sasse</lastName>
+        <middleName />
+        <state>NE</state>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <identifiers>
+          <bioguideId>S001197</bioguideId>
+          <lisID>2289</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Ben</firstName>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

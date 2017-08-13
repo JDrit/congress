@@ -1,0 +1,70 @@
+<bill session="115" type="h" number="2182" updated="2017-08-01T04:31:16Z">
+  <state datetime="2017-07-25T14:32:51-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2017-07-25T14:32:51-04:00"/>
+  </status>
+  <introduced datetime="2017-04-26"/>
+  <titles>
+    <title type="short" as="introduced">Plum Island Preservation Act</title>
+    <title type="short" as="introduced">Plum Island Preservation Act</title>
+    <title type="short" as="passed house">Plum Island Preservation Act</title>
+    <title type="short" as="passed house">Plum Island Preservation Act</title>
+    <title type="official" as="introduced">To require the Comptroller General of the United States to submit a report to Congress on the alternatives for the final disposition of Plum Island, including preservation of the island for conservation, education, and research, and for other purposes.</title>
+    <title type="display">Plum Island Preservation Act</title>
+  </titles>
+  <sponsor id="412646"/>
+  <cosponsors>
+    <cosponsor id="412193" joined="2017-04-26"/>
+    <cosponsor id="400087" joined="2017-04-27"/>
+    <cosponsor id="400103" joined="2017-04-26"/>
+    <cosponsor id="400122" joined="2017-04-26"/>
+    <cosponsor id="412524" joined="2017-07-24"/>
+    <cosponsor id="412719" joined="2017-04-27"/>
+    <cosponsor id="400219" joined="2017-04-26"/>
+    <cosponsor id="400230" joined="2017-04-26"/>
+    <cosponsor id="400263" joined="2017-04-27"/>
+    <cosponsor id="412560" joined="2017-04-26"/>
+    <cosponsor id="412717" joined="2017-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-04-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-04-26" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-05-16">
+      <text>Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.</text>
+    </action>
+    <action datetime="2017-07-25T14:14:43-04:00">
+      <text>Mr. Donovan moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2017-07-25T14:14:57-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6239-6241" label="consideration"/>
+    </action>
+    <action datetime="2017-07-25T14:14:58-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2182.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2017-07-25T14:32:51-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6239" label="text"/>
+    </vote>
+    <action datetime="2017-07-25T14:32:53-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2017-07-26">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM08" subcommittee="Cybersecurity, Infrastructure Protection, and Security Technologies" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

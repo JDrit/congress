@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-16T15:35:13-04:00", 
+      "action_code": "H32111", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Crowley amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-06-16T15:30:57-04:00", 
+      "action_code": "H3A100", 
+      "references": [
+        {
+          "reference": "CR H4413-4414", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4414", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Crowley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-16", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-16T15:35:13-04:00", 
+      "action_code": "76000", 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-16T15:35:13-04:00", 
+      "action_code": "72000", 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Crowley amendment (A012) Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-16T15:30:57-04:00", 
+      "action_code": "71500", 
+      "references": [
+        {
+          "reference": "CR H4413-4414", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4414", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by : Amendment (A012) offered by Mr. Crowley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-16", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt519-114", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2596-114", 
+    "bill_type": "hr", 
+    "congress": 114, 
+    "number": 2596
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "114", 
+  "description": "Page 42, after line 12, insert the following:    SEC. 336. REPORT ON NATIONAL SECURITY COOPERATION BETWEEN UNITED STATES, INDIA, AND ISRAEL.    Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the congressional intelligence committees a report on possibilities for growing national security cooperation between the United States, India, and Israel.", 
+  "introduced_at": "2015-06-16", 
+  "number": 519, 
+  "purpose": "An amendment No. 12 printed in House Report 114-155 to require a report from the DNI on possibilities for growing national security cooperation between the US, Israel, and India.", 
+  "sponsor": {
+    "bioguide_id": "C001038", 
+    "district": "14", 
+    "name": "Crowley, Joseph", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2015-06-16T15:35:13-04:00", 
+  "updated_at": "2017-06-02T21:16:20Z"
+}

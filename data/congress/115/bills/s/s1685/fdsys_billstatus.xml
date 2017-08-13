@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Tim</firstName>
+        <bioguideId>S001184</bioguideId>
+        <party>R</party>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <byRequestType />
+        <state>SC</state>
+        <lastName>Scott</lastName>
+        <identifiers>
+          <bioguideId>S001184</bioguideId>
+          <gpoId>8141</gpoId>
+          <lisID>2056</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-08-01</actionDate>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <amendments />
+    <committeeReports />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssbk00</systemCode>
+          <type>Standing</type>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-08-01T15:31:11Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require Fannie Mae and Freddie Mac to establish procedures for considering certain credit scores in making a determination whether to purchase a residential mortgage, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A bill to require Fannie Mae and Freddie Mac to establish procedures for considering certain credit scores in making a determination whether to purchase a residential mortgage, and for other purposes.</title>
+      </item>
+    </titles>
+    <title>A bill to require Fannie Mae and Freddie Mac to establish procedures for considering certain credit scores in making a determination whether to purchase a residential mortgage, and for other purposes.</title>
+    <policyArea />
+    <congress>115</congress>
+    <billType>S</billType>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <bioguideId>W000805</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Warner</lastName>
+        <firstName>Mark</firstName>
+        <state>VA</state>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <bioguideId>K000384</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Kaine</lastName>
+        <firstName>Timothy</firstName>
+        <state>VA</state>
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <cboCostEstimates />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+      <actionDate>2017-08-01</actionDate>
+    </latestAction>
+    <updateDate>2017-08-03T04:59:47Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1685</billNumber>
+    <createDate>2017-08-02T00:26:44Z</createDate>
+    <version>1.0.0</version>
+    <introducedDate>2017-08-01</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

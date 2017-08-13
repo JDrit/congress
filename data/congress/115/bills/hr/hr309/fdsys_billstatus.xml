@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-06T04:57:26Z</createDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <considerationByHouse>1</considerationByHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2017-01-09</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:40:48</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H201-202</url>
+            <name>H201-202</name>
+          </link>
+        </links>
+        <actionCode>H37300</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2017-01-09</actionDate>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H201-202)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:40:45</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H201-202</url>
+            <name>H201-202</name>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2017-01-09</actionDate>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H201-202)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionTime>16:40:45</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/309</url>
+            <name>H.R. 309</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2017-01-09</actionDate>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 309.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:31:35</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H201-203</url>
+            <name>H201-203</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2017-01-09</actionDate>
+        <text>Considered under suspension of the rules. (consideration: CR H201-203)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:31:04</actionTime>
+      </item>
+      <item>
+        <links />
+        <actionCode>H30300</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2017-01-09</actionDate>
+        <text>Mr. Burgess moved to suspend the rules and pass the bill.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:30:45</actionTime>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-01-05</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-01-05</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-01-05</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <lastName>Loebsack</lastName>
+        <firstName>David</firstName>
+        <state>IA</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>L000565</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <identifiers>
+          <bioguideId>D000197</bioguideId>
+          <lisID>1479</lisID>
+          <gpoId>7859</gpoId>
+        </identifiers>
+        <lastName>DEGETTE</lastName>
+        <firstName>DIANA</firstName>
+        <state>CO</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>D000197</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+        </identifiers>
+        <lastName>Sinema</lastName>
+        <firstName>Kyrsten</firstName>
+        <state>AZ</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>S001191</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <lisID>2261</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Zeldin</lastName>
+        <firstName>Lee</firstName>
+        <state>NY</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <bioguideId>Z000017</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <identifiers>
+          <bioguideId>D000533</bioguideId>
+          <lisID>322</lisID>
+          <gpoId>8149</gpoId>
+        </identifiers>
+        <lastName>DUNCAN</lastName>
+        <firstName>JOHN</firstName>
+        <state>TN</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <bioguideId>D000533</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <lastName>RYAN</lastName>
+        <firstName>TIM</firstName>
+        <state>OH</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>R000577</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <identifiers>
+          <bioguideId>S000248</bioguideId>
+          <lisID>1042</lisID>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <lastName>SERRANO</lastName>
+        <firstName>JOSE</firstName>
+        <state>NY</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>15</district>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <bioguideId>S000248</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <lastName>KING</lastName>
+        <firstName>PETER</firstName>
+        <state>NY</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <middleName>T.</middleName>
+        <bioguideId>K000210</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <identifiers>
+          <gpoId>7954</gpoId>
+          <bioguideId>G000558</bioguideId>
+          <lisID>1922</lisID>
+        </identifiers>
+        <lastName>Guthrie</lastName>
+        <firstName>Brett</firstName>
+        <state>KY</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>G000558</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <identifiers>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <lastName>CUMMINGS</lastName>
+        <firstName>ELIJAH</firstName>
+        <state>MD</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <bioguideId>C000984</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000295</bioguideId>
+          <lisID>2154</lisID>
+        </identifiers>
+        <lastName>Joyce</lastName>
+        <firstName>David</firstName>
+        <state>OH</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <party>R</party>
+        <middleName>P.</middleName>
+        <bioguideId>J000295</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <identifiers>
+          <bioguideId>D000610</bioguideId>
+          <lisID>1976</lisID>
+          <gpoId>7891</gpoId>
+        </identifiers>
+        <lastName>Deutch</lastName>
+        <firstName>Theodore</firstName>
+        <state>FL</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>22</district>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <bioguideId>D000610</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <identifiers>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+          <lisID>1525</lisID>
+        </identifiers>
+        <lastName>SESSIONS</lastName>
+        <firstName>PETE</firstName>
+        <state>TX</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>32</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>S000250</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <identifiers>
+          <gpoId>8154</gpoId>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <lastName>Blackburn</lastName>
+        <firstName>Marsha</firstName>
+        <state>TN</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>B001243</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <identifiers>
+          <gpoId>7947</gpoId>
+          <bioguideId>B001275</bioguideId>
+          <lisID>2018</lisID>
+        </identifiers>
+        <lastName>Bucshon</lastName>
+        <firstName>Larry</firstName>
+        <state>IN</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>B001275</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+        </identifiers>
+        <lastName>Bilirakis</lastName>
+        <firstName>Gus</firstName>
+        <state>FL</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>12</district>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <bioguideId>B001257</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+        <identifiers>
+          <bioguideId>H001036</bioguideId>
+          <lisID>1749</lisID>
+          <gpoId>8161</gpoId>
+        </identifiers>
+        <lastName>Hensarling</lastName>
+        <firstName>Jeb</firstName>
+        <state>TX</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>H001036</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <identifiers>
+          <bioguideId>A000372</bioguideId>
+          <lisID>2239</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Allen</lastName>
+        <firstName>Rick</firstName>
+        <state>GA</state>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>12</district>
+        <party>R</party>
+        <middleName>W.</middleName>
+        <bioguideId>A000372</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <identifiers>
+          <bioguideId>R000600</bioguideId>
+          <lisID>2222</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Radewagen</lastName>
+        <firstName>Aumua Amata</firstName>
+        <state>AS</state>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <party>R</party>
+        <middleName>Coleman</middleName>
+        <bioguideId>R000600</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Rice</lastName>
+        <firstName>Kathleen</firstName>
+        <state>NY</state>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <bioguideId>R000602</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000127</bioguideId>
+          <lisID>867</lisID>
+        </identifiers>
+        <lastName>NOLAN</lastName>
+        <firstName>RICHARD</firstName>
+        <state>MN</state>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>N000127</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <identifiers>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+        </identifiers>
+        <lastName>Roe</lastName>
+        <firstName>David</firstName>
+        <state>TN</state>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <middleName>P.</middleName>
+        <bioguideId>R000582</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Frankel, Lois [D-FL-21]</fullName>
+        <identifiers>
+          <bioguideId>F000462</bioguideId>
+          <lisID>2119</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Frankel</lastName>
+        <firstName>Lois</firstName>
+        <state>FL</state>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>21</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>F000462</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <identifiers>
+          <bioguideId>T000462</bioguideId>
+          <lisID>1664</lisID>
+          <gpoId>8102</gpoId>
+        </identifiers>
+        <lastName>TIBERI</lastName>
+        <firstName>PATRICK</firstName>
+        <state>OH</state>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>12</district>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <bioguideId>T000462</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001190</bioguideId>
+          <lisID>2156</lisID>
+        </identifiers>
+        <lastName>Mullin</lastName>
+        <firstName>Markwayne</firstName>
+        <state>OK</state>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <middleName />
+        <bioguideId>M001190</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+        </identifiers>
+        <lastName>Swalwell</lastName>
+        <firstName>Eric</firstName>
+        <state>CA</state>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>15</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>S001193</bioguideId>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-01-05</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>O000168</bioguideId>
+        <lastName>Olson</lastName>
+        <firstName>Pete</firstName>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>8178</gpoId>
+          <lisID>1955</lisID>
+          <bioguideId>O000168</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>TX</state>
+        <district>22</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <title>National Clinical Care Commission Act</title>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>National Clinical Care Commission Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>National Clinical Care Commission Act</title>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>National Clinical Care Commission Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Public Health Service Act to foster more effective implementation and coordination of clinical care for people with a complex metabolic or autoimmune disease, a disease resulting from insulin deficiency or insulin resistance, or complications caused by such a disease, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>National Clinical Care Commission Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>309</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-10T18:13:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-05T15:07:00Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. OLSON:H.R. 309.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18[Page H182]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Immunology and vaccination</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-05T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-01-11T21:10:37Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>National Clinical Care Commission Act</b></p> <p>This bill amends the Public Health Service Act to establish within the Department of Health and Human Services (HHS) a National Clinical Care Commission to evaluate and recommend solutions regarding better coordination and leveraging of federal programs that relate to supporting clinical care for individuals with complex metabolic or autoimmune disease, diabetes, or complications caused by such diseases. </p> <p>The duties of the commission include:</p> <ul> <li>evaluating HHS programs regarding the utilization of preventive health benefits,</li> <li>identifying current activities and gaps in federal efforts to support clinicians in providing integrated care,</li> <li>making recommendations regarding the development and coordination of federally funded clinical practice support tools,</li> <li>recommending clinical pathways for new technologies and treatments,</li> <li>evaluating and expanding education and awareness activities provided to health care professionals, and</li> <li>reviewing and recommending methods for outreach and dissemination of educational resources.</li> </ul> <p>The commission must submit an operating plan to HHS and Congress within 90 days of its first meeting. The commission is terminated after it submits a final report, but not later than the end of FY2021.</p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2017-01-05</actionDate>
+        </item>
+        <item>
+          <updateDate>2017-01-09T13:43:08Z</updateDate>
+          <lastSummaryUpdateDate>2017-01-17T19:16:55Z</lastSummaryUpdateDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>National Clinical Care Commission Act</b></p> <p>(Sec. 2) This bill amends the Public Health Service Act to establish within the Department of Health and Human Services (HHS) a National Clinical Care Commission to evaluate and recommend solutions regarding better coordination and leveraging of federal programs that relate to supporting clinical care for individuals with complex metabolic or autoimmune disease, diabetes, or complications caused by such diseases. </p> <p>The duties of the commission include:</p> <ul> <li>evaluating HHS programs regarding the utilization of preventive health benefits,</li> <li>identifying current activities and gaps in federal efforts to support clinicians in providing integrated care,</li> <li>making recommendations regarding the development and coordination of federally funded clinical practice support tools,</li> <li>recommending clinical pathways for new technologies and treatments,</li> <li>evaluating and expanding education and awareness activities provided to health care professionals, and</li> <li>reviewing and recommending methods for outreach and dissemination of educational resources.</li> </ul> <p>The commission must submit an operating plan to HHS and Congress within 90 days of its first meeting. The commission is terminated after it submits a final report, but not later than the end of FY2021.</p>]]></text>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+          <actionDate>2017-01-09</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>National Clinical Care Commission Act</title>
+    <updateDate>2017-06-19T20:30:28Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2017-01-10</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

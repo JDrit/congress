@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes>
+      <recordedVote>
+        <chamber>House</chamber>
+        <rollNumber>490</rollNumber>
+        <url>http://clerk.house.gov/evs/2016/roll490.xml</url>
+        <congress>114</congress>
+        <date>2016-09-08T18:13:14Z</date>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>2</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <chamber>House</chamber>
+        <rollNumber>489</rollNumber>
+        <url>http://clerk.house.gov/evs/2016/roll489.xml</url>
+        <congress>114</congress>
+        <date>2016-09-08T18:06:11Z</date>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <sessionNumber>2</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2016-09-06T23:21:28Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>114</congress>
+    <updateDate>2017-04-17T13:08:48Z</updateDate>
+    <introducedDate>2016-09-06</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2016-09-06</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2016-09-07T08:14:37Z</lastSummaryUpdateDate>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 2357) to direct the Securities and Exchange Commission to revise Form S-3 so as to add listing and registration of a class of common equity securities on a national securities exchange as an additional basis for satisfying the requirements of General Instruction I.B.1. of such form and to remove such listing and registration as a requirement of General Instruction I.B.6. of such form, and providing for consideration of the bill (H.R. 5424) to amend the Investment Advisers Act of 1940 and to direct the Securities and Exchange Commission to amend its rules to modernize certain requirements relating to investment advisers.]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2016-09-06T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <calendarNumbers>
+      <item>
+        <calendar>H00140</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2016-09-07T05:23:19Z</createDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 114-725</citation>
+      </committeeReport>
+    </committeeReports>
+    <latestAction>
+      <actionTime>14:13:16</actionTime>
+      <links />
+      <actionDate>2016-09-08</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <state>TX</state>
+        <middleName />
+        <byRequestType />
+        <lastName>SESSIONS</lastName>
+        <party>R</party>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <district>32</district>
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <bioguideId>S000250</bioguideId>
+        <firstName>PETE</firstName>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <notes />
+    <laws />
+    <policyArea />
+    <constitutionalAuthorityStatementText />
+    <cosponsors />
+    <billNumber>844</billNumber>
+    <relatedBills>
+      <item>
+        <number>2357</number>
+        <latestTitle>Accelerating Access to Capital Act of 2016</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2016-09-12</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>5424</number>
+        <latestTitle>Investment Advisers Modernization Act of 2016</latestTitle>
+        <congress>114</congress>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2016-09-12</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2016-09-08</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionTime>14:13:16</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      </item>
+      <item>
+        <actionCode>H37100</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2016-09-08</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H5178</url>
+            <name>H5178</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2016/roll490.xml</url>
+            <name>Roll no. 490</name>
+          </link>
+        </links>
+        <actionTime>14:13:14</actionTime>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 237 - 181 (Roll no. 490). (text: CR H5178)</text>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2016-09-08</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2016/roll490.xml</url>
+            <name>Roll no. 490</name>
+          </link>
+        </links>
+        <actionTime>14:13:14</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 237 - 181 (Roll no. 490).</text>
+      </item>
+      <item>
+        <actionCode>H35000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2016-09-08</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H5186</url>
+            <name>H5186</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2016/roll489.xml</url>
+            <name>Roll No. 489</name>
+          </link>
+        </links>
+        <actionTime>14:06:11</actionTime>
+        <text>On ordering the previous question Agreed to by recorded vote: 238 - 180 (Roll No. 489). (consideration: CR H5186)</text>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2016-09-08</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/114th-congress/house-resolution/844</url>
+            <name>H. Res. 844</name>
+          </link>
+        </links>
+        <actionTime>12:42:33</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 844.</text>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2016-09-08</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H5178-5187</url>
+            <name>H5178-5187</name>
+          </link>
+        </links>
+        <actionTime>12:38:18</actionTime>
+        <text>Considered as privileged matter. (consideration: CR H5178-5187)</text>
+      </item>
+      <item>
+        <actionCode>H12420</actionCode>
+        <type>Calendars</type>
+        <committee />
+        <actionDate>2016-09-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Placed on the House Calendar, Calendar No. 140.</text>
+      </item>
+      <item>
+        <actionCode>H12700</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2016-09-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/114th-congress/house-bill/2357</url>
+            <name>H.R. 2357</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/114th-congress/house-bill/5424</url>
+            <name>H.R. 5424</name>
+          </link>
+        </links>
+        <actionTime>19:21:29</actionTime>
+        <text>Rule provides for consideration of H.R. 2357 and H.R. 5424.</text>
+      </item>
+      <item>
+        <actionCode>H12100</actionCode>
+        <type>Committee</type>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionDate>2016-09-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/114th-congress/house-report/725</url>
+            <name>H. Rept. 114-725</name>
+          </link>
+        </links>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 114-725, by Mr. Sessions.</text>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionDate>2016-09-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/114th-congress/house-report/725</url>
+            <name>H. Rept. 114-725</name>
+          </link>
+        </links>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 114-725, by Mr. Sessions.</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2016-09-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <considerationByHouse>1</considerationByHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <generalDebate>1</generalDebate>
+        <reportedToHouse>1</reportedToHouse>
+        <provisionsOfARule>1</provisionsOfARule>
+      </actionTypeCounts>
+    </actions>
+    <billType>HRES</billType>
+    <title>Providing for consideration of the bill (H.R. 2357) to direct the Securities and Exchange Commission to revise Form S-3 so as to add listing and registration of a class of common equity securities on a national securities exchange as an additional basis for satisfying the requirements of General Instruction I.B.1. of such form and to remove such listing and registration as a requirement of General Instruction I.B.6. of such form, and providing for consideration of the bill (H.R. 5424) to amend the Investment Advisers Act of 1940 and to direct the Securities and Exchange Commission to amend its rules to modernize certain requirements relating to investment advisers, and for other purposes.</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Providing for consideration of the bill (H.R. 2357) to direct the Securities and Exchange Commission to revise Form S-3 so as to add listing and registration of a class of common equity securities on a national securities exchange as an additional basis for satisfying the requirements of General Instruction I.B.1. of such form and to remove such listing and registration as a requirement of General Instruction I.B.6. of such form, and providing for consideration of the bill (H.R. 5424) to amend the Investment Advisers Act of 1940 and to direct the Securities and Exchange Commission to amend its rules to modernize certain requirements relating to investment advisers, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Providing for consideration of the bill (H.R. 2357) to direct the Securities and Exchange Commission to revise Form S-3 so as to add listing and registration of a class of common equity securities on a national securities exchange as an additional basis for satisfying the requirements of General Instruction I.B.1. of such form and to remove such listing and registration as a requirement of General Instruction I.B.6. of such form, and providing for consideration of the bill (H.R. 5424) to amend the Investment Advisers Act of 1940 and to direct the Securities and Exchange Commission to amend its rules to modernize certain requirements relating to investment advisers, and for other purposes.</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

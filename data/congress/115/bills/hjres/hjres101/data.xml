@@ -1,0 +1,51 @@
+<bill session="115" type="hj" number="101" updated="2017-07-27T16:00:18Z">
+  <state datetime="2017-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="2017-05-18"/>
+  </status>
+  <introduced datetime="2017-05-18"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to limit the number of terms an individual may serve as a Member of Congress.</title>
+    <title type="display">Proposing an amendment to the Constitution of the United States to limit the number of terms an individual may serve as a Member of Congress.</title>
+  </titles>
+  <sponsor id="412726"/>
+  <cosponsors>
+    <cosponsor id="412703" joined="2017-06-02"/>
+    <cosponsor id="412684" joined="2017-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-05-18">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-05-18" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2017-06-07">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="115" type="hj" number="6"/>
+    <bill relation="unknown" session="115" type="hj" number="13"/>
+    <bill relation="unknown" session="115" type="hj" number="17"/>
+    <bill relation="unknown" session="115" type="hj" number="20"/>
+    <bill relation="unknown" session="115" type="hj" number="50"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional elections"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary date="2017-05-18T04:00:00Z" status="Introduced in House">Constitutional Amendment
+
+This joint resolution proposes a constitutional amendment limiting Members of the Senate to two full terms and Members of the House of Representatives to six full terms.</summary>
+  <committee-reports/>
+</bill>

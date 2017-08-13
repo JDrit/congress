@@ -1,0 +1,50 @@
+<bill session="115" type="h" number="2805" updated="2017-07-25T07:17:43Z">
+  <state datetime="2017-06-07">REFERRED</state>
+  <status>
+    <introduced datetime="2017-06-07"/>
+  </status>
+  <introduced datetime="2017-06-07"/>
+  <titles>
+    <title type="official" as="introduced">To permanently authorize the Asia-Pacific Economic Cooperation Business Travel Card Program.</title>
+    <title type="display">To permanently authorize the Asia-Pacific Economic Cooperation Business Travel Card Program.</title>
+  </titles>
+  <sponsor id="412647"/>
+  <cosponsors>
+    <cosponsor id="412576" joined="2017-07-12"/>
+    <cosponsor id="412672" joined="2017-06-07"/>
+    <cosponsor id="412725" joined="2017-06-22"/>
+    <cosponsor id="412584" joined="2017-07-12"/>
+    <cosponsor id="400232" joined="2017-06-07"/>
+    <cosponsor id="400660" joined="2017-06-07"/>
+    <cosponsor id="400348" joined="2017-06-21"/>
+    <cosponsor id="412548" joined="2017-07-24"/>
+    <cosponsor id="412578" joined="2017-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2017-06-07">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2017-06-07" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2017-06-20">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="115" type="s" number="504"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Asia"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

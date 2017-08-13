@@ -1,0 +1,132 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-03-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2017-03-16", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1417-115", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "115", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001177", 
+      "district": "4", 
+      "name": "McClintock, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2017-03-07", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2017-03-07", 
+  "number": "1417", 
+  "official_title": "To amend the National Law Enforcement Museum Act to allow the Museum to acquire, receive, possess, collect, ship, transport, import, and display firearms, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Law Enforcement Museum Exhibits Act", 
+  "sponsor": {
+    "bioguide_id": "Y000033", 
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2017-03-07", 
+  "subjects": [
+    "Arts, culture, religion", 
+    "District of Columbia", 
+    "Firearms and explosives", 
+    "Law enforcement officers", 
+    "Museums, exhibitions, cultural centers"
+  ], 
+  "subjects_top_term": "Arts, culture, religion", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2017-03-07T05:00:00Z", 
+    "text": "National Law Enforcement Museum Exhibits Act\n\nThis bill amends the National Law Enforcement Museum Act to permit the National Law Enforcement Museum in Washington, DC, to acquire, receive, possess, collect, ship, transport, import, and display firearms in fulfilling the Museum's purposes."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Law Enforcement Museum Exhibits Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Law Enforcement Museum Exhibits Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the National Law Enforcement Museum Act to allow the Museum to acquire, receive, possess, collect, ship, transport, import, and display firearms, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "National Law Enforcement Museum Exhibits Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2017-07-31T19:15:21Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/115/hr/BILLSTATUS-115hr1417.xml"
+}

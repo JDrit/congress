@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-14T04:47:33Z</createDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills />
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionDate>2017-01-13</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-01-13</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-01-13</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <identifiers>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+        </identifiers>
+        <lastName>Shea-Porter</lastName>
+        <firstName>Carol</firstName>
+        <state>NH</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>S001170</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <identifiers>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <lastName>Cicilline</lastName>
+        <firstName>David</firstName>
+        <state>RI</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>D</party>
+        <middleName>N.</middleName>
+        <bioguideId>C001084</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+        </identifiers>
+        <lastName>KAPTUR</lastName>
+        <firstName>MARCY</firstName>
+        <state>OH</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>K000009</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <lastName>BLUMENAUER</lastName>
+        <firstName>EARL</firstName>
+        <state>OR</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>B000574</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <identifiers>
+          <bioguideId>L000580</bioguideId>
+          <lisID>2146</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Lujan Grisham</lastName>
+        <firstName>Michelle</firstName>
+        <state>NM</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>L000580</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <identifiers>
+          <bioguideId>O000171</bioguideId>
+          <lisID>2306</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>O'Halleran</lastName>
+        <firstName>Tom</firstName>
+        <state>AZ</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>O000171</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <identifiers>
+          <gpoId>8020</gpoId>
+          <bioguideId>T000193</bioguideId>
+          <lisID>1151</lisID>
+        </identifiers>
+        <lastName>THOMPSON</lastName>
+        <firstName>BENNIE</firstName>
+        <state>MS</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>T000193</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <lastName>MCGOVERN</lastName>
+        <firstName>JAMES</firstName>
+        <state>MA</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <identifiers>
+          <gpoId>8024</gpoId>
+          <lisID>1761</lisID>
+          <bioguideId>B001251</bioguideId>
+        </identifiers>
+        <lastName>Butterfield</lastName>
+        <firstName>G. K.</firstName>
+        <state>NC</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>B001251</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <identifiers>
+          <gpoId>8140</gpoId>
+          <lisID>1668</lisID>
+          <bioguideId>L000559</bioguideId>
+        </identifiers>
+        <lastName>LANGEVIN</lastName>
+        <firstName>JAMES</firstName>
+        <state>RI</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <bioguideId>L000559</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <identifiers>
+          <bioguideId>E000288</bioguideId>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+        </identifiers>
+        <lastName>Ellison</lastName>
+        <firstName>Keith</firstName>
+        <state>MN</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>E000288</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000298</bioguideId>
+          <lisID>2354</lisID>
+        </identifiers>
+        <lastName>Jayapal</lastName>
+        <firstName>Pramila</firstName>
+        <state>WA</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>J000298</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <lastName>Pingree</lastName>
+        <firstName>Chellie</firstName>
+        <state>ME</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>P000597</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Sarbanes, John P. [D-MD-3]</fullName>
+        <identifiers>
+          <bioguideId>S001168</bioguideId>
+          <lisID>1854</lisID>
+          <gpoId>7978</gpoId>
+        </identifiers>
+        <lastName>Sarbanes</lastName>
+        <firstName>John</firstName>
+        <state>MD</state>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <bioguideId>S001168</bioguideId>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-01-13</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>S001156</bioguideId>
+        <lastName>SANCHEZ</lastName>
+        <firstName>LINDA</firstName>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <middleName>T.</middleName>
+        <identifiers>
+          <gpoId>7844</gpoId>
+          <bioguideId>S001156</bioguideId>
+          <lisID>1757</lisID>
+        </identifiers>
+        <byRequestType />
+        <state>CA</state>
+        <district>38</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>RIGGED Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Relatives in Government Getting Employment Dishonorably Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>RIGGED Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Relatives in Government Getting Employment Dishonorably Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 5, United States Code, to clarify the application of the restriction on the appointment of relatives to a position in the Federal Government, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>RIGGED Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>567</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-01-13T14:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SANCHEZ:H.R. 567.Congress has the power to enact this legislation pursuantto the following:Article One, section 8, clause 18:Congress shall have Power--To make all Laws which shall benecessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department of Officer thereof.[Page H548]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Executive Office of the President</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>RIGGED Act</title>
+    <updateDate>2017-06-19T20:45:23Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2017-01-13</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
