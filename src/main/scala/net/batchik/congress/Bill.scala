@@ -8,7 +8,7 @@ object Bill {
   private final val k = 7
 
   def formatText(text: String, stopWords: Set[String]): String = text.toLowerCase()
-      .replaceAll("[^\\-A-Za-z0-9 ]", " ")
+      .replaceAll("[^\\-A-Za-z ]", " ")
       .replaceAll(" +", " ")
       .trim()
       .split(" ")
