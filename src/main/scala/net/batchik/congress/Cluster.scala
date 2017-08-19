@@ -4,37 +4,25 @@ import scala.collection.mutable.MutableList
 
 import DataTypes._
 
-class Cluster(val points: Array[Bill]) extends CalcDistance[Cluster] {
+class Cluster(val clustroid: Bill, val points: Array[Bill]) extends CalcDistance[Cluster] {
 
   def this(prototype: Bill) {
-    this(Array(prototype))
+    this(prototype, Array(prototype))
   }
 
-  def merge(other: Cluster): Cluster = new Cluster(Array.concat(this.points, other.points))
+  @inline
+  private def sumDistance(bill: Bill, allBills: Array[Bill]): Double = 
+    allBills.foldLeft(0.0) { case (sum, other) => Math.sqrt(sum + bill.distance(other)) }
 
-  override def distance(other: Cluster): Double = {
-    var distance = 0.0
-    var count = 0
+  def merge(other: Cluster): Cluster = {
+    val bills = Array.concat(this.points, other.points)
+    val clustroid = bills.minBy { bill => sumDistance(bill, bills) }
 
-    var c1Length = this.points.length
-    var c2Length = other.points.length
-    var c1Index = 0
-
-    while (c1Index < c1Length) {
-      var c2Index = 0
-      while (c2Index < c2Length) {
-	distance += this.points(c1Index).distance(other.points(c2Index))
-	count += 1
-      }
-      c2Index += 1
-    }
-    distance / count
+    new Cluster(clustroid, bills)
   }
 
-
-  override def toString: String = {
-    s"Cluster size: ${points.size}"
-  }
-
+  override def distance(other: Cluster): Double = clustroid.distance(other.clustroid)
+    
+  override def toString: String = s"Cluster size: ${points.size}"
  
 }

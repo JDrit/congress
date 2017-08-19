@@ -1,11 +1,11 @@
 #!/bin/bash
 
 java -server \
-     -Xmx4G \
-     -XX:+TieredCompilation \
+     -Xmx5G \
      -XX:AutoBoxCacheMax=20000 \
+     -XX:+TieredCompilation \
      -XX:+UseNUMA \
+     -XX:+AggressiveOpts \
      -XX:+UseParallelGC \
      -XX:+UseParallelOldGC \
-     -XX:+AggressiveOpts \
      -jar target/scala-2.11/congress.jar
